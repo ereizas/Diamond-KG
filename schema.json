@@ -1,0 +1,220 @@
+{
+    "nodeLabels": [
+        {"$id": "nl:Player", "token": "Player"},
+        {"$id": "nl:Team", "token": "Team"},
+        {"$id": "nl:Coach", "token": "Coach"},
+        {"$id": "nl:School", "token": "School"},
+        {"$id": "nl:Conference", "token": "Conference"},
+        {"$id": "nl:Season", "token": "Season"}
+    ],
+    "relationshipTypes": [
+        {"$id": "rt:PLAYS_FOR", "token": "PLAYS_FOR"},
+        {"$id": "rt:COACHES", "token": "COACHES"},
+        {"$id": "rt:MEMBER_OF", "token": "MEMBER_OF"},
+        {"$id": "rt:PART_OF", "token": "PART_OF"},
+        {"$id": "rt:PLAYED_DURING", "token": "PLAYED_DURING"}
+    ],
+    "nodeObjectTypes":[
+        {
+            "$id": "n:Player",
+            "labels":[{"$ref": "#nl:Player"}],
+            "properties":[
+                {
+                    "token": "name",
+                    "type": "string",
+                    "nullable": false
+                },
+                {
+                    "token": "position",
+                    "type": "string",
+                    "nullable": true
+                },
+                {
+                    "token": "height",
+                    "type": "float",
+                    "nullable": true
+                },
+                {
+                    "token": "weight",
+                    "type": "float",
+                    "nullable": true
+                },
+                {
+                    "token": "year",
+                    "type": "string",
+                    "nullable": true
+                },
+                {
+                    "token": "homeruns",
+                    "type": "integer",
+                    "nullable": true
+                }
+            ]
+        },
+        {
+            "$id": "n:Team",
+            "labels":[{"$ref": "#nl:Team"}],
+            "properties":[
+                {
+                    "token": "name",
+                    "type": "string",
+                    "nullable": false
+                },
+                {
+                    "token": "record",
+                    "type": "string",
+                    "nullable": true
+                },
+                {
+                    "token": "ranking",
+                    "type": "integer",
+                    "nullable": true
+                }
+            ]
+        },
+        {
+            "$id": "n:Coach",
+            "labels":[{"$ref": "#nl:Coach"}],
+            "properties":[
+                {
+                    "token": "name",
+                    "type": "string",
+                    "nullable": false
+                },
+                {
+                    "token": "experience",
+                    "type": "integer",
+                    "nullable": true
+                },
+                {
+                    "token": "championships",
+                    "type": "integer",
+                    "nullable": true
+                },
+                {
+                    "token": "awards",
+                    "type": "integer",
+                    "nullable": true
+                },
+                {
+                    "token": "age",
+                    "type": "integer",
+                    "nullable": true
+                },
+                {
+                    "token": "salary",
+                    "type": "float",
+                    "nullable": true
+                },
+                {
+                    "token": "contract_years",
+                    "type": "integer",
+                    "nullable": true
+                },
+                {
+                    "token": "wins",
+                    "type": "integer",
+                    "nullable": true
+                },
+                {
+                    "token": "losses",
+                    "type": "integer",
+                    "nullable": true
+                },
+                {
+                    "token": "ties",
+                    "type": "integer",
+                    "nullable": true
+                },
+                {
+                    "token": "win_percentage",
+                    "type": "float",
+                    "nullable": true
+                }
+            ]
+        },
+        {
+            "$id": "n:School",
+            "labels":[{"$ref": "#nl:School"}],
+            "properties":[
+                {
+                    "token": "name",
+                    "type": "string",
+                    "nullable": false
+                },
+                {
+                    "token":"division",
+                    "type":"string",
+                    "nullable": true
+                },
+                {
+                    "token":"type",
+                    "type":"string",
+                    "nullable": true
+                }
+            ]
+        },
+        {
+            "$id": "n:Conference",
+            "labels":[{"$ref": "#nl:Conference"}],
+            "properties":[
+                {
+                    "token": "name",
+                    "type": "string",
+                    "nullable": false
+                },
+                {
+                    "token":"abbreviation",
+                    "type":"string",
+                    "nullable": true
+                },
+                {
+                    "token":"region",
+                    "type":"string",
+                    "nullable": true
+                },
+                {
+                    "token":"number_of_teams",
+                    "type":"integer",
+                    "nullable": true
+                },
+                {
+                    "token":"founded_year",
+                    "type":"integer",
+                    "nullable": true
+                },
+                {
+                    "token":"commissioner",
+                    "type":"string",
+                    "nullable": true
+                }
+            ]
+        },
+        {
+            "$id": "n:Season",
+            "labels":[{"$ref": "#nl:Season"}],
+            "properties":[
+                {
+                    "token": "year",
+                    "type": "integer",
+                    "nullable": false
+                },
+                {
+                    "token":"champion",
+                    "type":"string",
+                    "nullable": true
+                },
+                {
+                    "token":"mvp",
+                    "type":"string",
+                    "nullable": true
+                },
+                {
+                    "token":"rookie_of_the_year",
+                    "type":"string",
+                    "nullable": true
+                }
+            ]
+        }
+    ]
+}
