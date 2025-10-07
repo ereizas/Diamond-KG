@@ -12,7 +12,7 @@
         {"$id": "rt:COACHES", "token": "COACHES"},
         {"$id": "rt:MEMBER_OF", "token": "MEMBER_OF"},
         {"$id": "rt:PART_OF", "token": "PART_OF"},
-        {"$id": "rt:PLAYED_DURING", "token": "PLAYED_DURING"}
+        {"$id": "rt:ON_TEAM_DURING", "token": "ON_TEAM_DURING"}
     ],
     "nodeObjectTypes":[
         {
@@ -243,9 +243,15 @@
             "to": {"$ref": "#n:School"}
         },
         {
-            "$id": "r:PLAYED_DURING",
-            "type": {"$ref": "#rt:PLAYED_DURING"},
+            "$id": "r:ON_TEAM_DURING",
+            "type": {"$ref": "#rt:ON_TEAM_DURING"},
             "from": {"$ref": "#n:Player"},
+            "to": {"$ref": "#n:Season"}
+        },
+        {
+            "$id": "r:ON_TEAM_DURING",
+            "type": {"$ref": "#rt:ON_TEAM_DURING"},
+            "from": {"$ref": "#n:Coach"},
             "to": {"$ref": "#n:Season"}
         }
     ]
