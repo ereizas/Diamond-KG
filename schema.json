@@ -253,6 +253,12 @@
             "type": {"$ref": "#rt:ON_TEAM_DURING"},
             "from": {"$ref": "#n:Coach"},
             "to": {"$ref": "#n:Season"}
+        },
+        {
+            "$id": "r:ATTENDED",
+            "type": {"$ref": "#rt:ATTENDED"},
+            "from": {"$ref": "#n:Player"},
+            "to": {"$ref": "#n:School"}
         }
     ]
 }
