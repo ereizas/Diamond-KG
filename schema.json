@@ -48,6 +48,21 @@
                     "token": "homeruns",
                     "type": "integer",
                     "nullable": true
+                },
+                {
+                    "token": "batting_average",
+                    "type": "float",
+                    "nullable": true
+                },
+                {
+                    "token": "batting_hand",
+                    "type": "string",
+                    "nullable": true
+                },
+                {
+                    "token": "major",
+                    "type": "string",
+                    "nullable": true
                 }
             ]
         },
