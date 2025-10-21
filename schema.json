@@ -100,7 +100,7 @@
                     "token": "role",
                     "type": "string",
                     "nullable": true
-                }
+                },
                 {
                     "token": "experience",
                     "type": "integer",
