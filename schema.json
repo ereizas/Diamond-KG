@@ -97,6 +97,11 @@
                     "nullable": false
                 },
                 {
+                    "token": "role",
+                    "type": "string",
+                    "nullable": true
+                }
+                {
                     "token": "experience",
                     "type": "integer",
                     "nullable": true
