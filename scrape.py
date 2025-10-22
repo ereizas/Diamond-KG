@@ -91,10 +91,10 @@ if __name__=="__main__":
                 url = SCHOOL_TO_ROSTER_URLS[school][i]
                 if not url.endswith("coaches/"):
                     curr_player_id, curr_coach_id = scrape_sidearm_roster(url+str(year), data, curr_player_id, curr_coach_id)
+                else:
                     curr_coach_id = scrape_sidearm_coach_page(url+str(year),data, curr_coach_id)
+
     with open("players.json", "w") as player_file:
         json.dump(data["Player"], player_file)
-
     with open("coaches.json", "w") as coach_file:
         json.dump(data["Coach"], coach_file)
-
