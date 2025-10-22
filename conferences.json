@@ -1,0 +1,17 @@
+{
+    "Atlantic Coast Conference": {
+        "abbreviation": "ACC",
+        "region": "East Coast",
+        "number_of_teams": 18,
+        "founded_year": 1953,
+        "commissioner": "James J. Phillips",
+        "headquarters": "Charlotte, North Carolina"
+    },
+    "Southeastern Conference": {
+        "abbreviation": "SEC",
+        "region": "Southeast",
+        "number_of_teams": 16,
+        "commissioner": "Greg Sankey",
+        "headquarters": "Birmingham, Alabama"
+    }
+}

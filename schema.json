@@ -210,6 +210,11 @@
                     "token":"commissioner",
                     "type":"string",
                     "nullable": true
+                },
+                {
+                    "token": "headquarters",
+                    "type": "string",
+                    "nullable": true
                 }
             ]
         }
