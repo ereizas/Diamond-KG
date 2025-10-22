@@ -1,0 +1,54 @@
+{
+  "0": { "name": "Scott Forbes", "role": "Head Coach" },
+  "1": {
+    "name": "Bryant Gaines",
+    "role": "Associate Head Coach / Pitching Coach"
+  },
+  "2": {
+    "name": "Jesse Wierzbicki",
+    "role": "Assistant Coach / Hitting Coach / Infielders & Catchers"
+  },
+  "3": {
+    "name": "Scott Jackson",
+    "role": "Assistant Coach/Recruiting Coordinator"
+  },
+  "4": {
+    "name": "Jason Howell",
+    "role": "Director of Pitching Performance, Development and Analytics"
+  },
+  "5": { "name": "Kevin O'Sullivan", "role": "Head Coach" },
+  "6": { "name": "Chuck Jeroloman", "role": "Associate Head Coach" },
+  "7": { "name": "Taylor Black", "role": "Assistant Coach" },
+  "8": { "name": "David Kopp", "role": "Pitching Coach" },
+  "9": { "name": "Michael Byrne", "role": "Student Assistant Coach" },
+  "10": { "name": "Mike Rivera", "role": "Director of Player Development" },
+  "11": {
+    "name": "Shawn Burke",
+    "role": "Strength and Conditioning Coordinator"
+  },
+  "13": { "name": "Brian O'Connor", "position": "Head Baseball Coach" },
+  "14": {
+    "name": "Kevin McMullan",
+    "position": "Associate Head Baseball Coach"
+  },
+  "15": { "name": "Matt Kirby", "position": "Assistant Baseball Coach" },
+  "16": { "name": "Justin Parker", "position": "Assistant Baseball Coach" },
+  "17": { "name": "Justin Armistead", "position": "Associate A.D./Baseball" },
+  "18": {
+    "name": "Mike Roberts",
+    "position": "Director of Player Development and Scouting"
+  },
+  "19": {
+    "name": "Justin Weiss",
+    "position": "Baseball Operations Coordinator"
+  },
+  "20": {
+    "name": "Jonathan French",
+    "position": "Data/Video Analytics Coordinator"
+  },
+  "21": {
+    "name": "Travis Reifsnider",
+    "position": "Scouting/Assistant Recruiting Coordinator"
+  },
+  "22": { "name": "Joe Savino", "position": "Pitching Coordinator" }
+}
