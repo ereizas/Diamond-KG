@@ -4,15 +4,13 @@
         {"$id": "nl:Team", "token": "Team"},
         {"$id": "nl:Coach", "token": "Coach"},
         {"$id": "nl:School", "token": "School"},
-        {"$id": "nl:Conference", "token": "Conference"},
-        {"$id": "nl:Season", "token": "Season"}
+        {"$id": "nl:Conference", "token": "Conference"}
     ],
     "relationshipTypes": [
         {"$id": "rt:PLAYS_FOR", "token": "PLAYS_FOR"},
         {"$id": "rt:COACHES", "token": "COACHES"},
         {"$id": "rt:MEMBER_OF", "token": "MEMBER_OF"},
-        {"$id": "rt:PART_OF", "token": "PART_OF"},
-        {"$id": "rt:ON_TEAM_DURING", "token": "ON_TEAM_DURING"}
+        {"$id": "rt:PART_OF", "token": "PART_OF"}
     ],
     "nodeObjectTypes":[
         {
@@ -73,6 +71,11 @@
                 {
                     "token": "name",
                     "type": "string",
+                    "nullable": false
+                },
+                {
+                    "token": "year",
+                    "type": "int",
                     "nullable": false
                 },
                 {
@@ -209,32 +212,6 @@
                     "nullable": true
                 }
             ]
-        },
-        {
-            "$id": "n:Season",
-            "labels":[{"$ref": "#nl:Season"}],
-            "properties":[
-                {
-                    "token": "year",
-                    "type": "integer",
-                    "nullable": false
-                },
-                {
-                    "token":"champion",
-                    "type":"string",
-                    "nullable": true
-                },
-                {
-                    "token":"mvp",
-                    "type":"string",
-                    "nullable": true
-                },
-                {
-                    "token":"rookie_of_the_year",
-                    "type":"string",
-                    "nullable": true
-                }
-            ]
         }
     ],
     "relationshipObjectTypes":[
@@ -261,18 +238,6 @@
             "type": {"$ref": "#rt:PART_OF"},
             "from": {"$ref": "#n:Team"},
             "to": {"$ref": "#n:School"}
-        },
-        {
-            "$id": "r:ON_TEAM_DURING",
-            "type": {"$ref": "#rt:ON_TEAM_DURING"},
-            "from": {"$ref": "#n:Player"},
-            "to": {"$ref": "#n:Season"}
-        },
-        {
-            "$id": "r:ON_TEAM_DURING",
-            "type": {"$ref": "#rt:ON_TEAM_DURING"},
-            "from": {"$ref": "#n:Coach"},
-            "to": {"$ref": "#n:Season"}
         },
         {
             "$id": "r:ATTENDED",
