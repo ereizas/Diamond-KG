@@ -3,10 +3,20 @@ from bs4 import BeautifulSoup
 import re
 import json
 
+SCHOOL_TO_ROSTER_URLS = {
+    "University of North Carolina": ["https://goheels.com/sports/baseball/roster/"],
+    "University of Florida": ["https://floridagators.com/sports/baseball/roster/"],
+    "Mississippi State University": [
+        "https://hailstate.com/sports/baseball/roster/",
+        "https://hailstate.com/sports/baseball/coaches/"
+    ]
+}
+
 def scrape_sidearm_roster(url, data, curr_player_id:int, curr_coach_id:int):
     response = requests.get(url)
     if response.status_code!=200:
-        return response.status_code
+        print(response.status_code)
+        return curr_player_id, curr_coach_id
     soup = BeautifulSoup(response.content, "html.parser")
     div_tags = soup.find_all("div",attrs={"class":re.compile("(person-card.*items-center)|heading-divider")})
     get_coaches = False
@@ -23,6 +33,8 @@ def scrape_sidearm_roster(url, data, curr_player_id:int, curr_coach_id:int):
         if not get_coaches:
             stats = tag.find("div",attrs={"class":re.compile("bio-stats")})
             if stats:
+                # TODO scrape relationships
+                # TODO scrape highschools
                 position = stats.find("span",attrs={"data-test-id":re.compile("person-position")})
                 year = stats.find("span",attrs={"data-test-id":re.compile("person-title")})
                 height = stats.find("span",attrs={"data-test-id":re.compile("person-season")})
@@ -47,41 +59,42 @@ def scrape_sidearm_roster(url, data, curr_player_id:int, curr_coach_id:int):
 def scrape_sidearm_coach_page(url, data, curr_coach_id):
     response = requests.get(url)
     if response.status_code!=200:
-        return response.status_code
+        print(response.status_code)
+        return curr_coach_id
     soup = BeautifulSoup(response.content, "html.parser")
     tags = soup.find_all("tr")
     for tag in tags:
         columns = tag.find_all("span")
-        data["Coach"][curr_coach_id] = {
-            "name" : columns[0].text,
-            "position" : columns[1].text
-        }
-        curr_coach_id+=1
+        if columns:
+            data["Coach"][curr_coach_id] = {
+                "name" : columns[0].text,
+                "position" : columns[1].text
+            }
+            curr_coach_id+=1
     return curr_coach_id
 
+if __name__=="__main__":
+    years = [2025, 2026]
+    data = {
+        "Player": {},
+        "Coach": {}
+    }
+    relationships = {
+        "plays_for" : {},
+        "coaches": {},
+        "attended": {}
+    }
+    curr_player_id, curr_coach_id = 0, 0
+    for school in SCHOOL_TO_ROSTER_URLS:
+        for i in range(len(SCHOOL_TO_ROSTER_URLS[school])):
+            for year in years:
+                url = SCHOOL_TO_ROSTER_URLS[school][i]
+                if not url.endswith("coaches/"):
+                    curr_player_id, curr_coach_id = scrape_sidearm_roster(url+str(year), data, curr_player_id, curr_coach_id)
+                    curr_coach_id = scrape_sidearm_coach_page(url+str(year),data, curr_coach_id)
+    with open("players.json", "w") as player_file:
+        json.dump(data["Player"], player_file)
 
-sidearm_rosters = [
-    "https://goheels.com/sports/baseball/roster",
-    "https://floridagators.com/sports/baseball/roster",
-    "https://hailstate.com/sports/baseball/roster"
-]
-sidearm_coach_pages = [
-    "https://hailstate.com/sports/baseball/coaches"
-]
-data = {
-    "Player": {},
-    "Coach": {}
-}
-curr_player_id, curr_coach_id = 0, 0
-for i in range(len(sidearm_rosters)):
-    curr_player_id, curr_coach_id = scrape_sidearm_roster(sidearm_rosters[i], data, curr_player_id, curr_coach_id)
-
-for i in range(len(sidearm_coach_pages)):
-    curr_coach_id = scrape_sidearm_coach_page(sidearm_coach_pages[i],data, curr_coach_id)
-
-with open("players.json", "w") as player_file:
-    json.dump(data["Player"], player_file)
-
-with open("coaches.json", "w") as coach_file:
-    json.dump(data["Coach"], coach_file)
+    with open("coaches.json", "w") as coach_file:
+        json.dump(data["Coach"], coach_file)
 
