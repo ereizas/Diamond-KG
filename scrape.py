@@ -43,22 +43,45 @@ def scrape_sidearm_roster(url, data, curr_player_id:int, curr_coach_id:int):
             }
             curr_coach_id+=1
     return curr_player_id, curr_coach_id
-        
+
+def scrape_sidearm_coach_page(url, data, curr_coach_id):
+    response = requests.get(url)
+    if response.status_code!=200:
+        return response.status_code
+    soup = BeautifulSoup(response.content, "html.parser")
+    tags = soup.find_all("tr")
+    for tag in tags:
+        columns = tag.find_all("span")
+        data["Coach"][curr_coach_id] = {
+            "name" : columns[0].text,
+            "position" : columns[1].text
+        }
+        curr_coach_id+=1
+    return curr_coach_id
 
 
-sidearm_schools = [
+sidearm_rosters = [
     "https://goheels.com/sports/baseball/roster",
     "https://floridagators.com/sports/baseball/roster",
     "https://hailstate.com/sports/baseball/roster"
+]
+sidearm_coach_pages = [
+    "https://hailstate.com/sports/baseball/coaches"
 ]
 data = {
     "Player": {},
     "Coach": {}
 }
 curr_player_id, curr_coach_id = 0, 0
-for i in range(len(sidearm_schools)):
-    curr_player_id, curr_coach_id = scrape_sidearm_roster(sidearm_schools[i], data, curr_player_id, curr_coach_id)
+for i in range(len(sidearm_rosters)):
+    curr_player_id, curr_coach_id = scrape_sidearm_roster(sidearm_rosters[i], data, curr_player_id, curr_coach_id)
 
-with open("data.json", "w") as file:
-    json.dump(data, file)
+for i in range(len(sidearm_coach_pages)):
+    curr_coach_id = scrape_sidearm_coach_page(sidearm_coach_pages[i],data, curr_coach_id)
+
+with open("players.json", "w") as player_file:
+    json.dump(data["Player"], player_file)
+
+with open("coaches.json", "w") as coach_file:
+    json.dump(data["Coach"], coach_file)
 
