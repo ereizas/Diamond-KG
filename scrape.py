@@ -29,10 +29,10 @@ def scrape_sidearm_roster(url, data, curr_player_id:int, curr_coach_id:int):
                 weight = stats.find("span",attrs={"data-test-id":re.compile("person-weight")})
                 data["Player"][curr_player_id]={
                     "name": name.text,
-                    "position": position.text[len("Position ")+1:] if position else None,
-                    "year": year.text[len("Academic Year")+1:] if year else None,
-                    "height": height.text[len("Height")+1:] if height else None,
-                    "weight": weight.text[len("Weight")+1:] if weight else None
+                    "position": position.text[len("Position ")+1:].strip() if position else None,
+                    "year": year.text[len("Academic Year")+1:].strip() if year else None,
+                    "height": height.text[len("Height")+1:].strip() if height else None,
+                    "weight": int(weight.text[len("Weight")+1:weight.text.rfind("lbs")].strip()) if weight else None
                 }
                 curr_player_id+=1
         else:

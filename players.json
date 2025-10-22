@@ -1,1 +1,807 @@
-{"0": {"name": "Cooper Nicholson", "position": "NF ", "year": "Jr.", "height": "5' 11'' ", "weight": "195 lbs "}, "1": {"name": "Jake Schaffner", "position": "NF ", "year": "Jr.", "height": "6' 2'' ", "weight": "175 lbs "}, "2": {"name": "Lee Sowers", "position": "NF ", "year": "So.", "height": "5' 10'' ", "weight": "185 lbs "}, "3": {"name": "Sawyer Black", "position": "F ", "year": "So.", "height": "6' 1'' ", "weight": "194 lbs "}, "4": {"name": "Gavin Gallaher", "position": "NF ", "year": "Jr.", "height": "6' 1'' ", "weight": "191 lbs "}, "5": {"name": "Macon Winslow", "position": " ", "year": "Jr.", "height": "6' 0'' ", "weight": "200 lbs "}, "6": {"name": "Perry Hargett", "position": "F ", "year": "So.", "height": "6' 0'' ", "weight": "187 lbs "}, "7": {"name": "Owen Hull", "position": "F ", "year": "Jr.", "height": "6' 4'' ", "weight": "215 lbs "}, "8": {"name": "Tom Chmielewski", "position": "HP ", "year": "Gr.", "height": "6' 2'' ", "weight": "210 lbs "}, "9": {"name": "Matt McKnight", "position": "NF ", "year": "Fr.", "height": "6' 3'' ", "weight": "195 lbs "}, "10": {"name": "Tyler Howe", "position": "F/1B ", "year": "Fr.", "height": "5' 11'' ", "weight": "185 lbs "}, "11": {"name": "Michael Maginnis", "position": "F ", "year": "Gr.", "height": "6' 1'' ", "weight": "210 lbs "}, "12": {"name": "Cameron Padgett", "position": "HP ", "year": "Sr.", "height": "6' 3'' ", "weight": "195 lbs "}, "13": {"name": "Talan Holiday", "position": "HP ", "year": "Fr.", "height": "6' 2'' ", "weight": "190 lbs "}, "14": {"name": "Carter French", "position": "F ", "year": "Sr.", "height": "6' 2'' ", "weight": "196 lbs "}, "15": {"name": "Camron Seagraves", "position": "HP ", "year": "So.", "height": "6' 3'' ", "weight": "179 lbs "}, "16": {"name": "AJ Terry", "position": "NF ", "year": "Fr.", "height": "6' 0'' ", "weight": "190 lbs "}, "17": {"name": "Colin Hynek", "position": " ", "year": "Gr.", "height": "6' 1'' ", "weight": "200 lbs "}, "18": {"name": "Matthew Matthijs", "position": "HP ", "year": "Sr.", "height": "6' 2'' ", "weight": "230 lbs "}, "19": {"name": "Rom Kellis V", "position": "F/C ", "year": "Sr.", "height": "6' 1'' ", "weight": "203 lbs "}, "20": {"name": "Kyle Percival", "position": "HP ", "year": "Sr.", "height": "6' 5'' ", "weight": "220 lbs "}, "21": {"name": "Caden Glauber", "position": "HP ", "year": "Fr.", "height": "6' 4'' ", "weight": "210 lbs "}, "22": {"name": "Jadyn Nunez", "position": "F ", "year": "Fr.", "height": "6' 1'' ", "weight": "185 lbs "}, "23": {"name": "Jason DeCaro", "position": "HP ", "year": "Jr.", "height": "6' 5'' ", "weight": "230 lbs "}, "24": {"name": "Olin Johnson", "position": "HP ", "year": "Jr.", "height": "6' 6'' ", "weight": "230 lbs "}, "25": {"name": "Jackson Rose", "position": "HP ", "year": "Fr.", "height": "6' 3'' ", "weight": "205 lbs "}, "26": {"name": "Folger Boaz", "position": "HP ", "year": "Jr.", "height": "6' 2'' ", "weight": "212 lbs "}, "27": {"name": "Jake Cackovic", "position": "HP ", "year": "Fr.", "height": "6' 7'' ", "weight": "215 lbs "}, "28": {"name": "Walker McDuffie", "position": "HP ", "year": "So.", "height": "6' 0'' ", "weight": "200 lbs "}, "29": {"name": "Justin Mabe", "position": "HP ", "year": "Fr.", "height": "6' 3'' ", "weight": "185 lbs "}, "30": {"name": "Boston Flannery", "position": "HP ", "year": "Jr.", "height": "6' 4'' ", "weight": "230 lbs "}, "31": {"name": "Riley Leatherman", "position": "HP ", "year": "So.", "height": "6' 2'' ", "weight": "180 lbs "}, "32": {"name": "Erik Paulsen", "position": "NF ", "year": "Jr.", "height": "6' 3'' ", "weight": "215 lbs "}, "33": {"name": "Tim Lawson", "position": "HP ", "year": "So.", "height": "6' 5'' ", "weight": "230 lbs "}, "34": {"name": "Andrew Wallen", "position": "HP ", "year": "So.", "height": "6' 7'' ", "weight": "245 lbs "}, "35": {"name": "Ryan Lynch", "position": "HP ", "year": "So.", "height": "6' 3'' ", "weight": "235 lbs "}, "36": {"name": "Justin Nadeau", "position": "NF/OF ", "year": "Jr.", "height": "6' 0'' ", "weight": "195 lbs "}, "37": {"name": "Ty Evans", "position": "F ", "year": "Sr.", "height": "6' 2'' ", "weight": "215 lbs "}, "38": {"name": "Kyle Jones", "position": "F ", "year": "So.", "height": "6' 3'' ", "weight": "185 lbs "}, "39": {"name": "Cade Kurland", "position": "NF ", "year": "Jr.", "height": "5' 11'' ", "weight": "190 lbs "}, "40": {"name": "Blake Cyr", "position": "F/INF ", "year": "Jr.", "height": "5' 11'' ", "weight": "190 lbs "}, "41": {"name": "Bobby Boser", "position": "NF/OF ", "year": "Sr.", "height": "6' 1'' ", "weight": "215 lbs "}, "42": {"name": "Christian Rodriguez", "position": "HP ", "year": "R-Fr.", "height": "6' 0'' ", "weight": "210 lbs "}, "43": {"name": "Luke McNeillie", "position": "HP ", "year": "So.", "height": "6' 3'' ", "weight": "190 lbs "}, "44": {"name": "Colby Shelton", "position": "NF ", "year": "Jr.", "height": "6' 0'' ", "weight": "205 lbs "}, "45": {"name": "Brendan Lawson", "position": "NF ", "year": "Fr.", "height": "6' 3'' ", "weight": "215 lbs "}, "46": {"name": "Liam Peterson", "position": "HP ", "year": "So.", "height": "6' 5'' ", "weight": "220 lbs "}, "47": {"name": "Landon Stripling", "position": "NF ", "year": "So.", "height": "6' 0'' ", "weight": "200 lbs "}, "48": {"name": "Joshua Whritenour", "position": "HP ", "year": "Fr.", "height": "6' 2'' ", "weight": "195 lbs "}, "49": {"name": "Hayden Yost", "position": "F ", "year": "So.", "height": "6' 1'' ", "weight": "195 lbs "}, "50": {"name": "Jacob Gomberg", "position": "HP ", "year": "So.", "height": "5' 10'' ", "weight": "180 lbs "}, "51": {"name": "Pierce Coppola", "position": "HP ", "year": "R-Jr.", "height": "6' 8'' ", "weight": "245 lbs "}, "52": {"name": "Jake Clemente", "position": "HP ", "year": "R-So.", "height": "6' 3'' ", "weight": "225 lbs "}, "53": {"name": "Caden McDonald", "position": "HP/1B ", "year": "R-Fr.", "height": "6' 3'' ", "weight": "200 lbs "}, "54": {"name": "Jackson Barberi", "position": "HP ", "year": "Fr.", "height": "6' 4'' ", "weight": "180 lbs "}, "55": {"name": "Billy Barlow", "position": "HP ", "year": "R-Jr.", "height": "6' 2'' ", "weight": "220 lbs "}, "56": {"name": "Blake Brookins", "position": "F ", "year": "So.", "height": "6' 5'' ", "weight": "225 lbs "}, "57": {"name": "Kolt Myers", "position": "NF ", "year": "Fr.", "height": "6' 2'' ", "weight": "190 lbs "}, "58": {"name": "Niko Janssens", "position": "HP ", "year": "Fr.", "height": "6' 4'' ", "weight": "200 lbs "}, "59": {"name": "Blaine Rowland", "position": "HP ", "year": "Fr.", "height": "6' 3'' ", "weight": "220 lbs "}, "60": {"name": "Luke Heyman", "position": " ", "year": "Jr.", "height": "6' 4'' ", "weight": "220 lbs "}, "61": {"name": "Brody Donay", "position": " ", "year": "Jr.", "height": "6' 5'' ", "weight": "235 lbs "}, "62": {"name": "Ashton Wilson", "position": "F/INF ", "year": "Jr.", "height": "6' 0'' ", "weight": "200 lbs "}, "63": {"name": "Frank Menendez", "position": "HP ", "year": "So.", "height": "6' 1'' ", "weight": "215 lbs "}, "64": {"name": "McCall Biemiller", "position": "HP ", "year": "Fr.", "height": "6' 2'' ", "weight": "180 lbs "}, "65": {"name": "Alex Philpott", "position": "HP ", "year": "So.", "height": "6' 6'' ", "weight": "200 lbs "}, "66": {"name": "Brock Clayton", "position": "/OF ", "year": "Fr.", "height": "6' 3'' ", "weight": "210 lbs "}, "67": {"name": "Matthew Jenkins", "position": "HP ", "year": "So.", "height": "6' 6'' ", "weight": "195 lbs "}, "68": {"name": "Mason Laurito", "position": "HP ", "year": "So.", "height": "6' 0'' ", "weight": "175 lbs "}, "69": {"name": "Cole Bullen", "position": " ", "year": "R-Jr.", "height": "5' 9'' ", "weight": "175 lbs "}, "70": {"name": "Felix Ong", "position": "HP ", "year": "Fr.", "height": "6' 4'' ", "weight": "220 lbs "}, "71": {"name": "Schuyler Sandford", "position": "HP ", "year": "Fr.", "height": "6' 6'' ", "weight": "215 lbs "}, "72": {"name": "Aidan King", "position": "HP ", "year": "Fr.", "height": "6' 2'' ", "weight": "195 lbs "}, "73": {"name": "Carson Montsdeoca", "position": "HP ", "year": "Fr.", "height": "6' 3'' ", "weight": "205 lbs "}, "74": {"name": "Jacob Parker", "position": "F ", "year": "Fr.", "height": "6' 3'' ", "weight": "220 lbs "}, "75": {"name": "Ace Reese", "position": "NF ", "year": "Jr.", "height": "6' 4'' ", "weight": "220 lbs "}, "76": {"name": "Tomas Valincius", "position": "HP ", "year": "So.", "height": "6' 2'' ", "weight": "225 lbs "}, "77": {"name": "Aidan Teel", "position": "F ", "year": "R-Jr.", "height": "6' 0'' ", "weight": "200 lbs "}, "78": {"name": "James Nunnallee", "position": "F ", "year": "So.", "height": "6' 1'' ", "weight": "190 lbs "}, "79": {"name": "Reed Stallman", "position": "B/OF ", "year": "Gr.", "height": "6' 3'' ", "weight": "220 lbs "}, "80": {"name": "Charlie Foster", "position": "HP ", "year": "So.", "height": "6' 4'' ", "weight": "205 lbs "}, "81": {"name": "Ryder Woodson", "position": "NF ", "year": "So.", "height": "6' 3'' ", "weight": "190 lbs "}, "82": {"name": "Drew Wyers", "position": "NF ", "year": "Sr.", "height": "6' 2'' ", "weight": "200 lbs "}, "83": {"name": "Duke Stone", "position": "HP ", "year": "So.", "height": "6' 5'' ", "weight": "235 lbs "}, "84": {"name": "Chone James", "position": "NF/UTL ", "year": "So.", "height": "6' 0'' ", "weight": "185 lbs "}, "85": {"name": "William Kirk", "position": "HP ", "year": "R-Fr.", "height": "6' 2'' ", "weight": "205 lbs "}, "86": {"name": "Vytas Valincius", "position": "F ", "year": "Gr.", "height": "6' 4'' ", "weight": "230 lbs "}, "87": {"name": "Tanner Beliveau", "position": "HP/UTL ", "year": "Fr.", "height": "6' 3'' ", "weight": "225 lbs "}, "88": {"name": "Braden Booth", "position": "HP ", "year": "R-Fr.", "height": "6' 2'' ", "weight": "200 lbs "}, "89": {"name": "Parker Rhodes", "position": "HP ", "year": "Fr.", "height": "6' 1'' ", "weight": "185 lbs "}, "90": {"name": "Noah Sullivan", "position": "TL/RHP ", "year": "Gr.", "height": "6' 1'' ", "weight": "215 lbs "}, "91": {"name": "Andrew Raymond", "position": " ", "year": "So.", "height": "6' 1'' ", "weight": "205 lbs "}, "92": {"name": "Maddox Miller", "position": "HP ", "year": "Fr.", "height": "6' 4'' ", "weight": "185 lbs "}, "93": {"name": "Kevin Milewski", "position": " ", "year": "Jr.", "height": "6' 5'' ", "weight": "235 lbs "}, "94": {"name": "Nick Frontino", "position": "NF ", "year": "Fr.", "height": "6' 3'' ", "weight": "205 lbs "}, "95": {"name": "Jackson Owen", "position": " ", "year": "Gr.", "height": "5' 10'' ", "weight": "200 lbs "}, "96": {"name": "Jack Bauer", "position": "HP ", "year": "Fr.", "height": "6' 4'' ", "weight": "195 lbs "}, "97": {"name": "Chris Billingsley Jr.", "position": "HP ", "year": "Jr.", "height": "6' 4'' ", "weight": "205 lbs "}, "98": {"name": "Peter Mershon", "position": "TL ", "year": "Fr.", "height": "6' 2'' ", "weight": "205 lbs "}, "99": {"name": "Ryan McPherson", "position": "HP ", "year": "So.", "height": "6' 3'' ", "weight": "205 lbs "}, "100": {"name": "Maddox Webb", "position": "HP ", "year": "Jr.", "height": "6' 2'' ", "weight": "195 lbs "}, "101": {"name": "Jackson Logar", "position": "HP ", "year": "Jr.", "height": "6' 0'' ", "weight": "215 lbs "}, "102": {"name": "Charlie Wortham", "position": "TL ", "year": "Fr.", "height": "6' 1'' ", "weight": "205 lbs "}, "103": {"name": "Peyton Fowler", "position": "HP ", "year": "Jr.", "height": "6' 3'' ", "weight": "195 lbs "}, "104": {"name": "Blake Bevis", "position": "B/OF ", "year": "Sr.", "height": "6' 4'' ", "weight": "230 lbs "}, "105": {"name": "Gehrig Frei", "position": "NF/OF ", "year": "Gr.", "height": "6' 1'' ", "weight": "210 lbs "}, "106": {"name": "Ben Davis", "position": "HP ", "year": "Sr.", "height": "6' 4'' ", "weight": "230 lbs "}, "107": {"name": "Tyler Pitzer", "position": "HP ", "year": "Jr.", "height": "6' 3'' ", "weight": "205 lbs "}, "108": {"name": "Brendan Sweeney", "position": "HP ", "year": "Sr.", "height": "6' 7'' ", "weight": "210 lbs "}, "109": {"name": "Bryce Chance", "position": "F ", "year": "Gr.", "height": "5' 10'' ", "weight": "180 lbs "}, "110": {"name": "Patrick Spencer Jr.", "position": "HP ", "year": "R-So.", "height": "6' 3'' ", "weight": "215 lbs "}, "111": {"name": "Jack Gleason", "position": "HP ", "year": "R-Fr.", "height": "6' 1'' ", "weight": "200 lbs "}, "112": {"name": "Dane Burns", "position": "HP ", "year": "So.", "height": "6' 5'' ", "weight": "215 lbs "}, "113": {"name": "JT Schnoor", "position": "HP ", "year": "R-Jr.", "height": "6' 4'' ", "weight": "225 lbs "}, "114": {"name": "Gatlin Sanders", "position": "NF ", "year": "Sr.", "height": "5' 11'' ", "weight": "185 lbs "}}
+{
+  "0": {
+    "name": "Cooper Nicholson",
+    "position": "NF",
+    "year": "Jr.",
+    "height": "5' 11''",
+    "weight": 195
+  },
+  "1": {
+    "name": "Jake Schaffner",
+    "position": "NF",
+    "year": "Jr.",
+    "height": "6' 2''",
+    "weight": 175
+  },
+  "2": {
+    "name": "Lee Sowers",
+    "position": "NF",
+    "year": "So.",
+    "height": "5' 10''",
+    "weight": 185
+  },
+  "3": {
+    "name": "Sawyer Black",
+    "position": "F",
+    "year": "So.",
+    "height": "6' 1''",
+    "weight": 194
+  },
+  "4": {
+    "name": "Gavin Gallaher",
+    "position": "NF",
+    "year": "Jr.",
+    "height": "6' 1''",
+    "weight": 191
+  },
+  "5": {
+    "name": "Macon Winslow",
+    "position": "",
+    "year": "Jr.",
+    "height": "6' 0''",
+    "weight": 200
+  },
+  "6": {
+    "name": "Perry Hargett",
+    "position": "F",
+    "year": "So.",
+    "height": "6' 0''",
+    "weight": 187
+  },
+  "7": {
+    "name": "Owen Hull",
+    "position": "F",
+    "year": "Jr.",
+    "height": "6' 4''",
+    "weight": 215
+  },
+  "8": {
+    "name": "Tom Chmielewski",
+    "position": "HP",
+    "year": "Gr.",
+    "height": "6' 2''",
+    "weight": 210
+  },
+  "9": {
+    "name": "Matt McKnight",
+    "position": "NF",
+    "year": "Fr.",
+    "height": "6' 3''",
+    "weight": 195
+  },
+  "10": {
+    "name": "Tyler Howe",
+    "position": "F/1B",
+    "year": "Fr.",
+    "height": "5' 11''",
+    "weight": 185
+  },
+  "11": {
+    "name": "Michael Maginnis",
+    "position": "F",
+    "year": "Gr.",
+    "height": "6' 1''",
+    "weight": 210
+  },
+  "12": {
+    "name": "Cameron Padgett",
+    "position": "HP",
+    "year": "Sr.",
+    "height": "6' 3''",
+    "weight": 195
+  },
+  "13": {
+    "name": "Talan Holiday",
+    "position": "HP",
+    "year": "Fr.",
+    "height": "6' 2''",
+    "weight": 190
+  },
+  "14": {
+    "name": "Carter French",
+    "position": "F",
+    "year": "Sr.",
+    "height": "6' 2''",
+    "weight": 196
+  },
+  "15": {
+    "name": "Camron Seagraves",
+    "position": "HP",
+    "year": "So.",
+    "height": "6' 3''",
+    "weight": 179
+  },
+  "16": {
+    "name": "AJ Terry",
+    "position": "NF",
+    "year": "Fr.",
+    "height": "6' 0''",
+    "weight": 190
+  },
+  "17": {
+    "name": "Colin Hynek",
+    "position": "",
+    "year": "Gr.",
+    "height": "6' 1''",
+    "weight": 200
+  },
+  "18": {
+    "name": "Matthew Matthijs",
+    "position": "HP",
+    "year": "Sr.",
+    "height": "6' 2''",
+    "weight": 230
+  },
+  "19": {
+    "name": "Rom Kellis V",
+    "position": "F/C",
+    "year": "Sr.",
+    "height": "6' 1''",
+    "weight": 203
+  },
+  "20": {
+    "name": "Kyle Percival",
+    "position": "HP",
+    "year": "Sr.",
+    "height": "6' 5''",
+    "weight": 220
+  },
+  "21": {
+    "name": "Caden Glauber",
+    "position": "HP",
+    "year": "Fr.",
+    "height": "6' 4''",
+    "weight": 210
+  },
+  "22": {
+    "name": "Jadyn Nunez",
+    "position": "F",
+    "year": "Fr.",
+    "height": "6' 1''",
+    "weight": 185
+  },
+  "23": {
+    "name": "Jason DeCaro",
+    "position": "HP",
+    "year": "Jr.",
+    "height": "6' 5''",
+    "weight": 230
+  },
+  "24": {
+    "name": "Olin Johnson",
+    "position": "HP",
+    "year": "Jr.",
+    "height": "6' 6''",
+    "weight": 230
+  },
+  "25": {
+    "name": "Jackson Rose",
+    "position": "HP",
+    "year": "Fr.",
+    "height": "6' 3''",
+    "weight": 205
+  },
+  "26": {
+    "name": "Folger Boaz",
+    "position": "HP",
+    "year": "Jr.",
+    "height": "6' 2''",
+    "weight": 212
+  },
+  "27": {
+    "name": "Jake Cackovic",
+    "position": "HP",
+    "year": "Fr.",
+    "height": "6' 7''",
+    "weight": 215
+  },
+  "28": {
+    "name": "Walker McDuffie",
+    "position": "HP",
+    "year": "So.",
+    "height": "6' 0''",
+    "weight": 200
+  },
+  "29": {
+    "name": "Justin Mabe",
+    "position": "HP",
+    "year": "Fr.",
+    "height": "6' 3''",
+    "weight": 185
+  },
+  "30": {
+    "name": "Boston Flannery",
+    "position": "HP",
+    "year": "Jr.",
+    "height": "6' 4''",
+    "weight": 230
+  },
+  "31": {
+    "name": "Riley Leatherman",
+    "position": "HP",
+    "year": "So.",
+    "height": "6' 2''",
+    "weight": 180
+  },
+  "32": {
+    "name": "Erik Paulsen",
+    "position": "NF",
+    "year": "Jr.",
+    "height": "6' 3''",
+    "weight": 215
+  },
+  "33": {
+    "name": "Tim Lawson",
+    "position": "HP",
+    "year": "So.",
+    "height": "6' 5''",
+    "weight": 230
+  },
+  "34": {
+    "name": "Andrew Wallen",
+    "position": "HP",
+    "year": "So.",
+    "height": "6' 7''",
+    "weight": 245
+  },
+  "35": {
+    "name": "Ryan Lynch",
+    "position": "HP",
+    "year": "So.",
+    "height": "6' 3''",
+    "weight": 235
+  },
+  "36": {
+    "name": "Justin Nadeau",
+    "position": "NF/OF",
+    "year": "Jr.",
+    "height": "6' 0''",
+    "weight": 195
+  },
+  "37": {
+    "name": "Ty Evans",
+    "position": "F",
+    "year": "Sr.",
+    "height": "6' 2''",
+    "weight": 215
+  },
+  "38": {
+    "name": "Kyle Jones",
+    "position": "F",
+    "year": "So.",
+    "height": "6' 3''",
+    "weight": 185
+  },
+  "39": {
+    "name": "Cade Kurland",
+    "position": "NF",
+    "year": "Jr.",
+    "height": "5' 11''",
+    "weight": 190
+  },
+  "40": {
+    "name": "Blake Cyr",
+    "position": "F/INF",
+    "year": "Jr.",
+    "height": "5' 11''",
+    "weight": 190
+  },
+  "41": {
+    "name": "Bobby Boser",
+    "position": "NF/OF",
+    "year": "Sr.",
+    "height": "6' 1''",
+    "weight": 215
+  },
+  "42": {
+    "name": "Christian Rodriguez",
+    "position": "HP",
+    "year": "R-Fr.",
+    "height": "6' 0''",
+    "weight": 210
+  },
+  "43": {
+    "name": "Luke McNeillie",
+    "position": "HP",
+    "year": "So.",
+    "height": "6' 3''",
+    "weight": 190
+  },
+  "44": {
+    "name": "Colby Shelton",
+    "position": "NF",
+    "year": "Jr.",
+    "height": "6' 0''",
+    "weight": 205
+  },
+  "45": {
+    "name": "Brendan Lawson",
+    "position": "NF",
+    "year": "Fr.",
+    "height": "6' 3''",
+    "weight": 215
+  },
+  "46": {
+    "name": "Liam Peterson",
+    "position": "HP",
+    "year": "So.",
+    "height": "6' 5''",
+    "weight": 220
+  },
+  "47": {
+    "name": "Landon Stripling",
+    "position": "NF",
+    "year": "So.",
+    "height": "6' 0''",
+    "weight": 200
+  },
+  "48": {
+    "name": "Joshua Whritenour",
+    "position": "HP",
+    "year": "Fr.",
+    "height": "6' 2''",
+    "weight": 195
+  },
+  "49": {
+    "name": "Hayden Yost",
+    "position": "F",
+    "year": "So.",
+    "height": "6' 1''",
+    "weight": 195
+  },
+  "50": {
+    "name": "Jacob Gomberg",
+    "position": "HP",
+    "year": "So.",
+    "height": "5' 10''",
+    "weight": 180
+  },
+  "51": {
+    "name": "Pierce Coppola",
+    "position": "HP",
+    "year": "R-Jr.",
+    "height": "6' 8''",
+    "weight": 245
+  },
+  "52": {
+    "name": "Jake Clemente",
+    "position": "HP",
+    "year": "R-So.",
+    "height": "6' 3''",
+    "weight": 225
+  },
+  "53": {
+    "name": "Caden McDonald",
+    "position": "HP/1B",
+    "year": "R-Fr.",
+    "height": "6' 3''",
+    "weight": 200
+  },
+  "54": {
+    "name": "Jackson Barberi",
+    "position": "HP",
+    "year": "Fr.",
+    "height": "6' 4''",
+    "weight": 180
+  },
+  "55": {
+    "name": "Billy Barlow",
+    "position": "HP",
+    "year": "R-Jr.",
+    "height": "6' 2''",
+    "weight": 220
+  },
+  "56": {
+    "name": "Blake Brookins",
+    "position": "F",
+    "year": "So.",
+    "height": "6' 5''",
+    "weight": 225
+  },
+  "57": {
+    "name": "Kolt Myers",
+    "position": "NF",
+    "year": "Fr.",
+    "height": "6' 2''",
+    "weight": 190
+  },
+  "58": {
+    "name": "Niko Janssens",
+    "position": "HP",
+    "year": "Fr.",
+    "height": "6' 4''",
+    "weight": 200
+  },
+  "59": {
+    "name": "Blaine Rowland",
+    "position": "HP",
+    "year": "Fr.",
+    "height": "6' 3''",
+    "weight": 220
+  },
+  "60": {
+    "name": "Luke Heyman",
+    "position": "",
+    "year": "Jr.",
+    "height": "6' 4''",
+    "weight": 220
+  },
+  "61": {
+    "name": "Brody Donay",
+    "position": "",
+    "year": "Jr.",
+    "height": "6' 5''",
+    "weight": 235
+  },
+  "62": {
+    "name": "Ashton Wilson",
+    "position": "F/INF",
+    "year": "Jr.",
+    "height": "6' 0''",
+    "weight": 200
+  },
+  "63": {
+    "name": "Frank Menendez",
+    "position": "HP",
+    "year": "So.",
+    "height": "6' 1''",
+    "weight": 215
+  },
+  "64": {
+    "name": "McCall Biemiller",
+    "position": "HP",
+    "year": "Fr.",
+    "height": "6' 2''",
+    "weight": 180
+  },
+  "65": {
+    "name": "Alex Philpott",
+    "position": "HP",
+    "year": "So.",
+    "height": "6' 6''",
+    "weight": 200
+  },
+  "66": {
+    "name": "Brock Clayton",
+    "position": "/OF",
+    "year": "Fr.",
+    "height": "6' 3''",
+    "weight": 210
+  },
+  "67": {
+    "name": "Matthew Jenkins",
+    "position": "HP",
+    "year": "So.",
+    "height": "6' 6''",
+    "weight": 195
+  },
+  "68": {
+    "name": "Mason Laurito",
+    "position": "HP",
+    "year": "So.",
+    "height": "6' 0''",
+    "weight": 175
+  },
+  "69": {
+    "name": "Cole Bullen",
+    "position": "",
+    "year": "R-Jr.",
+    "height": "5' 9''",
+    "weight": 175
+  },
+  "70": {
+    "name": "Felix Ong",
+    "position": "HP",
+    "year": "Fr.",
+    "height": "6' 4''",
+    "weight": 220
+  },
+  "71": {
+    "name": "Schuyler Sandford",
+    "position": "HP",
+    "year": "Fr.",
+    "height": "6' 6''",
+    "weight": 215
+  },
+  "72": {
+    "name": "Aidan King",
+    "position": "HP",
+    "year": "Fr.",
+    "height": "6' 2''",
+    "weight": 195
+  },
+  "73": {
+    "name": "Carson Montsdeoca",
+    "position": "HP",
+    "year": "Fr.",
+    "height": "6' 3''",
+    "weight": 205
+  },
+  "74": {
+    "name": "Jacob Parker",
+    "position": "F",
+    "year": "Fr.",
+    "height": "6' 3''",
+    "weight": 220
+  },
+  "75": {
+    "name": "Ace Reese",
+    "position": "NF",
+    "year": "Jr.",
+    "height": "6' 4''",
+    "weight": 220
+  },
+  "76": {
+    "name": "Tomas Valincius",
+    "position": "HP",
+    "year": "So.",
+    "height": "6' 2''",
+    "weight": 225
+  },
+  "77": {
+    "name": "Aidan Teel",
+    "position": "F",
+    "year": "R-Jr.",
+    "height": "6' 0''",
+    "weight": 200
+  },
+  "78": {
+    "name": "James Nunnallee",
+    "position": "F",
+    "year": "So.",
+    "height": "6' 1''",
+    "weight": 190
+  },
+  "79": {
+    "name": "Reed Stallman",
+    "position": "B/OF",
+    "year": "Gr.",
+    "height": "6' 3''",
+    "weight": 220
+  },
+  "80": {
+    "name": "Charlie Foster",
+    "position": "HP",
+    "year": "So.",
+    "height": "6' 4''",
+    "weight": 205
+  },
+  "81": {
+    "name": "Ryder Woodson",
+    "position": "NF",
+    "year": "So.",
+    "height": "6' 3''",
+    "weight": 190
+  },
+  "82": {
+    "name": "Drew Wyers",
+    "position": "NF",
+    "year": "Sr.",
+    "height": "6' 2''",
+    "weight": 200
+  },
+  "83": {
+    "name": "Duke Stone",
+    "position": "HP",
+    "year": "So.",
+    "height": "6' 5''",
+    "weight": 235
+  },
+  "84": {
+    "name": "Chone James",
+    "position": "NF/UTL",
+    "year": "So.",
+    "height": "6' 0''",
+    "weight": 185
+  },
+  "85": {
+    "name": "William Kirk",
+    "position": "HP",
+    "year": "R-Fr.",
+    "height": "6' 2''",
+    "weight": 205
+  },
+  "86": {
+    "name": "Vytas Valincius",
+    "position": "F",
+    "year": "Gr.",
+    "height": "6' 4''",
+    "weight": 230
+  },
+  "87": {
+    "name": "Tanner Beliveau",
+    "position": "HP/UTL",
+    "year": "Fr.",
+    "height": "6' 3''",
+    "weight": 225
+  },
+  "88": {
+    "name": "Braden Booth",
+    "position": "HP",
+    "year": "R-Fr.",
+    "height": "6' 2''",
+    "weight": 200
+  },
+  "89": {
+    "name": "Parker Rhodes",
+    "position": "HP",
+    "year": "Fr.",
+    "height": "6' 1''",
+    "weight": 185
+  },
+  "90": {
+    "name": "Noah Sullivan",
+    "position": "TL/RHP",
+    "year": "Gr.",
+    "height": "6' 1''",
+    "weight": 215
+  },
+  "91": {
+    "name": "Andrew Raymond",
+    "position": "",
+    "year": "So.",
+    "height": "6' 1''",
+    "weight": 205
+  },
+  "92": {
+    "name": "Maddox Miller",
+    "position": "HP",
+    "year": "Fr.",
+    "height": "6' 4''",
+    "weight": 185
+  },
+  "93": {
+    "name": "Kevin Milewski",
+    "position": "",
+    "year": "Jr.",
+    "height": "6' 5''",
+    "weight": 235
+  },
+  "94": {
+    "name": "Nick Frontino",
+    "position": "NF",
+    "year": "Fr.",
+    "height": "6' 3''",
+    "weight": 205
+  },
+  "95": {
+    "name": "Jackson Owen",
+    "position": "",
+    "year": "Gr.",
+    "height": "5' 10''",
+    "weight": 200
+  },
+  "96": {
+    "name": "Jack Bauer",
+    "position": "HP",
+    "year": "Fr.",
+    "height": "6' 4''",
+    "weight": 195
+  },
+  "97": {
+    "name": "Chris Billingsley Jr.",
+    "position": "HP",
+    "year": "Jr.",
+    "height": "6' 4''",
+    "weight": 205
+  },
+  "98": {
+    "name": "Peter Mershon",
+    "position": "TL",
+    "year": "Fr.",
+    "height": "6' 2''",
+    "weight": 205
+  },
+  "99": {
+    "name": "Ryan McPherson",
+    "position": "HP",
+    "year": "So.",
+    "height": "6' 3''",
+    "weight": 205
+  },
+  "100": {
+    "name": "Maddox Webb",
+    "position": "HP",
+    "year": "Jr.",
+    "height": "6' 2''",
+    "weight": 195
+  },
+  "101": {
+    "name": "Jackson Logar",
+    "position": "HP",
+    "year": "Jr.",
+    "height": "6' 0''",
+    "weight": 215
+  },
+  "102": {
+    "name": "Charlie Wortham",
+    "position": "TL",
+    "year": "Fr.",
+    "height": "6' 1''",
+    "weight": 205
+  },
+  "103": {
+    "name": "Peyton Fowler",
+    "position": "HP",
+    "year": "Jr.",
+    "height": "6' 3''",
+    "weight": 195
+  },
+  "104": {
+    "name": "Blake Bevis",
+    "position": "B/OF",
+    "year": "Sr.",
+    "height": "6' 4''",
+    "weight": 230
+  },
+  "105": {
+    "name": "Gehrig Frei",
+    "position": "NF/OF",
+    "year": "Gr.",
+    "height": "6' 1''",
+    "weight": 210
+  },
+  "106": {
+    "name": "Ben Davis",
+    "position": "HP",
+    "year": "Sr.",
+    "height": "6' 4''",
+    "weight": 230
+  },
+  "107": {
+    "name": "Tyler Pitzer",
+    "position": "HP",
+    "year": "Jr.",
+    "height": "6' 3''",
+    "weight": 205
+  },
+  "108": {
+    "name": "Brendan Sweeney",
+    "position": "HP",
+    "year": "Sr.",
+    "height": "6' 7''",
+    "weight": 210
+  },
+  "109": {
+    "name": "Bryce Chance",
+    "position": "F",
+    "year": "Gr.",
+    "height": "5' 10''",
+    "weight": 180
+  },
+  "110": {
+    "name": "Patrick Spencer Jr.",
+    "position": "HP",
+    "year": "R-So.",
+    "height": "6' 3''",
+    "weight": 215
+  },
+  "111": {
+    "name": "Jack Gleason",
+    "position": "HP",
+    "year": "R-Fr.",
+    "height": "6' 1''",
+    "weight": 200
+  },
+  "112": {
+    "name": "Dane Burns",
+    "position": "HP",
+    "year": "So.",
+    "height": "6' 5''",
+    "weight": 215
+  },
+  "113": {
+    "name": "JT Schnoor",
+    "position": "HP",
+    "year": "R-Jr.",
+    "height": "6' 4''",
+    "weight": 225
+  },
+  "114": {
+    "name": "Gatlin Sanders",
+    "position": "NF",
+    "year": "Sr.",
+    "height": "5' 11''",
+    "weight": 185
+  }
+}
