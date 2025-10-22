@@ -79,8 +79,13 @@
                     "nullable": false
                 },
                 {
-                    "token": "record",
-                    "type": "string",
+                    "token": "wins",
+                    "type": "int",
+                    "nullable": true
+                },
+                {
+                    "token": "losses",
+                    "type": "int",
                     "nullable": true
                 },
                 {
