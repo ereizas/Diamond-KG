@@ -1,0 +1,14 @@
+{
+    "University of North Carolina":{
+        "division": 1,
+        "type": "university"
+    },
+    "University of Florida": {
+        "division": 1,
+        "type": "university"
+    },
+    "Mississipi State University": {
+        "division": 1,
+        "type": "university"
+    }
+}
