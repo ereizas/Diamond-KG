@@ -12,7 +12,15 @@ SCHOOL_TO_ROSTER_URLS = {
     ]
 }
 
-def scrape_sidearm_roster(url, data, curr_player_id:int, curr_coach_id:int):
+def scrape_sidearm_roster(
+    url:str,
+    data:dict, 
+    school:str,
+    year: int,
+    relationships:dict,
+    curr_player_id:int,
+    curr_coach_id:int
+):
     response = requests.get(url)
     if response.status_code!=200:
         print(response.status_code)
@@ -36,16 +44,17 @@ def scrape_sidearm_roster(url, data, curr_player_id:int, curr_coach_id:int):
                 # TODO scrape relationships
                 # TODO scrape highschools
                 position = stats.find("span",attrs={"data-test-id":re.compile("person-position")})
-                year = stats.find("span",attrs={"data-test-id":re.compile("person-title")})
+                class_year = stats.find("span",attrs={"data-test-id":re.compile("person-title")})
                 height = stats.find("span",attrs={"data-test-id":re.compile("person-season")})
                 weight = stats.find("span",attrs={"data-test-id":re.compile("person-weight")})
                 data["Player"][curr_player_id]={
                     "name": name.text,
                     "position": position.text[len("Position ")+1:].strip() if position else None,
-                    "year": year.text[len("Academic Year")+1:].strip() if year else None,
+                    "year": class_year.text[len("Academic Year")+1:].strip() if class_year else None,
                     "height": height.text[len("Height")+1:].strip() if height else None,
                     "weight": int(weight.text[len("Weight")+1:weight.text.rfind("lbs")].strip()) if weight else None
                 }
+                relationships["plays_for"].append([curr_player_id, f"{school} {str(year)}"])
                 curr_player_id+=1
         else:
             role = tag.find("div", attrs={"class": None, "data-test-id": None})
@@ -53,10 +62,11 @@ def scrape_sidearm_roster(url, data, curr_player_id:int, curr_coach_id:int):
                 "name": name.text,
                 "role": role.text if role else None
             }
+            relationships["coaches"].append([curr_coach_id, f"{school} {str(year)}"])
             curr_coach_id+=1
     return curr_player_id, curr_coach_id
 
-def scrape_sidearm_coach_page(url, data, curr_coach_id):
+def scrape_sidearm_coach_page(url, data, school, year, relationship, curr_coach_id):
     response = requests.get(url)
     if response.status_code!=200:
         print(response.status_code)
@@ -70,6 +80,7 @@ def scrape_sidearm_coach_page(url, data, curr_coach_id):
                 "name" : columns[0].text,
                 "position" : columns[1].text
             }
+            relationships["coaches"].append([curr_coach_id, f"{school} {str(year)}"])
             curr_coach_id+=1
     return curr_coach_id
 
@@ -80,9 +91,9 @@ if __name__=="__main__":
         "Coach": {}
     }
     relationships = {
-        "plays_for" : {},
-        "coaches": {},
-        "attended": {}
+        "plays_for" : [],
+        "coaches": [],
+        "attended": []
     }
     curr_player_id, curr_coach_id = 0, 0
     for school in SCHOOL_TO_ROSTER_URLS:
@@ -90,11 +101,15 @@ if __name__=="__main__":
             for year in years:
                 url = SCHOOL_TO_ROSTER_URLS[school][i]
                 if not url.endswith("coaches/"):
-                    curr_player_id, curr_coach_id = scrape_sidearm_roster(url+str(year), data, curr_player_id, curr_coach_id)
+                    curr_player_id, curr_coach_id = scrape_sidearm_roster(url+str(year), data, school, year, relationships, curr_player_id, curr_coach_id)
                 else:
-                    curr_coach_id = scrape_sidearm_coach_page(url+str(year),data, curr_coach_id)
+                    curr_coach_id = scrape_sidearm_coach_page(url+str(year), data, school, year, relationships, curr_coach_id)
 
-    with open("players.json", "w") as player_file:
+    """with open("players.json", "w") as player_file:
         json.dump(data["Player"], player_file)
     with open("coaches.json", "w") as coach_file:
-        json.dump(data["Coach"], coach_file)
+        json.dump(data["Coach"], coach_file)"""
+    with open("plays_for.json", "w") as play_for_file:
+        json.dump(relationships["plays_for"], play_for_file)
+    with open("coaches_team.json", "w") as coaches_team_file:
+        json.dump(relationships["coaches"], coaches_team_file)
