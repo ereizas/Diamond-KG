@@ -38,11 +38,6 @@
                     "nullable": true
                 },
                 {
-                    "token": "year",
-                    "type": "string",
-                    "nullable": true
-                },
-                {
                     "token": "homeruns",
                     "type": "integer",
                     "nullable": true
