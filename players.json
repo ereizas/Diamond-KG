@@ -61,7 +61,7 @@
   },
   "10": {
     "name": "Macaddin Dye",
-    "position": "",
+    "position": "C",
     "height": "6' 1''",
     "weight": 215
   },
@@ -199,7 +199,7 @@
   },
   "33": {
     "name": "Luke Stevenson",
-    "position": "",
+    "position": "C",
     "height": "6' 1''",
     "weight": 210
   },
@@ -235,7 +235,7 @@
   },
   "39": {
     "name": "Mitch Wilson",
-    "position": "",
+    "position": "C",
     "height": "6' 3''",
     "weight": 212
   },
@@ -301,7 +301,7 @@
   },
   "50": {
     "name": "Macon Winslow",
-    "position": "",
+    "position": "C",
     "height": "6' 0''",
     "weight": 200
   },
@@ -373,7 +373,7 @@
   },
   "62": {
     "name": "Colin Hynek",
-    "position": "",
+    "position": "C",
     "height": "6' 1''",
     "weight": 200
   },
@@ -631,13 +631,13 @@
   },
   "105": {
     "name": "Luke Heyman",
-    "position": "",
+    "position": "C",
     "height": "6' 4''",
     "weight": 220
   },
   "106": {
     "name": "Brody Donay",
-    "position": "",
+    "position": "C",
     "height": "6' 5''",
     "weight": 235
   },
@@ -685,7 +685,7 @@
   },
   "114": {
     "name": "Cole Bullen",
-    "position": "",
+    "position": "C",
     "height": "5' 9''",
     "weight": 175
   },
@@ -817,13 +817,13 @@
   },
   "136": {
     "name": "Ross Highfill",
-    "position": "",
+    "position": "C",
     "height": "6' 0''",
     "weight": 200
   },
   "137": {
     "name": "Jackson Owen",
-    "position": "",
+    "position": "C",
     "height": "5' 10''",
     "weight": 200
   },
@@ -949,7 +949,7 @@
   },
   "158": {
     "name": "Joe Powell",
-    "position": "",
+    "position": "C",
     "height": "5' 10''",
     "weight": 185
   },
@@ -1057,7 +1057,7 @@
   },
   "176": {
     "name": "Andrew Raymond",
-    "position": "",
+    "position": "C",
     "height": "6' 1''",
     "weight": 205
   },
@@ -1069,7 +1069,7 @@
   },
   "178": {
     "name": "Kevin Milewski",
-    "position": "",
+    "position": "C",
     "height": "6' 5''",
     "weight": 235
   },
@@ -1081,7 +1081,7 @@
   },
   "180": {
     "name": "Jackson Owen",
-    "position": "",
+    "position": "C",
     "height": "5' 10''",
     "weight": 200
   },
