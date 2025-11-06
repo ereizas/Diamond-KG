@@ -2,8 +2,9 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import json
+import dedup
 
-SCHOOL_TO_ROSTER_URLS = {
+SIDEARM_SCHOOL_TO_ROSTER_URLS = {
     "University of North Carolina": ["https://goheels.com/sports/baseball/roster/"],
     "University of Florida": ["https://floridagators.com/sports/baseball/roster/"],
     "Mississippi State University": [
@@ -12,12 +13,29 @@ SCHOOL_TO_ROSTER_URLS = {
     ]
 }
 
+TABLE_SCHOOL_TO_ROSTER_URLS = {
+    "Pennsylvania State University": ["https://gopsusports.com/sports/baseball/roster/season/"],
+    "Vanderbilt University": ["https://vucommodores.com/sports/baseball/roster/season/"],
+    #"University of Arkansas": ["https://arkansasrazorbacks.com/sport/m-basebl/roster/"],
+    "University of Miami": ["https://miamihurricanes.com/sports/baseball/roster/season/"],
+    "Oregon State University": ["https://osubeavers.com/sports/baseball/roster/"],
+    "University of Tennessee": ["https://utsports.com/sports/baseball/roster/"]
+}
+
+SCHOOL_ATTR_TO_COL = {
+    "Pennsylvania State University": {"name": 1, "position": 3, "height": 5, "weight": 6, "attended": [8,9]},
+    "Vanderbilt University": {"name": 1, "position": 2, "height": 4, "weight": 5, "attended": [8]},
+    #"University of Arkansas": {},
+    "University of Miami": {"name": 1, "position": 2, "height": 3, "weight": 4, "attended": [7,8], },
+    "Oregon State University": {"name": 2, "position": 3, "height": 5, "weight": 6, "attended": [8], "parse_hs": True}, # TODO: Parse high school from str
+    "University of Tennessee": {"name": 1, "position": 3, "height": 5, "weight": 6, "attended": [7,8], "parse_hs": True}
+}
+
 def scrape_sidearm_roster(
     url:str,
     data:dict, 
     school:str,
     year: int,
-    relationships:dict,
     curr_player_id:int,
     curr_coach_id:int
 ):
@@ -41,28 +59,38 @@ def scrape_sidearm_roster(
         if not get_coaches:
             stats = tag.find("div",attrs={"class":re.compile("bio-stats")})
             if stats:
-                # TODO scrape relationships
-                # TODO scrape highschools
                 position = stats.find("span",attrs={"data-test-id":re.compile("person-position")})
-                class_year = stats.find("span",attrs={"data-test-id":re.compile("person-title")})
                 height = stats.find("span",attrs={"data-test-id":re.compile("person-season")})
                 weight = stats.find("span",attrs={"data-test-id":re.compile("person-weight")})
                 last_schools = None
                 last_schools_tag = tag.find("span", attrs={"data-test-id":re.compile("person-high-school")})
                 if last_schools_tag:
                     last_schools = last_schools_tag.text[len("Last School")+1:].strip().split(" / ")
+
+                """
+                #clean up for adding relationships
+                for pid in data["Player"]:
+                    if data["Player"][pid]["name"]==name.text:
+                        data["Player"][pid]["plays_for"].append(f"{school} {year}")
+                        if last_schools:
+                            for schl in last_schools:
+                                if schl not in data["Player"][pid]["attended"]:
+                                    data["Player"][pid]["attended"].append(schl)
+                """
+                
                 data["Player"][curr_player_id]={
                     "name": name.text,
+                    # TODO: clean up scraping so it can capture 1 char "C"
                     "position": position.text[len("Position ")+1:].strip() if position else None,
-                    "year": class_year.text[len("Academic Year")+1:].strip() if class_year else None,
                     "height": height.text[len("Height")+1:].strip() if height else None,
                     "weight": int(weight.text[len("Weight")+1:weight.text.rfind("lbs")].strip()) if weight else None
                 }
                 if last_schools:
-                    for school in last_schools:
-                        data["School"][school] = {"type": "high school" if school.endswith("HS") or "High School" in school or school.endswith("Academy") else "university"}
-                        relationships["attended"].append([curr_player_id, school])
-                relationships["plays_for"].append([curr_player_id, f"{school} {str(year)}"])
+                    for schl in last_schools:
+                        data["School"][schl] = {"type": "high school" if schl.endswith("HS") or "High School" in schl or schl.endswith("Academy") else "university"}
+                        data["Player"][curr_player_id]["attended"]= schl
+                data["Player"][curr_player_id]["plays_for"] = f"{school} {year}"
+                
                 curr_player_id+=1
         else:
             role = tag.find("div", attrs={"class": None, "data-test-id": None})
@@ -70,11 +98,11 @@ def scrape_sidearm_roster(
                 "name": name.text,
                 "role": role.text if role else None
             }
-            relationships["coaches"].append([curr_coach_id, f"{school} {str(year)}"])
+            data["Coach"][curr_coach_id]["coaches"]= [curr_coach_id, f"{school} {str(year)}"]
             curr_coach_id+=1
     return curr_player_id, curr_coach_id
 
-def scrape_sidearm_coach_page(url, data, school, year, relationships, curr_coach_id):
+def scrape_sidearm_coach_page(url, data, school, year, curr_coach_id):
     response = requests.get(url)
     if response.status_code!=200:
         print(response.status_code)
@@ -86,44 +114,99 @@ def scrape_sidearm_coach_page(url, data, school, year, relationships, curr_coach
         if columns:
             data["Coach"][curr_coach_id] = {
                 "name" : columns[0].text,
-                "position" : columns[1].text
+                "position" : columns[1].text,
+                "coaches": [f"{school} {str(year)}"]
             }
-            relationships["coaches"].append([curr_coach_id, f"{school} {str(year)}"])
             curr_coach_id+=1
     return curr_coach_id
 
+def scrape_table(
+    url:str,
+    data:dict, 
+    school:str,
+    year: int,
+    curr_player_id:int,
+    curr_coach_id:int
+):
+    response = requests.get(url)
+    if response.status_code!=200:
+        print(response.status_code)
+        return curr_player_id, curr_coach_id
+    soup = BeautifulSoup(response.content, "html.parser")
+    tables = soup.find_all("table")
+    player_rows = tables[0].find_all("tr")
+    for i in range(1, len(player_rows)):
+        data["Player"][str(curr_player_id)] = {}
+        cols = player_rows[i].find_all(re.compile("td|th"))
+        if len(cols)>5:
+            for attr in SCHOOL_ATTR_TO_COL[school]:
+                if type(SCHOOL_ATTR_TO_COL[school][attr]) is int:
+                    data["Player"][str(curr_player_id)][attr] = cols[SCHOOL_ATTR_TO_COL[school][attr]].text.replace("\\n","").strip()
+                elif type(SCHOOL_ATTR_TO_COL[school][attr]) is list:
+                    data["Player"][str(curr_player_id)][attr] = []
+                    for ind in SCHOOL_ATTR_TO_COL[school][attr]:
+                        prev_school = cols[ind].text.replace("\\n","").strip()
+                        if SCHOOL_ATTR_TO_COL[school].get("parse_hs") and "/" in prev_school:
+                            prev_school = prev_school.split(" / ")[1].strip()
+                        data["Player"][str(curr_player_id)][attr].append(prev_school)
+            data["Player"][str(curr_player_id)]["plays_for"] = f"{school} {year}"
+            curr_player_id+=1
+    #coach_rows if len(tables)>1
+    return curr_player_id, curr_coach_id
+
+def get_next_id(json_file):
+    data = None
+    with open(json_file) as file:
+        data = json.load(file)
+    return max([int(key) for key in data.keys()])+1
+
 if __name__=="__main__":
     years = [2025, 2026]
+    # data not loaded from files, so that deduping is easier
     data = {
         "Player": {},
         "Coach": {},
     }
-    with open("schools.json") as schools_file:
-        data["School"] = json.load(schools_file)
-    relationships = {
-        "plays_for" : [],
-        "coaches": [],
-        "attended": []
-    }
-    curr_player_id, curr_coach_id = 0, 0
-    for school in SCHOOL_TO_ROSTER_URLS:
-        for i in range(len(SCHOOL_TO_ROSTER_URLS[school])):
+    curr_player_id, curr_coach_id = get_next_id("players.json"), get_next_id("coaches.json")
+    """for school in SIDEARM_SCHOOL_TO_ROSTER_URLS:
+        for i in range(len(SIDEARM_SCHOOL_TO_ROSTER_URLS[school])):
             for year in years:
-                url = SCHOOL_TO_ROSTER_URLS[school][i]
+                url = SIDEARM_SCHOOL_TO_ROSTER_URLS[school][i]
                 if not url.endswith("coaches/"):
-                    curr_player_id, curr_coach_id = scrape_sidearm_roster(url+str(year), data, school, year, relationships, curr_player_id, curr_coach_id)
+                    curr_player_id, curr_coach_id = scrape_sidearm_roster(url+str(year), data, school, year, curr_player_id, curr_coach_id)
                 else:
-                    curr_coach_id = scrape_sidearm_coach_page(url+str(year), data, school, year, relationships, curr_coach_id)
-
-    """with open("players.json", "w") as player_file:
+                    curr_coach_id = scrape_sidearm_coach_page(url+str(year), data, school, year, curr_coach_id)"""
+    for school in TABLE_SCHOOL_TO_ROSTER_URLS:
+        for i in range(len(TABLE_SCHOOL_TO_ROSTER_URLS[school])):
+            for year in years:
+                url = TABLE_SCHOOL_TO_ROSTER_URLS[school][i]
+                curr_player_id, curr_coach_id = scrape_table(
+                    url + str(year) if not url.endswith("season/") else f"{url}{year-1}-{str(year)[2:]}",
+                    data,
+                    school,
+                    year,
+                    curr_player_id,
+                    curr_coach_id
+                )
+    print(data)
+    """players_df = dedup.get_df_from_dict(data["Player"])
+    coaches_df = dedup.get_df_from_dict(data["Coach"])
+    print("Player duplicates:")
+    dedup.check_for_dups(data["Player"])
+    print("Coach duplicates:\n")
+    dedup.check_for_dups(data["Coach"])
+    try:
+        dedup.dedup("players.pkl", players_df, "players.json")
+    except Exception as e:
+        print(e)
+    #dedup.dedup("coaches.pkl", coaches_df, "coaches.json")
+    with open("players.json") as player_file:
+        data["Player"]|=json.load(player_file)
+    with open("coaches.json") as coach_file:
+        data["Coach"]|=json.load(coach_file)
+    with open("players.json", "w") as player_file:
         json.dump(data["Player"], player_file)
     with open("coaches.json", "w") as coach_file:
         json.dump(data["Coach"], coach_file)"""
-    with open("schools.json", "w") as schools_file:
-        json.dump(data["School"], schools_file)
-    """with open("plays_for.json", "w") as play_for_file:
-        json.dump(relationships["plays_for"], play_for_file)
-    with open("coaches_team.json", "w") as coaches_team_file:
-        json.dump(relationships["coaches"], coaches_team_file)"""
-    with open("attended.json", "w") as attended_file:
-        json.dump(relationships["attended"], attended_file)
+    """with open("schools.json", "w") as schools_file:
+        json.dump(data["School"], schools_file)"""
