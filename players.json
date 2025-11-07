@@ -829,14 +829,6 @@
     "plays_for": ["University of Florida 2025"],
     "attended": ["TNXL Academy (Charleston Southern)"]
   },
-  "94": {
-    "name": "Frank Menendez",
-    "position": "HP",
-    "height": "6' 1''",
-    "weight": "215",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Doral Academy Charter"]
-  },
   "95": {
     "name": "McCall Biemiller",
     "position": "HP",
@@ -1726,7 +1718,7 @@
     "height": "6-1",
     "weight": "185 lbs",
     "attended": ["Father Ryan", "UCF/John A. Logan College"],
-    "plays_for": ["Pennsylvania State University 2025"]
+    "plays_for": ["Pennsylvania State University 2025", "Pennsylvania State University 2026"]
   },
   "209": {
     "name": "Harrison Lollin",
@@ -1897,14 +1889,6 @@
     "height": "5-10",
     "weight": "190 lbs",
     "attended": ["Norwin", "Pitt-Johnstown"],
-    "plays_for": ["Pennsylvania State University 2026"]
-  },
-  "246": {
-    "name": "Jack Porter",
-    "position": "IF/OF",
-    "height": "6-1",
-    "weight": "185 lbs",
-    "attended": ["Father Ryan", "UCF/John A. Logan College"],
     "plays_for": ["Pennsylvania State University 2026"]
   },
   "249": {
@@ -2576,8 +2560,8 @@
     "position": "Right-handed pitcher",
     "height": "6-1",
     "weight": "220 lbs.",
-    "attended": ["Doral Academy", "Florida"],
-    "plays_for": ["University of Miami 2026"]
+    "attended": ["Doral Academy Charter", "Univeristy of Florida"],
+    "plays_for": ["University of Florida 2025", "University of Miami 2026"]
   },
   "341": {
     "name": "TJ Coats",
