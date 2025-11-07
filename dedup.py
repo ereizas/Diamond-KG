@@ -3,7 +3,6 @@ import os
 import pandas as pd
 import pickle
 from deduplipy.deduplicator import Deduplicator
-#TODO: dedup coaches
 
 def get_df_from_dict(data):
     for key in data:
@@ -79,15 +78,9 @@ def check_for_dups_in_json(filename:str):
         data = json.load(file)
     check_for_dups(data)
 
-"""players_df = get_df_from_json("players.json")
-players_df["attended_str"] = players_df["attended"].apply(
-    lambda x: ", ".join(sorted(set(x))) if isinstance(x, list) else str(x)
-)"""
-"""train_dedup("players", ["name", "position", "height", "weight", "attended_str"], players_df)
-dedup("players.pkl", players_df, "players.json")"""
-
 #coach_df = get_df_from_json("coaches.json")
 #train_dedup("coaches", ["name", "role"], coach_df)
 #dedup("coaches.pkl", coach_df, "coaches.json")
-check_for_dups_in_json("players.json")
-check_for_dups_in_json("coaches.json")
+#check_for_dups_in_json("players.json")
+"""check_for_dups_in_json("temp_coaches.json")
+check_for_dups_in_json("coaches.json")"""

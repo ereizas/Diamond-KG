@@ -1,84 +1,190 @@
 {
-  "5": { "name": "Scott Forbes", "role": "Head Coach" },
+  "5": {
+    "name": "Scott Forbes",
+    "role": "Head Coach",
+    "coaches": [
+      "University of North Carolina 2025",
+      "University of North Carolina 2026"
+    ]
+  },
   "6": {
     "name": "Bryant Gaines",
-    "role": "Associate Head Coach / Pitching Coach"
+    "role": "Associate Head Coach / Pitching Coach",
+    "coaches": [
+      "University of North Carolina 2025",
+      "University of North Carolina 2026"
+    ]
   },
   "7": {
     "name": "Jesse Wierzbicki",
-    "role": "Assistant Coach / Hitting Coach / Infielders & Catchers"
+    "role": "Assistant Coach / Hitting Coach / Infielders & Catchers",
+    "coaches": [
+      "University of North Carolina 2025",
+      "University of North Carolina 2026"
+    ]
   },
   "8": {
     "name": "Scott Jackson",
-    "role": "Assistant Coach/Recruiting Coordinator"
+    "role": "Assistant Coach/Recruiting Coordinator",
+    "coaches": [
+      "University of North Carolina 2025",
+      "University of North Carolina 2026"
+    ]
   },
   "9": {
     "name": "Jason Howell",
-    "role": "Director of Pitching Performance, Development and Analytics"
+    "role": "Director of Pitching Performance, Development and Analytics",
+    "coaches": [
+      "University of North Carolina 2025",
+      "University of North Carolina 2026"
+    ]
   },
-  "10": { "name": "Kevin O'Sullivan", "role": "Head Coach" },
-  "11": { "name": "Chuck Jeroloman", "role": "Associate Head Coach" },
-  "12": { "name": "Taylor Black", "role": "Assistant Coach" },
-  "13": { "name": "David Kopp", "role": "Pitching Coach" },
-  "14": { "name": "Michael Byrne", "role": "Student Assistant Coach" },
-  "15": { "name": "Mike Rivera", "role": "Director of Player Development" },
+  "10": {
+    "name": "Kevin O'Sullivan",
+    "role": "Head Coach",
+    "coaches": ["University of Florida 2025"]
+  },
+  "11": {
+    "name": "Chuck Jeroloman",
+    "role": "Associate Head Coach",
+    "coaches": ["University of Florida 2025", "University of Tennessee 2026"]
+  },
+  "12": {
+    "name": "Taylor Black",
+    "role": "Assistant Coach",
+    "coaches": ["University of Florida 2025"]
+  },
+  "13": {
+    "name": "David Kopp",
+    "role": "Pitching Coach",
+    "coaches": ["University of Florida 2025"]
+  },
+  "14": {
+    "name": "Michael Byrne",
+    "role": "Student Assistant Coach",
+    "coaches": ["University of Florida 2025"]
+  },
+  "15": {
+    "name": "Mike Rivera",
+    "role": "Director of Player Development",
+    "coaches": ["University of Florida 2025"]
+  },
   "16": {
     "name": "Shawn Burke",
-    "role": "Strength and Conditioning Coordinator"
+    "role": "Strength and Conditioning Coordinator",
+    "coaches": ["University of Florida 2025"]
   },
-  "18": { "name": "Chris Lemonis", "role": "Head Baseball Coach" },
-  "20": { "name": "Jake Gautreau", "role": "Assistant Coach" },
+  "18": {
+    "name": "Chris Lemonis",
+    "role": "Head Baseball Coach",
+    "coaches": ["Mississippi State University 2025"]
+  },
+  "20": {
+    "name": "Jake Gautreau",
+    "role": "Assistant Coach",
+    "coaches": ["Mississippi State University 2025"]
+  },
   "21": {
     "name": "Kyle Cheesebrough",
-    "role": "Camps Coordinator/Assistant Coach"
+    "role": "Camps Coordinator/Assistant Coach",
+    "coaches": ["Mississippi State University 2025"]
   },
   "22": {
     "name": "Bobby Austin",
-    "role": "Coordinator of Baseball Player Development"
+    "role": "Coordinator of Baseball Player Development",
+    "coaches": ["Mississippi State University 2025"]
   },
   "23": {
     "name": "Roger Rodeheaver",
-    "role": "Director of Baseball Operations"
+    "role": "Director of Baseball Operations",
+    "coaches": ["Mississippi State University 2025"]
   },
-  "24": { "name": "Blake Loper", "role": "Coordinator of Baseball Operations" },
-  "26": { "name": "Brian O'Connor", "role": "Head Baseball Coach" },
-  "27": { "name": "Kevin McMullan", "role": "Associate Head Baseball Coach" },
-  "28": { "name": "Matt Kirby", "role": "Assistant Baseball Coach" },
-  "29": { "name": "Justin Parker", "role": "Assistant Baseball Coach" },
-  "30": { "name": "Justin Armistead", "role": "Associate A.D./Baseball" },
+  "24": {
+    "name": "Blake Loper",
+    "role": "Coordinator of Baseball Operations",
+    "coaches": ["Mississippi State University 2025"]
+  },
+  "26": {
+    "name": "Brian O'Connor",
+    "role": "Head Baseball Coach",
+    "coaches": ["Mississippi State University 2026"]
+  },
+  "27": {
+    "name": "Kevin McMullan",
+    "role": "Associate Head Baseball Coach",
+    "coaches": ["Mississippi State University 2026"]
+  },
+  "28": {
+    "name": "Matt Kirby",
+    "role": "Assistant Baseball Coach",
+    "coaches": ["Mississippi State University 2026"]
+  },
+  "29": {
+    "name": "Justin Parker",
+    "role": "Assistant Baseball Coach",
+    "coaches": ["Mississippi State University 2026"]
+  },
+  "30": {
+    "name": "Justin Armistead",
+    "role": "Associate A.D./Baseball",
+    "coaches": ["Mississippi State University 2026"]
+  },
   "31": {
     "name": "Mike Roberts",
-    "role": "Director of Player Development and Scouting"
+    "role": "Director of Player Development and Scouting",
+    "coaches": ["Mississippi State University 2026"]
   },
-  "32": { "name": "Justin Weiss", "role": "Baseball Operations Coordinator" },
+  "32": {
+    "name": "Justin Weiss",
+    "role": "Baseball Operations Coordinator",
+    "coaches": ["Mississippi State University 2026"]
+  },
   "33": {
     "name": "Jonathan French",
-    "role": "Data/Video Analytics Coordinator"
+    "role": "Data/Video Analytics Coordinator",
+    "coaches": ["Mississippi State University 2026"]
   },
   "34": {
     "name": "Travis Reifsnider",
-    "role": "Scouting/Assistant Recruiting Coordinator"
+    "role": "Scouting/Assistant Recruiting Coordinator",
+    "coaches": ["Mississippi State University 2026"]
   },
-  "35": { "name": "Joe Savino", "role": "Pitching Coordinator" },
+  "35": {
+    "name": "Joe Savino",
+    "role": "Pitching Coordinator",
+    "coaches": ["Mississippi State University 2026"]
+  },
   "36": {
     "name": "Mike Gambino",
     "role": "Head Coach",
-    "coaches": ["Pennsylvania State University 2025","Pennsylvania State University 2026"]
+    "coaches": [
+      "Pennsylvania State University 2025",
+      "Pennsylvania State University 2026"
+    ]
   },
   "37": {
     "name": "Nick Puccio",
     "role": "Assistant Coach/Recruiting Coordinator",
-    "coaches": ["Pennsylvania State University 2025", "Pennsylvania State University 2026"]
+    "coaches": [
+      "Pennsylvania State University 2025",
+      "Pennsylvania State University 2026"
+    ]
   },
   "38": {
     "name": "Jake Palomaki",
     "role": "Assistant Coach",
-    "coaches": ["Pennsylvania State University 2025", "Pennsylvania State University 2026"]
+    "coaches": [
+      "Pennsylvania State University 2025",
+      "Pennsylvania State University 2026"
+    ]
   },
   "39": {
     "name": "Will Jauss",
     "role": "Assistant Coach",
-    "coaches": ["Pennsylvania State University 2025", "Pennsylvania State University 2026"]
+    "coaches": [
+      "Pennsylvania State University 2025",
+      "Pennsylvania State University 2026"
+    ]
   },
   "44": {
     "name": "Tim Corbin",
@@ -103,7 +209,7 @@
   "48": {
     "name": "J.D. Arteaga",
     "role": "Head Coach",
-    "coaches": ["University of Miami 2025","University of Miami 2026"]
+    "coaches": ["University of Miami 2025", "University of Miami 2026"]
   },
   "49": {
     "name": "Laz Gutierrez",
@@ -158,18 +264,16 @@
   "72": {
     "name": "Josh Elander",
     "role": "Head Coach",
-    "served_as": {"role": "Associate Head Coach/Recruiting Coordinator", "year": "2025"},
+    "served_as": {
+      "role": "Associate Head Coach/Recruiting Coordinator",
+      "year": "2025"
+    },
     "coaches": ["University of Tennessee 2025", "University of Tennessee 2026"]
-  },
-  "73": {
-    "name": "Chuck Jeroloman",
-    "role": "Associate Head Coach",
-    "coaches": ["University of Tennessee 2026"]
   },
   "74": {
     "name": "Frank Anderson",
     "role": "Assistant Coach",
-    "served_as": {"role": "Assistant Coach/Pitching", "year": "2025"},
+    "served_as": { "role": "Assistant Coach/Pitching", "year": "2025" },
     "coaches": ["University of Tennessee 2025", "University of Tennessee 2026"]
   },
   "75": {
