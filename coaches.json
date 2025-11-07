@@ -40,15 +40,9 @@
     "name": "Roger Rodeheaver",
     "role": "Director of Baseball Operations"
   },
-  "24": {
-    "name": "Blake Loper",
-    "role": "Coordinator of Baseball Operations"
-  },
+  "24": { "name": "Blake Loper", "role": "Coordinator of Baseball Operations" },
   "26": { "name": "Brian O'Connor", "role": "Head Baseball Coach" },
-  "27": {
-    "name": "Kevin McMullan",
-    "role": "Associate Head Baseball Coach"
-  },
+  "27": { "name": "Kevin McMullan", "role": "Associate Head Baseball Coach" },
   "28": { "name": "Matt Kirby", "role": "Assistant Baseball Coach" },
   "29": { "name": "Justin Parker", "role": "Assistant Baseball Coach" },
   "30": { "name": "Justin Armistead", "role": "Associate A.D./Baseball" },
@@ -56,10 +50,7 @@
     "name": "Mike Roberts",
     "role": "Director of Player Development and Scouting"
   },
-  "32": {
-    "name": "Justin Weiss",
-    "role": "Baseball Operations Coordinator"
-  },
+  "32": { "name": "Justin Weiss", "role": "Baseball Operations Coordinator" },
   "33": {
     "name": "Jonathan French",
     "role": "Data/Video Analytics Coordinator"
@@ -68,5 +59,122 @@
     "name": "Travis Reifsnider",
     "role": "Scouting/Assistant Recruiting Coordinator"
   },
-  "35": { "name": "Joe Savino", "role": "Pitching Coordinator" }
+  "35": { "name": "Joe Savino", "role": "Pitching Coordinator" },
+  "36": {
+    "name": "Mike Gambino",
+    "role": "Head Coach",
+    "coaches": ["Pennsylvania State University 2025","Pennsylvania State University 2026"]
+  },
+  "37": {
+    "name": "Nick Puccio",
+    "role": "Assistant Coach/Recruiting Coordinator",
+    "coaches": ["Pennsylvania State University 2025", "Pennsylvania State University 2026"]
+  },
+  "38": {
+    "name": "Jake Palomaki",
+    "role": "Assistant Coach",
+    "coaches": ["Pennsylvania State University 2025", "Pennsylvania State University 2026"]
+  },
+  "39": {
+    "name": "Will Jauss",
+    "role": "Assistant Coach",
+    "coaches": ["Pennsylvania State University 2025", "Pennsylvania State University 2026"]
+  },
+  "44": {
+    "name": "Tim Corbin",
+    "role": "Head Coach",
+    "coaches": ["Vanderbilt University 2025"]
+  },
+  "45": {
+    "name": "Scott Brown",
+    "role": "Associate Head Coach",
+    "coaches": ["Vanderbilt University 2025"]
+  },
+  "46": {
+    "name": "Jason Esposito",
+    "role": "Assistant Coach",
+    "coaches": ["Vanderbilt University 2025"]
+  },
+  "47": {
+    "name": "Ty Blankmeyer",
+    "role": "Assistant Coach",
+    "coaches": ["Vanderbilt University 2025"]
+  },
+  "48": {
+    "name": "J.D. Arteaga",
+    "role": "Head Coach",
+    "coaches": ["University of Miami 2025","University of Miami 2026"]
+  },
+  "49": {
+    "name": "Laz Gutierrez",
+    "role": "Assistant Coach / Pitching / Mental Skills",
+    "coaches": ["University of Miami 2025", "University of Miami 2026"]
+  },
+  "50": {
+    "name": "Chris Dominguez",
+    "role": "Assistant Coach",
+    "coaches": ["University of Miami 2025", "University of Miami 2026"]
+  },
+  "51": {
+    "name": "Jonathan Anderson",
+    "role": "Assistant Coach / Recruiting Coordinator",
+    "coaches": ["University of Miami 2025", "University of Miami 2026"]
+  },
+  "52": {
+    "name": "Nick Soto",
+    "role": "Assistant Strength & Conditioning Coach - Baseball",
+    "coaches": ["University of Miami 2025", "University of Miami 2026"]
+  },
+  "58": {
+    "name": "Mitch Canham",
+    "role": "Pat Casey Head Baseball Coach",
+    "coaches": ["Oregon State University 2025", "Oregon State University 2026"]
+  },
+  "59": {
+    "name": "Rich Dorman",
+    "role": "Assistant Coach",
+    "coaches": ["Oregon State University 2025", "Oregon State University 2026"]
+  },
+  "60": {
+    "name": "Ryan Gipson",
+    "role": "Assistant Coach",
+    "coaches": ["Oregon State University 2025", "Oregon State University 2026"]
+  },
+  "61": {
+    "name": "Joey Wong",
+    "role": "Assistant Coach",
+    "coaches": ["Oregon State University 2025", "Oregon State University 2026"]
+  },
+  "62": {
+    "name": "Brady Kasper",
+    "role": "Undergraduate Assistant Coach",
+    "coaches": ["Oregon State University 2025", "Oregon State University 2026"]
+  },
+  "68": {
+    "name": "Tony Vitello",
+    "role": "Head Coach",
+    "coaches": ["University of Tennessee 2025"]
+  },
+  "72": {
+    "name": "Josh Elander",
+    "role": "Head Coach",
+    "served_as": {"role": "Associate Head Coach/Recruiting Coordinator", "year": "2025"},
+    "coaches": ["University of Tennessee 2025", "University of Tennessee 2026"]
+  },
+  "73": {
+    "name": "Chuck Jeroloman",
+    "role": "Associate Head Coach",
+    "coaches": ["University of Tennessee 2026"]
+  },
+  "74": {
+    "name": "Frank Anderson",
+    "role": "Assistant Coach",
+    "served_as": {"role": "Assistant Coach/Pitching", "year": "2025"},
+    "coaches": ["University of Tennessee 2025", "University of Tennessee 2026"]
+  },
+  "75": {
+    "name": "Ross Kivett",
+    "role": "Assistant Coach/Recruiting Coordinator",
+    "coaches": ["University of Tennessee 2025", "University of Tennessee 2026"]
+  }
 }
