@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import re
 import json
 import dedup
-# TODO: append dicts to json files
+# TODO: append dicts to json files (now a list of entities)
 # TODO: use foreign ids for relationships if possible
 # TODO: ensure only number is captured for weight
 SIDEARM_SCHOOL_TO_ROSTER_URLS = {
@@ -95,13 +95,14 @@ def scrape_sidearm_roster(
                                 if schl not in data["Player"][pid]["attended"]:
                                     data["Player"][pid]["attended"].append(schl)
                 
-                
+                weight = int(weight.text[len("Weight")+1:weight.text.rfind("lbs")].strip()) if weight else None
+                space_ind = weight.find(" ")
                 data["Player"][curr_player_id]={
                     "name": name.text,
                     # TODO: clean up scraping so it can capture 1 char "C"
                     "position": position.text[len("Position ")+1:].strip() if position else None,
                     "height": convert_height_str(height.text[len("Height")+1:].strip()) if height else None,
-                    "weight": int(weight.text[len("Weight")+1:weight.text.rfind("lbs")].strip()) if weight else None
+                    "weight": int(weight) if space_ind==-1 else int(weight[:space_ind])
                 }
                 if last_schools:
                     for schl in last_schools:
@@ -160,7 +161,13 @@ def scrape_table(
             for attr in SCHOOL_ATTR_TO_COL[school]:
                 if type(SCHOOL_ATTR_TO_COL[school][attr]) is int:
                     value = cols[SCHOOL_ATTR_TO_COL[school][attr]].text.replace("\\n","").strip()
-                    data["Player"][str(curr_player_id)][attr] = value if attr!="height" else convert_height_str(value)
+                    if attr=="height":
+                        value = convert_height_str(value)
+                    elif attr=="weight":
+                        space_ind = value.find(" ")
+                        if space_ind!=-1:
+                            value = value[:space_ind]
+                    data["Player"][str(curr_player_id)][attr] = value if attr!="weight" else int(value)
                 elif type(SCHOOL_ATTR_TO_COL[school][attr]) is list:
                     data["Player"][str(curr_player_id)][attr] = []
                     first_school_listed = True
