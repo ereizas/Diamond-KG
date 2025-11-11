@@ -52,20 +52,27 @@ def replace_with_ids(src_file, foreign_file, rel_field, rel_singular: bool = Fal
     with open(f"{rel_field}{"_team" if rel_field=="coaches" else ""}.json", "w") as file:
         json.dump(rel_data, file)
 
-replace_with_ids("teams.json", "conferences.json", "member_of", rel_singular=True)
-
-def extract_relationships(filename: str, rel_fields: list, rel_singular: bool = False):
-    data = None
-    with open(filename) as file:
-        data = json.load(file)
-    rels = {rel:[] for rel in rel_fields}
-    for i in range(len(data)):
-        for rel in rels:
-            if not rel_singular:
-                for id in data[i][rel]:
-                    rels[rel].append((data[i]["id"],id))
-            else:
-                rels[rel].append((data[i]["id"],data[i][rel]))
-    # TODO: double check this logic
+# standardize height
+data = None
+with open("players.json") as file:
+    data = json.load(file)
+for i in range(len(data)):
+    height = data[i]["height"]
+    feet, inches = 0, 0
+    if "-" in height:
+        feet = int(height[:height.find("-")])
+        inches = int(height[height.find("-")+1:])
+    else:
+        foot_mark = height.find("'")
+        feet = int(height[:foot_mark])
+        inch_end_ind = len(height)-1
+        while not height[inch_end_ind].isnumeric():
+            inch_end_ind-=1
+        inch_end_ind+=1
+        inch_start = foot_mark+1 if height[foot_mark+1]!=" " else foot_mark+2
+        inches = int(height[inch_start:inch_end_ind])
+    data[i]["height"] = feet*12 + inches
+with open("players.json", "w") as file:
+    json.dump(data, file)
 
 #extract_relationships("players.json", ["plays_for", "attended"])

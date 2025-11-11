@@ -3,7 +3,9 @@ from bs4 import BeautifulSoup
 import re
 import json
 import dedup
-
+# TODO: append dicts to json files
+# TODO: use foreign ids for relationships if possible
+# TODO: ensure only number is captured for weight
 SIDEARM_SCHOOL_TO_ROSTER_URLS = {
     "University of North Carolina": ["https://goheels.com/sports/baseball/roster/"],
     "University of Florida": ["https://floridagators.com/sports/baseball/roster/"],
@@ -30,6 +32,22 @@ SCHOOL_ATTR_TO_COL = {
     "Oregon State University": {"name": 2, "position": 3, "height": 5, "weight": 6, "attended": [8], "parse_hs": True, "pic_offset":True},
     "University of Tennessee": {"name": 1, "position": 3, "height": 5, "weight": 6, "attended": [7,8], "parse_hs": True, "pic_offset":True}
 }
+
+def convert_height_str(height):
+    feet, inches = 0, 0
+    if "-" in height:
+        feet = int(height[:height.find("-")])
+        inches = int(height[height.find("-")+1:])
+    else:
+        foot_mark = height.find("'")
+        feet = int(height[:foot_mark])
+        inch_end_ind = len(height)-1
+        while not height[inch_end_ind].isnumeric():
+            inch_end_ind-=1
+        inch_end_ind+=1
+        inch_start = foot_mark+1 if height[foot_mark+1]!=" " else foot_mark+2
+        inches = int(height[inch_start:inch_end_ind])
+    return feet*12 + inches
 
 def scrape_sidearm_roster(
     url:str,
@@ -82,7 +100,7 @@ def scrape_sidearm_roster(
                     "name": name.text,
                     # TODO: clean up scraping so it can capture 1 char "C"
                     "position": position.text[len("Position ")+1:].strip() if position else None,
-                    "height": height.text[len("Height")+1:].strip() if height else None,
+                    "height": convert_height_str(height.text[len("Height")+1:].strip()) if height else None,
                     "weight": int(weight.text[len("Weight")+1:weight.text.rfind("lbs")].strip()) if weight else None
                 }
                 if last_schools:
@@ -141,7 +159,8 @@ def scrape_table(
         if len(cols)>5:
             for attr in SCHOOL_ATTR_TO_COL[school]:
                 if type(SCHOOL_ATTR_TO_COL[school][attr]) is int:
-                    data["Player"][str(curr_player_id)][attr] = cols[SCHOOL_ATTR_TO_COL[school][attr]].text.replace("\\n","").strip()
+                    value = cols[SCHOOL_ATTR_TO_COL[school][attr]].text.replace("\\n","").strip()
+                    data["Player"][str(curr_player_id)][attr] = value if attr!="height" else convert_height_str(value)
                 elif type(SCHOOL_ATTR_TO_COL[school][attr]) is list:
                     data["Player"][str(curr_player_id)][attr] = []
                     first_school_listed = True
