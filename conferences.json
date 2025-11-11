@@ -1,17 +1,27 @@
-{
-    "Atlantic Coast Conference": {
-        "abbreviation": "ACC",
-        "region": "East Coast",
-        "number_of_teams": 18,
-        "founded_year": 1953,
-        "commissioner": "James J. Phillips",
-        "headquarters": "Charlotte, North Carolina"
-    },
-    "Southeastern Conference": {
-        "abbreviation": "SEC",
-        "region": "Southeast",
-        "number_of_teams": 16,
-        "commissioner": "Greg Sankey",
-        "headquarters": "Birmingham, Alabama"
-    }
-}
+[
+  {
+    "id": 0,
+    "abbreviation": "ACC",
+    "region": "East Coast",
+    "number_of_teams": 18,
+    "founded_year": 1953,
+    "commissioner": "James J. Phillips",
+    "headquarters": "Charlotte, North Carolina"
+  },
+  {
+    "id": 1,
+    "abbreviation": "SEC",
+    "region": "Southeast",
+    "number_of_teams": 16,
+    "commissioner": "Greg Sankey",
+    "headquarters": "Birmingham, Alabama"
+  },
+  {
+    "id": 2,
+    "abbreviation": "B1G",
+    "region": "Midwest,Mid-Atlantic,Great Plains",
+    "number_of_teams": 18,
+    "commissioner": "Tony Pettiti",
+    "headquarters": "Rosemont, Illinois"
+  }
+]
