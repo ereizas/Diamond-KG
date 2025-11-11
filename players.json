@@ -4,4268 +4,3114 @@
     "name": "Cameron Padgett",
     "position": "HP",
     "height": "6' 3''",
-    "weight": "195",
-    "plays_for": [
-      "University of North Carolina 2025",
-      "University of North Carolina 2026"
-    ],
-    "attended": ["East Rowan"]
+    "weight": 195
   },
   {
     "id": 1,
     "name": "Camron Seagraves",
     "position": "HP",
     "height": "6' 3''",
-    "weight": "179",
-    "plays_for": [
-      "University of North Carolina 2025",
-      "University of North Carolina 2026"
-    ],
-    "attended": ["Grace Christian Academy"]
+    "weight": 179
   },
   {
     "id": 2,
     "name": "Ryan Lynch",
     "position": "HP",
     "height": "6' 3''",
-    "weight": "235",
-    "plays_for": [
-      "University of North Carolina 2025",
-      "University of North Carolina 2026"
-    ],
-    "attended": ["Moorestown"]
+    "weight": 235
   },
   {
     "id": 3,
     "name": "Ryan Hench",
     "position": "HP",
     "height": "6' 2''",
-    "weight": "200",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["Orange"]
+    "weight": 200
   },
   {
     "id": 4,
     "name": "Ace Reese",
     "position": "NF",
     "height": "6' 3''",
-    "weight": "205",
-    "plays_for": [
-      "Mississippi State University 2025",
-      "Mississippi State University 2026"
-    ],
-    "attended": ["Canton HS", "Houston"]
+    "weight": 205
   },
   {
     "id": 5,
     "name": "Reed Stallman",
     "position": "B/OF",
     "height": "6' 3''",
-    "weight": "220",
-    "plays_for": [
-      "Mississippi State University 2025",
-      "Mississippi State University 2026"
-    ],
-    "attended": ["Alburnett HS", "Campbell"]
+    "weight": 220
   },
   {
     "id": 6,
     "name": "Charlie Foster",
     "position": "HP",
     "height": "6' 3''",
-    "weight": "190",
-    "plays_for": [
-      "Mississippi State University 2025",
-      "Mississippi State University 2026"
-    ],
-    "attended": ["Brookwood HS"]
+    "weight": 190
   },
   {
     "id": 7,
     "name": "Duke Stone",
     "position": "HP",
     "height": "6' 5''",
-    "weight": "235",
-    "plays_for": [
-      "Mississippi State University 2025",
-      "Mississippi State University 2026"
-    ],
-    "attended": ["Jeff Davis HS"]
+    "weight": 235
   },
   {
     "id": 8,
     "name": "Braden Booth",
     "position": "NF/RHP",
     "height": "6' 2''",
-    "weight": "200",
-    "plays_for": [
-      "Mississippi State University 2025",
-      "Mississippi State University 2026"
-    ],
-    "attended": ["Bob Jones HS"]
+    "weight": 200
   },
   {
     "id": 9,
     "name": "Noah Sullivan",
     "position": "TL/RHP",
     "height": "6' 1''",
-    "weight": "215",
-    "plays_for": [
-      "Mississippi State University 2025",
-      "Mississippi State University 2026"
-    ],
-    "attended": ["Dr. Phillips HS", "USC Upstate"]
+    "weight": 215
   },
   {
     "id": 10,
     "name": "Alex Madera",
     "position": "NF",
     "height": "5' 10''",
-    "weight": "179",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["Delran"]
+    "weight": 179
   },
   {
     "id": 11,
     "name": "Reece Holbrook",
     "position": "F",
     "height": "5' 11''",
-    "weight": "181",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["Hammond"]
+    "weight": 181
   },
   {
     "id": 12,
     "name": "Lee Sowers",
     "position": "NF",
     "height": "5' 10''",
-    "weight": "185",
-    "plays_for": [
-      "University of North Carolina 2025",
-      "University of North Carolina 2026"
-    ],
-    "attended": ["Freeman"]
+    "weight": 185
   },
   {
     "id": 13,
     "name": "Sawyer Black",
     "position": "F",
     "height": "6' 1''",
-    "weight": "194",
-    "plays_for": [
-      "University of North Carolina 2025",
-      "University of North Carolina 2026"
-    ],
-    "attended": ["Wesleyan Christian Academy"]
+    "weight": 194
   },
   {
     "id": 14,
     "name": "Gavin Gallaher",
     "position": "NF",
     "height": "6' 1''",
-    "weight": "191",
-    "plays_for": [
-      "University of North Carolina 2025",
-      "University of North Carolina 2026"
-    ],
-    "attended": ["Pro5"]
+    "weight": 191
   },
   {
     "id": 15,
     "name": "Jackson Van De Brake",
     "position": "NF",
     "height": "6' 1''",
-    "weight": "202",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["West Valley"]
+    "weight": 202
   },
   {
     "id": 16,
     "name": "Perry Hargett",
     "position": "F",
     "height": "6' 0''",
-    "weight": "187",
-    "plays_for": [
-      "University of North Carolina 2025",
-      "University of North Carolina 2026"
-    ],
-    "attended": ["Metrolina Christian Academy"]
+    "weight": 187
   },
   {
     "id": 17,
     "name": "Boaz Harper",
     "position": "NF",
     "height": "5' 11''",
-    "weight": "175",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["Grace Christian Academy"]
+    "weight": 175
   },
   {
     "id": 18,
     "name": "Tom Chmielewski",
     "position": "HP",
     "height": "6' 2''",
-    "weight": "210",
-    "plays_for": [
-      "University of North Carolina 2025",
-      "University of North Carolina 2026"
-    ],
-    "attended": ["Needham"]
+    "weight": 210
   },
   {
     "id": 19,
     "name": "Tyson Bass",
     "position": "F",
     "height": "6' 3''",
-    "weight": "211",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["Hunt"]
+    "weight": 211
   },
   {
     "id": 20,
     "name": "Macaddin Dye",
     "position": "C",
     "height": "6' 1''",
-    "weight": "215",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["Frank W. Cox"]
+    "weight": 215
   },
   {
     "id": 21,
     "name": "Parker McCoy",
     "position": "NF",
     "height": "6' 1''",
-    "weight": "205",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["Benedictine Military Academy"]
+    "weight": 205
   },
   {
     "id": 22,
     "name": "Boston Flannery",
     "position": "HP",
     "height": "6' 4''",
-    "weight": "230",
-    "plays_for": [
-      "University of North Carolina 2025",
-      "University of North Carolina 2026"
-    ],
-    "attended": ["Brunswick"]
+    "weight": 230
   },
   {
     "id": 23,
     "name": "Carter French",
     "position": "F",
     "height": "6' 2''",
-    "weight": "196",
-    "plays_for": [
-      "University of North Carolina 2025",
-      "University of North Carolina 2026"
-    ],
-    "attended": ["Jesuit"]
+    "weight": 196
   },
   {
     "id": 24,
     "name": "Alex Ferrell",
     "position": "NF",
     "height": "6' 2''",
-    "weight": "209",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["Southern Wayne"]
+    "weight": 209
   },
   {
     "id": 25,
     "name": "Sam Angelo",
     "position": "NF",
     "height": "6' 0''",
-    "weight": "225",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["Toms River North"]
+    "weight": 225
   },
   {
     "id": 26,
     "name": "Matthew Matthijs",
     "position": "HP",
     "height": "6' 2''",
-    "weight": "230",
-    "plays_for": [
-      "University of North Carolina 2025",
-      "University of North Carolina 2026"
-    ],
-    "attended": ["D.H. Conley"]
+    "weight": 230
   },
   {
     "id": 27,
     "name": "Rom Kellis V",
     "position": "F/C",
     "height": "6' 1''",
-    "weight": "203",
-    "plays_for": [
-      "University of North Carolina 2025",
-      "University of North Carolina 2026"
-    ],
-    "attended": ["P27 Academy"]
+    "weight": 203
   },
   {
     "id": 28,
     "name": "Kyle Percival",
     "position": "HP",
     "height": "6' 5''",
-    "weight": "220",
-    "plays_for": [
-      "University of North Carolina 2025",
-      "University of North Carolina 2026"
-    ],
-    "attended": ["Andrew Jackson"]
+    "weight": 220
   },
   {
     "id": 29,
     "name": "Kane Kepley",
     "position": "F",
     "height": "5' 8''",
-    "weight": "180",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["South Rowan"]
+    "weight": 180
   },
   {
     "id": 30,
     "name": "Riley Leatherman",
     "position": "HP",
     "height": "6' 2''",
-    "weight": "180",
-    "plays_for": [
-      "University of North Carolina 2025",
-      "University of North Carolina 2026"
-    ],
-    "attended": ["Wayzata"]
+    "weight": 180
   },
   {
     "id": 31,
     "name": "Jason DeCaro",
     "position": "HP",
     "height": "6' 5''",
-    "weight": "230",
-    "plays_for": [
-      "University of North Carolina 2025",
-      "University of North Carolina 2026"
-    ],
-    "attended": ["St. Anthony's"]
+    "weight": 230
   },
   {
     "id": 32,
     "name": "Olin Johnson",
     "position": "HP",
     "height": "6' 6''",
-    "weight": "230",
-    "plays_for": [
-      "University of North Carolina 2025",
-      "University of North Carolina 2026"
-    ],
-    "attended": ["McCallie (Tenn.)"]
+    "weight": 230
   },
   {
     "id": 33,
     "name": "Francesco Capocci",
     "position": "HP",
     "height": "6' 4''",
-    "weight": "221",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["Denmark"]
+    "weight": 221
   },
   {
     "id": 34,
     "name": "Folger Boaz",
     "position": "HP",
     "height": "6' 2''",
-    "weight": "212",
-    "plays_for": [
-      "University of North Carolina 2025",
-      "University of North Carolina 2026"
-    ],
-    "attended": ["East Surry"]
+    "weight": 212
   },
   {
     "id": 35,
     "name": "Cale Bolton",
     "position": "HP",
     "height": "6' 5''",
-    "weight": "240",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["Louisburg"]
+    "weight": 240
   },
   {
     "id": 36,
     "name": "Harrison Lewis",
     "position": "HP",
     "height": "6' 6''",
-    "weight": "236",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["West Forsyth"]
+    "weight": 236
   },
   {
     "id": 37,
     "name": "Walker McDuffie",
     "position": "HP",
     "height": "6' 0''",
-    "weight": "200",
-    "plays_for": [
-      "University of North Carolina 2025",
-      "University of North Carolina 2026"
-    ],
-    "attended": ["Lee County"]
+    "weight": 200
   },
   {
     "id": 38,
     "name": "Jacob Kirby",
     "position": "HP",
     "height": "6' 5''",
-    "weight": "200",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["Ardrey Kell"]
+    "weight": 200
   },
   {
     "id": 39,
     "name": "Jake Knapp",
     "position": "HP",
     "height": "6' 5''",
-    "weight": "270",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["Page"]
+    "weight": 270
   },
   {
     "id": 40,
     "name": "Tyler Parks",
     "position": "NF",
     "height": "5' 9''",
-    "weight": "177",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["Southwestern Randolph"]
+    "weight": 177
   },
   {
     "id": 41,
     "name": "Luke Stevenson",
     "position": "C",
     "height": "6' 1''",
-    "weight": "210",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["Wake Forest"]
+    "weight": 210
   },
   {
     "id": 42,
     "name": "Hunter Stokely",
     "position": "NF",
     "height": "6' 3''",
-    "weight": "241",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["Fike"]
+    "weight": 241
   },
   {
     "id": 43,
     "name": "Will Simmons",
     "position": "HP",
     "height": "6' 2''",
-    "weight": "205",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["Harrisburg"]
+    "weight": 205
   },
   {
     "id": 44,
     "name": "Aidan Haugh",
     "position": "HP",
     "height": "6' 6''",
-    "weight": "229",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["East Wake"]
+    "weight": 229
   },
   {
     "id": 45,
     "name": "Dylan Weber",
     "position": "HP",
     "height": "6' 0''",
-    "weight": "197",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["Dominion"]
+    "weight": 197
   },
   {
     "id": 46,
     "name": "Mitch Wilson",
     "position": "C",
     "height": "6' 3''",
-    "weight": "212",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["Dorman"]
+    "weight": 212
   },
   {
     "id": 47,
     "name": "Tim Lawson",
     "position": "HP",
     "height": "6' 5''",
-    "weight": "230",
-    "plays_for": [
-      "University of North Carolina 2025",
-      "University of North Carolina 2026"
-    ],
-    "attended": ["Bishop Verot"]
+    "weight": 230
   },
   {
     "id": 48,
     "name": "Andrew Wallen",
     "position": "HP",
     "height": "6' 7''",
-    "weight": "245",
-    "plays_for": [
-      "University of North Carolina 2025",
-      "University of North Carolina 2026"
-    ],
-    "attended": ["JH Rose"]
+    "weight": 245
   },
   {
     "id": 49,
     "name": "Mason Yokum",
     "position": "HP",
     "height": "6' 3''",
-    "weight": "185",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["Pro5"]
+    "weight": 185
   },
   {
     "id": 50,
     "name": "John Hughes",
     "position": "HP",
     "height": "6' 0''",
-    "weight": "215",
-    "plays_for": ["University of North Carolina 2025"],
-    "attended": ["Nazareth Academy"]
+    "weight": 215
   },
   {
     "id": 51,
     "name": "Cooper Nicholson",
     "position": "NF",
     "height": "5' 11''",
-    "weight": "195",
-    "plays_for": ["University of North Carolina 2026"],
-    "attended": ["Dowling Catholic HS"]
+    "weight": 195
   },
   {
     "id": 52,
     "name": "Jake Schaffner",
     "position": "NF",
     "height": "6' 2''",
-    "weight": "175",
-    "plays_for": ["University of North Carolina 2026"],
-    "attended": ["Craig HS"]
+    "weight": 175
   },
   {
     "id": 53,
     "name": "Macon Winslow",
     "position": "C",
     "height": "6' 0''",
-    "weight": "200",
-    "plays_for": ["University of North Carolina 2026"],
-    "attended": ["Perquimans County HS"]
+    "weight": 200
   },
   {
     "id": 54,
     "name": "Owen Hull",
     "position": "F",
     "height": "6' 4''",
-    "weight": "215",
-    "plays_for": ["University of North Carolina 2026"],
-    "attended": ["Bishop Ireton HS"]
+    "weight": 215
   },
   {
     "id": 55,
     "name": "Matt McKnight",
     "position": "NF",
     "height": "6' 3''",
-    "weight": "195",
-    "plays_for": ["University of North Carolina 2026"],
-    "attended": ["Charlotte Catholic HS"]
+    "weight": 195
   },
   {
     "id": 56,
     "name": "Tyler Howe",
     "position": "F/1B",
     "height": "5' 11''",
-    "weight": "185",
-    "plays_for": ["University of North Carolina 2026"],
-    "attended": ["Hopewell HS"]
+    "weight": 185
   },
   {
     "id": 57,
     "name": "Michael Maginnis",
     "position": "F",
     "height": "6' 1''",
-    "weight": "210",
-    "plays_for": ["University of North Carolina 2026"],
-    "attended": ["Newnan HS"]
+    "weight": 210
   },
   {
     "id": 58,
     "name": "Talan Holiday",
     "position": "HP",
     "height": "6' 2''",
-    "weight": "190",
-    "plays_for": ["University of North Carolina 2026"],
-    "attended": ["American Heritage HS"]
+    "weight": 190
   },
   {
     "id": 59,
     "name": "AJ Terry",
     "position": "NF",
     "height": "6' 0''",
-    "weight": "190",
-    "plays_for": ["University of North Carolina 2026"],
-    "attended": ["Randolph HS"]
+    "weight": 190
   },
   {
     "id": 60,
     "name": "Colin Hynek",
     "position": "C",
     "height": "6' 1''",
-    "weight": "200",
-    "plays_for": ["University of North Carolina 2026"],
-    "attended": ["Paulding County HS"]
+    "weight": 200
   },
   {
     "id": 61,
     "name": "Caden Glauber",
     "position": "HP",
     "height": "6' 4''",
-    "weight": "210",
-    "plays_for": ["University of North Carolina 2026"],
-    "attended": ["Catawba Ridge HS"]
+    "weight": 210
   },
   {
     "id": 62,
     "name": "Jadyn Nunez",
     "position": "F",
     "height": "6' 1''",
-    "weight": "185",
-    "plays_for": ["University of North Carolina 2026"],
-    "attended": ["Doral Academy"]
+    "weight": 185
   },
   {
     "id": 63,
     "name": "Jackson Rose",
     "position": "HP",
     "height": "6' 3''",
-    "weight": "205",
-    "plays_for": ["University of North Carolina 2026"],
-    "attended": ["Etowah HS"]
+    "weight": 205
   },
   {
     "id": 64,
     "name": "Jake Cackovic",
     "position": "HP",
     "height": "6' 7''",
-    "weight": "215",
-    "plays_for": ["University of North Carolina 2026"],
-    "attended": ["Holly Springs HS"]
+    "weight": 215
   },
   {
     "id": 65,
     "name": "Justin Mabe",
     "position": "HP",
     "height": "6' 3''",
-    "weight": "185",
-    "plays_for": ["University of North Carolina 2026"],
-    "attended": ["North Davidson HS"]
+    "weight": 185
   },
   {
     "id": 66,
     "name": "Erik Paulsen",
     "position": "NF",
     "height": "6' 3''",
-    "weight": "215",
-    "plays_for": ["University of North Carolina 2026"],
-    "attended": ["Massapequa HS"]
+    "weight": 215
   },
   {
     "id": 67,
     "name": "Justin Nadeau",
     "position": "NF/OF",
     "height": "6' 0''",
-    "weight": "195",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Bartram Trail (Jacksonville)"]
+    "weight": 195
   },
   {
     "id": 68,
     "name": "Ty Evans",
     "position": "F",
     "height": "6' 2''",
-    "weight": "215",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Lakeland Christian"]
+    "weight": 215
   },
   {
     "id": 69,
     "name": "Kyle Jones",
     "position": "F",
     "height": "6' 3''",
-    "weight": "185",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["North Oconee (Stetson)"]
+    "weight": 185
   },
   {
     "id": 70,
     "name": "Cade Kurland",
     "position": "NF",
     "height": "5' 11''",
-    "weight": "190",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Berkeley Prep"]
+    "weight": 190
   },
   {
     "id": 71,
     "name": "Blake Cyr",
     "position": "F/INF",
     "height": "5' 11''",
-    "weight": "190",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Windermere (Miami)"]
+    "weight": 190
   },
   {
     "id": 72,
     "name": "Bobby Boser",
     "position": "NF/OF",
     "height": "6' 1''",
-    "weight": "215",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Wiregrass Ranch (USF)"]
+    "weight": 215
   },
   {
     "id": 73,
     "name": "Christian Rodriguez",
     "position": "HP",
     "height": "6' 0''",
-    "weight": "210",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Marjory Stoneman Douglas"]
+    "weight": 210
   },
   {
     "id": 74,
     "name": "Luke McNeillie",
     "position": "HP",
     "height": "6' 3''",
-    "weight": "190",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Milton"]
+    "weight": 190
   },
   {
     "id": 75,
     "name": "Colby Shelton",
     "position": "NF",
     "height": "6' 0''",
-    "weight": "205",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Bloomingdale (Alabama)"]
+    "weight": 205
   },
   {
     "id": 76,
     "name": "Brendan Lawson",
     "position": "NF",
     "height": "6' 3''",
-    "weight": "215",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["P27 Academy"]
+    "weight": 215
   },
   {
     "id": 77,
     "name": "Liam Peterson",
     "position": "HP",
     "height": "6' 5''",
-    "weight": "220",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Calvary Christian"]
+    "weight": 220
   },
   {
     "id": 78,
     "name": "Landon Stripling",
     "position": "NF",
     "height": "6' 0''",
-    "weight": "200",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Parkview (Texas Tech)"]
+    "weight": 200
   },
   {
     "id": 79,
     "name": "Joshua Whritenour",
     "position": "HP",
     "height": "6' 2''",
-    "weight": "195",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["A3 Academy"]
+    "weight": 195
   },
   {
     "id": 80,
     "name": "Hayden Yost",
     "position": "F",
     "height": "6' 1''",
-    "weight": "195",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Sickles"]
+    "weight": 195
   },
   {
     "id": 81,
     "name": "Jacob Gomberg",
     "position": "HP",
     "height": "5' 10''",
-    "weight": "180",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Marjory Stoneman Douglas"]
+    "weight": 180
   },
   {
     "id": 82,
     "name": "Pierce Coppola",
     "position": "HP",
     "height": "6' 8''",
-    "weight": "245",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Verona"]
+    "weight": 245
   },
   {
     "id": 83,
     "name": "Jake Clemente",
     "position": "HP",
     "height": "6' 3''",
-    "weight": "225",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Marjory Stoneman Douglas"]
+    "weight": 225
   },
   {
     "id": 84,
     "name": "Caden McDonald",
     "position": "HP/1B",
     "height": "6' 3''",
-    "weight": "200",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Sickles"]
+    "weight": 200
   },
   {
     "id": 85,
     "name": "Jackson Barberi",
     "position": "HP",
     "height": "6' 4''",
-    "weight": "180",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Brookwood"]
+    "weight": 180
   },
   {
     "id": 86,
     "name": "Billy Barlow",
     "position": "HP",
     "height": "6' 2''",
-    "weight": "220",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["North Myrtle Beach (Clemson)"]
+    "weight": 220
   },
   {
     "id": 87,
     "name": "Blake Brookins",
     "position": "F",
     "height": "6' 5''",
-    "weight": "225",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Miami Palmetto"]
+    "weight": 225
   },
   {
     "id": 88,
     "name": "Kolt Myers",
     "position": "NF",
     "height": "6' 2''",
-    "weight": "190",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["St. John's Country Day"]
+    "weight": 190
   },
   {
     "id": 89,
     "name": "Niko Janssens",
     "position": "HP",
     "height": "6' 4''",
-    "weight": "200",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["A3 Academy"]
+    "weight": 200
   },
   {
     "id": 90,
     "name": "Blaine Rowland",
     "position": "HP",
     "height": "6' 3''",
-    "weight": "220",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Durant"]
+    "weight": 220
   },
   {
     "id": 91,
     "name": "Luke Heyman",
     "position": "C",
     "height": "6' 4''",
-    "weight": "220",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Lake Brantley"]
+    "weight": 220
   },
   {
     "id": 92,
     "name": "Brody Donay",
     "position": "C",
     "height": "6' 5''",
-    "weight": "235",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Lakeland Christian (Virginia Tech)"]
+    "weight": 235
   },
   {
     "id": 93,
     "name": "Ashton Wilson",
     "position": "F/INF",
     "height": "6' 0''",
-    "weight": "200",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["TNXL Academy (Charleston Southern)"]
+    "weight": 200
   },
   {
     "id": 94,
     "name": "McCall Biemiller",
     "position": "HP",
     "height": "6' 2''",
-    "weight": "180",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Tampa Jesuit"]
+    "weight": 180
   },
   {
     "id": 95,
     "name": "Alex Philpott",
     "position": "HP",
     "height": "6' 6''",
-    "weight": "200",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Strawberry Crest"]
+    "weight": 200
   },
   {
     "id": 96,
     "name": "Brock Clayton",
     "position": "/OF",
     "height": "6' 3''",
-    "weight": "210",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Pensacola Catholic"]
+    "weight": 210
   },
   {
     "id": 97,
     "name": "Matthew Jenkins",
     "position": "HP",
     "height": "6' 6''",
-    "weight": "195",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Lafayette (Santa Fe College)"]
+    "weight": 195
   },
   {
     "id": 98,
     "name": "Mason Laurito",
     "position": "HP",
     "height": "6' 0''",
-    "weight": "175",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Forest (Gulf Coast CC)"]
+    "weight": 175
   },
   {
     "id": 99,
     "name": "Cole Bullen",
     "position": "C",
     "height": "5' 9''",
-    "weight": "175",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Villages Charter (College of Central Florida)"]
+    "weight": 175
   },
   {
     "id": 100,
     "name": "Felix Ong",
     "position": "HP",
     "height": "6' 4''",
-    "weight": "220",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Key West"]
+    "weight": 220
   },
   {
     "id": 101,
     "name": "Schuyler Sandford",
     "position": "HP",
     "height": "6' 6''",
-    "weight": "215",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["St. John's Country Day"]
+    "weight": 215
   },
   {
     "id": 102,
     "name": "Aidan King",
     "position": "HP",
     "height": "6' 2''",
-    "weight": "195",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Bishop John J. Snyder"]
+    "weight": 195
   },
   {
     "id": 103,
     "name": "Carson Montsdeoca",
     "position": "HP",
     "height": "6' 3''",
-    "weight": "205",
-    "plays_for": ["University of Florida 2025"],
-    "attended": ["Fort Meade"]
+    "weight": 205
   },
   {
     "id": 104,
     "name": "Sawyer Reeves",
     "position": "NF",
     "height": "6' 3''",
-    "weight": "205",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["Lugoff Elgin HS", "The Citadel"]
+    "weight": 205
   },
   {
     "id": 105,
     "name": "Aaron Downs",
     "position": "NF/OF",
     "height": "6' 0''",
-    "weight": "210",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["Heritage Academy"]
+    "weight": 210
   },
   {
     "id": 106,
     "name": "Landis Davila",
     "position": "F",
     "height": "6' 3''",
-    "weight": "200",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["Farragut HS"]
+    "weight": 200
   },
   {
     "id": 107,
     "name": "Pico Kohn",
     "position": "HP",
     "height": "6' 4''",
-    "weight": "200",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["Chilton County HS"]
+    "weight": 200
   },
   {
     "id": 108,
     "name": "Dylan Cupp",
     "position": "NF",
     "height": "6' 1''",
-    "weight": "200",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["Cedartown HS"]
+    "weight": 200
   },
   {
     "id": 109,
     "name": "Evan Siary",
     "position": "HP",
     "height": "6' 1''",
-    "weight": "205",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["Starkville Academy"]
+    "weight": 205
   },
   {
     "id": 110,
     "name": "Nate Chester",
     "position": "NF",
     "height": "6' 2''",
-    "weight": "190",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["Liberty North HS", "John A. Logan CC"]
+    "weight": 190
   },
   {
     "id": 111,
     "name": "Cade O'Leary",
     "position": "HP",
     "height": "6' 4''",
-    "weight": "190",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["Farragut HS"]
+    "weight": 190
   },
   {
     "id": 112,
     "name": "Luke Dotson",
     "position": "HP",
     "height": "6' 4''",
-    "weight": "210",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["Mount Paran Christian School"]
+    "weight": 210
   },
   {
     "id": 113,
     "name": "Stone Simmons",
     "position": "HP",
     "height": "6' 4''",
-    "weight": "235",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["The Kinkaid School", "Furman"]
+    "weight": 235
   },
   {
     "id": 114,
     "name": "Robert Fortenberry",
     "position": "HP",
     "height": "6' 0''",
-    "weight": "220",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["Wakeland HS", "Weatherford College"]
+    "weight": 220
   },
   {
     "id": 115,
     "name": "Ross Highfill",
     "position": "C",
     "height": "6' 0''",
-    "weight": "200",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["Madison Central HS"]
+    "weight": 200
   },
   {
     "id": 116,
     "name": "Jackson Owen",
     "position": "C",
     "height": "5' 10''",
-    "weight": "200",
-    "plays_for": [
-      "Mississippi State University 2025",
-      "Mississippi State University 2026"
-    ],
-    "attended": ["Starkville HS", "Northeast Mississippi CC"]
+    "weight": 200
   },
   {
     "id": 117,
     "name": "Bradley Loftin",
     "position": "HP",
     "height": "6' 3''",
-    "weight": "200",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["DeSoto Central HS"]
+    "weight": 200
   },
   {
     "id": 118,
     "name": "Chase Hungate",
     "position": "HP",
     "height": "6' 1''",
-    "weight": "175",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["Abingdon HS", "Virginia"]
+    "weight": 175
   },
   {
     "id": 119,
     "name": "Gavin Black",
     "position": "HP",
     "height": "6' 0''",
-    "weight": "195",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["North Oconee HS", "NW Florida State College"]
+    "weight": 195
   },
   {
     "id": 120,
     "name": "Ryan McPherson",
     "position": "HP",
     "height": "6' 3''",
-    "weight": "205",
-    "plays_for": [
-      "Mississippi State University 2025",
-      "Mississippi State University 2026"
-    ],
-    "attended": ["North Broward Prep"]
+    "weight": 205
   },
   {
     "id": 121,
     "name": "Nate Williams",
     "position": "HP",
     "height": "6' 4''",
-    "weight": "250",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["North Cobb HS", "Florence Darlington CC"]
+    "weight": 250
   },
   {
     "id": 122,
     "name": "Jacob Pruitt",
     "position": "HP",
     "height": "6' 1''",
-    "weight": "185",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["Yorktown HS", "Indiana State"]
+    "weight": 185
   },
   {
     "id": 123,
     "name": "Karson Ligon",
     "position": "HP",
     "height": "6' 2''",
-    "weight": "205",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["River View HS", "Miami (Fla.)"]
+    "weight": 205
   },
   {
     "id": 124,
     "name": "Michael O'Brien",
     "position": "F",
     "height": "6' 0''",
-    "weight": "185",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["John Curtis Christian"]
+    "weight": 185
   },
   {
     "id": 125,
     "name": "Nolan Stevens",
     "position": "NF/OF/LHP",
     "height": "6' 4''",
-    "weight": "210",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["Franklin HS"]
+    "weight": 210
   },
   {
     "id": 126,
     "name": "Bryce Chance",
     "position": "F",
     "height": "5' 10''",
-    "weight": "180",
-    "plays_for": [
-      "Mississippi State University 2025",
-      "Mississippi State University 2026"
-    ],
-    "attended": ["Madison-Ridgeland Academy"]
+    "weight": 180
   },
   {
     "id": 127,
     "name": "Steven Spalitta",
     "position": "NF/C",
     "height": "6' 0''",
-    "weight": "185",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["Fontainbleau HS"]
+    "weight": 185
   },
   {
     "id": 128,
     "name": "Hunter Hines",
     "position": "NF/OF",
     "height": "6' 3''",
-    "weight": "210",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["Madison Central HS"]
+    "weight": 210
   },
   {
     "id": 129,
     "name": "Kevin Mannell",
     "position": "HP",
     "height": "6' 4''",
-    "weight": "210",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["Seaman HS", "Kansas State", "Cloud County CC"]
+    "weight": 210
   },
   {
     "id": 130,
     "name": "Lukas Buckner",
     "position": "NF",
     "height": "5' 9''",
-    "weight": "170",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["Farragut HS"]
+    "weight": 170
   },
   {
     "id": 131,
     "name": "Joe Powell",
     "position": "C",
     "height": "5' 10''",
-    "weight": "185",
-    "plays_for": ["Mississippi State University 2025"],
-    "attended": ["Mason HS"]
+    "weight": 185
   },
   {
     "id": 132,
     "name": "Jacob Parker",
     "position": "F",
     "height": "6' 3''",
-    "weight": "220",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["Purvis HS"]
+    "weight": 220
   },
   {
     "id": 133,
     "name": "Tomas Valincius",
     "position": "HP",
     "height": "6' 2''",
-    "weight": "225",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["Baylor School [TN]", "Virginia"]
+    "weight": 225
   },
   {
     "id": 134,
     "name": "Aidan Teel",
     "position": "F",
     "height": "6' 0''",
-    "weight": "200",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["Mahwah HS", "Virginia"]
+    "weight": 200
   },
   {
     "id": 135,
     "name": "James Nunnallee",
     "position": "F",
     "height": "6' 1''",
-    "weight": "190",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["Lightridge HS", "Virginia"]
+    "weight": 190
   },
   {
     "id": 136,
     "name": "Ryder Woodson",
     "position": "NF",
     "height": "6' 3''",
-    "weight": "190",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["St. John Neumann HS", "NC State"]
+    "weight": 190
   },
   {
     "id": 137,
     "name": "Drew Wyers",
     "position": "NF",
     "height": "6' 2''",
-    "weight": "200",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["Northern Burlington County Regional", "Bryant"]
+    "weight": 200
   },
   {
     "id": 138,
     "name": "Chone James",
     "position": "NF/UTL",
     "height": "6' 0''",
-    "weight": "185",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["Socastee HS", "Virginia"]
+    "weight": 185
   },
   {
     "id": 139,
     "name": "William Kirk",
     "position": "HP",
     "height": "6' 2''",
-    "weight": "205",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["Ramsey HS", "Virginia"]
+    "weight": 205
   },
   {
     "id": 140,
     "name": "Vytas Valincius",
     "position": "F",
     "height": "6' 4''",
-    "weight": "230",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["Baylor School [TN]", "Illinois"]
+    "weight": 230
   },
   {
     "id": 141,
     "name": "Tanner Beliveau",
     "position": "HP/UTL",
     "height": "6' 3''",
-    "weight": "225",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["Petal HS"]
+    "weight": 225
   },
   {
     "id": 142,
     "name": "Parker Rhodes",
     "position": "HP",
     "height": "6' 1''",
-    "weight": "185",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["Greenfield-Central HS"]
+    "weight": 185
   },
   {
     "id": 143,
     "name": "Andrew Raymond",
     "position": "C",
     "height": "6' 1''",
-    "weight": "205",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["Middletown HS", "George Mason"]
+    "weight": 205
   },
   {
     "id": 144,
     "name": "Maddox Miller",
     "position": "HP",
     "height": "6' 4''",
-    "weight": "185",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["Oak Grove HS"]
+    "weight": 185
   },
   {
     "id": 145,
     "name": "Kevin Milewski",
     "position": "C",
     "height": "6' 5''",
-    "weight": "235",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["Notre Dame-West Haven HS", "Seton Hall"]
+    "weight": 235
   },
   {
     "id": 146,
     "name": "Nick Frontino",
     "position": "NF",
     "height": "6' 3''",
-    "weight": "205",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["St. John Neumann HS"]
+    "weight": 205
   },
   {
     "id": 147,
     "name": "Jack Bauer",
     "position": "HP",
     "height": "6' 4''",
-    "weight": "195",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["Lincoln Way East HS"]
+    "weight": 195
   },
   {
     "id": 148,
     "name": "Chris Billingsley Jr.",
     "position": "HP",
     "height": "6' 4''",
-    "weight": "205",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["Bibb County HS", "East Central [Miss.] CC"]
+    "weight": 205
   },
   {
     "id": 149,
     "name": "Peter Mershon",
     "position": "TL",
     "height": "6' 2''",
-    "weight": "205",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["Eastside HS"]
+    "weight": 205
   },
   {
     "id": 150,
     "name": "Maddox Webb",
     "position": "HP",
     "height": "6' 2''",
-    "weight": "195",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["Summerville HS", "The Citadel"]
+    "weight": 195
   },
   {
     "id": 151,
     "name": "Jackson Logar",
     "position": "HP",
     "height": "6' 0''",
-    "weight": "215",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["Shawnee HS", "James Madison"]
+    "weight": 215
   },
   {
     "id": 152,
     "name": "Charlie Wortham",
     "position": "TL",
     "height": "6' 1''",
-    "weight": "205",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["De Smet Jesuit HS"]
+    "weight": 205
   },
   {
     "id": 153,
     "name": "Peyton Fowler",
     "position": "HP",
     "height": "6' 3''",
-    "weight": "195",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["Germantown HS", "Meridian CC"]
+    "weight": 195
   },
   {
     "id": 154,
     "name": "Blake Bevis",
     "position": "B/OF",
     "height": "6' 4''",
-    "weight": "230",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["Ravenwood HS", "Ball State"]
+    "weight": 230
   },
   {
     "id": 155,
     "name": "Gehrig Frei",
     "position": "NF/OF",
     "height": "6' 1''",
-    "weight": "210",
-    "plays_for": [
-      "Mississippi State University 2025",
-      "Mississippi State University 2026"
-    ],
-    "attended": ["South Forsyth HS", "North Alabama"]
+    "weight": 210
   },
   {
     "id": 156,
     "name": "Ben Davis",
     "position": "HP",
     "height": "6' 4''",
-    "weight": "230",
-    "plays_for": [
-      "Mississippi State University 2025",
-      "Mississippi State University 2026"
-    ],
-    "attended": ["Booneville HS", "Itawamba CC"]
+    "weight": 230
   },
   {
     "id": 157,
     "name": "Tyler Pitzer",
     "position": "HP",
     "height": "6' 3''",
-    "weight": "205",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["South Fayette Township HS", "South Carolina"]
+    "weight": 205
   },
   {
     "id": 158,
     "name": "Brendan Sweeney",
     "position": "HP",
     "height": "6' 7''",
-    "weight": "210",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["Edmond North HS", "South Carolina"]
+    "weight": 210
   },
   {
     "id": 159,
     "name": "Patrick Spencer Jr.",
     "position": "HP",
     "height": "6' 3''",
-    "weight": "215",
-    "plays_for": ["Mississippi State University 2026"],
-    "attended": ["Washington School", "Pearl River CC"]
+    "weight": 215
   },
   {
     "id": 160,
     "name": "Jack Gleason",
     "position": "HP",
     "height": "6' 1''",
-    "weight": "200",
-    "plays_for": [
-      "Mississippi State University 2025",
-      "Mississippi State University 2026"
-    ],
-    "attended": ["Briarcrest Christian HS"]
+    "weight": 200
   },
   {
     "id": 161,
     "name": "Dane Burns",
     "position": "HP",
     "height": "6' 5''",
-    "weight": "215",
-    "plays_for": [
-      "Mississippi State University 2025",
-      "Mississippi State University 2026"
-    ],
-    "attended": ["Prosper HS"]
+    "weight": 215
   },
   {
     "id": 162,
     "name": "JT Schnoor",
     "position": "HP",
     "height": "6' 4''",
-    "weight": "225",
-    "plays_for": [
-      "Mississippi State University 2025",
-      "Mississippi State University 2026"
-    ],
-    "attended": ["Resurrection Catholic School", "Pearl River CC"]
+    "weight": 225
   },
   {
     "id": 163,
     "name": "Gatlin Sanders",
     "position": "NF",
     "height": "5' 11''",
-    "weight": "185",
-    "plays_for": [
-      "Mississippi State University 2025",
-      "Mississippi State University 2026"
-    ],
-    "attended": ["Madison Central HS", "Jones JC"]
+    "weight": 185
   },
   {
     "id": 164,
     "name": "Joey DeMucci",
     "position": "C",
     "height": "6-2",
-    "weight": "170 lbs",
-    "attended": ["Monsignor Bonner", "Monmouth"],
-    "plays_for": [
-      "Pennsylvania State University 2025",
-      "Pennsylvania State University 2026"
-    ]
+    "weight": 170
   },
   {
     "id": 165,
     "name": "Joe Jaconski",
     "position": "IF",
     "height": "6-0",
-    "weight": "190 lbs",
-    "attended": ["Plymouth Whitemarsh", "North Carolina"],
-    "plays_for": ["Pennsylvania State University 2025"]
+    "weight": 190
   },
   {
     "id": 166,
     "name": "Ryan Weingartner",
     "position": "IF",
     "height": "5-11",
-    "weight": "184 lbs",
-    "attended": ["St. Augustine", "Saint Joseph's"],
-    "plays_for": ["Pennsylvania State University 2025"]
+    "weight": 184
   },
   {
     "id": 167,
     "name": "Tyler Rowling",
     "position": "IF",
     "height": "6-1",
-    "weight": "175 lbs",
-    "attended": ["Lightridge"],
-    "plays_for": ["Pennsylvania State University 2025"]
+    "weight": 175
   },
   {
     "id": 168,
     "name": "Cohl Mercado",
     "position": "OF",
     "height": "5-8",
-    "weight": "155 lbs",
-    "attended": ["St. Joseph Regional", "Boston College"],
-    "plays_for": [
-      "Pennsylvania State University 2025",
-      "Pennsylvania State University 2026"
-    ]
+    "weight": 155
   },
   {
     "id": 169,
     "name": "Nate Voss",
     "position": "C",
     "height": "6-0",
-    "weight": "200 lbs",
-    "attended": ["Marist", "Michigan/Iowa Western C.C."],
-    "plays_for": [
-      "Pennsylvania State University 2025",
-      "Pennsylvania State University 2026"
-    ]
+    "weight": 200
   },
   {
     "id": 170,
     "name": "Mike Lucarelli",
     "position": "IF",
     "height": "6-0",
-    "weight": "190 lbs",
-    "attended": ["Paul VI"],
-    "plays_for": ["Pennsylvania State University 2025"]
+    "weight": 190
   },
   {
     "id": 171,
     "name": "Connor Throneberry",
     "position": "RHP",
     "height": "6-6",
-    "weight": "235 lbs",
-    "attended": ["Marquette Senior"],
-    "plays_for": ["Pennsylvania State University 2025"]
+    "weight": 235
   },
   {
     "id": 172,
     "name": "Ben DeMell",
     "position": "RHP",
     "height": "6-5",
-    "weight": "205 lbs",
-    "attended": ["Gilmour Academy"],
-    "plays_for": [
-      "Pennsylvania State University 2025",
-      "Pennsylvania State University 2026"
-    ]
+    "weight": 205
   },
   {
     "id": 173,
     "name": "Mason Butash",
     "position": "RHP",
     "height": "6-2",
-    "weight": "195 lbs",
-    "attended": ["Freedom"],
-    "plays_for": [
-      "Pennsylvania State University 2025",
-      "Pennsylvania State University 2026"
-    ]
+    "weight": 195
   },
   {
     "id": 174,
     "name": "Skip Shenosky",
     "position": "RHP",
     "height": "6-5",
-    "weight": "215 lbs",
-    "attended": ["Manheim Township", "Wake Forest"],
-    "plays_for": [
-      "Pennsylvania State University 2025",
-      "Pennsylvania State University 2026"
-    ]
+    "weight": 215
   },
   {
     "id": 175,
     "name": "Will Andrews",
     "position": "RHP",
     "height": "5-11",
-    "weight": "170 lbs",
-    "attended": ["Forsyth Country Day", "Wake Forest"],
-    "plays_for": ["Pennsylvania State University 2025"]
+    "weight": 170
   },
   {
     "id": 176,
     "name": "Cole Wagner",
     "position": "OF/1B",
     "height": "6-0",
-    "weight": "200 lbs",
-    "attended": ["Red Land", "Georgia"],
-    "plays_for": ["Pennsylvania State University 2025"]
+    "weight": 200
   },
   {
     "id": 177,
     "name": "Dimond Loosli",
     "position": "RHP",
     "height": "6-1",
-    "weight": "185 lbs",
-    "attended": ["Las Lomas", "Orange Coast College"],
-    "plays_for": [
-      "Pennsylvania State University 2025",
-      "Pennsylvania State University 2026"
-    ]
+    "weight": 185
   },
   {
     "id": 178,
     "name": "Logan Olson",
     "position": "LHP",
     "height": "6-5",
-    "weight": "200 lbs",
-    "attended": ["Academy of the Holy Angels", "Oregon/Iowa Western C.C."],
-    "plays_for": [
-      "Pennsylvania State University 2025",
-      "Pennsylvania State University 2026"
-    ]
+    "weight": 200
   },
   {
     "id": 179,
     "name": "Matt Maloney",
     "position": "C",
     "height": "5-11",
-    "weight": "170 lbs",
-    "attended": ["Central Catholic", "Dayton"],
-    "plays_for": ["Pennsylvania State University 2025"]
+    "weight": 170
   },
   {
     "id": 180,
     "name": "Derek Cease",
     "position": "IF",
     "height": "5-8",
-    "weight": "150 lbs",
-    "attended": ["Greater Nanticoke Area"],
-    "plays_for": ["Pennsylvania State University 2025"]
+    "weight": 150
   },
   {
     "id": 181,
     "name": "Frankie Sanchez",
     "position": "RHP",
     "height": "6-0",
-    "weight": "195 lbs",
-    "attended": ["South Brunswick", "Southern New Hampshire"],
-    "plays_for": [
-      "Pennsylvania State University 2025",
-      "Pennsylvania State University 2026"
-    ]
+    "weight": 195
   },
   {
     "id": 182,
     "name": "Brandon Wingenroth",
     "position": "RHP",
     "height": "6-1",
-    "weight": "170 lbs",
-    "attended": ["Lancaster Catholic"],
-    "plays_for": ["Pennsylvania State University 2025"]
+    "weight": 170
   },
   {
     "id": 183,
     "name": "Bryce Molinaro",
     "position": "IF",
     "height": "6-0",
-    "weight": "190 lbs",
-    "attended": ["Hazleton Area", "St. John's"],
-    "plays_for": [
-      "Pennsylvania State University 2025",
-      "Pennsylvania State University 2026"
-    ]
+    "weight": 190
   },
   {
     "id": 184,
     "name": "Jesse Jaconski",
     "position": "IF/OF",
     "height": "5-11",
-    "weight": "200 lbs",
-    "attended": ["Plymouth Whitemarsh", "North Carolina/Harford C.C."],
-    "plays_for": [
-      "Pennsylvania State University 2025",
-      "Pennsylvania State University 2026"
-    ]
+    "weight": 200
   },
   {
     "id": 185,
     "name": "Chase Renner",
     "position": "RHP",
     "height": "6-4",
-    "weight": "210 lbs",
-    "attended": ["Brandywine Heights"],
-    "plays_for": ["Pennsylvania State University 2025"]
+    "weight": 210
   },
   {
     "id": 186,
     "name": "Matt Morash",
     "position": "LHP",
     "height": "6-0",
-    "weight": "200 lbs",
-    "attended": ["Westford Academy"],
-    "plays_for": [
-      "Pennsylvania State University 2025",
-      "Pennsylvania State University 2026"
-    ]
+    "weight": 200
   },
   {
     "id": 187,
     "name": "Mason Horwat",
     "position": "RHP",
     "height": "6-1",
-    "weight": "185 lbs",
-    "attended": ["Avonworth"],
-    "plays_for": [
-      "Pennsylvania State University 2025",
-      "Pennsylvania State University 2026"
-    ]
+    "weight": 185
   },
   {
     "id": 188,
     "name": "Paxton Kling",
     "position": "OF",
     "height": "6-2",
-    "weight": "210 lbs",
-    "attended": ["Central", "LSU"],
-    "plays_for": ["Pennsylvania State University 2025"]
+    "weight": 210
   },
   {
     "id": 189,
     "name": "Carson Renner",
     "position": "RHP",
     "height": "6-2",
-    "weight": "215 lbs",
-    "attended": ["Brandywine Heights", "East Stroudsburg"],
-    "plays_for": [
-      "Pennsylvania State University 2025",
-      "Pennsylvania State University 2026"
-    ]
+    "weight": 215
   },
   {
     "id": 190,
     "name": "Anthony Steele",
     "position": "LHP",
     "height": "6-4",
-    "weight": "230 lbs",
-    "attended": ["Shelton"],
-    "plays_for": ["Pennsylvania State University 2025"]
+    "weight": 230
   },
   {
     "id": 191,
     "name": "Ryan DeSanto",
     "position": "LHP",
     "height": "6-4",
-    "weight": "218 lbs",
-    "attended": ["Tuscarora", "Saint Joseph's"],
-    "plays_for": ["Pennsylvania State University 2025"]
+    "weight": 218
   },
   {
     "id": 192,
     "name": "Charles Mau",
     "position": "LHP",
     "height": "6-3",
-    "weight": "195 lbs",
-    "attended": ["North Allegheny"],
-    "plays_for": ["Pennsylvania State University 2025"]
+    "weight": 195
   },
   {
     "id": 193,
     "name": "Sean Williams",
     "position": "RHP",
     "height": "6-2",
-    "weight": "205 lbs",
-    "attended": ["Severna Park"],
-    "plays_for": ["Pennsylvania State University 2025"]
+    "weight": 205
   },
   {
     "id": 194,
     "name": "Alec Warden",
     "position": "IF",
     "height": "6-0",
-    "weight": "180 lbs",
-    "attended": ["Thomas Jefferson"],
-    "plays_for": ["Pennsylvania State University 2025"]
+    "weight": 180
   },
   {
     "id": 195,
     "name": "Jake Haarde",
     "position": "IF",
     "height": "6-1",
-    "weight": "190 lbs",
-    "attended": ["Lincoln-Sudbury Regional"],
-    "plays_for": ["Pennsylvania State University 2025"]
+    "weight": 190
   },
   {
     "id": 196,
     "name": "Riley Weatherwax",
     "position": "RHP",
     "height": "6-2",
-    "weight": "190 lbs",
-    "attended": ["Roy C Ketcham"],
-    "plays_for": ["Pennsylvania State University 2025"]
+    "weight": 190
   },
   {
     "id": 197,
     "name": "Patrick Graham",
     "position": "IF",
     "height": "5-11",
-    "weight": "195 lbs",
-    "attended": ["Naperville North", "Wabash Valley College"],
-    "plays_for": ["Pennsylvania State University 2025"]
+    "weight": 195
   },
   {
     "id": 198,
     "name": "Zach Mizrahi",
     "position": "LHP",
     "height": "6-1",
-    "weight": "195 lbs",
-    "attended": ["Mandarin", "Tallahassee CC"],
-    "plays_for": ["Pennsylvania State University 2025"]
+    "weight": 195
   },
   {
     "id": 199,
     "name": "Brendan Gardner",
     "position": "IF",
     "height": "6-1",
-    "weight": "170 lbs",
-    "attended": ["Pomfret School (Conn.)"],
-    "plays_for": ["Pennsylvania State University 2025"]
+    "weight": 170
   },
   {
     "id": 200,
     "name": "Jack Messina",
     "position": "1B",
     "height": "6-0",
-    "weight": "205 lbs",
-    "attended": ["State College Area"],
-    "plays_for": [
-      "Pennsylvania State University 2025",
-      "Pennsylvania State University 2026"
-    ]
+    "weight": 205
   },
   {
     "id": 201,
     "name": "Jack Porter",
     "position": "IF/OF",
     "height": "6-1",
-    "weight": "185 lbs",
-    "attended": ["Father Ryan", "UCF/John A. Logan College"],
-    "plays_for": [
-      "Pennsylvania State University 2025",
-      "Pennsylvania State University 2026"
-    ]
+    "weight": 185
   },
   {
     "id": 202,
     "name": "Harrison Lollin",
     "position": "RHP",
     "height": "6-0",
-    "weight": "205 lbs",
-    "attended": ["Monroe Township"],
-    "plays_for": [
-      "Pennsylvania State University 2025",
-      "Pennsylvania State University 2026"
-    ]
+    "weight": 205
   },
   {
     "id": 203,
     "name": "Matthew VanOstenbridge",
     "position": "LHP",
     "height": "5-10",
-    "weight": "180 lbs",
-    "attended": ["Wilson"],
-    "plays_for": [
-      "Pennsylvania State University 2025",
-      "Pennsylvania State University 2026"
-    ]
+    "weight": 180
   },
   {
     "id": 204,
     "name": "Spencer Barnett",
     "position": "IF",
     "height": "6-2",
-    "weight": "205 lbs",
-    "attended": ["North Allegheny", "West Virginia"],
-    "plays_for": ["Pennsylvania State University 2026"]
+    "weight": 205
   },
   {
     "id": 205,
     "name": "Preston Yaucher",
     "position": "IF",
     "height": "5-11",
-    "weight": "200 lbs",
-    "attended": ["Edgewood"],
-    "plays_for": ["Pennsylvania State University 2026"]
+    "weight": 200
   },
   {
     "id": 206,
     "name": "Michael Anderson",
     "position": "IF",
     "height": "6-3",
-    "weight": "230 lbs",
-    "attended": ["Monsignor Bonner", "Rhode Island/Arkansas"],
-    "plays_for": ["Pennsylvania State University 2026"]
+    "weight": 230
   },
   {
     "id": 207,
     "name": "Kevin Karstetter",
     "position": "IF",
     "height": "6-3",
-    "weight": "220 lbs",
-    "attended": [
-      "IMG Academy (Fla.)",
-      "State College of Florida/Arizona State/Tampa"
-    ],
-    "plays_for": ["Pennsylvania State University 2026"]
+    "weight": 220
   },
   {
     "id": 208,
     "name": "Jimmy Gray",
     "position": "C",
     "height": "6-0",
-    "weight": "175 lbs",
-    "attended": ["Salesianum School"],
-    "plays_for": ["Pennsylvania State University 2026"]
+    "weight": 175
   },
   {
     "id": 209,
     "name": "Ben Hudson",
     "position": "RHP",
     "height": "6-2",
-    "weight": "185 lbs",
-    "attended": ["Shawnee", "West Virginia"],
-    "plays_for": ["Pennsylvania State University 2026"]
+    "weight": 185
   },
   {
     "id": 210,
     "name": "Avery Smith",
     "position": "C",
     "height": "6-2",
-    "weight": "215 lbs",
-    "attended": ["Perkiomen School"],
-    "plays_for": ["Pennsylvania State University 2026"]
+    "weight": 215
   },
   {
     "id": 211,
     "name": "Chase Roberts",
     "position": "IF",
     "height": "6-2",
-    "weight": "195 lbs",
-    "attended": ["Shawnee"],
-    "plays_for": ["Pennsylvania State University 2026"]
+    "weight": 195
   },
   {
     "id": 212,
     "name": "Ethan Bauerschmidt",
     "position": "RHP",
     "height": "6-3",
-    "weight": "180 lbs",
-    "attended": ["Kenosha Tremper"],
-    "plays_for": ["Pennsylvania State University 2026"]
+    "weight": 180
   },
   {
     "id": 213,
     "name": "Ren Devereux",
     "position": "RHP",
     "height": "6-2",
-    "weight": "200 lbs",
-    "attended": ["St. John\u2019s College HS"],
-    "plays_for": ["Pennsylvania State University 2026"]
+    "weight": 200
   },
   {
     "id": 214,
     "name": "Robert Brown III",
     "position": "RHP",
     "height": "6-1",
-    "weight": "200 lbs",
-    "attended": ["Phillips Academy Andover"],
-    "plays_for": ["Pennsylvania State University 2026"]
+    "weight": 200
   },
   {
     "id": 215,
     "name": "Leo Boucher",
     "position": "RHP",
     "height": "6-0",
-    "weight": "185 lbs",
-    "attended": ["Pinkerton Academy"],
-    "plays_for": ["Pennsylvania State University 2026"]
+    "weight": 185
   },
   {
     "id": 216,
     "name": "Braden Leed",
     "position": "RHP",
     "height": "6-3",
-    "weight": "210 lbs",
-    "attended": ["Manheim Township"],
-    "plays_for": ["Pennsylvania State University 2026"]
+    "weight": 210
   },
   {
     "id": 217,
     "name": "Peter Thompson",
     "position": "RHP",
     "height": "6-4",
-    "weight": "195 lbs",
-    "attended": ["Loyola Academy"],
-    "plays_for": ["Pennsylvania State University 2026"]
+    "weight": 195
   },
   {
     "id": 218,
     "name": "Colin Fitzgerald",
     "position": "RHP",
     "height": "6-1",
-    "weight": "200 lbs",
-    "attended": ["Manheim Township", "Maine"],
-    "plays_for": ["Pennsylvania State University 2026"]
+    "weight": 200
   },
   {
     "id": 219,
     "name": "Dylan Firmstone",
     "position": "RHP",
     "height": "6-3",
-    "weight": "178 lbs",
-    "attended": ["Hempfield Area"],
-    "plays_for": ["Pennsylvania State University 2026"]
+    "weight": 178
   },
   {
     "id": 220,
     "name": "Isaiah Shayter",
     "position": "RHP",
     "height": "6-2",
-    "weight": "190 lbs",
-    "attended": ["Elizabethtown Area"],
-    "plays_for": ["Pennsylvania State University 2026"]
+    "weight": 190
   },
   {
     "id": 221,
     "name": "Maddox McDonald",
     "position": "OF",
     "height": "6-1",
-    "weight": "205 lbs",
-    "attended": ["Antonian College Prep", "Trinity"],
-    "plays_for": ["Pennsylvania State University 2026"]
+    "weight": 205
   },
   {
     "id": 222,
     "name": "Justin Turcovski",
     "position": "OF",
     "height": "5-10",
-    "weight": "190 lbs",
-    "attended": ["Norwin", "Pitt-Johnstown"],
-    "plays_for": ["Pennsylvania State University 2026"]
+    "weight": 190
   },
   {
     "id": 223,
     "name": "Kyle Emmons",
     "position": "RHP",
     "height": "6-4",
-    "weight": "220 lbs",
-    "attended": ["Archbishop Spalding", "Towson"],
-    "plays_for": ["Pennsylvania State University 2026"]
+    "weight": 220
   },
   {
     "id": 224,
     "name": "RJ Hamilton",
     "position": "UTL",
     "height": "5'10\"",
-    "weight": "185",
-    "attended": ["Hoover"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 185
   },
   {
     "id": 225,
     "name": "Jayden Davis",
     "position": "IF",
     "height": "5-10",
-    "weight": "195 lbs",
-    "attended": ["Cookeville", "Samford", "Vanderbilt University"],
-    "plays_for": [
-      "Vanderbilt University 2025",
-      "Pennsylvania State University 2026"
-    ]
+    "weight": 195
   },
   {
     "id": 226,
     "name": "Mike Mancini",
     "position": "INF",
     "height": "5'11\"",
-    "weight": "173",
-    "attended": ["Maine-Endwell"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 173
   },
   {
     "id": 227,
     "name": "Chris Maldonado",
     "position": "INF",
     "height": "6'1\"",
-    "weight": "196",
-    "attended": ["Seton Hall Prep"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 196
   },
   {
     "id": 228,
     "name": "Brodie Johnston",
     "position": "INF",
     "height": "6'2\"",
-    "weight": "203",
-    "attended": ["Boyd-Buchanan School"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 203
   },
   {
     "id": 229,
     "name": "Jacob Humphrey",
     "position": "UTL",
     "height": "5'10\"",
-    "weight": "180",
-    "attended": ["Bonny Eagle"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 180
   },
   {
     "id": 230,
     "name": "Jonathan Vastine",
     "position": "INF",
     "height": "5'11\"",
-    "weight": "174",
-    "attended": ["Bartow"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 174
   },
   {
     "id": 231,
     "name": "Mac Rose",
     "position": "C",
     "height": "6'0\"",
-    "weight": "195",
-    "attended": ["Rockwall"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 195
   },
   {
     "id": 232,
     "name": "Ryan Ginther",
     "position": "LHP",
     "height": "5'11\"",
-    "weight": "198",
-    "attended": ["Station Camp"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 198
   },
   {
     "id": 233,
     "name": "JD Rogers",
     "position": "OF",
     "height": "5'10\"",
-    "weight": "207",
-    "attended": ["Carmel"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 207
   },
   {
     "id": 234,
     "name": "Rustan Rigdon",
     "position": "INF",
     "height": "6'0\"",
-    "weight": "177",
-    "attended": ["Metter"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 177
   },
   {
     "id": 235,
     "name": "David Mendez",
     "position": "UTL",
     "height": "5'11\"",
-    "weight": "184",
-    "attended": ["Independence"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 184
   },
   {
     "id": 236,
     "name": "Hudson Barton",
     "position": "RHP",
     "height": "6'3\"",
-    "weight": "199",
-    "attended": ["Grace Christian Academy"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 199
   },
   {
     "id": 237,
     "name": "JD Thompson",
     "position": "LHP",
     "height": "6'0\"",
-    "weight": "199",
-    "attended": ["Rusk"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 199
   },
   {
     "id": 238,
     "name": "AJ DePaolo",
     "position": "C",
     "height": "5'11\"",
-    "weight": "195",
-    "attended": ["Prestonwood Christian Academy"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 195
   },
   {
     "id": 239,
     "name": "Braden Holcomb",
     "position": "INF",
     "height": "6'5\"",
-    "weight": "240",
-    "attended": ["Foundation Academy"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 240
   },
   {
     "id": 240,
     "name": "Will Hampton",
     "position": "INF/OF",
     "height": "5'11\"",
-    "weight": "197",
-    "attended": ["Calvary Day"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 197
   },
   {
     "id": 241,
     "name": "Ethan Robinson",
     "position": "RHP",
     "height": "6'5\"",
-    "weight": "223",
-    "attended": ["Donelson Christian Academy"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 223
   },
   {
     "id": 242,
     "name": "Riley Nelson",
     "position": "INF",
     "height": "6'3\"",
-    "weight": "222",
-    "attended": ["Byron Nelson"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 222
   },
   {
     "id": 243,
     "name": "Luke Guth",
     "position": "RHP",
     "height": "6'1\"",
-    "weight": "182",
-    "attended": ["Franklin Area"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 182
   },
   {
     "id": 244,
     "name": "Brennan Seiber",
     "position": "RHP",
     "height": "6'6\"",
-    "weight": "240",
-    "attended": ["Mater Dei"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 240
   },
   {
     "id": 245,
     "name": "Levi Huesman",
     "position": "LHP",
     "height": "6'0\"",
-    "weight": "186",
-    "attended": ["Hanover"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 186
   },
   {
     "id": 246,
     "name": "Jakob Schulz",
     "position": "LHP",
     "height": "6'2\"",
-    "weight": "206",
-    "attended": ["Memorial"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 206
   },
   {
     "id": 247,
     "name": "Connor Fennell",
     "position": "RHP",
     "height": "6'1\"",
-    "weight": "168",
-    "attended": ["Londonderry"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 168
   },
   {
     "id": 248,
     "name": "Austin Nye",
     "position": "RHP",
     "height": "6'2\"",
-    "weight": "205",
-    "attended": ["Woodcreek"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 205
   },
   {
     "id": 249,
     "name": "RJ Austin",
     "position": "UTL",
     "height": "5'11\"",
-    "weight": "199",
-    "attended": ["Pace Academy"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 199
   },
   {
     "id": 250,
     "name": "Matthew Shorey",
     "position": "LHP",
     "height": "6'2\"",
-    "weight": "176",
-    "attended": ["Father Ryan"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 176
   },
   {
     "id": 251,
     "name": "Colin Barczi",
     "position": "C",
     "height": "6'3\"",
-    "weight": "213",
-    "attended": ["Naperville Central"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 213
   },
   {
     "id": 252,
     "name": "Aiden O'Connell",
     "position": "LHP",
     "height": "6'2\"",
-    "weight": "191",
-    "attended": ["Bedford"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 191
   },
   {
     "id": 253,
     "name": "Roman Petricca",
     "position": "LHP",
     "height": "6'2\"",
-    "weight": "175",
-    "attended": ["Mt. Juliet"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 175
   },
   {
     "id": 254,
     "name": "Tommy Goodin",
     "position": "OF",
     "height": "6'1\"",
-    "weight": "192",
-    "attended": ["Adolfo Camarillo"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 192
   },
   {
     "id": 255,
     "name": "Aukai Kea",
     "position": "C",
     "height": "6'1\"",
-    "weight": "202",
-    "attended": ["IMG Academy"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 202
   },
   {
     "id": 256,
     "name": "Ryker Waite",
     "position": "INF",
     "height": "5'10\"",
-    "weight": "176",
-    "attended": ["Queen Creek"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 176
   },
   {
     "id": 257,
     "name": "Cody Bowker",
     "position": "RHP",
     "height": "6'1\"",
-    "weight": "212",
-    "attended": ["Thornton Academy"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 212
   },
   {
     "id": 258,
     "name": "Deegan Cordova",
     "position": "RHP",
     "height": "6'2\"",
-    "weight": "188",
-    "attended": ["Lake Havasu"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 188
   },
   {
     "id": 259,
     "name": "Tristan Bristow",
     "position": "RHP",
     "height": "6'3\"",
-    "weight": "189",
-    "attended": ["Harlan"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 189
   },
   {
     "id": 260,
     "name": "Tommy O'Rourke",
     "position": "RHP",
     "height": "6'2\"",
-    "weight": "211",
-    "attended": ["Seton Hall Prep"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 211
   },
   {
     "id": 261,
     "name": "Alex Kranzler",
     "position": "RHP",
     "height": "6'3\"",
-    "weight": "222",
-    "attended": ["Northern Valley Regional"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 222
   },
   {
     "id": 262,
     "name": "Sawyer Hawks",
     "position": "RHP",
     "height": "6'4\"",
-    "weight": "215",
-    "attended": ["McKeel Academy"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 215
   },
   {
     "id": 263,
     "name": "Ethan McElvain",
     "position": "LHP",
     "height": "6'4\"",
-    "weight": "238",
-    "attended": ["Nolensville"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 238
   },
   {
     "id": 264,
     "name": "Miller Green",
     "position": "LHP",
     "height": "6'5\"",
-    "weight": "230",
-    "attended": ["Lipscomb Academy"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 230
   },
   {
     "id": 265,
     "name": "Nate Teague",
     "position": "RHP",
     "height": "6'7\"",
-    "weight": "232",
-    "attended": ["Southern Alamance"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 232
   },
   {
     "id": 266,
     "name": "England Bryan",
     "position": "RHP",
     "height": "6'1\"",
-    "weight": "231",
-    "attended": ["Middle Tennessee Christian"],
-    "plays_for": ["Vanderbilt University 2025"]
+    "weight": 231
   },
   {
     "id": 267,
     "name": "Dorian Gonzalez Jr.",
     "position": "Infield",
     "height": "5-9",
-    "weight": "192 lbs.",
-    "attended": ["Belen Jesuit"],
-    "plays_for": ["University of Miami 2025"]
+    "weight": 192
   },
   {
     "id": 268,
     "name": "Derek Williams",
     "position": "Outfield",
     "height": "6-0",
-    "weight": "205 lbs.",
-    "attended": ["Wichita State", "Windsor"],
-    "plays_for": ["University of Miami 2025", "University of Miami 2026"]
+    "weight": 205
   },
   {
     "id": 269,
     "name": "Jake Ogden",
     "position": "Infield",
     "height": "6-0",
-    "weight": "195 lbs.",
-    "attended": ["UNC Greensboro", "Coral Reef"],
-    "plays_for": ["University of Miami 2025", "University of Miami 2026"]
+    "weight": 195
   },
   {
     "id": 270,
     "name": "Brandon DeGoti",
     "position": "Infield",
     "height": "5-11",
-    "weight": "180 lbs.",
-    "attended": ["Belen Jesuit"],
-    "plays_for": ["University of Miami 2025", "University of Miami 2026"]
+    "weight": 180
   },
   {
     "id": 271,
     "name": "Max Galvin",
     "position": "Outfield",
     "height": "6-2",
-    "weight": "205 lbs.",
-    "attended": ["Oklahoma State", "IMG Academy"],
-    "plays_for": ["University of Miami 2025", "University of Miami 2026"]
+    "weight": 205
   },
   {
     "id": 272,
     "name": "Carson Fischer",
     "position": "Right-handed pitcher",
     "height": "6-5",
-    "weight": "225 lbs.",
-    "attended": ["Davenport", "Hudsonville"],
-    "plays_for": ["University of Miami 2025"]
+    "weight": 225
   },
   {
     "id": 273,
     "name": "Rob Evans",
     "position": "Left-handed pitcher",
     "height": "6-1",
-    "weight": "230 lbs.",
-    "attended": ["Georgia State", "P27 Academy"],
-    "plays_for": ["University of Miami 2025", "University of Miami 2026"]
+    "weight": 230
   },
   {
     "id": 274,
     "name": "Brian  Walters",
     "position": "Right-handed Pitcher",
     "height": "6-3",
-    "weight": "194 lbs.",
-    "attended": ["Eastern Florida State", "Bayside"],
-    "plays_for": ["University of Miami 2025"]
+    "weight": 194
   },
   {
     "id": 275,
     "name": "Griffin Hugus",
     "position": "Right-handed pitcher",
     "height": "6-1",
-    "weight": "210 lbs.",
-    "attended": ["Cincinnati", "Cardinal Newman"],
-    "plays_for": ["University of Miami 2025"]
+    "weight": 210
   },
   {
     "id": 276,
     "name": "Daniel Cuvet",
     "position": "Infield",
     "height": "6-4",
-    "weight": "235 lbs.",
-    "attended": ["Elite Squad Baseball Academy"],
-    "plays_for": ["University of Miami 2025", "University of Miami 2026"]
+    "weight": 235
   },
   {
     "id": 277,
     "name": "Bobby Marsh",
     "position": "Outfield",
     "height": "6-2",
-    "weight": "208 lbs.",
-    "attended": ["Penn State", "Bellafonte"],
-    "plays_for": ["University of Miami 2025"]
+    "weight": 208
   },
   {
     "id": 278,
     "name": "Todd Hudson",
     "position": "Outfield/Infield",
     "height": "6-6",
-    "weight": "230 lbs.",
-    "attended": ["Liberty", "River Bluff"],
-    "plays_for": ["University of Miami 2025"]
+    "weight": 230
   },
   {
     "id": 279,
     "name": "Nolan Johnson",
     "position": "Catcher",
     "height": "6-6",
-    "weight": "215 lbs.",
-    "attended": ["Westlake"],
-    "plays_for": ["University of Miami 2025"]
+    "weight": 215
   },
   {
     "id": 280,
     "name": "Reese Lumpkin",
     "position": "Right-handed pitcher",
     "height": "6-6",
-    "weight": "207 lbs.",
-    "attended": ["Winthrop", "Spring Valley"],
-    "plays_for": ["University of Miami 2025"]
+    "weight": 207
   },
   {
     "id": 281,
     "name": "Jake Kulikowski",
     "position": "Outfield",
     "height": "5-11",
-    "weight": "200 lbs.",
-    "attended": ["Tampa Jesuit"],
-    "plays_for": ["University of Miami 2025"]
+    "weight": 200
   },
   {
     "id": 282,
     "name": "Tate DeRias",
     "position": "Right-handed pitcher",
     "height": "6-4",
-    "weight": "188 lbs.",
-    "attended": ["Gloucester Catholic"],
-    "plays_for": ["University of Miami 2025", "University of Miami 2026"]
+    "weight": 188
   },
   {
     "id": 283,
     "name": "Tanner Smith",
     "position": "Catcher",
     "height": "6-0",
-    "weight": "200 lbs.",
-    "attended": ["Oregon State", "Basha"],
-    "plays_for": ["University of Miami 2025"]
+    "weight": 200
   },
   {
     "id": 284,
     "name": "Will Smith",
     "position": "Right-handed pitcher",
     "height": "6-0",
-    "weight": "195 lbs.",
-    "attended": ["Coastal Carolina", "Conway"],
-    "plays_for": ["University of Miami 2025"]
+    "weight": 195
   },
   {
     "id": 285,
     "name": "Michael Torres",
     "position": "Outfield",
     "height": "5-11",
-    "weight": "185 lbs.",
-    "attended": ["Doral Academy"],
-    "plays_for": ["University of Miami 2025", "University of Miami 2026"]
+    "weight": 185
   },
   {
     "id": 286,
     "name": "Alex Stanyek",
     "position": "Right-handed pitcher",
     "height": "5-11",
-    "weight": "180 lbs.",
-    "attended": ["Red Bank Catholic"],
-    "plays_for": ["University of Miami 2025"]
+    "weight": 180
   },
   {
     "id": 287,
     "name": "Nick Robert",
     "position": "Right-handed pitcher",
     "height": "6-5",
-    "weight": "230 lbs.",
-    "attended": ["Martin County"],
-    "plays_for": ["University of Miami 2025", "University of Miami 2026"]
+    "weight": 230
   },
   {
     "id": 288,
     "name": "Fabio Peralta",
     "position": "Outfield",
     "height": "6-2",
-    "weight": "185 lbs.",
-    "attended": ["Miami Christian"],
-    "plays_for": ["University of Miami 2025", "University of Miami 2026"]
+    "weight": 185
   },
   {
     "id": 289,
     "name": "Amaury De Jesus",
     "position": "Infield",
     "height": "5-10",
-    "weight": "175 lbs.",
-    "attended": ["Varela"],
-    "plays_for": ["University of Miami 2025"]
+    "weight": 175
   },
   {
     "id": 290,
     "name": "Michael Fernandez",
     "position": "Left-handed pitcher",
     "height": "5-10",
-    "weight": "170 lbs.",
-    "attended": ["Gaither"],
-    "plays_for": ["University of Miami 2025", "University of Miami 2026"]
+    "weight": 170
   },
   {
     "id": 291,
     "name": "Evan Taveras",
     "position": "Catcher",
     "height": "6-2",
-    "weight": "210 lbs.",
-    "attended": ["Canterbury"],
-    "plays_for": ["University of Miami 2025"]
+    "weight": 210
   },
   {
     "id": 292,
     "name": "Alex Giroux",
     "position": "Right-handed pitcher",
     "height": "6-0",
-    "weight": "185 lbs.",
-    "attended": ["Hawai'i", "Lake Oswego"],
-    "plays_for": ["University of Miami 2025"]
+    "weight": 185
   },
   {
     "id": 293,
     "name": "Ryan Ashford",
     "position": "Left-handed pitcher",
     "height": "6-2",
-    "weight": "212 lbs.",
-    "attended": ["Lake Mary"],
-    "plays_for": ["University of Miami 2025"]
+    "weight": 212
   },
   {
     "id": 294,
     "name": "Jake Dorn",
     "position": "Left-handed pitcher",
     "height": "6-4",
-    "weight": "235 lbs.",
-    "attended": ["Lake Sumter State", "Cooper City"],
-    "plays_for": ["University of Miami 2025", "University of Miami 2026"]
+    "weight": 235
   },
   {
     "id": 295,
     "name": "Brixton Lofgren",
     "position": "Right-handed pitcher",
     "height": "6-0",
-    "weight": "183 lbs.",
-    "attended": ["Fordham University", "Gulliver Prep"],
-    "plays_for": ["University of Miami 2025", "University of Miami 2026"]
+    "weight": 183
   },
   {
     "id": 296,
     "name": "Ethan Puig",
     "position": "Catcher/Infield",
     "height": "5-11",
-    "weight": "195 lbs.",
-    "attended": ["Westminster Christian"],
-    "plays_for": ["University of Miami 2025"]
+    "weight": 195
   },
   {
     "id": 297,
     "name": "Jackson Cleveland",
     "position": "Right-handed pitcher",
     "height": "6-0",
-    "weight": "200 lbs.",
-    "attended": ["Lamar", "Deer Park"],
-    "plays_for": ["University of Miami 2025"]
+    "weight": 200
   },
   {
     "id": 298,
     "name": "Renzo Gonzalez",
     "position": "Infield/Outfield",
     "height": "5-10",
-    "weight": "195 lbs.",
-    "attended": ["Doral Academy"],
-    "plays_for": ["University of Miami 2025"]
+    "weight": 195
   },
   {
     "id": 299,
     "name": "Adrian Areizaga",
     "position": "Infield",
     "height": "6-1",
-    "weight": "190 lbs.",
-    "attended": ["Leadership Christian Academy"],
-    "plays_for": ["University of Miami 2025"]
+    "weight": 190
   },
   {
     "id": 300,
     "name": "Gaby Gutierrez",
     "position": "Outfield",
     "height": "5-10",
-    "weight": "215 lbs.",
-    "attended": ["Doral Academy"],
-    "plays_for": ["University of Miami 2025"]
+    "weight": 215
   },
   {
     "id": 301,
     "name": "Lazaro Collera",
     "position": "Right-handed pitcher",
     "height": "6-5",
-    "weight": "225 lbs.",
-    "attended": ["Westminster Christian"],
-    "plays_for": ["University of Miami 2025", "University of Miami 2026"]
+    "weight": 225
   },
   {
     "id": 302,
     "name": "Vance Sheahan",
     "position": "Infield",
     "height": "6-0",
-    "weight": "185 lbs.",
-    "attended": ["Cardinal Newman", "USC-Upstate"],
-    "plays_for": ["University of Miami 2026"]
+    "weight": 185
   },
   {
     "id": 303,
     "name": "Lyndon Glidewell",
     "position": "Right-handed pitcher",
     "height": "6-2",
-    "weight": "180 lbs.",
-    "attended": ["Murrieta Valley", "Austin Peay"],
-    "plays_for": ["University of Miami 2026"]
+    "weight": 180
   },
   {
     "id": 304,
     "name": "Alex Sosa",
     "position": "Catcher",
     "height": "6-1",
-    "weight": "205 lbs.",
-    "attended": ["Viera", "NC State"],
-    "plays_for": ["University of Miami 2026"]
+    "weight": 205
   },
   {
     "id": 305,
     "name": "Cian Copeland",
     "position": "Infield/Outfield",
     "height": "6-3",
-    "weight": "211 lbs.",
-    "attended": ["Jensen Beach", "Miami-Dade College"],
-    "plays_for": ["University of Miami 2026"]
+    "weight": 211
   },
   {
     "id": 306,
     "name": "Frank Menendez",
     "position": "Right-handed pitcher",
     "height": "6-1",
-    "weight": "220 lbs.",
-    "attended": ["Doral Academy Charter", "Univeristy of Florida"],
-    "plays_for": ["University of Florida 2025", "University of Miami 2026"]
+    "weight": 220
   },
   {
     "id": 307,
     "name": "TJ Coats",
     "position": "Right-handed pitcher",
     "height": "6-2",
-    "weight": "213 lbs.",
-    "attended": ["Blue Valley SW", "Nebraska"],
-    "plays_for": ["University of Miami 2026"]
+    "weight": 213
   },
   {
     "id": 308,
     "name": "Michael Taylor",
     "position": "Right-handed pitcher",
     "height": "6-4",
-    "weight": "225 lbs.",
-    "attended": ["West Ranch", "UNLV"],
-    "plays_for": ["University of Miami 2026"]
+    "weight": 225
   },
   {
     "id": 309,
     "name": "Patrick Bradley-Cooney",
     "position": "Right-handed pitcher",
     "height": "6-2",
-    "weight": "200 lbs.",
-    "attended": ["Arlington Catholic", "Alabama"],
-    "plays_for": ["University of Miami 2026"]
+    "weight": 200
   },
   {
     "id": 310,
     "name": "Jackson Hugus",
     "position": "Catcher",
     "height": "5-10",
-    "weight": "205 lbs.",
-    "attended": ["Wellington", "Presbyterian"],
-    "plays_for": ["University of Miami 2026"]
+    "weight": 205
   },
   {
     "id": 311,
     "name": "Brylan West",
     "position": "Infield",
     "height": "6-3",
-    "weight": "240 lbs.",
-    "attended": ["Freedom", "FIU"],
-    "plays_for": ["University of Miami 2026"]
+    "weight": 240
   },
   {
     "id": 312,
     "name": "Ryan Bilka",
     "position": "Right-handed pitcher",
     "height": "6-1",
-    "weight": "202 lbs.",
-    "attended": ["Christian Brothers Academy", "Richmond"],
-    "plays_for": ["University of Miami 2026"]
+    "weight": 202
   },
   {
     "id": 313,
     "name": "Erick Peralta",
     "position": "Right-handed pitcher",
     "height": "6-5",
-    "weight": "240 lbs.",
-    "attended": ["Grand Street Campus"],
-    "plays_for": ["University of Miami 2026"]
+    "weight": 240
   },
   {
     "id": 314,
     "name": "Alonzo Alvarez",
     "position": "Catcher",
     "height": "6-3",
-    "weight": "200 lbs.",
-    "attended": ["Heritage"],
-    "plays_for": ["University of Miami 2026"]
+    "weight": 200
   },
   {
     "id": 315,
     "name": "Jake Lodgek",
     "position": "Right-handed pitcher",
     "height": "6-1",
-    "weight": "180 lbs.",
-    "attended": ["Mainland Regional"],
-    "plays_for": ["University of Miami 2026"]
+    "weight": 180
   },
   {
     "id": 316,
     "name": "Eddie Zaun",
     "position": "Infield",
     "height": "6-0",
-    "weight": "200 lbs.",
-    "attended": ["Venice Senior"],
-    "plays_for": ["University of Miami 2026"]
+    "weight": 200
   },
   {
     "id": 317,
     "name": "Jailen Watkins",
     "position": "Infield",
     "height": "5-7",
-    "weight": "160 lbs.",
-    "attended": ["Sachse"],
-    "plays_for": ["University of Miami 2026"]
+    "weight": 160
   },
   {
     "id": 318,
     "name": "Mario Magana",
     "position": "Outfield",
     "height": "6-3",
-    "weight": "190 lbs.",
-    "attended": ["Christopher Columbus"],
-    "plays_for": ["University of Miami 2026"]
+    "weight": 190
   },
   {
     "id": 319,
     "name": "Donavan Jeffery",
     "position": "Infield",
     "height": "6-1",
-    "weight": "225 lbs.",
-    "attended": ["Pro Development Group"],
-    "plays_for": ["University of Miami 2026"]
+    "weight": 225
   },
   {
     "id": 320,
     "name": "Dylan Dubovik",
     "position": "Outfield/Right-handed pitcher",
     "height": "6-4",
-    "weight": "200 lbs.",
-    "attended": ["American Heritage"],
-    "plays_for": ["University of Miami 2026"]
+    "weight": 200
   },
   {
     "id": 321,
     "name": "Bennett Gary",
     "position": "Outfield",
     "height": "5-9",
-    "weight": "160 lbs.",
-    "attended": ["Marjory Stoneman Douglas"],
-    "plays_for": ["University of Miami 2026"]
+    "weight": 160
   },
   {
     "id": 322,
     "name": "Mason Greenhouse",
     "position": "Outfield",
     "height": "6-3",
-    "weight": "190 lbs.",
-    "attended": ["Aquinas"],
-    "plays_for": ["University of Miami 2026"]
+    "weight": 190
   },
   {
     "id": 323,
     "name": "Jack Durso",
     "position": "Left-handed pitcher",
     "height": "6-3",
-    "weight": "205 lbs.",
-    "attended": ["Kellenberg Memorial"],
-    "plays_for": ["University of Miami 2026"]
+    "weight": 205
   },
   {
     "id": 324,
     "name": "AJ Ciscar",
     "position": "Right-handed pitcher",
     "height": "6-4",
-    "weight": "209 lbs.",
-    "attended": ["St. Thomas Aquinas"],
-    "plays_for": ["University of Miami 2025", "University of Miami 2026"]
+    "weight": 209
   },
   {
     "id": 325,
     "name": "Lonzo Drummond",
     "position": "Left-handed pitcher",
     "height": "6-2",
-    "weight": "165 lbs.",
-    "attended": ["TNXL Academy"],
-    "plays_for": ["University of Miami 2026"]
+    "weight": 165
   },
   {
     "id": 326,
     "name": "Sebastian Santos-Olson",
     "position": "Left-handed pitcher",
     "height": "6-3",
-    "weight": "225 lbs.",
-    "attended": ["The Stony Brook School"],
-    "plays_for": ["University of Miami 2026"]
+    "weight": 225
   },
   {
     "id": 327,
     "name": "Gabriel Milano",
     "position": "Infield",
     "height": "6-0",
-    "weight": "190 lbs.",
-    "attended": ["Doral Academy"],
-    "plays_for": ["University of Miami 2026"]
+    "weight": 190
   },
   {
     "id": 328,
     "name": "Gavin Turley",
     "position": "OF",
     "height": "6' 1''",
-    "weight": "196",
-    "attended": ["Hamilton"],
-    "plays_for": ["Oregon State University 2025"]
+    "weight": 196
   },
   {
     "id": 329,
     "name": "Dallas Macias",
     "position": "OF",
     "height": "6' 0''",
-    "weight": "203",
-    "attended": ["Regis Jesuit"],
-    "plays_for": ["Oregon State University 2025"]
+    "weight": 203
   },
   {
     "id": 330,
     "name": "Carson McEntire",
     "position": "OF",
     "height": "6' 1''",
-    "weight": "192",
-    "attended": ["Mountain Ridge"],
-    "plays_for": ["Oregon State University 2025"]
+    "weight": 192
   },
   {
     "id": 331,
     "name": "Chase Reynolds",
     "position": "RHP",
     "height": "6' 1''",
-    "weight": "211",
-    "attended": ["West Albany"],
-    "plays_for": ["Oregon State University 2025"]
+    "weight": 211
   },
   {
     "id": 332,
     "name": "Aiva Arquette",
     "position": "INF",
     "height": "6' 5''",
-    "weight": "220",
-    "attended": ["Saint Louis"],
-    "plays_for": ["Oregon State University 2025"]
+    "weight": 220
   },
   {
     "id": 333,
     "name": "Wilson Weber",
     "position": "C",
     "height": "6' 1''",
-    "weight": "222",
-    "attended": ["Sam Barlow"],
-    "plays_for": ["Oregon State University 2025"]
+    "weight": 222
   },
   {
     "id": 334,
     "name": "Kellan Oakes",
     "position": "RHP",
     "height": "6' 2''",
-    "weight": "201",
-    "attended": ["Canby"],
-    "plays_for": ["Oregon State University 2025"]
+    "weight": 201
   },
   {
     "id": 335,
     "name": "James DeCremer",
     "position": "RHP",
     "height": "6' 2''",
-    "weight": "205",
-    "attended": ["Brophy College Prep"],
-    "plays_for": ["Oregon State University 2025"]
+    "weight": 205
   },
   {
     "id": 336,
     "name": "Canon Reeder",
     "position": "OF",
     "height": "6' 0''",
-    "weight": "188",
-    "attended": ["Summit"],
-    "plays_for": ["Oregon State University 2025"]
+    "weight": 188
   },
   {
     "id": 337,
     "name": "Joey Mundt",
     "position": "RHP",
     "height": "6' 4''",
-    "weight": "224",
-    "attended": ["Central Catholic"],
-    "plays_for": ["Oregon State University 2025"]
+    "weight": 224
   },
   {
     "id": 338,
     "name": "Noah Ferguson",
     "position": "RHP",
     "height": "5' 10''",
-    "weight": "188",
-    "attended": ["South Salem"],
-    "plays_for": ["Oregon State University 2025"]
+    "weight": 188
   },
   {
     "id": 339,
     "name": "Dawson Santana",
     "position": "INF",
     "height": "5' 6''",
-    "weight": "151",
-    "attended": ["Lakeridge"],
-    "plays_for": ["Oregon State University 2025"]
+    "weight": 151
   },
   {
     "id": 340,
     "name": "Bryce Johnson",
     "position": "RHP",
     "height": "6' 3''",
-    "weight": "212",
-    "attended": ["Eastlake"],
-    "plays_for": ["Oregon State University 2025"]
+    "weight": 212
   },
   {
     "id": 341,
     "name": "Laif Palmer",
     "position": "RHP",
     "height": "6' 6''",
-    "weight": "207",
-    "attended": ["Golden"],
-    "plays_for": ["Oregon State University 2025"]
+    "weight": 207
   },
   {
     "id": 342,
     "name": "Nelson Keljo",
     "position": "LHP",
     "height": "6' 4''",
-    "weight": "228",
-    "attended": ["Jesuit"],
-    "plays_for": ["Oregon State University 2025"]
+    "weight": 228
   },
   {
     "id": 343,
     "name": "Trent Caraway",
     "position": "INF",
     "height": "6' 2''",
-    "weight": "203",
-    "attended": ["JSerra Catholic"],
-    "plays_for": ["Oregon State University 2025"]
+    "weight": 203
   },
   {
     "id": 344,
     "name": "Tyce Peterson",
     "position": "INF",
     "height": "5' 10''",
-    "weight": "197",
-    "attended": ["Juanita"],
-    "plays_for": ["Oregon State University 2025"]
+    "weight": 197
   },
   {
     "id": 345,
     "name": "Isaac Yeager",
     "position": "RHP",
     "height": "6' 6''",
-    "weight": "254",
-    "attended": ["Bishop Blanchet"],
-    "plays_for": ["Oregon State University 2026"]
+    "weight": 254
   },
   {
     "id": 346,
     "name": "Cooper Vance",
     "position": "INF",
     "height": "6' 0''",
-    "weight": "196",
-    "attended": ["Mohwak"],
-    "plays_for": ["Oregon State University 2026"]
+    "weight": 196
   },
   {
     "id": 347,
     "name": "Nyan Hayes",
     "position": "INF/OF",
     "height": "5' 9''",
-    "weight": "165",
-    "attended": ["Curtis"],
-    "plays_for": ["Oregon State University 2026"]
+    "weight": 165
   },
   {
     "id": 348,
     "name": "Mason Pike",
     "position": "RHP/INF",
     "height": "5' 11''",
-    "weight": "208",
-    "attended": ["Puyallup"],
-    "plays_for": ["Oregon State University 2026"]
+    "weight": 208
   },
   {
     "id": 349,
     "name": "Adam Haight",
     "position": "RHP/OF",
     "height": "6' 2''",
-    "weight": "193",
-    "attended": ["Cedar Park Christian"],
-    "plays_for": [
-      "Oregon State University 2025",
-      "Oregon State University 2026"
-    ]
+    "weight": 193
   },
   {
     "id": 350,
     "name": "Easton Talt",
     "position": "OF",
     "height": "5' 10''",
-    "weight": "175",
-    "attended": ["Sunrise Mountain (AZ)"],
-    "plays_for": [
-      "Oregon State University 2025",
-      "Oregon State University 2026"
-    ]
+    "weight": 175
   },
   {
     "id": 351,
     "name": "AJ Singer",
     "position": "INF",
     "height": "5' 10''",
-    "weight": "171",
-    "attended": ["Mountain Ridge"],
-    "plays_for": [
-      "Oregon State University 2025",
-      "Oregon State University 2026"
-    ]
+    "weight": 171
   },
   {
     "id": 352,
     "name": "Dax Whitney",
     "position": "RHP",
     "height": "6' 5''",
-    "weight": "201",
-    "attended": ["Blackfoot"],
-    "plays_for": [
-      "Oregon State University 2025",
-      "Oregon State University 2026"
-    ]
+    "weight": 201
   },
   {
     "id": 353,
     "name": "Jace Miller",
     "position": "OF",
     "height": "6' 0''",
-    "weight": "190",
-    "attended": ["South Medford"],
-    "plays_for": ["Oregon State University 2026"]
+    "weight": 190
   },
   {
     "id": 354,
     "name": "Bryce Hubbard",
     "position": "C",
     "height": "6' 0''",
-    "weight": "225",
-    "attended": ["Wesleyan"],
-    "plays_for": [
-      "Oregon State University 2025",
-      "Oregon State University 2026"
-    ]
+    "weight": 225
   },
   {
     "id": 355,
     "name": "Tanner Douglas",
     "position": "LHP",
     "height": "6' 2''",
-    "weight": "199",
-    "attended": ["South Medford"],
-    "plays_for": [
-      "Oregon State University 2025",
-      "Oregon State University 2026"
-    ]
+    "weight": 199
   },
   {
     "id": 356,
     "name": "Jacob Galloway",
     "position": "C",
     "height": "5' 9''",
-    "weight": "163",
-    "attended": ["Harvard Westlake"],
-    "plays_for": ["Oregon State University 2026"]
+    "weight": 163
   },
   {
     "id": 357,
     "name": "Tyler Inge",
     "position": "INF",
     "height": "6' 0''",
-    "weight": "176",
-    "attended": ["Detroit County"],
-    "plays_for": ["Oregon State University 2026"]
+    "weight": 176
   },
   {
     "id": 358,
     "name": "Ryan VandenBrink",
     "position": "C/INF",
     "height": "6' 1''",
-    "weight": "231",
-    "attended": ["West Linn"],
-    "plays_for": [
-      "Oregon State University 2025",
-      "Oregon State University 2026"
-    ]
+    "weight": 231
   },
   {
     "id": 359,
     "name": "Eric Segura",
     "position": "RHP",
     "height": "6' 2''",
-    "weight": "205",
-    "attended": ["Soledad"],
-    "plays_for": [
-      "Oregon State University 2025",
-      "Oregon State University 2026"
-    ]
+    "weight": 205
   },
   {
     "id": 360,
     "name": "Ethan Porter",
     "position": "INF/OF",
     "height": "6' 1''",
-    "weight": "208",
-    "attended": ["Huntington Beach"],
-    "plays_for": ["Oregon State University 2026"]
+    "weight": 208
   },
   {
     "id": 361,
     "name": "Wyatt Queen",
     "position": "RHP",
     "height": "6' 2''",
-    "weight": "203",
-    "attended": ["Lake Stevens"],
-    "plays_for": [
-      "Oregon State University 2025",
-      "Oregon State University 2026"
-    ]
+    "weight": 203
   },
   {
     "id": 362,
     "name": "Bryson Glassco",
     "position": "INF",
     "height": "6' 2''",
-    "weight": "187",
-    "attended": ["Spanish Springs"],
-    "plays_for": ["Oregon State University 2026"]
+    "weight": 187
   },
   {
     "id": 363,
     "name": "Josh Proctor",
     "position": "INF",
     "height": "6' 2''",
-    "weight": "222",
-    "attended": ["Marantha/La Canada"],
-    "plays_for": ["Oregon State University 2026"]
+    "weight": 222
   },
   {
     "id": 364,
     "name": "Jacob Krieg",
     "position": "INF",
     "height": "6' 5''",
-    "weight": "260",
-    "attended": ["Clayton Valley"],
-    "plays_for": [
-      "Oregon State University 2025",
-      "Oregon State University 2026"
-    ]
+    "weight": 260
   },
   {
     "id": 365,
     "name": "Ethan Kleinschmit",
     "position": "LHP",
     "height": "6' 3''",
-    "weight": "201",
-    "attended": ["John F. Kennedy"],
-    "plays_for": [
-      "Oregon State University 2025",
-      "Oregon State University 2026"
-    ]
+    "weight": 201
   },
   {
     "id": 366,
     "name": "Eli Gries-Smith",
     "position": "OF",
     "height": "6' 2''",
-    "weight": "192",
-    "attended": ["Matawan Regional"],
-    "plays_for": ["Oregon State University 2026"]
+    "weight": 192
   },
   {
     "id": 367,
     "name": "Paul Vazquez",
     "position": "INF",
     "height": "6' 3''",
-    "weight": "206",
-    "attended": ["South Hills"],
-    "plays_for": [
-      "Oregon State University 2025",
-      "Oregon State University 2026"
-    ]
+    "weight": 206
   },
   {
     "id": 368,
     "name": "Calvin Gregory",
     "position": "LHP",
     "height": "5' 10''",
-    "weight": "183",
-    "attended": ["Lakeridge"],
-    "plays_for": ["Oregon State University 2026"]
+    "weight": 183
   },
   {
     "id": 369,
     "name": "Albert Roblez",
     "position": "RHP",
     "height": "5' 11''",
-    "weight": "221",
-    "attended": ["Valley View"],
-    "plays_for": ["Oregon State University 2026"]
+    "weight": 221
   },
   {
     "id": 370,
     "name": "Trey Morris",
     "position": "LHP",
     "height": "6' 2''",
-    "weight": "258",
-    "attended": ["Washington Union"],
-    "plays_for": ["Oregon State University 2026"]
+    "weight": 258
   },
   {
     "id": 371,
     "name": "Trevor Kaiser",
     "position": "RHP",
     "height": "6' 5''",
-    "weight": "218",
-    "attended": ["Hanford"],
-    "plays_for": ["Oregon State University 2026"]
+    "weight": 218
   },
   {
     "id": 372,
     "name": "AJ Hutcheson",
     "position": "RHP",
     "height": "5' 11''",
-    "weight": "186",
-    "attended": ["Elk Grove"],
-    "plays_for": [
-      "Oregon State University 2025",
-      "Oregon State University 2026"
-    ]
+    "weight": 186
   },
   {
     "id": 373,
     "name": "Noah Scott",
     "position": "RHP",
     "height": "6' 4''",
-    "weight": "230",
-    "attended": ["Broomfield"],
-    "plays_for": ["Oregon State University 2026"]
+    "weight": 230
   },
   {
     "id": 374,
     "name": "Max Fraser",
     "position": "LHP",
     "height": "6' 1''",
-    "weight": "199",
-    "attended": ["Camas"],
-    "plays_for": [
-      "Oregon State University 2025",
-      "Oregon State University 2026"
-    ]
+    "weight": 199
   },
   {
     "id": 375,
     "name": "Zach Kmatz",
     "position": "RHP",
     "height": "6' 3''",
-    "weight": "228",
-    "attended": ["Sandia"],
-    "plays_for": [
-      "Oregon State University 2025",
-      "Oregon State University 2026"
-    ]
+    "weight": 228
   },
   {
     "id": 376,
     "name": "Jack Giordano",
     "position": "RHP",
     "height": "6' 1''",
-    "weight": "199",
-    "attended": ["Patrick Henry"],
-    "plays_for": ["Oregon State University 2026"]
+    "weight": 199
   },
   {
     "id": 377,
     "name": "Kameron Beck",
     "position": "INF",
     "height": "6' 2''",
-    "weight": "216",
-    "attended": ["Bingham"],
-    "plays_for": ["Oregon State University 2026"]
+    "weight": 216
   },
   {
     "id": 378,
     "name": "Martin Serrano",
     "position": "C",
     "height": "6' 3''",
-    "weight": "203",
-    "attended": ["Pocatello"],
-    "plays_for": [
-      "Oregon State University 2025",
-      "Oregon State University 2026"
-    ]
+    "weight": 203
   },
   {
     "id": 379,
     "name": "Tyler Bellerose",
     "position": "RHP",
     "height": "6' 0''",
-    "weight": "187",
-    "attended": ["Huntington Beach"],
-    "plays_for": ["Oregon State University 2026"]
+    "weight": 187
   },
   {
     "id": 380,
     "name": "Zach Edwards",
     "position": "RHP",
     "height": "6' 2''",
-    "weight": "224",
-    "attended": ["Riverton"],
-    "plays_for": [
-      "Oregon State University 2025",
-      "Oregon State University 2026"
-    ]
+    "weight": 224
   },
   {
     "id": 381,
     "name": "Connor Mendez",
     "position": "RHP",
     "height": "6' 0''",
-    "weight": "203",
-    "attended": ["Chiawana"],
-    "plays_for": ["Oregon State University 2026"]
+    "weight": 203
   },
   {
     "id": 382,
     "name": "Dean Curley",
     "position": "INF",
     "height": "6' 3''",
-    "weight": "218",
-    "attended": ["Northview HS"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 218
   },
   {
     "id": 383,
     "name": "Ariel Antigua",
     "position": "INF",
     "height": "5' 8''",
-    "weight": "180",
-    "attended": ["Trinity Christian Academy"],
-    "plays_for": [
-      "University of Tennessee 2025",
-      "University of Tennessee 2026"
-    ]
+    "weight": 180
   },
   {
     "id": 384,
     "name": "Manny Marin",
     "position": "INF",
     "height": "6' 1''",
-    "weight": "181",
-    "attended": ["Westminster Christian School"],
-    "plays_for": [
-      "University of Tennessee 2025",
-      "University of Tennessee 2026"
-    ]
+    "weight": 181
   },
   {
     "id": 385,
     "name": "Cannon Peebles",
     "position": "C",
     "height": "5' 11''",
-    "weight": "190",
-    "attended": ["Hanover HS", "NC State"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 190
   },
   {
     "id": 386,
     "name": "Gavin Kilen",
     "position": "INF",
     "height": "5' 11''",
-    "weight": "187",
-    "attended": ["Milton HS", "Louisville"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 187
   },
   {
     "id": 387,
     "name": "Nate Snead",
     "position": "RHP",
     "height": "6' 2''",
-    "weight": "212",
-    "attended": ["South Milwaukee HS", "Wichita State"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 212
   },
   {
     "id": 388,
     "name": "Jay Abernathy",
     "position": "OF/INF",
     "height": "5' 10''",
-    "weight": "177",
-    "attended": ["North Cobb HS"],
-    "plays_for": [
-      "University of Tennessee 2025",
-      "University of Tennessee 2026"
-    ]
+    "weight": 177
   },
   {
     "id": 389,
     "name": "Hunter Ensley",
     "position": "OF",
     "height": "6' 1''",
-    "weight": "197",
-    "attended": ["Huntingdon HS"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 197
   },
   {
     "id": 390,
     "name": "Chris Newstrom",
     "position": "INF/OF",
     "height": "6' 2''",
-    "weight": "204",
-    "attended": ["Chaparral HS"],
-    "plays_for": [
-      "University of Tennessee 2025",
-      "University of Tennessee 2026"
-    ]
+    "weight": 204
   },
   {
     "id": 391,
     "name": "Andrew Fischer",
     "position": "INF",
     "height": "6' 1''",
-    "weight": "210",
-    "attended": ["Wall Township HS", "Ole Miss"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 210
   },
   {
     "id": 392,
     "name": "Liam Doyle",
     "position": "LHP",
     "height": "6' 2''",
-    "weight": "220",
-    "attended": ["Pinkerton Academy", "Ole Miss"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 220
   },
   {
     "id": 393,
     "name": "Reese Chapman",
     "position": "OF",
     "height": "6' 1''",
-    "weight": "224",
-    "attended": ["Grandview HS"],
-    "plays_for": [
-      "University of Tennessee 2025",
-      "University of Tennessee 2026"
-    ]
+    "weight": 224
   },
   {
     "id": 394,
     "name": "Blake Grimmer",
     "position": "UTL",
     "height": "6' 3''",
-    "weight": "208",
-    "attended": ["Orchard Lake St. Mary\u2019s Prep"],
-    "plays_for": [
-      "University of Tennessee 2025",
-      "University of Tennessee 2026"
-    ]
+    "weight": 208
   },
   {
     "id": 395,
     "name": "Hunter High",
     "position": "OF/INF",
     "height": "6' 0''",
-    "weight": "199",
-    "attended": ["Lipscomb Academy"],
-    "plays_for": [
-      "University of Tennessee 2025",
-      "University of Tennessee 2026"
-    ]
+    "weight": 199
   },
   {
     "id": 396,
     "name": "Dalton Bargo",
     "position": "UTL",
     "height": "6' 1''",
-    "weight": "195",
-    "attended": ["Westside HS", "Missouri"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 195
   },
   {
     "id": 397,
     "name": "Thomas Crabtree",
     "position": "RHP",
     "height": "6' 4''",
-    "weight": "202",
-    "attended": ["Collierville HS", "Pearl River CC (MS)"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 202
   },
   {
     "id": 398,
     "name": "Austin Breedlove",
     "position": "RHP",
     "height": "6' 2''",
-    "weight": "200",
-    "attended": ["McCallie School", "Cleveland State CC (TN)"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 200
   },
   {
     "id": 399,
     "name": "Andrew Behnke",
     "position": "LHP",
     "height": "5' 10''",
-    "weight": "183",
-    "attended": ["Donelson Christian Academy"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 183
   },
   {
     "id": 400,
     "name": "Colby Backus",
     "position": "OF",
     "height": "6' 4''",
-    "weight": "230",
-    "attended": ["Daniel Boone HS", "Walters State CC (TN)"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 230
   },
   {
     "id": 401,
     "name": "Tegan Kuhns",
     "position": "RHP",
     "height": "6' 3''",
-    "weight": "189",
-    "attended": ["Gettysburg Area HS"],
-    "plays_for": [
-      "University of Tennessee 2025",
-      "University of Tennessee 2026"
-    ]
+    "weight": 189
   },
   {
     "id": 402,
     "name": "Marcus Phillips",
     "position": "RHP",
     "height": "6' 4''",
-    "weight": "246",
-    "attended": ["Roosevelt HS", "Iowa Western CC"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 246
   },
   {
     "id": 403,
     "name": "Brandon Arvidson",
     "position": "LHP",
     "height": "6' 5''",
-    "weight": "215",
-    "attended": ["Dripping Springs HS", "San Jacinto College (TX)"],
-    "plays_for": [
-      "University of Tennessee 2025",
-      "University of Tennessee 2026"
-    ]
+    "weight": 215
   },
   {
     "id": 404,
     "name": "Stone Lawless",
     "position": "C/1B",
     "height": "6' 2''",
-    "weight": "219",
-    "attended": ["Huntsville HS"],
-    "plays_for": [
-      "University of Tennessee 2025",
-      "University of Tennessee 2026"
-    ]
+    "weight": 219
   },
   {
     "id": 405,
     "name": "Ryan Combs",
     "position": "RHP",
     "height": "6' 3''",
-    "weight": "184",
-    "attended": ["Lakewood Ranch HS", "Polk State College (FL)"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 184
   },
   {
     "id": 406,
     "name": "Aidan Hayse",
     "position": "RHP",
     "height": "6' 3''",
-    "weight": "191",
-    "attended": ["Joliet Catholic Academy"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 191
   },
   {
     "id": 407,
     "name": "Levi Clark",
     "position": "UTL",
     "height": "6' 1''",
-    "weight": "211",
-    "attended": ["Walton HS"],
-    "plays_for": [
-      "University of Tennessee 2025",
-      "University of Tennessee 2026"
-    ]
+    "weight": 211
   },
   {
     "id": 408,
     "name": "Austin Hunley",
     "position": "RHP",
     "height": "6' 3''",
-    "weight": "199",
-    "attended": ["Mount Juliet HS"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 199
   },
   {
     "id": 409,
     "name": "Tate Strickland",
     "position": "RHP",
     "height": "6' 3''",
-    "weight": "192",
-    "attended": ["Harrison HS"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 192
   },
   {
     "id": 410,
     "name": "AJ Russell",
     "position": "RHP",
     "height": "6' 6''",
-    "weight": "223",
-    "attended": ["Franklin HS"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 223
   },
   {
     "id": 411,
     "name": "Brayden Krenzel",
     "position": "RHP",
     "height": "6' 3''",
-    "weight": "214",
-    "attended": ["Dublin Jerome HS"],
-    "plays_for": [
-      "University of Tennessee 2025",
-      "University of Tennessee 2026"
-    ]
+    "weight": 214
   },
   {
     "id": 412,
     "name": "Michael Sharman",
     "position": "LHP",
     "height": "6' 1''",
-    "weight": "198",
-    "attended": ["Etowah HS"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 198
   },
   {
     "id": 413,
     "name": "Brayden May",
     "position": "LHP",
     "height": "5' 11''",
-    "weight": "186",
-    "attended": ["Whitefield Academy"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 186
   },
   {
     "id": 414,
     "name": "Dylan Loy",
     "position": "LHP",
     "height": "6' 0''",
-    "weight": "208",
-    "attended": ["Pigeon Forge HS"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 208
   },
   {
     "id": 415,
     "name": "Brooks Wright",
     "position": "C",
     "height": "5' 10''",
-    "weight": "206",
-    "attended": ["Bearden HS"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 206
   },
   {
     "id": 416,
     "name": "Dane Bjorn",
     "position": "LHP",
     "height": "6' 2''",
-    "weight": "197",
-    "attended": ["Lindbergh Senior HS"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 197
   },
   {
     "id": 417,
     "name": "Anson Seibert",
     "position": "RHP",
     "height": "6' 8''",
-    "weight": "235",
-    "attended": ["Blue Valley Southwest HS"],
-    "plays_for": [
-      "University of Tennessee 2025",
-      "University of Tennessee 2026"
-    ]
+    "weight": 235
   },
   {
     "id": 418,
     "name": "Jaxon Walker",
     "position": "OF",
     "height": "5' 11''",
-    "weight": "192",
-    "attended": ["Loudon HS"],
-    "plays_for": [
-      "University of Tennessee 2025",
-      "University of Tennessee 2026"
-    ]
+    "weight": 192
   },
   {
     "id": 419,
     "name": "Bryson Thacker",
     "position": "LHP",
     "height": "6' 2''",
-    "weight": "189",
-    "attended": ["Rome HS"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 189
   },
   {
     "id": 420,
     "name": "Luke Payne",
     "position": "LHP",
     "height": "6' 4''",
-    "weight": "200",
-    "attended": ["Goodpasture Christian School"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 200
   },
   {
     "id": 421,
     "name": "Nic Abraham",
     "position": "RHP",
     "height": "6' 5''",
-    "weight": "209",
-    "attended": ["Franklin HS"],
-    "plays_for": [
-      "University of Tennessee 2025",
-      "University of Tennessee 2026"
-    ]
+    "weight": 209
   },
   {
     "id": 422,
     "name": "Alberto Osuna",
     "position": "1B/DH",
     "height": "6' 1''",
-    "weight": "244",
-    "attended": ["Mauldin HS", "North Carolina"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 244
   },
   {
     "id": 423,
     "name": "Brayden Sharp",
     "position": "OF/LHP",
     "height": "6' 2''",
-    "weight": "171",
-    "attended": ["The Woodlands HS"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 171
   },
   {
     "id": 424,
     "name": "Robinson Martin",
     "position": "INF",
     "height": "5' 8''",
-    "weight": "172",
-    "attended": ["Houston HS"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 172
   },
   {
     "id": 425,
     "name": "Tanner Wiggins",
     "position": "RHP",
     "height": "6' 2''",
-    "weight": "189",
-    "attended": ["Temple Christian School", "Weatherford College (TX)"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 189
   },
   {
     "id": 426,
     "name": "Ben Martin",
     "position": "RHP",
     "height": "6' 4''",
-    "weight": "225",
-    "attended": ["Allatoona HS"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 225
   },
   {
     "id": 427,
     "name": "Tanner Franklin",
     "position": "RHP",
     "height": "6' 5''",
-    "weight": "225",
-    "attended": ["Jefferson County HS", "Kennesaw State"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 225
   },
   {
     "id": 428,
     "name": "Jack Jones",
     "position": "INF",
     "height": "6' 3''",
-    "weight": "227",
-    "attended": ["Shawnee Mission East HS"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 227
   },
   {
     "id": 429,
     "name": "Brennon Seigler",
     "position": "OF",
     "height": "6' 1''",
-    "weight": "210",
-    "attended": ["Farragut HS"],
-    "plays_for": [
-      "University of Tennessee 2025",
-      "University of Tennessee 2026"
-    ]
+    "weight": 210
   },
   {
     "id": 430,
     "name": "Dane Morrow",
     "position": "INF",
     "height": "6' 0''",
-    "weight": "178",
-    "attended": ["Trinity HS"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 178
   },
   {
     "id": 431,
     "name": "Beau Revord",
     "position": "RHP/OF",
     "height": "6' 2''",
-    "weight": "200",
-    "attended": ["Jefferson County HS"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 200
   },
   {
     "id": 432,
     "name": "Stratton Scott",
     "position": "RHP",
     "height": "6' 2''",
-    "weight": "196",
-    "attended": ["Farragut HS"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 196
   },
   {
     "id": 433,
     "name": "Ryler Smart",
     "position": "LHP",
     "height": "6' 4''",
-    "weight": "236",
-    "attended": ["Pearland"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 236
   },
   {
     "id": 434,
     "name": "Andrew DuMont",
     "position": "RHP",
     "height": "6' 1''",
-    "weight": "205",
-    "attended": ["St. Louis University HS"],
-    "plays_for": ["University of Tennessee 2025"]
+    "weight": 205
   },
   {
     "id": 435,
     "name": "Finley Bates",
     "position": "INF",
     "height": "5' 10''",
-    "weight": "180",
-    "attended": ["Douglas County HS", "San Diego State"],
-    "plays_for": ["University of Tennessee 2026"]
+    "weight": 180
   },
   {
     "id": 436,
     "name": "Evan Blanco",
     "position": "LHP",
     "height": "6' 0''",
-    "weight": "205",
-    "attended": ["Austin Preparatory School", "Virginia"],
-    "plays_for": ["University of Tennessee 2026"]
+    "weight": 205
   },
   {
     "id": 437,
     "name": "Blaine Brown",
     "position": "OF/LHP",
     "height": "6' 3''",
-    "weight": "180",
-    "attended": ["Shadow Creek HS", "Rice"],
-    "plays_for": ["University of Tennessee 2026"]
+    "weight": 180
   },
   {
     "id": 438,
     "name": "Henry Ford",
     "position": "OF/INF",
     "height": "6' 5''",
-    "weight": "220",
-    "attended": ["Baylor School (TN)", "Virginia"],
-    "plays_for": ["University of Tennessee 2026"]
+    "weight": 220
   },
   {
     "id": 439,
     "name": "Brady Frederick",
     "position": "RHP",
     "height": "5' 11''",
-    "weight": "190",
-    "attended": ["Bearden HS", "ETSU"],
-    "plays_for": ["University of Tennessee 2026"]
+    "weight": 190
   },
   {
     "id": 440,
     "name": "Mark Hindy",
     "position": "LHP",
     "height": "6' 4''",
-    "weight": "220",
-    "attended": ["Seton Hall Prep", "Duke"],
-    "plays_for": ["University of Tennessee 2026"]
+    "weight": 220
   },
   {
     "id": 441,
     "name": "Landon Mack",
     "position": "RHP",
     "height": "6' 1''",
-    "weight": "200",
-    "attended": ["Bishop Eustace HS", "Rutgers"],
-    "plays_for": ["University of Tennessee 2026"]
+    "weight": 200
   },
   {
     "id": 442,
     "name": "Tyler Myatt",
     "position": "INF/OF",
     "height": "6' 0''",
-    "weight": "210",
-    "attended": ["Claireborne", "Walters State CC"],
-    "plays_for": ["University of Tennessee 2026"]
+    "weight": 210
   },
   {
     "id": 443,
     "name": "Bo Rhudy",
     "position": "RHP",
     "height": "6' 4''",
-    "weight": "225",
-    "attended": ["Gordon Lee HS", "Kennesaw State"],
-    "plays_for": ["University of Tennessee 2026"]
+    "weight": 225
   },
   {
     "id": 444,
     "name": "Garrett Wright",
     "position": "C/OF",
     "height": "5' 11''",
-    "weight": "185",
-    "attended": ["Jackson HS", "Bowling Green"],
-    "plays_for": ["University of Tennessee 2026"]
+    "weight": 185
   }
 ]

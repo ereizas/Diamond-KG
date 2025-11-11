@@ -2,3262 +2,2796 @@
   {
     "id": 0,
     "name": "Boston College",
-    "deduplication_id": 1,
     "type": "university",
     "division": null
   },
   {
     "id": 1,
     "name": "Orange Coast College",
-    "deduplication_id": 2,
     "type": "university",
     "division": null
   },
   {
     "id": 2,
     "name": "Grace Christian Academy",
-    "deduplication_id": 5,
     "type": "high school",
     "division": null
   },
   {
     "id": 3,
     "name": "McKeel Academy",
-    "deduplication_id": 6,
     "type": "high school",
     "division": null
   },
   {
     "id": 4,
     "name": "Lipscomb Academy",
-    "deduplication_id": 7,
     "type": "high school",
     "division": null
   },
   {
     "id": 5,
     "name": "Foundation Academy",
-    "deduplication_id": 8,
     "type": "high school",
     "division": null
   },
   {
     "id": 6,
     "name": "Thornton Academy",
-    "deduplication_id": 9,
     "type": "high school",
     "division": null
   },
   {
     "id": 7,
     "name": "Benedictine Military Academy",
-    "deduplication_id": 10,
     "type": "high school",
     "division": null
   },
   {
     "id": 8,
     "name": "P27 Academy",
-    "deduplication_id": 11,
     "type": "high school",
     "division": null
   },
   {
     "id": 9,
     "name": "IMG Academy",
-    "deduplication_id": 12,
     "type": "high school",
     "division": null
   },
   {
     "id": 10,
     "name": "Nazareth Academy",
-    "deduplication_id": 13,
     "type": "high school",
     "division": null
   },
   {
     "id": 11,
     "name": "A3 Academy",
-    "deduplication_id": 14,
     "type": "high school",
     "division": null
   },
   {
     "id": 12,
     "name": "Pace Academy",
-    "deduplication_id": 15,
     "type": "high school",
     "division": null
   },
   {
     "id": 13,
     "name": "Loyola Academy",
-    "deduplication_id": 16,
     "type": "high school",
     "division": null
   },
   {
     "id": 14,
     "name": "Joliet Catholic Academy",
-    "deduplication_id": 17,
     "type": "high school",
     "division": null
   },
   {
     "id": 15,
     "name": "Christian Brothers Academy",
-    "deduplication_id": 18,
     "type": "high school",
     "division": null
   },
   {
     "id": 16,
     "name": "Whitefield Academy",
-    "deduplication_id": 19,
     "type": "high school",
     "division": null
   },
   {
     "id": 17,
     "name": "Westford Academy",
-    "deduplication_id": 20,
     "type": "high school",
     "division": null
   },
   {
     "id": 18,
     "name": "Pinkerton Academy",
-    "deduplication_id": 21,
     "type": "high school",
     "division": null
   },
   {
     "id": 19,
     "name": "Starkville Academy",
-    "deduplication_id": 22,
     "type": "high school",
     "division": null
   },
   {
     "id": 20,
     "name": "Madison-Ridgeland Academy",
-    "deduplication_id": 23,
     "type": "high school",
     "division": null
   },
   {
     "id": 21,
     "name": "Doral Academy",
-    "deduplication_id": 24,
     "type": "high school",
     "division": null
   },
   {
     "id": 22,
     "name": "Gilmour Academy",
-    "deduplication_id": 25,
     "type": "high school",
     "division": null
   },
   {
     "id": 23,
     "name": "TNXL Academy",
-    "deduplication_id": 26,
     "type": "high school",
     "division": null
   },
   {
     "id": 24,
     "name": "Heritage Academy",
-    "deduplication_id": 27,
     "type": "high school",
     "division": null
   },
   {
     "id": 25,
     "name": "Manheim Township",
-    "deduplication_id": 34,
     "type": "high school",
     "division": null
   },
   {
     "id": 26,
     "name": "Monroe Township",
-    "deduplication_id": 35,
     "type": "high school",
     "division": null
   },
   {
     "id": 27,
     "name": "Forsyth Country Day",
-    "deduplication_id": 36,
     "type": "high school",
     "division": null
   },
   {
     "id": 28,
     "name": "St. John's Country Day",
-    "deduplication_id": 37,
     "type": "university",
     "division": null
   },
   {
     "id": 29,
     "name": "Lancaster Catholic",
-    "deduplication_id": 38,
     "type": "high school",
     "division": null
   },
   {
     "id": 30,
     "name": "Central Catholic",
-    "deduplication_id": 39,
     "type": "high school",
     "division": null
   },
   {
     "id": 31,
     "name": "JSerra Catholic",
-    "deduplication_id": 40,
     "type": "high school",
     "division": null
   },
   {
     "id": 32,
     "name": "Pensacola Catholic",
-    "deduplication_id": 41,
     "type": "university",
     "division": null
   },
   {
     "id": 33,
     "name": "Red Bank Catholic",
-    "deduplication_id": 42,
     "type": "university",
     "division": null
   },
   {
     "id": 34,
     "name": "South Brunswick",
-    "deduplication_id": 45,
     "type": "high school",
     "division": null
   },
   {
     "id": 35,
     "name": "Brunswick",
-    "deduplication_id": 46,
     "type": "university",
     "division": null
   },
   {
     "id": 36,
     "name": "Elizabethtown Area",
-    "deduplication_id": 47,
     "type": "high school",
     "division": null
   },
   {
     "id": 37,
     "name": "Hazleton Area",
-    "deduplication_id": 48,
     "type": "high school",
     "division": null
   },
   {
     "id": 38,
     "name": "Lincoln-Sudbury Regional",
-    "deduplication_id": 50,
     "type": "high school",
     "division": null
   },
   {
     "id": 39,
     "name": "Mainland Regional",
-    "deduplication_id": 51,
     "type": "high school",
     "division": null
   },
   {
     "id": 40,
     "name": "Miami-Dade College",
-    "deduplication_id": 53,
     "type": "university",
     "division": null
   },
   {
     "id": 41,
     "name": "Wabash Valley College",
-    "deduplication_id": 54,
     "type": "university",
     "division": null
   },
   {
     "id": 42,
     "name": "West Virginia",
-    "deduplication_id": 55,
     "type": "university",
     "division": null
   },
   {
     "id": 43,
     "name": "Virginia",
-    "deduplication_id": 56,
     "type": "university",
     "division": null
   },
   {
     "id": 44,
     "name": "Arizona State",
-    "deduplication_id": 57,
     "type": "university",
     "division": null
   },
   {
     "id": 45,
     "name": "Kansas State",
-    "deduplication_id": 58,
     "type": "university",
     "division": null
   },
   {
     "id": 46,
     "name": "Oklahoma State",
-    "deduplication_id": 59,
     "type": "university",
     "division": null
   },
   {
     "id": 47,
     "name": "Georgia State",
-    "deduplication_id": 60,
     "type": "university",
     "division": null
   },
   {
     "id": 48,
     "name": "Indiana State",
-    "deduplication_id": 61,
     "type": "university",
     "division": null
   },
   {
     "id": 49,
     "name": "Cookeville",
-    "deduplication_id": 65,
     "type": "high school",
     "division": null
   },
   {
     "id": 50,
     "name": "Louisville",
-    "deduplication_id": 66,
     "type": "university",
     "division": null
   },
   {
     "id": 51,
     "name": "Nolensville",
-    "deduplication_id": 67,
     "type": "high school",
     "division": null
   },
   {
     "id": 52,
     "name": "Perkiomen School",
-    "deduplication_id": 69,
     "type": "high school",
     "division": null
   },
   {
     "id": 53,
     "name": "Salesianum School",
-    "deduplication_id": 70,
     "type": "high school",
     "division": null
   },
   {
     "id": 54,
     "name": "Brophy College Prep",
-    "deduplication_id": 72,
     "type": "high school",
     "division": null
   },
   {
     "id": 55,
     "name": "Antonian College Prep",
-    "deduplication_id": 73,
     "type": "high school",
     "division": null
   },
   {
     "id": 56,
     "name": "Northern Burlington County Regional",
-    "deduplication_id": 74,
     "type": "university",
     "division": null
   },
   {
     "id": 57,
     "name": "Northern Valley Regional",
-    "deduplication_id": 75,
     "type": "high school",
     "division": null
   },
   {
     "id": 58,
     "name": "John Curtis Christian",
-    "deduplication_id": 76,
     "type": "university",
     "division": null
   },
   {
     "id": 59,
     "name": "Middle Tennessee Christian",
-    "deduplication_id": 77,
     "type": "high school",
     "division": null
   },
   {
     "id": 60,
     "name": "Cedar Park Christian",
-    "deduplication_id": 78,
     "type": "high school",
     "division": null
   },
   {
     "id": 61,
     "name": "Calvary Christian",
-    "deduplication_id": 79,
     "type": "university",
     "division": null
   },
   {
     "id": 62,
     "name": "Westminster Christian",
-    "deduplication_id": 80,
     "type": "high school",
     "division": null
   },
   {
     "id": 63,
     "name": "Lakeland Christian",
-    "deduplication_id": 81,
     "type": "university",
     "division": null
   },
   {
     "id": 64,
     "name": "Miami Christian",
-    "deduplication_id": 82,
     "type": "high school",
     "division": null
   },
   {
     "id": 65,
     "name": "Pennsylania State University",
-    "deduplication_id": 83,
     "type": "university",
     "division": "1"
   },
   {
     "id": 66,
     "name": "Oregon State University",
-    "deduplication_id": 84,
     "type": "university",
     "division": "1"
   },
   {
     "id": 67,
     "name": "Mississipi State University",
-    "deduplication_id": 85,
     "type": "university",
     "division": 1
   },
   {
     "id": 68,
     "name": "Seton Hall University",
-    "deduplication_id": 86,
     "type": "university",
     "division": null
   },
   {
     "id": 69,
     "name": "Westlake",
-    "deduplication_id": 87,
     "type": "university",
     "division": null
   },
   {
     "id": 70,
     "name": "Eastlake",
-    "deduplication_id": 88,
     "type": "high school",
     "division": null
   },
   {
     "id": 71,
     "name": "Spring Valley",
-    "deduplication_id": 90,
     "type": "university",
     "division": null
   },
   {
     "id": 72,
     "name": "Murrieta Valley",
-    "deduplication_id": 91,
     "type": "high school",
     "division": null
   },
   {
     "id": 73,
     "name": "South Carolina",
-    "deduplication_id": 92,
     "type": "university",
     "division": null
   },
   {
     "id": 74,
     "name": "Coastal Carolina",
-    "deduplication_id": 93,
     "type": "high school",
     "division": null
   },
   {
     "id": 75,
     "name": "Martin County",
-    "deduplication_id": 94,
     "type": "high school",
     "division": null
   },
   {
     "id": 76,
     "name": "Detroit County",
-    "deduplication_id": 95,
     "type": "high school",
     "division": null
   },
   {
     "id": 77,
     "name": "USC-Upstate",
-    "deduplication_id": 97,
     "type": "university",
     "division": null
   },
   {
     "id": 78,
     "name": "The Stony Brook School",
-    "deduplication_id": 99,
     "type": "high school",
     "division": null
   },
   {
     "id": 79,
     "name": "Goodpasture Christian School",
-    "deduplication_id": 100,
     "type": "high school",
     "division": null
   },
   {
     "id": 80,
     "name": "Austin Preparatory School",
-    "deduplication_id": 101,
     "type": "high school",
     "division": null
   },
   {
     "id": 81,
     "name": "The Kinkaid School",
-    "deduplication_id": 102,
     "type": "university",
     "division": null
   },
   {
     "id": 82,
     "name": "Mount Paran Christian School",
-    "deduplication_id": 103,
     "type": "university",
     "division": null
   },
   {
     "id": 83,
     "name": "Edmond North HS",
-    "deduplication_id": 107,
     "type": "high school",
     "division": null
   },
   {
     "id": 84,
     "name": "Northview HS",
-    "deduplication_id": 108,
     "type": "high school",
     "division": null
   },
   {
     "id": 85,
     "name": "North Oconee HS",
-    "deduplication_id": 109,
     "type": "high school",
     "division": null
   },
   {
     "id": 86,
     "name": "North Davidson HS",
-    "deduplication_id": 110,
     "type": "high school",
     "division": null
   },
   {
     "id": 87,
     "name": "North Cobb HS",
-    "deduplication_id": 111,
     "type": "high school",
     "division": null
   },
   {
     "id": 88,
     "name": "Walton HS",
-    "deduplication_id": 112,
     "type": "high school",
     "division": null
   },
   {
     "id": 89,
     "name": "Milton HS",
-    "deduplication_id": 113,
     "type": "high school",
     "division": null
   },
   {
     "id": 90,
     "name": "Huntingdon HS",
-    "deduplication_id": 116,
     "type": "high school",
     "division": null
   },
   {
     "id": 91,
     "name": "Summerville HS",
-    "deduplication_id": 117,
     "type": "high school",
     "division": null
   },
   {
     "id": 92,
     "name": "Huntsville HS",
-    "deduplication_id": 118,
     "type": "high school",
     "division": null
   },
   {
     "id": 93,
     "name": "Grandview HS",
-    "deduplication_id": 120,
     "type": "high school",
     "division": null
   },
   {
     "id": 94,
     "name": "Canton HS",
-    "deduplication_id": 121,
     "type": "high school",
     "division": null
   },
   {
     "id": 95,
     "name": "Germantown HS",
-    "deduplication_id": 122,
     "type": "high school",
     "division": null
   },
   {
     "id": 96,
     "name": "Westside HS",
-    "deduplication_id": 124,
     "type": "high school",
     "division": null
   },
   {
     "id": 97,
     "name": "Eastside HS",
-    "deduplication_id": 125,
     "type": "high school",
     "division": null
   },
   {
     "id": 98,
     "name": "Collierville HS",
-    "deduplication_id": 126,
     "type": "high school",
     "division": null
   },
   {
     "id": 99,
     "name": "Booneville HS",
-    "deduplication_id": 127,
     "type": "high school",
     "division": null
   },
   {
     "id": 100,
     "name": "Cleveland State CC (TN)",
-    "deduplication_id": 129,
     "type": "university",
     "division": null
   },
   {
     "id": 101,
     "name": "Walters State CC (TN)",
-    "deduplication_id": 130,
     "type": "university",
     "division": null
   },
   {
     "id": 102,
     "name": "Holly Springs HS",
-    "deduplication_id": 131,
     "type": "high school",
     "division": null
   },
   {
     "id": 103,
     "name": "Dripping Springs HS",
-    "deduplication_id": 132,
     "type": "high school",
     "division": null
   },
   {
     "id": 104,
     "name": "Weatherford College (TX)",
-    "deduplication_id": 133,
     "type": "university",
     "division": null
   },
   {
     "id": 105,
     "name": "San Jacinto College (TX)",
-    "deduplication_id": 134,
     "type": "university",
     "division": null
   },
   {
     "id": 106,
     "name": "Houston HS",
-    "deduplication_id": 135,
     "type": "high school",
     "division": null
   },
   {
     "id": 107,
     "name": "Harrison HS",
-    "deduplication_id": 136,
     "type": "high school",
     "division": null
   },
   {
     "id": 108,
     "name": "Liberty North HS",
-    "deduplication_id": 137,
     "type": "high school",
     "division": null
   },
   {
     "id": 109,
     "name": "Lindbergh Senior HS",
-    "deduplication_id": 138,
     "type": "high school",
     "division": null
   },
   {
     "id": 110,
     "name": "Jefferson County HS",
-    "deduplication_id": 139,
     "type": "high school",
     "division": null
   },
   {
     "id": 111,
     "name": "Perquimans County HS",
-    "deduplication_id": 140,
     "type": "high school",
     "division": null
   },
   {
     "id": 112,
     "name": "DeSoto Central HS",
-    "deduplication_id": 141,
     "type": "high school",
     "division": null
   },
   {
     "id": 113,
     "name": "Paulding County HS",
-    "deduplication_id": 142,
     "type": "high school",
     "division": null
   },
   {
     "id": 114,
     "name": "Bibb County HS",
-    "deduplication_id": 143,
     "type": "high school",
     "division": null
   },
   {
     "id": 115,
     "name": "Bishop Eustace HS",
-    "deduplication_id": 148,
     "type": "high school",
     "division": null
   },
   {
     "id": 116,
     "name": "Bishop Ireton HS",
-    "deduplication_id": 149,
     "type": "high school",
     "division": null
   },
   {
     "id": 117,
     "name": "Jackson HS",
-    "deduplication_id": 150,
     "type": "high school",
     "division": null
   },
   {
     "id": 118,
     "name": "Mason HS",
-    "deduplication_id": 151,
     "type": "high school",
     "division": null
   },
   {
     "id": 119,
     "name": "Dowling Catholic HS",
-    "deduplication_id": 152,
     "type": "high school",
     "division": null
   },
   {
     "id": 120,
     "name": "Charlotte Catholic HS",
-    "deduplication_id": 153,
     "type": "high school",
     "division": null
   },
   {
     "id": 121,
     "name": "South Forsyth HS",
-    "deduplication_id": 154,
     "type": "high school",
     "division": null
   },
   {
     "id": 122,
     "name": "South Fayette Township HS",
-    "deduplication_id": 155,
     "type": "high school",
     "division": null
   },
   {
     "id": 123,
     "name": "Shawnee HS",
-    "deduplication_id": 156,
     "type": "high school",
     "division": null
   },
   {
     "id": 124,
     "name": "Socastee HS",
-    "deduplication_id": 157,
     "type": "high school",
     "division": null
   },
   {
     "id": 125,
     "name": "Monsignor Bonner",
-    "deduplication_id": 158,
     "type": "high school",
     "division": null
   },
   {
     "id": 126,
     "name": "Monmouth",
-    "deduplication_id": 159,
     "type": "university",
     "division": null
   },
   {
     "id": 127,
     "name": "Plymouth Whitemarsh",
-    "deduplication_id": 160,
     "type": "high school",
     "division": null
   },
   {
     "id": 128,
     "name": "St. Augustine",
-    "deduplication_id": 161,
     "type": "high school",
     "division": null
   },
   {
     "id": 129,
     "name": "Saint Joseph's",
-    "deduplication_id": 162,
     "type": "university",
     "division": null
   },
   {
     "id": 130,
     "name": "Lightridge",
-    "deduplication_id": 163,
     "type": "high school",
     "division": null
   },
   {
     "id": 131,
     "name": "St. Joseph Regional",
-    "deduplication_id": 164,
     "type": "high school",
     "division": null
   },
   {
     "id": 132,
     "name": "Marist",
-    "deduplication_id": 165,
     "type": "high school",
     "division": null
   },
   {
     "id": 133,
     "name": "Michigan",
-    "deduplication_id": 166,
     "type": "university",
     "division": null
   },
   {
     "id": 134,
     "name": "Iowa Western C.C.",
-    "deduplication_id": 167,
     "type": "university",
     "division": null
   },
   {
     "id": 135,
     "name": "Paul VI",
-    "deduplication_id": 168,
     "type": "high school",
     "division": null
   },
   {
     "id": 136,
     "name": "Marquette Senior",
-    "deduplication_id": 169,
     "type": "high school",
     "division": null
   },
   {
     "id": 137,
     "name": "Freedom",
-    "deduplication_id": 170,
     "type": "high school",
     "division": null
   },
   {
     "id": 138,
     "name": "Wake Forest",
-    "deduplication_id": 171,
     "type": "university",
     "division": null
   },
   {
     "id": 139,
     "name": "Red Land",
-    "deduplication_id": 172,
     "type": "high school",
     "division": null
   },
   {
     "id": 140,
     "name": "Georgia",
-    "deduplication_id": 173,
     "type": "university",
     "division": null
   },
   {
     "id": 141,
     "name": "Las Lomas",
-    "deduplication_id": 174,
     "type": "high school",
     "division": null
   },
   {
     "id": 142,
     "name": "Academy of the Holy Angels",
-    "deduplication_id": 175,
     "type": "high school",
     "division": null
   },
   {
     "id": 143,
     "name": "Oregon",
-    "deduplication_id": 176,
     "type": "university",
     "division": null
   },
   {
     "id": 144,
     "name": "Dayton",
-    "deduplication_id": 177,
     "type": "university",
     "division": null
   },
   {
     "id": 145,
     "name": "Greater nullticoke Area",
-    "deduplication_id": 178,
     "type": "high school",
     "division": null
   },
   {
     "id": 146,
     "name": "Southern New Hampshire",
-    "deduplication_id": 179,
     "type": "university",
     "division": null
   },
   {
     "id": 147,
     "name": "St. John's",
-    "deduplication_id": 180,
     "type": "university",
     "division": null
   },
   {
     "id": 148,
     "name": "Harford C.C.",
-    "deduplication_id": 181,
     "type": "university",
     "division": null
   },
   {
     "id": 149,
     "name": "Brandywine Heights",
-    "deduplication_id": 182,
     "type": "high school",
     "division": null
   },
   {
     "id": 150,
     "name": "Avonworth",
-    "deduplication_id": 183,
     "type": "high school",
     "division": null
   },
   {
     "id": 151,
     "name": "Central",
-    "deduplication_id": 184,
     "type": "high school",
     "division": null
   },
   {
     "id": 152,
     "name": "LSU",
-    "deduplication_id": 185,
     "type": "university",
     "division": null
   },
   {
     "id": 153,
     "name": "East Stroudsburg",
-    "deduplication_id": 186,
     "type": "university",
     "division": null
   },
   {
     "id": 154,
     "name": "Shelton",
-    "deduplication_id": 187,
     "type": "high school",
     "division": null
   },
   {
     "id": 155,
     "name": "Tuscarora",
-    "deduplication_id": 188,
     "type": "high school",
     "division": null
   },
   {
     "id": 156,
     "name": "North Allegheny",
-    "deduplication_id": 189,
     "type": "high school",
     "division": null
   },
   {
     "id": 157,
     "name": "Severna Park",
-    "deduplication_id": 190,
     "type": "high school",
     "division": null
   },
   {
     "id": 158,
     "name": "Thomas Jefferson",
-    "deduplication_id": 191,
     "type": "high school",
     "division": null
   },
   {
     "id": 159,
     "name": "Roy C Ketcham",
-    "deduplication_id": 192,
     "type": "high school",
     "division": null
   },
   {
     "id": 160,
     "name": "Naperville North",
-    "deduplication_id": 193,
     "type": "high school",
     "division": null
   },
   {
     "id": 161,
     "name": "Mandarin",
-    "deduplication_id": 194,
     "type": "high school",
     "division": null
   },
   {
     "id": 162,
     "name": "Tallahassee CC",
-    "deduplication_id": 195,
     "type": "university",
     "division": null
   },
   {
     "id": 163,
     "name": "Pomfret School (Conn.)",
-    "deduplication_id": 196,
     "type": "high school",
     "division": null
   },
   {
     "id": 164,
     "name": "State College Area",
-    "deduplication_id": 197,
     "type": "high school",
     "division": null
   },
   {
     "id": 165,
     "name": "Father Ryan",
-    "deduplication_id": 198,
     "type": "high school",
     "division": null
   },
   {
     "id": 166,
     "name": "UCF",
-    "deduplication_id": 199,
     "type": "university",
     "division": null
   },
   {
     "id": 167,
     "name": "Wilson",
-    "deduplication_id": 200,
     "type": "high school",
     "division": null
   },
   {
     "id": 168,
     "name": "Edgewood",
-    "deduplication_id": 201,
     "type": "high school",
     "division": null
   },
   {
     "id": 169,
     "name": "Rhode Island",
-    "deduplication_id": 202,
     "type": "university",
     "division": null
   },
   {
     "id": 170,
     "name": "Arkansas",
-    "deduplication_id": 203,
     "type": "university",
     "division": null
   },
   {
     "id": 171,
     "name": "IMG Academy (Fla.)",
-    "deduplication_id": 204,
     "type": "high school",
     "division": null
   },
   {
     "id": 172,
     "name": "State College of Florida",
-    "deduplication_id": 205,
     "type": "university",
     "division": null
   },
   {
     "id": 173,
     "name": "Tampa",
-    "deduplication_id": 206,
     "type": "university",
     "division": null
   },
   {
     "id": 174,
     "name": "Samford",
-    "deduplication_id": 207,
     "type": "university",
     "division": null
   },
   {
     "id": 175,
     "name": "Vanderbilt University",
-    "deduplication_id": 208,
     "type": "university",
     "division": "1"
   },
   {
     "id": 176,
     "name": "Shawnee",
-    "deduplication_id": 209,
     "type": "high school",
     "division": null
   },
   {
     "id": 177,
     "name": "Kenosha Tremper",
-    "deduplication_id": 210,
     "type": "high school",
     "division": null
   },
   {
     "id": 178,
     "name": "St. John'fs College HS",
-    "deduplication_id": 211,
     "type": "high school",
     "division": null
   },
   {
     "id": 179,
     "name": "Phillips Academy Andover",
-    "deduplication_id": 212,
     "type": "high school",
     "division": null
   },
   {
     "id": 180,
     "name": "Maine",
-    "deduplication_id": 213,
     "type": "university",
     "division": null
   },
   {
     "id": 181,
     "name": "Hempfield Area",
-    "deduplication_id": 214,
     "type": "high school",
     "division": null
   },
   {
     "id": 182,
     "name": "Trinity",
-    "deduplication_id": 215,
     "type": "university",
     "division": null
   },
   {
     "id": 183,
     "name": "Norwin",
-    "deduplication_id": 216,
     "type": "high school",
     "division": null
   },
   {
     "id": 184,
     "name": "Pitt-Johnstown",
-    "deduplication_id": 217,
     "type": "university",
     "division": null
   },
   {
     "id": 185,
     "name": "Archbishop Spalding",
-    "deduplication_id": 218,
     "type": "high school",
     "division": null
   },
   {
     "id": 186,
     "name": "Towson",
-    "deduplication_id": 219,
     "type": "university",
     "division": null
   },
   {
     "id": 187,
     "name": "Hoover",
-    "deduplication_id": 220,
     "type": "high school",
     "division": null
   },
   {
     "id": 188,
     "name": "Maine-Endwell",
-    "deduplication_id": 221,
     "type": "high school",
     "division": null
   },
   {
     "id": 189,
     "name": "Seton Hall Prep",
-    "deduplication_id": 222,
     "type": "high school",
     "division": null
   },
   {
     "id": 190,
     "name": "Boyd-Buchanull School",
-    "deduplication_id": 223,
     "type": "high school",
     "division": null
   },
   {
     "id": 191,
     "name": "Bonny Eagle",
-    "deduplication_id": 224,
     "type": "high school",
     "division": null
   },
   {
     "id": 192,
     "name": "Bartow",
-    "deduplication_id": 225,
     "type": "high school",
     "division": null
   },
   {
     "id": 193,
     "name": "Rockwall",
-    "deduplication_id": 226,
     "type": "high school",
     "division": null
   },
   {
     "id": 194,
     "name": "Station Camp",
-    "deduplication_id": 227,
     "type": "high school",
     "division": null
   },
   {
     "id": 195,
     "name": "Carmel",
-    "deduplication_id": 228,
     "type": "high school",
     "division": null
   },
   {
     "id": 196,
     "name": "Metter",
-    "deduplication_id": 229,
     "type": "high school",
     "division": null
   },
   {
     "id": 197,
     "name": "Independence",
-    "deduplication_id": 230,
     "type": "high school",
     "division": null
   },
   {
     "id": 198,
     "name": "Rusk",
-    "deduplication_id": 231,
     "type": "high school",
     "division": null
   },
   {
     "id": 199,
     "name": "Calvary Day",
-    "deduplication_id": 232,
     "type": "high school",
     "division": null
   },
   {
     "id": 200,
     "name": "Byron Nelson",
-    "deduplication_id": 233,
     "type": "high school",
     "division": null
   },
   {
     "id": 201,
     "name": "Mater Dei",
-    "deduplication_id": 234,
     "type": "high school",
     "division": null
   },
   {
     "id": 202,
     "name": "Hanover",
-    "deduplication_id": 235,
     "type": "high school",
     "division": null
   },
   {
     "id": 203,
     "name": "Memorial",
-    "deduplication_id": 236,
     "type": "high school",
     "division": null
   },
   {
     "id": 204,
     "name": "Londonderry",
-    "deduplication_id": 237,
     "type": "high school",
     "division": null
   },
   {
     "id": 205,
     "name": "Woodcreek",
-    "deduplication_id": 238,
     "type": "high school",
     "division": null
   },
   {
     "id": 206,
     "name": "Naperville Central",
-    "deduplication_id": 239,
     "type": "high school",
     "division": null
   },
   {
     "id": 207,
     "name": "Bedford",
-    "deduplication_id": 240,
     "type": "high school",
     "division": null
   },
   {
     "id": 208,
     "name": "Mt. Juliet",
-    "deduplication_id": 241,
     "type": "high school",
     "division": null
   },
   {
     "id": 209,
     "name": "Adolfo Camarillo",
-    "deduplication_id": 242,
     "type": "high school",
     "division": null
   },
   {
     "id": 210,
     "name": "Queen Creek",
-    "deduplication_id": 243,
     "type": "high school",
     "division": null
   },
   {
     "id": 211,
     "name": "Lake Havasu",
-    "deduplication_id": 244,
     "type": "high school",
     "division": null
   },
   {
     "id": 212,
     "name": "Harlan",
-    "deduplication_id": 245,
     "type": "high school",
     "division": null
   },
   {
     "id": 213,
     "name": "Southern Alamance",
-    "deduplication_id": 246,
     "type": "high school",
     "division": null
   },
   {
     "id": 214,
     "name": "Belen Jesuit",
-    "deduplication_id": 247,
     "type": "high school",
     "division": null
   },
   {
     "id": 215,
     "name": "Wichita State",
-    "deduplication_id": 248,
     "type": "university",
     "division": null
   },
   {
     "id": 216,
     "name": "Windsor",
-    "deduplication_id": 249,
     "type": "high school",
     "division": null
   },
   {
     "id": 217,
     "name": "UNC Greensboro",
-    "deduplication_id": 250,
     "type": "university",
     "division": null
   },
   {
     "id": 218,
     "name": "Coral Reef",
-    "deduplication_id": 251,
     "type": "high school",
     "division": null
   },
   {
     "id": 219,
     "name": "Davenport",
-    "deduplication_id": 252,
     "type": "high school",
     "division": null
   },
   {
     "id": 220,
     "name": "Bayside",
-    "deduplication_id": 253,
     "type": "university",
     "division": null
   },
   {
     "id": 221,
     "name": "Cincinnati",
-    "deduplication_id": 254,
     "type": "high school",
     "division": null
   },
   {
     "id": 222,
     "name": "Cardinal Newman",
-    "deduplication_id": 255,
     "type": "high school",
     "division": null
   },
   {
     "id": 223,
     "name": "Elite Squad Baseball Academy",
-    "deduplication_id": 256,
     "type": "high school",
     "division": null
   },
   {
     "id": 224,
     "name": "Bellafonte",
-    "deduplication_id": 257,
     "type": "university",
     "division": null
   },
   {
     "id": 225,
     "name": "Liberty",
-    "deduplication_id": 258,
     "type": "high school",
     "division": null
   },
   {
     "id": 226,
     "name": "River Bluff",
-    "deduplication_id": 259,
     "type": "university",
     "division": null
   },
   {
     "id": 227,
     "name": "Winthrop",
-    "deduplication_id": 260,
     "type": "high school",
     "division": null
   },
   {
     "id": 228,
     "name": "Tampa Jesuit",
-    "deduplication_id": 261,
     "type": "university",
     "division": null
   },
   {
     "id": 229,
     "name": "Basha",
-    "deduplication_id": 262,
     "type": "university",
     "division": null
   },
   {
     "id": 230,
     "name": "Conway",
-    "deduplication_id": 263,
     "type": "university",
     "division": null
   },
   {
     "id": 231,
     "name": "Varela",
-    "deduplication_id": 264,
     "type": "university",
     "division": null
   },
   {
     "id": 232,
     "name": "Gaither",
-    "deduplication_id": 265,
     "type": "high school",
     "division": null
   },
   {
     "id": 233,
     "name": "Canterbury",
-    "deduplication_id": 266,
     "type": "university",
     "division": null
   },
   {
     "id": 234,
     "name": "Hawai'i",
-    "deduplication_id": 267,
     "type": "high school",
     "division": null
   },
   {
     "id": 235,
     "name": "Lake Oswego",
-    "deduplication_id": 268,
     "type": "university",
     "division": null
   },
   {
     "id": 236,
     "name": "Lake Mary",
-    "deduplication_id": 269,
     "type": "university",
     "division": null
   },
   {
     "id": 237,
     "name": "Lake Sumter State",
-    "deduplication_id": 270,
     "type": "university",
     "division": null
   },
   {
     "id": 238,
     "name": "Cooper City",
-    "deduplication_id": 271,
     "type": "high school",
     "division": null
   },
   {
     "id": 239,
     "name": "Fordham",
-    "deduplication_id": 272,
     "type": "university",
     "division": null
   },
   {
     "id": 240,
     "name": "Gulliver Prep",
-    "deduplication_id": 273,
     "type": "high school",
     "division": null
   },
   {
     "id": 241,
     "name": "Lamar",
-    "deduplication_id": 274,
     "type": "high school",
     "division": null
   },
   {
     "id": 242,
     "name": "Deer Park",
-    "deduplication_id": 275,
     "type": "university",
     "division": null
   },
   {
     "id": 243,
     "name": "St. Thomas Aquinas",
-    "deduplication_id": 276,
     "type": "high school",
     "division": null
   },
   {
     "id": 244,
     "name": "Austin Peay",
-    "deduplication_id": 277,
     "type": "university",
     "division": null
   },
   {
     "id": 245,
     "name": "Viera",
-    "deduplication_id": 278,
     "type": "high school",
     "division": null
   },
   {
     "id": 246,
     "name": "NC State",
-    "deduplication_id": 279,
     "type": "university",
     "division": null
   },
   {
     "id": 247,
     "name": "Jensen Beach",
-    "deduplication_id": 280,
     "type": "high school",
     "division": null
   },
   {
     "id": 248,
     "name": "Blue Valley SW",
-    "deduplication_id": 281,
     "type": "high school",
     "division": null
   },
   {
     "id": 249,
     "name": "Nebraska",
-    "deduplication_id": 282,
     "type": "university",
     "division": null
   },
   {
     "id": 250,
     "name": "West Ranch",
-    "deduplication_id": 283,
     "type": "high school",
     "division": null
   },
   {
     "id": 251,
     "name": "UNLV",
-    "deduplication_id": 284,
     "type": "university",
     "division": null
   },
   {
     "id": 252,
     "name": "Alabama",
-    "deduplication_id": 285,
     "type": "university",
     "division": null
   },
   {
     "id": 253,
     "name": "Wellington",
-    "deduplication_id": 286,
     "type": "high school",
     "division": null
   },
   {
     "id": 254,
     "name": "Presbyterian",
-    "deduplication_id": 287,
     "type": "university",
     "division": null
   },
   {
     "id": 255,
     "name": "FIU",
-    "deduplication_id": 288,
     "type": "university",
     "division": null
   },
   {
     "id": 256,
     "name": "Richmond",
-    "deduplication_id": 289,
     "type": "university",
     "division": null
   },
   {
     "id": 257,
     "name": "Grand Street Campus",
-    "deduplication_id": 290,
     "type": "high school",
     "division": null
   },
   {
     "id": 258,
     "name": "Heritage",
-    "deduplication_id": 291,
     "type": "high school",
     "division": null
   },
   {
     "id": 259,
     "name": "Venice Senior",
-    "deduplication_id": 292,
     "type": "high school",
     "division": null
   },
   {
     "id": 260,
     "name": "Sachse",
-    "deduplication_id": 293,
     "type": "high school",
     "division": null
   },
   {
     "id": 261,
     "name": "Christopher Columbus",
-    "deduplication_id": 294,
     "type": "high school",
     "division": null
   },
   {
     "id": 262,
     "name": "Pro Development Group",
-    "deduplication_id": 295,
     "type": "high school",
     "division": null
   },
   {
     "id": 263,
     "name": "American Heritage",
-    "deduplication_id": 296,
     "type": "high school",
     "division": null
   },
   {
     "id": 264,
     "name": "Marjory Stoneman Douglas",
-    "deduplication_id": 297,
     "type": "university",
     "division": null
   },
   {
     "id": 265,
     "name": "Aquinas",
-    "deduplication_id": 298,
     "type": "high school",
     "division": null
   },
   {
     "id": 266,
     "name": "Kellenberg Memorial",
-    "deduplication_id": 299,
     "type": "high school",
     "division": null
   },
   {
     "id": 267,
     "name": "Hamilton",
-    "deduplication_id": 300,
     "type": "high school",
     "division": null
   },
   {
     "id": 268,
     "name": "Regis Jesuit",
-    "deduplication_id": 301,
     "type": "high school",
     "division": null
   },
   {
     "id": 269,
     "name": "Sunrise Mountain (AZ)",
-    "deduplication_id": 302,
     "type": "high school",
     "division": null
   },
   {
     "id": 270,
     "name": "Mountain Ridge",
-    "deduplication_id": 303,
     "type": "high school",
     "division": null
   },
   {
     "id": 271,
     "name": "West Albany",
-    "deduplication_id": 304,
     "type": "high school",
     "division": null
   },
   {
     "id": 272,
     "name": "Saint Louis",
-    "deduplication_id": 305,
     "type": "high school",
     "division": null
   },
   {
     "id": 273,
     "name": "Wesleyan",
-    "deduplication_id": 306,
     "type": "high school",
     "division": null
   },
   {
     "id": 274,
     "name": "West Linn",
-    "deduplication_id": 307,
     "type": "high school",
     "division": null
   },
   {
     "id": 275,
     "name": "Soledad",
-    "deduplication_id": 308,
     "type": "high school",
     "division": null
   },
   {
     "id": 276,
     "name": "Sam Barlow",
-    "deduplication_id": 309,
     "type": "high school",
     "division": null
   },
   {
     "id": 277,
     "name": "Lake Stevens",
-    "deduplication_id": 310,
     "type": "high school",
     "division": null
   },
   {
     "id": 278,
     "name": "Canby",
-    "deduplication_id": 311,
     "type": "high school",
     "division": null
   },
   {
     "id": 279,
     "name": "Clayton Valley",
-    "deduplication_id": 312,
     "type": "high school",
     "division": null
   },
   {
     "id": 280,
     "name": "Summit",
-    "deduplication_id": 313,
     "type": "high school",
     "division": null
   },
   {
     "id": 281,
     "name": "John F. Kennedy",
-    "deduplication_id": 314,
     "type": "high school",
     "division": null
   },
   {
     "id": 282,
     "name": "South Salem",
-    "deduplication_id": 315,
     "type": "high school",
     "division": null
   },
   {
     "id": 283,
     "name": "Lakeridge",
-    "deduplication_id": 316,
     "type": "high school",
     "division": null
   },
   {
     "id": 284,
     "name": "Blackfoot",
-    "deduplication_id": 317,
     "type": "high school",
     "division": null
   },
   {
     "id": 285,
     "name": "Elk Grove",
-    "deduplication_id": 318,
     "type": "high school",
     "division": null
   },
   {
     "id": 286,
     "name": "Golden",
-    "deduplication_id": 319,
     "type": "high school",
     "division": null
   },
   {
     "id": 287,
     "name": "Camas",
-    "deduplication_id": 320,
     "type": "high school",
     "division": null
   },
   {
     "id": 288,
     "name": "Sandia",
-    "deduplication_id": 321,
     "type": "high school",
     "division": null
   },
   {
     "id": 289,
     "name": "Jesuit",
-    "deduplication_id": 322,
     "type": "university",
     "division": null
   },
   {
     "id": 290,
     "name": "South Hills",
-    "deduplication_id": 323,
     "type": "high school",
     "division": null
   },
   {
     "id": 291,
     "name": "Pocatello",
-    "deduplication_id": 324,
     "type": "high school",
     "division": null
   },
   {
     "id": 292,
     "name": "South Medford",
-    "deduplication_id": 325,
     "type": "high school",
     "division": null
   },
   {
     "id": 293,
     "name": "Riverton",
-    "deduplication_id": 326,
     "type": "high school",
     "division": null
   },
   {
     "id": 294,
     "name": "Juanita",
-    "deduplication_id": 327,
     "type": "high school",
     "division": null
   },
   {
     "id": 295,
     "name": "Bishop Blanchet",
-    "deduplication_id": 328,
     "type": "high school",
     "division": null
   },
   {
     "id": 296,
     "name": "Mohwak",
-    "deduplication_id": 329,
     "type": "high school",
     "division": null
   },
   {
     "id": 297,
     "name": "Curtis",
-    "deduplication_id": 330,
     "type": "high school",
     "division": null
   },
   {
     "id": 298,
     "name": "Puyallup",
-    "deduplication_id": 331,
     "type": "high school",
     "division": null
   },
   {
     "id": 299,
     "name": "Harvard Westlake",
-    "deduplication_id": 332,
     "type": "high school",
     "division": null
   },
   {
     "id": 300,
     "name": "Huntington Beach",
-    "deduplication_id": 333,
     "type": "high school",
     "division": null
   },
   {
     "id": 301,
     "name": "Spanish Springs",
-    "deduplication_id": 334,
     "type": "high school",
     "division": null
   },
   {
     "id": 302,
     "name": "Marantha",
-    "deduplication_id": 335,
     "type": "high school",
     "division": null
   },
   {
     "id": 303,
     "name": "La Canada",
-    "deduplication_id": 336,
     "type": "university",
     "division": null
   },
   {
     "id": 304,
     "name": "Valley View",
-    "deduplication_id": 337,
     "type": "high school",
     "division": null
   },
   {
     "id": 305,
     "name": "Washington Union",
-    "deduplication_id": 338,
     "type": "high school",
     "division": null
   },
   {
     "id": 306,
     "name": "Hanford",
-    "deduplication_id": 339,
     "type": "high school",
     "division": null
   },
   {
     "id": 307,
     "name": "Broomfield",
-    "deduplication_id": 340,
     "type": "high school",
     "division": null
   },
   {
     "id": 308,
     "name": "Patrick Henry",
-    "deduplication_id": 341,
     "type": "high school",
     "division": null
   },
   {
     "id": 309,
     "name": "Bingham",
-    "deduplication_id": 342,
     "type": "high school",
     "division": null
   },
   {
     "id": 310,
     "name": "Chiawana",
-    "deduplication_id": 343,
     "type": "high school",
     "division": null
   },
   {
     "id": 311,
     "name": "Hanover HS",
-    "deduplication_id": 344,
     "type": "high school",
     "division": null
   },
   {
     "id": 312,
     "name": "South Milwaukee HS",
-    "deduplication_id": 345,
     "type": "high school",
     "division": null
   },
   {
     "id": 313,
     "name": "Chaparral HS",
-    "deduplication_id": 346,
     "type": "high school",
     "division": null
   },
   {
     "id": 314,
     "name": "Wall Township HS",
-    "deduplication_id": 347,
     "type": "high school",
     "division": null
   },
   {
     "id": 315,
     "name": "Ole Miss",
-    "deduplication_id": 348,
     "type": "university",
     "division": null
   },
   {
     "id": 316,
     "name": "Orchard Lake St. Mary\u00e2\u20ac\u2122s Prep",
-    "deduplication_id": 349,
     "type": "high school",
     "division": null
   },
   {
     "id": 317,
     "name": "Missouri",
-    "deduplication_id": 350,
     "type": "university",
     "division": null
   },
   {
     "id": 318,
     "name": "Pearl River CC (MS)",
-    "deduplication_id": 351,
     "type": "university",
     "division": null
   },
   {
     "id": 319,
     "name": "Gettysburg Area HS",
-    "deduplication_id": 352,
     "type": "high school",
     "division": null
   },
   {
     "id": 320,
     "name": "Roosevelt HS",
-    "deduplication_id": 353,
     "type": "high school",
     "division": null
   },
   {
     "id": 321,
     "name": "Iowa Western CC",
-    "deduplication_id": 354,
     "type": "university",
     "division": null
   },
   {
     "id": 322,
     "name": "Lakewood Ranch HS",
-    "deduplication_id": 355,
     "type": "high school",
     "division": null
   },
   {
     "id": 323,
     "name": "Polk State College (FL)",
-    "deduplication_id": 356,
     "type": "university",
     "division": null
   },
   {
     "id": 324,
     "name": "Mount Juliet HS",
-    "deduplication_id": 357,
     "type": "high school",
     "division": null
   },
   {
     "id": 325,
     "name": "Franklin HS",
-    "deduplication_id": 358,
     "type": "high school",
     "division": null
   },
   {
     "id": 326,
     "name": "Dublin Jerome HS",
-    "deduplication_id": 359,
     "type": "high school",
     "division": null
   },
   {
     "id": 327,
     "name": "Etowah HS",
-    "deduplication_id": 360,
     "type": "high school",
     "division": null
   },
   {
     "id": 328,
     "name": "Pigeon Forge HS",
-    "deduplication_id": 361,
     "type": "high school",
     "division": null
   },
   {
     "id": 329,
     "name": "Bearden HS",
-    "deduplication_id": 362,
     "type": "high school",
     "division": null
   },
   {
     "id": 330,
     "name": "Blue Valley Southwest HS",
-    "deduplication_id": 363,
     "type": "high school",
     "division": null
   },
   {
     "id": 331,
     "name": "Loudon HS",
-    "deduplication_id": 364,
     "type": "high school",
     "division": null
   },
   {
     "id": 332,
     "name": "Rome HS",
-    "deduplication_id": 365,
     "type": "high school",
     "division": null
   },
   {
     "id": 333,
     "name": "Mauldin HS",
-    "deduplication_id": 366,
     "type": "high school",
     "division": null
   },
   {
     "id": 334,
     "name": "The Woodlands HS",
-    "deduplication_id": 367,
     "type": "high school",
     "division": null
   },
   {
     "id": 335,
     "name": "Allatoona HS",
-    "deduplication_id": 368,
     "type": "high school",
     "division": null
   },
   {
     "id": 336,
     "name": "Shawnee Mission East HS",
-    "deduplication_id": 369,
     "type": "high school",
     "division": null
   },
   {
     "id": 337,
     "name": "Farragut HS",
-    "deduplication_id": 370,
     "type": "high school",
     "division": null
   },
   {
     "id": 338,
     "name": "Trinity HS",
-    "deduplication_id": 371,
     "type": "high school",
     "division": null
   },
   {
     "id": 339,
     "name": "Pearland",
-    "deduplication_id": 372,
     "type": "high school",
     "division": null
   },
   {
     "id": 340,
     "name": "St. Louis University HS",
-    "deduplication_id": 373,
     "type": "high school",
     "division": null
   },
   {
     "id": 341,
     "name": "Shadow Creek HS",
-    "deduplication_id": 374,
     "type": "high school",
     "division": null
   },
   {
     "id": 342,
     "name": "Rice",
-    "deduplication_id": 375,
     "type": "university",
     "division": null
   },
   {
     "id": 343,
     "name": "Baylor School (TN)",
-    "deduplication_id": 376,
     "type": "high school",
     "division": null
   },
   {
     "id": 344,
     "name": "ETSU",
-    "deduplication_id": 377,
     "type": "university",
     "division": null
   },
   {
     "id": 345,
     "name": "Duke",
-    "deduplication_id": 378,
     "type": "university",
     "division": null
   },
   {
     "id": 346,
     "name": "Rutgers",
-    "deduplication_id": 379,
     "type": "university",
     "division": null
   },
   {
     "id": 347,
     "name": "Claireborne",
-    "deduplication_id": 380,
     "type": "high school",
     "division": null
   },
   {
     "id": 348,
     "name": "Walters State CC",
-    "deduplication_id": 381,
     "type": "university",
     "division": null
   },
   {
     "id": 349,
     "name": "Gordon Lee HS",
-    "deduplication_id": 382,
     "type": "high school",
     "division": null
   },
   {
     "id": 350,
     "name": "Bowling Green",
-    "deduplication_id": 383,
     "type": "university",
     "division": null
   },
   {
     "id": 351,
     "name": "University of North Carolina",
-    "deduplication_id": 384,
     "type": "university",
     "division": 1
   },
   {
     "id": 352,
     "name": "University of Florida",
-    "deduplication_id": 385,
     "type": "university",
     "division": 1
   },
   {
     "id": 353,
     "name": "Delran",
-    "deduplication_id": 386,
     "type": "university",
     "division": null
   },
   {
     "id": 354,
     "name": "Hammond",
-    "deduplication_id": 387,
     "type": "university",
     "division": null
   },
   {
     "id": 355,
     "name": "Freeman",
-    "deduplication_id": 388,
     "type": "university",
     "division": null
   },
   {
     "id": 356,
     "name": "Pro5",
-    "deduplication_id": 389,
     "type": "university",
     "division": null
   },
   {
     "id": 357,
     "name": "West Valley",
-    "deduplication_id": 390,
     "type": "university",
     "division": null
   },
   {
     "id": 358,
     "name": "Needham",
-    "deduplication_id": 391,
     "type": "university",
     "division": null
   },
   {
     "id": 359,
     "name": "Hunt",
-    "deduplication_id": 392,
     "type": "university",
     "division": null
   },
   {
     "id": 360,
     "name": "Frank W. Cox",
-    "deduplication_id": 393,
     "type": "university",
     "division": null
   },
   {
     "id": 361,
     "name": "East Rowan",
-    "deduplication_id": 394,
     "type": "university",
     "division": null
   },
   {
     "id": 362,
     "name": "Southern Wayne",
-    "deduplication_id": 395,
     "type": "university",
     "division": null
   },
   {
     "id": 363,
     "name": "Toms River North",
-    "deduplication_id": 396,
     "type": "university",
     "division": null
   },
   {
     "id": 364,
     "name": "D.H. Conley",
-    "deduplication_id": 397,
     "type": "university",
     "division": null
   },
   {
     "id": 365,
     "name": "Andrew Jackson",
-    "deduplication_id": 398,
     "type": "university",
     "division": null
   },
   {
     "id": 366,
     "name": "South Rowan",
-    "deduplication_id": 399,
     "type": "university",
     "division": null
   },
   {
     "id": 367,
     "name": "Wayzata",
-    "deduplication_id": 400,
     "type": "university",
     "division": null
   },
   {
     "id": 368,
     "name": "St. Anthony's",
-    "deduplication_id": 401,
     "type": "university",
     "division": null
   },
   {
     "id": 369,
     "name": "McCallie (Tenn.)",
-    "deduplication_id": 402,
     "type": "university",
     "division": null
   },
   {
     "id": 370,
     "name": "Denmark",
-    "deduplication_id": 403,
     "type": "university",
     "division": null
   },
   {
     "id": 371,
     "name": "East Surry",
-    "deduplication_id": 404,
     "type": "university",
     "division": null
   },
   {
     "id": 372,
     "name": "Louisburg",
-    "deduplication_id": 405,
     "type": "university",
     "division": null
   },
   {
     "id": 373,
     "name": "West Forsyth",
-    "deduplication_id": 406,
     "type": "university",
     "division": null
   },
   {
     "id": 374,
     "name": "Ardrey Kell",
-    "deduplication_id": 407,
     "type": "university",
     "division": null
   },
   {
     "id": 375,
     "name": "Page",
-    "deduplication_id": 408,
     "type": "university",
     "division": null
   },
   {
     "id": 376,
     "name": "Southwestern Randolph",
-    "deduplication_id": 409,
     "type": "university",
     "division": null
   },
   {
     "id": 377,
     "name": "Fike",
-    "deduplication_id": 410,
     "type": "university",
     "division": null
   },
   {
     "id": 378,
     "name": "Harrisburg",
-    "deduplication_id": 411,
     "type": "university",
     "division": null
   },
   {
     "id": 379,
     "name": "Orange",
-    "deduplication_id": 412,
     "type": "university",
     "division": null
   },
   {
     "id": 380,
     "name": "Dominion",
-    "deduplication_id": 413,
     "type": "university",
     "division": null
   },
   {
     "id": 381,
     "name": "Dorman",
-    "deduplication_id": 414,
     "type": "university",
     "division": null
   },
   {
     "id": 382,
     "name": "Bishop Verot",
-    "deduplication_id": 415,
     "type": "university",
     "division": null
   },
   {
     "id": 383,
     "name": "JH Rose",
-    "deduplication_id": 416,
     "type": "university",
     "division": null
   },
   {
     "id": 384,
     "name": "Moorestown",
-    "deduplication_id": 417,
     "type": "university",
     "division": null
   },
   {
     "id": 385,
     "name": "Craig HS",
-    "deduplication_id": 418,
     "type": "high school",
     "division": null
   },
   {
     "id": 386,
     "name": "Hopewell HS",
-    "deduplication_id": 419,
     "type": "high school",
     "division": null
   },
   {
     "id": 387,
     "name": "Newnull HS",
-    "deduplication_id": 420,
     "type": "high school",
     "division": null
   },
   {
     "id": 388,
     "name": "American Heritage HS",
-    "deduplication_id": 421,
     "type": "high school",
     "division": null
   },
   {
     "id": 389,
     "name": "Randolph HS",
-    "deduplication_id": 422,
     "type": "high school",
     "division": null
   },
   {
     "id": 390,
     "name": "Catawba Ridge HS",
-    "deduplication_id": 423,
     "type": "high school",
     "division": null
   },
   {
     "id": 391,
     "name": "Massapequa HS",
-    "deduplication_id": 424,
     "type": "high school",
     "division": null
   },
   {
     "id": 392,
     "name": "Bartram Trail (Jacksonville)",
-    "deduplication_id": 425,
     "type": "university",
     "division": null
   },
   {
     "id": 393,
     "name": "North Oconee (Stetson)",
-    "deduplication_id": 426,
     "type": "university",
     "division": null
   },
   {
     "id": 394,
     "name": "Berkeley Prep",
-    "deduplication_id": 427,
     "type": "university",
     "division": null
   },
   {
     "id": 395,
     "name": "Windermere (Miami)",
-    "deduplication_id": 428,
     "type": "university",
     "division": null
   },
   {
     "id": 396,
     "name": "Wiregrass Ranch (USF)",
-    "deduplication_id": 429,
     "type": "university",
     "division": null
   },
   {
     "id": 397,
     "name": "Milton",
-    "deduplication_id": 430,
     "type": "university",
     "division": null
   },
   {
     "id": 398,
     "name": "Bloomingdale (Alabama)",
-    "deduplication_id": 431,
     "type": "university",
     "division": null
   },
   {
     "id": 399,
     "name": "Parkview (Texas Tech)",
-    "deduplication_id": 432,
     "type": "university",
     "division": null
   },
   {
     "id": 400,
     "name": "Sickles",
-    "deduplication_id": 433,
     "type": "university",
     "division": null
   },
   {
     "id": 401,
     "name": "Verona",
-    "deduplication_id": 434,
     "type": "university",
     "division": null
   },
   {
     "id": 402,
     "name": "Brookwood",
-    "deduplication_id": 435,
     "type": "university",
     "division": null
   },
   {
     "id": 403,
     "name": "North Myrtle Beach (Clemson)",
-    "deduplication_id": 436,
     "type": "university",
     "division": null
   },
   {
     "id": 404,
     "name": "Miami Palmetto",
-    "deduplication_id": 437,
     "type": "university",
     "division": null
   },
   {
     "id": 405,
     "name": "Durant",
-    "deduplication_id": 438,
     "type": "university",
     "division": null
   },
   {
     "id": 406,
     "name": "Lake Brantley",
-    "deduplication_id": 439,
     "type": "university",
     "division": null
   },
   {
     "id": 407,
     "name": "Lakeland Christian (Virginia Tech)",
-    "deduplication_id": 440,
     "type": "university",
     "division": null
   },
   {
     "id": 408,
     "name": "TNXL Academy (Charleston Southern)",
-    "deduplication_id": 441,
     "type": "university",
     "division": null
   },
   {
     "id": 409,
     "name": "Doral Academy Charter",
-    "deduplication_id": 442,
     "type": "university",
     "division": null
   },
   {
     "id": 410,
     "name": "Strawberry Crest",
-    "deduplication_id": 443,
     "type": "university",
     "division": null
   },
   {
     "id": 411,
     "name": "Lafayette (Santa Fe College)",
-    "deduplication_id": 444,
     "type": "university",
     "division": null
   },
   {
     "id": 412,
     "name": "Forest (Gulf Coast CC)",
-    "deduplication_id": 445,
     "type": "university",
     "division": null
   },
   {
     "id": 413,
     "name": "Villages Charter (College of Central Florida)",
-    "deduplication_id": 446,
     "type": "university",
     "division": null
   },
   {
     "id": 414,
     "name": "Key West",
-    "deduplication_id": 447,
     "type": "university",
     "division": null
   },
   {
     "id": 415,
     "name": "Bishop John J. Snyder",
-    "deduplication_id": 448,
     "type": "university",
     "division": null
   },
   {
     "id": 416,
     "name": "Fort Meade",
-    "deduplication_id": 449,
     "type": "university",
     "division": null
   },
   {
     "id": 417,
     "name": "Lugoff Elgin HS",
-    "deduplication_id": 450,
     "type": "high school",
     "division": null
   },
   {
     "id": 418,
     "name": "The Citadel",
-    "deduplication_id": 451,
     "type": "university",
     "division": null
   },
   {
     "id": 419,
     "name": "Houston",
-    "deduplication_id": 452,
     "type": "university",
     "division": null
   },
   {
     "id": 420,
     "name": "Alburnett HS",
-    "deduplication_id": 453,
     "type": "high school",
     "division": null
   },
   {
     "id": 421,
     "name": "Campbell",
-    "deduplication_id": 454,
     "type": "university",
     "division": null
   },
   {
     "id": 422,
     "name": "Brookwood HS",
-    "deduplication_id": 455,
     "type": "high school",
     "division": null
   },
   {
     "id": 423,
     "name": "Jeff Davis HS",
-    "deduplication_id": 456,
     "type": "high school",
     "division": null
   },
   {
     "id": 424,
     "name": "John A. Logan CC",
-    "deduplication_id": 457,
     "type": "university",
     "division": null
   },
   {
     "id": 425,
     "name": "Bob Jones HS",
-    "deduplication_id": 458,
     "type": "high school",
     "division": null
   },
   {
     "id": 426,
     "name": "Furman",
-    "deduplication_id": 459,
     "type": "university",
     "division": null
   },
   {
     "id": 427,
     "name": "Dr. Phillips HS",
-    "deduplication_id": 460,
     "type": "high school",
     "division": null
   },
   {
     "id": 428,
     "name": "Weatherford College",
-    "deduplication_id": 461,
     "type": "university",
     "division": null
   },
   {
     "id": 429,
     "name": "Northeast Mississippi CC",
-    "deduplication_id": 462,
     "type": "university",
     "division": null
   },
   {
     "id": 430,
     "name": "Abingdon HS",
-    "deduplication_id": 463,
     "type": "high school",
     "division": null
   },
   {
     "id": 431,
     "name": "North Broward Prep",
-    "deduplication_id": 464,
     "type": "university",
     "division": null
   },
   {
     "id": 432,
     "name": "Florence Darlington CC",
-    "deduplication_id": 465,
     "type": "university",
     "division": null
   },
   {
     "id": 433,
     "name": "Yorktown HS",
-    "deduplication_id": 466,
     "type": "high school",
     "division": null
   },
   {
     "id": 434,
     "name": "River View HS",
-    "deduplication_id": 467,
     "type": "high school",
     "division": null
   },
   {
     "id": 435,
     "name": "University of Miami",
-    "deduplication_id": 468,
     "type": "university",
     "division": "1"
   },
   {
     "id": 436,
     "name": "North Alabama",
-    "deduplication_id": 469,
     "type": "university",
     "division": null
   },
   {
     "id": 437,
     "name": "Itawamba CC",
-    "deduplication_id": 470,
     "type": "university",
     "division": null
   },
   {
     "id": 438,
     "name": "Briarcrest Christian HS",
-    "deduplication_id": 471,
     "type": "high school",
     "division": null
   },
   {
     "id": 439,
     "name": "Fontainbleau HS",
-    "deduplication_id": 472,
     "type": "high school",
     "division": null
   },
   {
     "id": 440,
     "name": "Prosper HS",
-    "deduplication_id": 473,
     "type": "high school",
     "division": null
   },
   {
     "id": 441,
     "name": "Pearl River CC",
-    "deduplication_id": 474,
     "type": "university",
     "division": null
   },
   {
     "id": 442,
     "name": "Seaman HS",
-    "deduplication_id": 475,
     "type": "high school",
     "division": null
   },
   {
     "id": 443,
     "name": "Cloud County CC",
-    "deduplication_id": 476,
     "type": "university",
     "division": null
   },
   {
     "id": 444,
     "name": "Jones JC",
-    "deduplication_id": 477,
     "type": "university",
     "division": null
   },
   {
     "id": 445,
     "name": "Purvis HS",
-    "deduplication_id": 478,
     "type": "high school",
     "division": null
   },
   {
     "id": 446,
     "name": "Baylor School [TN]",
-    "deduplication_id": 479,
     "type": "university",
     "division": null
   },
   {
     "id": 447,
     "name": "Mahwah HS",
-    "deduplication_id": 480,
     "type": "high school",
     "division": null
   },
   {
     "id": 448,
     "name": "Lightridge HS",
-    "deduplication_id": 481,
     "type": "high school",
     "division": null
   },
   {
     "id": 449,
     "name": "St. John Neumann HS",
-    "deduplication_id": 482,
     "type": "high school",
     "division": null
   },
   {
     "id": 450,
     "name": "Bryant",
-    "deduplication_id": 483,
     "type": "university",
     "division": null
   },
   {
     "id": 451,
     "name": "Ramsey HS",
-    "deduplication_id": 484,
     "type": "high school",
     "division": null
   },
   {
     "id": 452,
     "name": "Illinois",
-    "deduplication_id": 485,
     "type": "university",
     "division": null
   },
   {
     "id": 453,
     "name": "Petal HS",
-    "deduplication_id": 486,
     "type": "high school",
     "division": null
   },
   {
     "id": 454,
     "name": "George Mason",
-    "deduplication_id": 487,
     "type": "university",
     "division": null
   },
   {
     "id": 455,
     "name": "Oak Grove HS",
-    "deduplication_id": 488,
     "type": "high school",
     "division": null
   },
   {
     "id": 456,
     "name": "Notre Dame-West Haven HS",
-    "deduplication_id": 489,
     "type": "high school",
     "division": null
   },
   {
     "id": 457,
     "name": "Lincoln Way East HS",
-    "deduplication_id": 490,
     "type": "high school",
     "division": null
   },
   {
     "id": 458,
     "name": "East Central [Miss.] CC",
-    "deduplication_id": 491,
     "type": "university",
     "division": null
   },
   {
     "id": 459,
     "name": "James Madison",
-    "deduplication_id": 492,
     "type": "university",
     "division": null
   },
   {
     "id": 460,
     "name": "De Smet Jesuit HS",
-    "deduplication_id": 493,
     "type": "high school",
     "division": null
   },
   {
     "id": 461,
     "name": "Meridian CC",
-    "deduplication_id": 494,
     "type": "university",
     "division": null
   },
   {
     "id": 462,
     "name": "Ravenwood HS",
-    "deduplication_id": 495,
     "type": "high school",
     "division": null
   },
   {
     "id": 463,
     "name": "Ball State",
-    "deduplication_id": 496,
     "type": "university",
     "division": null
   },
   {
     "id": 464,
     "name": "Washington School",
-    "deduplication_id": 497,
     "type": "university",
     "division": null
   },
   {
     "id": 465,
     "name": "University of Tennessee",
-    "deduplication_id": 498,
     "type": "university",
     "division": "1"
   }

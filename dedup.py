@@ -84,3 +84,17 @@ def check_for_dups_in_json(filename:str):
 #check_for_dups_in_json("players.json")
 """check_for_dups_in_json("temp_coaches.json")
 check_for_dups_in_json("coaches.json")"""
+
+# dedup schools
+schools_dict = None
+
+"""with open("schools.json") as file:
+    schools_dict = json.load(file)
+school_id = 0
+reorgd_schools_dict = {}
+for school in schools_dict:
+    reorgd_schools_dict[school_id] = {"name": school}|schools_dict[school]
+    school_id+=1
+school_df = get_df_from_dict(reorgd_schools_dict)
+train_dedup("schools",["name"], school_df)
+dedup("schools.pkl", school_df, "schools_temp.json")"""

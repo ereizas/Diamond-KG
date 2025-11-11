@@ -3,105 +3,55 @@
     "id": 0,
     "name": "University of North Carolina 2025",
     "wins": 46,
-    "losses": 15,
-    "member_of": "ACC"
+    "losses": 15
   },
   {
     "id": 1,
     "name": "University of North Carolina 2026",
     "wins": 0,
-    "losses": 0,
-    "member_of": "ACC"
+    "losses": 0
   },
   {
     "id": 2,
     "name": "Mississippi State University 2025",
     "wins": 36,
-    "losses": 23,
-    "member_of": "SEC"
+    "losses": 23
   },
   {
     "id": 3,
     "name": "Mississippi State University 2026",
     "wins": 0,
-    "losses": 0,
-    "member_of": "SEC"
+    "losses": 0
   },
-  {
-    "id": 4,
-    "name": "University of Florida 2025",
-    "wins": 39,
-    "losses": 22,
-    "member_of": "ACC"
-  },
+  { "id": 4, "name": "University of Florida 2025", "wins": 39, "losses": 22 },
   {
     "id": 5,
     "name": "Pennsylvania State University 2025",
     "wins": 33,
-    "losses": 23,
-    "member_of": "Big Ten"
+    "losses": 23
   },
   {
     "id": 6,
     "name": "Pennsylvania State University 2026",
     "wins": 0,
-    "losses": 0,
-    "member_of": "Big Ten"
+    "losses": 0
   },
-  {
-    "id": 7,
-    "name": "Vanderbilt University 2025",
-    "wins": 43,
-    "losses": 18,
-    "member_of": "SEC"
-  },
-  {
-    "id": 8,
-    "name": "Vanderbilt University 2026",
-    "wins": 0,
-    "losses": 0,
-    "member_of": "SEC"
-  },
-  {
-    "id": 9,
-    "name": "University of Miami 2025",
-    "wins": 35,
-    "losses": 27,
-    "member_of": "ACC"
-  },
-  {
-    "id": 10,
-    "name": "University of Miami 2026",
-    "wins": 0,
-    "losses": 0,
-    "member_of": "ACC"
-  },
+  { "id": 7, "name": "Vanderbilt University 2025", "wins": 43, "losses": 18 },
+  { "id": 8, "name": "Vanderbilt University 2026", "wins": 0, "losses": 0 },
+  { "id": 9, "name": "University of Miami 2025", "wins": 35, "losses": 27 },
+  { "id": 10, "name": "University of Miami 2026", "wins": 0, "losses": 0 },
   {
     "id": 11,
     "name": "Oregon State University 2025",
     "wins": 48,
-    "losses": 16,
-    "member_of": null
+    "losses": 16
   },
-  {
-    "id": 12,
-    "name": "Oregon State University 2026",
-    "wins": 0,
-    "losses": 0,
-    "member_of": null
-  },
+  { "id": 12, "name": "Oregon State University 2026", "wins": 0, "losses": 0 },
   {
     "id": 13,
     "name": "University of Tennessee 2025",
     "wins": 46,
-    "losses": 19,
-    "member_of": "SEC"
+    "losses": 19
   },
-  {
-    "id": 14,
-    "name": "University of Tennessee 2026",
-    "wins": 0,
-    "losses": 0,
-    "member_of": "SEC"
-  }
+  { "id": 14, "name": "University of Tennessee 2026", "wins": 0, "losses": 0 }
 ]

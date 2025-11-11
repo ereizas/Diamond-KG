@@ -3,9 +3,6 @@ import json
 
 def reorganize_json(filename):
     data = None
-    with open(filename) as file:
-        data = json.load(file)
-    # TODO: reorganize JSON files into list of dicts with id field
     reorgd = []
     id = 0
     for ent in data:
@@ -14,4 +11,61 @@ def reorganize_json(filename):
     with open(filename, "w") as file:
         json.dump(reorgd, file)
 
-reorganize_json("teams.json")
+def json_to_csv(filename):
+    data = None
+    with open(filename) as file:
+        data = json.load(file)
+    fieldnames = data[0].keys()
+    with open(filename[:filename.find(".")]+".csv", "w", newline="") as file:
+        writer = csv.DictWriter(file, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(data)
+
+def get_id_from_name(cache: dict, name: str, src_data:list, i: int, rel_field, rel_data:list, foreign_data):
+    cached = cache.get(name)
+    if cached:
+        rel_data.append((src_data[i]["id"],cached))
+    else:
+        for j in range(len(foreign_data)):
+            if foreign_data[j]["abbreviation"]==name:
+                cache[name]=foreign_data[j]["id"]
+                rel_data.append((src_data[i]["id"],foreign_data[j]["id"]))
+
+def replace_with_ids(src_file, foreign_file, rel_field, rel_singular: bool = False):
+    src_data = None
+    with open(src_file) as file:
+        src_data = json.load(file)
+    foreign_data = None
+    with open(foreign_file) as file:
+        foreign_data = json.load(file)
+    cache = {}
+    rel_data = []
+    for i in range(len(src_data)):
+        if not rel_singular:
+            for name in src_data[i][rel_field]:
+                get_id_from_name(cache, name, src_data, i, rel_field, rel_data, foreign_data)
+        else:
+            get_id_from_name(cache, src_data[i][rel_field], src_data, i, rel_field, rel_data, foreign_data)
+        del src_data[i][rel_field]
+    with open(src_file, "w") as file:
+        json.dump(src_data, file)
+    with open(f"{rel_field}{"_team" if rel_field=="coaches" else ""}.json", "w") as file:
+        json.dump(rel_data, file)
+
+replace_with_ids("teams.json", "conferences.json", "member_of", rel_singular=True)
+
+def extract_relationships(filename: str, rel_fields: list, rel_singular: bool = False):
+    data = None
+    with open(filename) as file:
+        data = json.load(file)
+    rels = {rel:[] for rel in rel_fields}
+    for i in range(len(data)):
+        for rel in rels:
+            if not rel_singular:
+                for id in data[i][rel]:
+                    rels[rel].append((data[i]["id"],id))
+            else:
+                rels[rel].append((data[i]["id"],data[i][rel]))
+    # TODO: double check this logic
+
+#extract_relationships("players.json", ["plays_for", "attended"])

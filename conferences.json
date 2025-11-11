@@ -1,6 +1,7 @@
 [
   {
     "id": 0,
+    "name": "Atlantic Coast Conference",
     "abbreviation": "ACC",
     "region": "East Coast",
     "number_of_teams": 18,
@@ -10,6 +11,7 @@
   },
   {
     "id": 1,
+    "name": "Southeastern Conference",
     "abbreviation": "SEC",
     "region": "Southeast",
     "number_of_teams": 16,
@@ -18,8 +20,9 @@
   },
   {
     "id": 2,
+    "name": "Big Ten",
     "abbreviation": "B1G",
-    "region": "Midwest,Mid-Atlantic,Great Plains",
+    "region": "Midwest",
     "number_of_teams": 18,
     "commissioner": "Tony Pettiti",
     "headquarters": "Rosemont, Illinois"
