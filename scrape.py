@@ -5,7 +5,6 @@ import json
 import dedup
 # TODO: append dicts to json files (now a list of entities)
 # TODO: use foreign ids for relationships if possible
-# TODO: ensure only number is captured for weight
 SIDEARM_SCHOOL_TO_ROSTER_URLS = {
     "University of North Carolina": ["https://goheels.com/sports/baseball/roster/"],
     "University of Florida": ["https://floridagators.com/sports/baseball/roster/"],
@@ -16,12 +15,12 @@ SIDEARM_SCHOOL_TO_ROSTER_URLS = {
 }
 
 TABLE_SCHOOL_TO_ROSTER_URLS = {
-    "Pennsylvania State University": ["https://gopsusports.com/sports/baseball/roster/season/"],
-    "Vanderbilt University": ["https://vucommodores.com/sports/baseball/roster/season/"],
-    #"University of Arkansas": ["https://arkansasrazorbacks.com/sport/m-basebl/roster/"],
-    "University of Miami": ["https://miamihurricanes.com/sports/baseball/roster/season/"],
-    "Oregon State University": ["https://osubeavers.com/sports/baseball/roster/"],
-    "University of Tennessee": ["https://utsports.com/sports/baseball/roster/"]
+    #"Pennsylvania State University": ["https://gopsusports.com/sports/baseball/roster/season/"],
+    #"Vanderbilt University": ["https://vucommodores.com/sports/baseball/roster/season/"],
+    "University of Arkansas": ["https://arkansasrazorbacks.com/sport/m-basebl/roster/"],
+    #"University of Miami": ["https://miamihurricanes.com/sports/baseball/roster/season/"],
+    #"Oregon State University": ["https://osubeavers.com/sports/baseball/roster/"],
+    #"University of Tennessee": ["https://utsports.com/sports/baseball/roster/"]
 }
 
 SCHOOL_ATTR_TO_COL = {
@@ -55,12 +54,15 @@ def scrape_sidearm_roster(
     school:str,
     year: int,
     curr_player_id:int,
-    curr_coach_id:int
+    curr_coach_id:int,
+    curr_school_id:int,
+    school_to_id:dict[str, int],
+    team_to_id: dict[str, int]
 ):
     response = requests.get(url)
     if response.status_code!=200:
         print(response.status_code)
-        return curr_player_id, curr_coach_id
+        return curr_player_id, curr_coach_id, curr_school_id
     soup = BeautifulSoup(response.content, "html.parser")
     div_tags = soup.find_all("div",attrs={"class":re.compile("(person-card.*items-center)|heading-divider")})
     get_coaches = False
@@ -74,7 +76,7 @@ def scrape_sidearm_roster(
         name = tag.find("h3")
         if not name:
             continue 
-        """if not get_coaches:
+        if not get_coaches:
             stats = tag.find("div",attrs={"class":re.compile("bio-stats")})
             if stats:
                 position = stats.find("span",attrs={"data-test-id":re.compile("person-position")})
@@ -82,44 +84,49 @@ def scrape_sidearm_roster(
                 weight = stats.find("span",attrs={"data-test-id":re.compile("person-weight")})
                 last_schools = None
                 last_schools_tag = tag.find("span", attrs={"data-test-id":re.compile("person-high-school")})
+                # add to attended relationship and add new school entity as needed
                 if last_schools_tag:
                     last_schools = last_schools_tag.text[len("Last School")+1:].strip().split(" / ")
-
-                
-                #clean up for adding relationships
-                for pid in data["Player"]:
-                    if data["Player"][pid]["name"]==name.text:
-                        data["Player"][pid]["plays_for"].append(f"{school} {year}")
-                        if last_schools:
-                            for schl in last_schools:
-                                if schl not in data["Player"][pid]["attended"]:
-                                    data["Player"][pid]["attended"].append(schl)
-                
-                weight = int(weight.text[len("Weight")+1:weight.text.rfind("lbs")].strip()) if weight else None
-                space_ind = weight.find(" ")
-                data["Player"][curr_player_id]={
-                    "name": name.text,
-                    # TODO: clean up scraping so it can capture 1 char "C"
-                    "position": position.text[len("Position ")+1:].strip() if position else None,
-                    "height": convert_height_str(height.text[len("Height")+1:].strip()) if height else None,
-                    "weight": int(weight) if space_ind==-1 else int(weight[:space_ind])
-                }
-                if last_schools:
                     for schl in last_schools:
-                        data["School"][schl] = {"type": "high school" if schl.endswith("HS") or "High School" in schl or schl.endswith("Academy") else "university"}
-                        data["Player"][curr_player_id]["attended"].append(schl)
-                data["Player"][curr_player_id]["plays_for"] = f"{school} {year}"
-                
-                curr_player_id+=1"""
+                        id = school_to_id.get(schl)
+                        if id==None:
+                            school_to_id[schl] = curr_school_id
+                            data["School"].append(
+                                {
+                                    "id": curr_school_id,
+                                    "name": schl,
+                                    "type": "high school" if schl.endswith("HS") or "High School" in schl 
+                                    or schl.endswith("Academy") else "university"
+                                }
+                            )
+                            curr_school_id+=1
+                        data["attended"].append((curr_player_id, school_to_id[schl]))
+                        
+                weight = weight.text[len("Weight")+1:weight.text.rfind("lbs")].strip() if weight else None
+                space_ind = weight.find(" ")
+                data["Player"].append(
+                    {
+                        "id": curr_player_id,
+                        "name": name.text,
+                        # TODO: rescrape for position and upload to neo4j
+                        "position": position.text[len("Position "):].strip() if position else None,
+                        "height": convert_height_str(height.text[len("Height")+1:].strip()) if height else None,
+                        "weight": int(weight) if space_ind==-1 else int(weight[:space_ind])
+                    }
+                )
+                curr_player_id+=1
         if get_coaches:
             role = tag.find("div", attrs={"class": None, "data-test-id": None})
-            data["Coach"][curr_coach_id]={
-                "name": name.text,
-                "role": role.text if role else None
-            }
-            data["Coach"][curr_coach_id]["coaches"]= [f"{school} {str(year)}"]
+            data["Coach"].append(
+                {
+                    "id": curr_coach_id,
+                    "name": name.text,
+                    "role": role.text if role else None
+                }
+            )
+            data["coaches_team"].append((curr_coach_id, team_to_id.get(f"{school} {year}")))
             curr_coach_id+=1
-    return curr_player_id, curr_coach_id
+    return curr_player_id, curr_coach_id, curr_school_id
 
 def scrape_sidearm_coach_page(url, data, school, year, curr_coach_id):
     response = requests.get(url)
@@ -198,29 +205,43 @@ def scrape_table(
             curr_coach_id+=1
     return curr_player_id, curr_coach_id
 
+def get_id_mapping(filename):
+    to_id = {}
+    with open(filename) as file:
+        temp = json.load(file)
+        for row in temp:
+            to_id[row["name"]]=row["id"]
+    return to_id
+
 def get_next_id(json_file):
     data = None
     with open(json_file) as file:
         data = json.load(file)
-    return max([int(key) for key in data.keys()])+1
+    return max([row["id"] for row in data])+1
 
 if __name__=="__main__":
+    # TODO: Fill out team data before running for team_to_id mapping
     years = [2025, 2026]
     # data not loaded from files, so that deduping is easier
     data = {
-        "Player": {},
-        "Coach": {},
-        "School": {}
+        "Player": [],
+        "Coach":[],
+        "School": [],
+        "attended": [],
+        "coaches_team": [],
+        "plays_for": [],
     }
-    curr_player_id, curr_coach_id = get_next_id("players.json"), get_next_id("coaches.json")
+    school_to_id = get_id_mapping("schools.json")
+    team_to_id = get_id_mapping("teams.json")
+    curr_player_id, curr_coach_id, curr_school_id = get_next_id("players.json"), get_next_id("coaches.json"), get_next_id("schools.json")
     for school in SIDEARM_SCHOOL_TO_ROSTER_URLS:
         for i in range(len(SIDEARM_SCHOOL_TO_ROSTER_URLS[school])):
             for year in years:
                 url = SIDEARM_SCHOOL_TO_ROSTER_URLS[school][i]
                 if not url.endswith("coaches/"):
-                    curr_player_id, curr_coach_id = scrape_sidearm_roster(url+str(year), data, school, year, curr_player_id, curr_coach_id)
-                else:
-                    curr_coach_id = scrape_sidearm_coach_page(url+str(year), data, school, year, curr_coach_id)
+                    curr_player_id, curr_coach_id, curr_school_id = scrape_sidearm_roster(url+str(year), data, school, year, curr_player_id, curr_coach_id, curr_school_id, school_to_id, team_to_id)
+                """else:
+                    curr_coach_id = scrape_sidearm_coach_page(url+str(year), data, school, year, curr_coach_id)"""
     """for school in TABLE_SCHOOL_TO_ROSTER_URLS:
         for i in range(len(TABLE_SCHOOL_TO_ROSTER_URLS[school])):
             for year in years:
@@ -234,14 +255,14 @@ if __name__=="__main__":
                     curr_coach_id
                 )"""
     """with open("temp_players.json","w") as file:
-        json.dump(data["Player"], file)"""
+        json.dump(data["Player"], file)
     with open("temp_coaches.json","w") as file:
-        json.dump(data["Coach"], file)
+        json.dump(data["Coach"], file)"""
     #coaches_df = dedup.get_df_from_dict(data["Coach"])
     """print("Player duplicates:")
-    dedup.check_for_dups(data["Player"])"""
+    dedup.check_for_dups(data["Player"])
     print("Coach duplicates:\n")
-    dedup.check_for_dups(data["Coach"])
+    dedup.check_for_dups(data["Coach"])"""
     """with open("players.json") as player_file:
         data["Player"]|=json.load(player_file)
     with open("coaches.json") as coach_file:
