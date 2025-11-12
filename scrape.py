@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import re
 import json
 import dedup
-# TODO: append dicts to json files (now a list of entities)
 SIDEARM_SCHOOL_TO_ROSTER_URLS = {
     "University of North Carolina": ["https://goheels.com/sports/baseball/roster/"],
     "University of Florida": ["https://floridagators.com/sports/baseball/roster/"],
@@ -229,7 +228,7 @@ def get_next_id(json_file):
     return max([row["id"] for row in data])+1
 
 if __name__=="__main__":
-    # TODO: Fill out team data before running for team_to_id mapping
+    # Pre-run TODO: Fill out team data before running for team_to_id mapping
     years = [2025, 2026]
     # data not loaded from files, so that deduping is easier
     data = {
@@ -266,24 +265,24 @@ if __name__=="__main__":
                     school_to_id,
                     team_to_id
                 )
-    print(data)
-    """with open("temp_players.json","w") as file:
-        json.dump(data["Player"], file)
-    with open("temp_coaches.json","w") as file:
-        json.dump(data["Coach"], file)"""
-    #coaches_df = dedup.get_df_from_dict(data["Coach"])
-    """print("Player duplicates:")
+    print("Player duplicates:")
     dedup.check_for_dups(data["Player"])
     print("Coach duplicates:\n")
-    dedup.check_for_dups(data["Coach"])"""
+    dedup.check_for_dups(data["Coach"])
     """with open("players.json") as player_file:
-        data["Player"]|=json.load(player_file)
+        data["Player"]=json.load(player_file)+data["Player"]
     with open("coaches.json") as coach_file:
-        data["Coach"]|=json.load(coach_file)
+        data["Coach"]=json.load(coach_file)+data["Coach"]
     with open("schools.json") as school_file:
-        data["School"]|=json.load(school_file)
+        data["School"]=json.load(school_file)+data["School"]
+    with open("attended.json") as attended_file:
+        data["attended"]=json.load(attended_file)+data["attended"]
+    with open("coaches_team.json") as coaches_team_file:
+        data["coaches_team"]=json.load(coaches_team_file)+data["coaches_team"]
+    with open("plays_for.json") as plays_for_file:
+        data["plays_for"]=json.load(plays_for_file)+data["plays_for"]
     with open("players.json", "w") as player_file:
-        json.dump(players_data, player_file)
+        json.dump(data["Player"], player_file)
     with open("coaches.json", "w") as coach_file:
         json.dump(data["Coach"], coach_file)
     with open("schools.json", "w") as schools_file:
