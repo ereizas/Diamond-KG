@@ -107,12 +107,16 @@ def scrape_sidearm_roster(
                         
                 weight = weight.text[len("Weight")+1:weight.text.rfind("lbs")].strip() if weight else None
                 space_ind = weight.find(" ")
+                position_start_ind = 0
+                if "position" in position.text.lower():
+                    position_start_ind+=len("position")
+                    while not position.text[position_start_ind].isalpha():
+                        position_start_ind+=1
                 data["Player"].append(
                     {
                         "id": curr_player_id,
                         "name": name.text,
-                        # TODO: rescrape for position and upload to neo4j
-                        "position": position.text[len("Position "):].strip() if position else None,
+                        "position": position.text[position_start_ind:].strip() if position else None,
                         "height": convert_height_str(height.text[len("Height")+1:].strip()) if height else None,
                         "weight": int(weight) if space_ind==-1 else int(weight[:space_ind])
                     }
