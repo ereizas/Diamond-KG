@@ -15,6 +15,7 @@
     "abbreviation": "SEC",
     "region": "Southeast",
     "number_of_teams": 16,
+    "founded_year": 1932,
     "commissioner": "Greg Sankey",
     "headquarters": "Birmingham, Alabama"
   },
@@ -24,6 +25,7 @@
     "abbreviation": "B1G",
     "region": "Midwest",
     "number_of_teams": 18,
+    "founded_year": 1896,
     "commissioner": "Tony Pettiti",
     "headquarters": "Rosemont, Illinois"
   }
