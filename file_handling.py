@@ -11,16 +11,6 @@ def reorganize_json(filename):
     with open(filename, "w") as file:
         json.dump(reorgd, file)
 
-def json_to_csv(filename):
-    data = None
-    with open(filename) as file:
-        data = json.load(file)
-    fieldnames = data[0].keys()
-    with open(filename[:filename.find(".")]+".csv", "w", newline="") as file:
-        writer = csv.DictWriter(file, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(data)
-
 def get_id_from_name(cache: dict, name: str, src_data:list, i: int, rel_field, rel_data:list, foreign_data):
     cached = cache.get(name)
     if cached:
@@ -52,27 +42,16 @@ def replace_with_ids(src_file, foreign_file, rel_field, rel_singular: bool = Fal
     with open(f"{rel_field}{"_team" if rel_field=="coaches" else ""}.json", "w") as file:
         json.dump(rel_data, file)
 
-# standardize height
-data = None
-with open("players.json") as file:
-    data = json.load(file)
-for i in range(len(data)):
-    height = data[i]["height"]
-    feet, inches = 0, 0
-    if "-" in height:
-        feet = int(height[:height.find("-")])
-        inches = int(height[height.find("-")+1:])
-    else:
-        foot_mark = height.find("'")
-        feet = int(height[:foot_mark])
-        inch_end_ind = len(height)-1
-        while not height[inch_end_ind].isnumeric():
-            inch_end_ind-=1
-        inch_end_ind+=1
-        inch_start = foot_mark+1 if height[foot_mark+1]!=" " else foot_mark+2
-        inches = int(height[inch_start:inch_end_ind])
-    data[i]["height"] = feet*12 + inches
-with open("players.json", "w") as file:
-    json.dump(data, file)
-
-#extract_relationships("players.json", ["plays_for", "attended"])
+FILES = [
+    "coaches.json",
+    "conferences.json",
+    "players.json",
+    "schools.json",
+    "teams.json"
+]
+"""for file in FILES:
+    json_to_csv(file)
+json_to_csv("attended.json",fieldnames=["player_id", "school_id"])
+json_to_csv("coaches_team.json", fieldnames=["coach_id","team_id"])
+json_to_csv("member_of.json", fieldnames=["team_id", "conference_id"])
+json_to_csv("plays_for.json", fieldnames=["player_id", "team_id"])"""

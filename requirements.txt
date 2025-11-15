@@ -2,3 +2,4 @@ requests
 beautifulsoup4
 deduplipy
 pandas
+neo4j~=5.28.0

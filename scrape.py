@@ -3,6 +3,9 @@ from bs4 import BeautifulSoup
 import re
 import json
 import dedup
+from neo4j import GraphDatabase
+from config import neo4j_pass
+
 SIDEARM_SCHOOL_TO_ROSTER_URLS = {
     "University of North Carolina": ["https://goheels.com/sports/baseball/roster/"],
     "University of Florida": ["https://floridagators.com/sports/baseball/roster/"],
@@ -231,6 +234,35 @@ def get_next_id(json_file):
         data = json.load(file)
     return max([row["id"] for row in data])+1
 
+def upload_to_neo4j(data, node_names, relationships, rel_to_ents):
+    URI = "neo4j+s://10cc4287.databases.neo4j.io"
+    AUTH = ("neo4j", neo4j_pass)
+    with GraphDatabase.driver(URI, auth=AUTH) as driver:
+        driver.verify_connectivity()
+        for node in node_names:
+            if not data.get(node):
+                continue
+            keys = list(data[node][0].keys())
+            for row in data[node]:
+                attrs_q_str = "{"
+                for i in range(len(keys)-1):
+                    attrs_q_str+=f"{keys[i]}:${keys[i]},"
+                attrs_q_str += f"{keys[len(keys)-1]}:${keys[len(keys)-1]}"+"}"
+                driver.execute_query(
+                    f"CREATE (p1: {node} {attrs_q_str})",
+                    row
+                )
+        for rel in relationships:
+            if not data.get(rel):
+                continue
+            for row in data[rel]:
+                res = driver.execute_query(
+                    f"MATCH (n1: {rel_to_ents[rel][0]}{{id:$id1}})" \
+                    f"MATCH (n2: {rel_to_ents[rel][1]}{{id:$id2}})" \
+                    f"CREATE (n1)-[:{rel.upper()}]->(n2)",
+                    {"id1":row[0], "id2":row[1]}
+                )
+
 if __name__=="__main__":
     # Pre-run TODO: Fill out team data before running for team_to_id mapping
     years = [2025, 2026]
@@ -239,14 +271,17 @@ if __name__=="__main__":
         "Player": [],
         "Coach":[],
         "School": [],
+        "Team": [],
+        "Conference": [],
         "attended": [],
         "coaches_team": [],
         "plays_for": [],
+        "member_of": []
     }
-    school_to_id = get_id_mapping("schools.json")
+    """school_to_id = get_id_mapping("schools.json")
     team_to_id = get_id_mapping("teams.json")
     curr_player_id, curr_coach_id, curr_school_id = get_next_id("players.json"), get_next_id("coaches.json"), get_next_id("schools.json")
-    """for school in SIDEARM_SCHOOL_TO_ROSTER_URLS:
+    for school in SIDEARM_SCHOOL_TO_ROSTER_URLS:
         for i in range(len(SIDEARM_SCHOOL_TO_ROSTER_URLS[school])):
             for year in years:
                 url = SIDEARM_SCHOOL_TO_ROSTER_URLS[school][i]
@@ -254,7 +289,7 @@ if __name__=="__main__":
                     curr_player_id, curr_coach_id, curr_school_id = scrape_sidearm_roster(url+str(year), data, school, year, curr_player_id, curr_coach_id, curr_school_id, school_to_id, team_to_id)
                 else:
                     curr_coach_id = scrape_sidearm_coach_page(url+str(year), data, school, year, curr_coach_id, team_to_id)"""
-    for school in TABLE_SCHOOL_TO_ROSTER_URLS:
+    """for school in TABLE_SCHOOL_TO_ROSTER_URLS:
         for i in range(len(TABLE_SCHOOL_TO_ROSTER_URLS[school])):
             for year in years:
                 url = TABLE_SCHOOL_TO_ROSTER_URLS[school][i]
@@ -268,11 +303,11 @@ if __name__=="__main__":
                     curr_school_id,
                     school_to_id,
                     team_to_id
-                )
-    print("Player duplicates:")
+                )"""
+    """print("Player duplicates:")
     dedup.check_for_dups(data["Player"])
     print("Coach duplicates:\n")
-    dedup.check_for_dups(data["Coach"])
+    dedup.check_for_dups(data["Coach"])"""
     """with open("players.json") as player_file:
         data["Player"]=json.load(player_file)+data["Player"]
     with open("coaches.json") as coach_file:
@@ -291,3 +326,32 @@ if __name__=="__main__":
         json.dump(data["Coach"], coach_file)
     with open("schools.json", "w") as schools_file:
         json.dump(data["School"], schools_file)"""
+    """with open("players.json") as player_file:
+        data["Player"]=json.load(player_file)
+    with open("schools.json") as school_file:
+        data["School"]=json.load(school_file)
+    with open("conferences.json") as conf_file:
+        data["Conference"]=json.load(conf_file)
+    with open("attended.json") as attended_file:
+        data["attended"]=json.load(attended_file)
+    with open("coaches.json") as coach_file:
+        data["Coach"]=json.load(coach_file)
+    with open("teams.json") as team_file:
+        data["Team"]=json.load(team_file)
+    with open("coaches_team.json") as coaches_team_file:
+        data["coaches_team"]=json.load(coaches_team_file)
+    with open("plays_for.json") as plays_for_file:
+        data["plays_for"]=json.load(plays_for_file)
+    with open("member_of.json") as mem_of_file:
+        data["member_of"]=json.load(mem_of_file)"""
+    """upload_to_neo4j(
+        data,
+        ["Player", "Coach", "School", "Conference", "Team"],
+        ["attended", "coaches_team", "plays_for", "member_of"],
+        {
+            "attended":  ("Player", "School"),
+            "coaches_team": ("Coach", "Team"),
+            "plays_for": ("Player", "Team"),
+            "member_of": ("Team", "Conference")
+        }
+    )"""
