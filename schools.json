@@ -393,13 +393,13 @@
     "id": 65,
     "name": "Pennsylania State University",
     "type": "university",
-    "division": "1"
+    "division": 1
   },
   {
     "id": 66,
     "name": "Oregon State University",
     "type": "university",
-    "division": "1"
+    "division": 1
   },
   {
     "id": 67,
@@ -1053,7 +1053,7 @@
     "id": 175,
     "name": "Vanderbilt University",
     "type": "university",
-    "division": "1"
+    "division": 1
   },
   {
     "id": 176,
@@ -2613,7 +2613,7 @@
     "id": 435,
     "name": "University of Miami",
     "type": "university",
-    "division": "1"
+    "division": 1
   },
   {
     "id": 436,
@@ -2793,6 +2793,78 @@
     "id": 465,
     "name": "University of Tennessee",
     "type": "university",
-    "division": "1"
+    "division": 1
+  },
+  {
+    "id": 467,
+    "name": "University of Arkansas",
+    "type": "university",
+    "division": 1
+  },
+  {
+    "id": 468,
+    "name": "Bloomsburg University",
+    "type": "university",
+    "division": 1
+  },
+  {
+    "id": 469,
+    "name": "Lafeyette University",
+    "type": "university",
+    "division": 1
+  },
+  {
+    "id": 470,
+    "name": "Towson University",
+    "type": "university",
+    "division": 1
+  },
+  {
+    "id": 471,
+    "name": "Maryville College",
+    "type": "university",
+    "division": 3
+  },
+  {
+    "id": 472,
+    "name": "Flagler College",
+    "type": "university",
+    "division": 2
+  },
+  {
+    "id": 473,
+    "name": "Belmont University",
+    "type": "university",
+    "division": 1
+  },
+  {
+    "id": 474,
+    "name": "Lynchburg University",
+    "type": "university",
+    "division": 3
+  },
+  {
+    "id": 475,
+    "name": "University of Pittsburgh at Johnstown",
+    "type": "university",
+    "division": 2
+  },
+  {
+    "id": 476,
+    "name": "York College of Pennsylvania",
+    "type": "university",
+    "division": 3
+  },
+  {
+    "id": 477,
+    "name": "Oberlin College",
+    "type": "university",
+    "division": 3
+  },
+  {
+    "id": 478,
+    "name": "Monmouth University",
+    "type": "university",
+    "division": 1
   }
 ]

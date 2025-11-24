@@ -28,5 +28,95 @@
     "founded_year": 1896,
     "commissioner": "Tony Pettiti",
     "headquarters": "Rosemont, Illinois"
+  },
+  {
+    "id": 3,
+    "name": "Pennsylvania State Athletic Conference",
+    "abbreviation": "PSAC",
+    "region": "Pennsylvania",
+    "number_of_teams": 18,
+    "founded_year": 1951,
+    "commissioner": "Steve Murray",
+    "headquarters": "Lock Haven, Pennsylvania"
+  },
+  {
+    "id": 4,
+    "name": "Patriot League",
+    "abbreviation": "PL",
+    "region": "Northeast",
+    "number_of_teams": 10,
+    "founded_year": 1986,
+    "commissioner": "Jennifer Heppel",
+    "headquarters": "Bethlehem, Pennsylvania"
+  },
+  {
+    "id": 5,
+    "name": "Coastal Athletic Association",
+    "abbreviation": "CAA",
+    "region":"East Coast",
+    "number_of_teams": 13,
+    "founded_year": 1979,
+    "commissioner": "Joe D'Antonio",
+    "headquarters": "Richmond, Virginia"
+  },
+  {
+    "id": 6,
+    "name": "Collegiate Conference of the South",
+    "abbreviation": "CCS",
+    "region": "South",
+    "number_of_teams": 9,
+    "founded_year": 2022,
+    "commissioner": "Beth Vansant",
+    "headquarters": "Decatur, Georgia"
+  },
+  {
+    "id": 7,
+    "name": "Peach Belt Conference",
+    "abbreviation": "PBC",
+    "region": "Southeast",
+    "number_of_teams": 11,
+    "founded_year": 1990,
+    "commissioner": "Diana Kling",
+    "headquarters": "Augusta, Georgia"
+  },
+  {
+    "id": 8,
+    "name": "Missouri Valley Conference",
+    "abbreviation": "MVC",
+    "region": "Midwest",
+    "number_of_teams": 11,
+    "founded_year": 1907,
+    "commissioner": "Jeff Jackson",
+    "headquarters": "St. Louis, Missouri"
+  },
+  {
+    "id": 9,
+    "name": "Old Dominion Athletic Conference",
+    "abbreviation": "ODAC",
+    "region": "South Atlantic",
+    "number_of_teams": 14,
+    "founded_year": 1975,
+    "commissioner": "Brad Bankston",
+    "headquarters": "Forest, Virginia"
+  },
+  {
+    "id": 10,
+    "name": "Middle Atlantic Conference Commonwealth",
+    "abbreviation": "MAC",
+    "region": "Mid-Atlantic",
+    "number_of_teams": 8,
+    "founded_year": 1999,
+    "commissioner": "Megan Morrison",
+    "headquarters": "Annville, Pennsylvania"
+  },
+  {
+    "id": 11,
+    "name": "North Coast Athletic Conference",
+    "abbreviation": "NCAC",
+    "region": "Great Lakes",
+    "number_of_teams": 9,
+    "founded_year": 1983,
+    "commissioner": "Keri Alexander Luchowski",
+    "headquarters": "Cleveland, Ohio"
   }
 ]
