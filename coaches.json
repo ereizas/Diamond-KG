@@ -124,5 +124,93 @@
     "id": 49,
     "name": "Ross Kivett",
     "role": "Assistant Coach/Recruiting Coordinator"
-  }
+  },
+  { "id": 50, "name": "Mike Collins", "role": "Head Coach" },
+  { "id": 51, "name": "Adam Sinkoe", "role": "Assistant Coach" },
+  { "id": 52, "name": "Brandon Michael", "role": "Assistant Coach" },
+  { "id": 53, "name": "A.J. Miller", "role": "Head Coach" },
+  {
+    "id": 54,
+    "name": "Ryan Luke",
+    "role": "Hitting Coach/Recruiting Coordinator"
+  },
+  {
+    "id": 55,
+    "name": "Jabin Weaver",
+    "role": "Pitching Coach/Director of Technology & Scouting"
+  },
+  { "id": 56, "name": "Alexarmando Diaz", "role": "Assistant Coach" },
+  {
+    "id": 57,
+    "name": "Alex Brown",
+    "role": "Assistant Strength and Conditioning Coach"
+  },
+  { "id": 58, "name": "Matt Tyner", "role": "Head Coach" },
+  {
+    "id": 59,
+    "name": "Mike Ruppenthal",
+    "role": "Associate Head Coach / Pitching Coach"
+  },
+  {
+    "id": 60,
+    "name": "J.D. Pulfer",
+    "role": "Assistant Coach / Recruiting Coordinator"
+  },
+  { "id": 61, "name": "Joel Avi\u00f1a", "role": "Assistant Coach" },
+  { "id": 62, "name": "Clint Helton", "role": "Head Baseball Coach" },
+  { "id": 63, "name": "Rocky Mauriello", "role": "Assistant Baseball Coach" },
+  { "id": 64, "name": "Drew Henry", "role": "Assistant Baseball Coach" },
+  { "id": 65, "name": "Jimmy Reese", "role": "Assistant Baseball Coach" },
+  { "id": 66, "name": "Greg Guilliams", "role": "Head Baseball Coach" },
+  {
+    "id": 67,
+    "name": "JeffPelkey",
+    "role": "Assistant Baseball Coach/Recruiting Coordinator"
+  },
+  { "id": 68, "name": "Walker Hennon", "role": "Assistant Baseball Coach" },
+  { "id": 69, "name": "Pat Lightle", "role": "Assistant Baseball Coach" },
+  { "id": 70, "name": "Dave Jarvis", "role": "Head Coach" },
+  {
+    "id": 71,
+    "name": "A.J. Gaura",
+    "role": "Assistant Head Coach / Pitching Coach"
+  },
+  {
+    "id": 72,
+    "name": "Jason Stein",
+    "role": "Assistant Coach / Recruiting Coordinator"
+  },
+  { "id": 73, "name": "Will Craig", "role": "Assistant Coach" },
+  { "id": 74, "name": "Travis Beazley", "role": "Head Baseball Coach" },
+  { "id": 75, "name": "Michael Solbach", "role": "Assistant Baseball Coach" },
+  { "id": 76, "name": "Luke Lowery", "role": "Assistant Baseball Coach" },
+  { "id": 77, "name": "Cameron Lane", "role": "Assistant Baseball Coach" },
+  {
+    "id": 78,
+    "name": "Cameron Carrow",
+    "role": "Volunteer Assistant Baseball Coach"
+  },
+  {
+    "id": 79,
+    "name": "George Roberts",
+    "role": "Head Baseball Coach (Interim)"
+  },
+  { "id": 80, "name": "Dylan Broderick", "role": "Assistant Baseball Coach" },
+  { "id": 81, "name": "Rick Roberts", "role": "Pitching Coach" },
+  { "id": 82, "name": "Eric Fatich", "role": "Volunteer Baseball Coach" },
+  { "id": 83, "name": "Mike Scappa", "role": "Head Baseball Coach" },
+  {
+    "id": 84,
+    "name": "Clint Roche",
+    "role": "Asst. Baseball Coach / Pitching Coach"
+  },
+  { "id": 85, "name": "Conor Miller", "role": "Assistant Baseball Coach" },
+  { "id": 86, "name": "Johnathan Ray", "role": "Head Baseball Coach" },
+  { "id": 87, "name": "Ty Schuch", "role": "Assistant Baseball Coach" },
+  { "id": 88, "name": "Eric Urban", "role": "Assistant Baseball Coach" },
+  { "id": 89, "name": "Jake Kessler", "role": "Assistant Baseball Coach" },
+  { "id": 90, "name": "Dean Ehehalt", "role": "Head Coach" },
+  { "id": 91, "name": "Kyle Norman", "role": "Assistant Coach" },
+  { "id": 92, "name": "Mike Russo", "role": "Assistant Coach" },
+  { "id": 93, "name": "Phil Stahl", "role": "Volunteer Assitant Coach" }
 ]
