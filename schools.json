@@ -138,12 +138,6 @@
     "division": null
   },
   {
-    "id": 28,
-    "name": "St. John's Country Day",
-    "type": "university",
-    "division": null
-  },
-  {
     "id": 29,
     "name": "Lancaster Catholic",
     "type": "high school",
@@ -210,12 +204,6 @@
     "type": "university",
     "division": null
   },
-  {
-    "id": 41,
-    "name": "Wabash Valley College",
-    "type": "university",
-    "division": null
-  },
   { "id": 42, "name": "West Virginia", "type": "university", "division": null },
   { "id": 43, "name": "Virginia", "type": "university", "division": null },
   { "id": 44, "name": "Arizona State", "type": "university", "division": null },
@@ -226,7 +214,12 @@
     "type": "university",
     "division": null
   },
-  { "id": 47, "name": "Georgia State", "type": "university", "division": null },
+  {
+    "id": 47,
+    "name": "Georgia State University",
+    "type": "university",
+    "division": null
+  },
   { "id": 48, "name": "Indiana State", "type": "university", "division": null },
   { "id": 49, "name": "Cookeville", "type": "high school", "division": null },
   { "id": 50, "name": "Louisville", "type": "university", "division": null },
@@ -293,7 +286,7 @@
   },
   {
     "id": 62,
-    "name": "Westminster Christian",
+    "name": "Westminster Christian School",
     "type": "high school",
     "division": null
   },
@@ -465,18 +458,6 @@
     "division": null
   },
   {
-    "id": 100,
-    "name": "Cleveland State CC (TN)",
-    "type": "university",
-    "division": null
-  },
-  {
-    "id": 101,
-    "name": "Walters State CC (TN)",
-    "type": "university",
-    "division": null
-  },
-  {
     "id": 102,
     "name": "Holly Springs HS",
     "type": "high school",
@@ -490,13 +471,13 @@
   },
   {
     "id": 104,
-    "name": "Weatherford College (TX)",
+    "name": "Weatherford College",
     "type": "university",
     "division": null
   },
   {
     "id": 105,
-    "name": "San Jacinto College (TX)",
+    "name": "San Jacinto College",
     "type": "university",
     "division": null
   },
@@ -585,13 +566,6 @@
   { "id": 123, "name": "Shawnee HS", "type": "high school", "division": null },
   { "id": 124, "name": "Socastee HS", "type": "high school", "division": null },
   {
-    "id": 125,
-    "name": "Monsignor Bonner",
-    "type": "high school",
-    "division": null
-  },
-  { "id": 126, "name": "Monmouth", "type": "university", "division": null },
-  {
     "id": 127,
     "name": "Plymouth Whitemarsh",
     "type": "high school",
@@ -609,7 +583,6 @@
     "type": "university",
     "division": null
   },
-  { "id": 130, "name": "Lightridge", "type": "high school", "division": null },
   {
     "id": 131,
     "name": "St. Joseph Regional",
@@ -714,7 +687,7 @@
   },
   {
     "id": 163,
-    "name": "Pomfret School (Conn.)",
+    "name": "Pomfret School",
     "type": "high school",
     "division": null
   },
@@ -731,12 +704,6 @@
   { "id": 169, "name": "Rhode Island", "type": "university", "division": null },
   { "id": 170, "name": "Arkansas", "type": "university", "division": null },
   {
-    "id": 171,
-    "name": "IMG Academy (Fla.)",
-    "type": "high school",
-    "division": null
-  },
-  {
     "id": 172,
     "name": "State College of Florida",
     "type": "university",
@@ -750,7 +717,6 @@
     "type": "university",
     "division": 1
   },
-  { "id": 176, "name": "Shawnee", "type": "high school", "division": null },
   {
     "id": 177,
     "name": "Kenosha Tremper",
@@ -759,7 +725,7 @@
   },
   {
     "id": 178,
-    "name": "St. John'fs College HS",
+    "name": "St. John's College HS",
     "type": "high school",
     "division": null
   },
@@ -790,7 +756,6 @@
     "type": "high school",
     "division": null
   },
-  { "id": 186, "name": "Towson", "type": "university", "division": null },
   { "id": 187, "name": "Hoover", "type": "high school", "division": null },
   {
     "id": 188,
@@ -813,12 +778,6 @@
   { "id": 191, "name": "Bonny Eagle", "type": "high school", "division": null },
   { "id": 192, "name": "Bartow", "type": "high school", "division": null },
   { "id": 193, "name": "Rockwall", "type": "high school", "division": null },
-  {
-    "id": 194,
-    "name": "Station Camp",
-    "type": "high school",
-    "division": null
-  },
   { "id": 195, "name": "Carmel", "type": "high school", "division": null },
   { "id": 196, "name": "Metter", "type": "high school", "division": null },
   {
@@ -836,7 +795,6 @@
     "division": null
   },
   { "id": 201, "name": "Mater Dei", "type": "high school", "division": null },
-  { "id": 202, "name": "Hanover", "type": "high school", "division": null },
   { "id": 203, "name": "Memorial", "type": "high school", "division": null },
   { "id": 204, "name": "Londonderry", "type": "high school", "division": null },
   { "id": 205, "name": "Woodcreek", "type": "high school", "division": null },
@@ -929,7 +887,7 @@
   { "id": 242, "name": "Deer Park", "type": "university", "division": null },
   {
     "id": 243,
-    "name": "St. Thomas Aquinas",
+    "name": "St. Thomas Aquinas HS",
     "type": "high school",
     "division": null
   },
@@ -984,7 +942,7 @@
   },
   {
     "id": 263,
-    "name": "American Heritage",
+    "name": "American Heritage HS",
     "type": "high school",
     "division": null
   },
@@ -1010,7 +968,7 @@
   },
   {
     "id": 269,
-    "name": "Sunrise Mountain (AZ)",
+    "name": "Sunrise Mountain",
     "type": "high school",
     "division": null
   },
@@ -1035,7 +993,7 @@
   { "id": 278, "name": "Canby", "type": "high school", "division": null },
   {
     "id": 279,
-    "name": "Clayton Valley",
+    "name": "Clayton Valley Charter HS",
     "type": "high school",
     "division": null
   },
@@ -1049,7 +1007,6 @@
   { "id": 282, "name": "South Salem", "type": "high school", "division": null },
   { "id": 283, "name": "Lakeridge", "type": "high school", "division": null },
   { "id": 284, "name": "Blackfoot", "type": "high school", "division": null },
-  { "id": 285, "name": "Elk Grove", "type": "high school", "division": null },
   { "id": 286, "name": "Golden", "type": "high school", "division": null },
   { "id": 287, "name": "Camas", "type": "high school", "division": null },
   { "id": 288, "name": "Sandia", "type": "high school", "division": null },
@@ -1093,7 +1050,6 @@
   },
   { "id": 302, "name": "Marantha", "type": "high school", "division": null },
   { "id": 303, "name": "La Canada", "type": "university", "division": null },
-  { "id": 304, "name": "Valley View", "type": "high school", "division": null },
   {
     "id": 305,
     "name": "Washington Union",
@@ -1130,19 +1086,7 @@
     "division": null
   },
   { "id": 315, "name": "Ole Miss", "type": "university", "division": null },
-  {
-    "id": 316,
-    "name": "Orchard Lake St. Mary\u00e2\u20ac\u2122s Prep",
-    "type": "high school",
-    "division": null
-  },
   { "id": 317, "name": "Missouri", "type": "university", "division": null },
-  {
-    "id": 318,
-    "name": "Pearl River CC (MS)",
-    "type": "university",
-    "division": null
-  },
   {
     "id": 319,
     "name": "Gettysburg Area HS",
@@ -1156,12 +1100,6 @@
     "division": null
   },
   {
-    "id": 321,
-    "name": "Iowa Western CC",
-    "type": "university",
-    "division": null
-  },
-  {
     "id": 322,
     "name": "Lakewood Ranch HS",
     "type": "high school",
@@ -1169,7 +1107,7 @@
   },
   {
     "id": 323,
-    "name": "Polk State College (FL)",
+    "name": "Polk State College",
     "type": "university",
     "division": null
   },
@@ -1223,7 +1161,6 @@
   },
   { "id": 337, "name": "Farragut HS", "type": "high school", "division": null },
   { "id": 338, "name": "Trinity HS", "type": "high school", "division": null },
-  { "id": 339, "name": "Pearland", "type": "high school", "division": null },
   {
     "id": 340,
     "name": "St. Louis University HS",
@@ -1239,7 +1176,7 @@
   { "id": 342, "name": "Rice", "type": "university", "division": null },
   {
     "id": 343,
-    "name": "Baylor School (TN)",
+    "name": "Baylor School",
     "type": "high school",
     "division": null
   },
@@ -1280,7 +1217,12 @@
   { "id": 353, "name": "Delran", "type": "university", "division": null },
   { "id": 354, "name": "Hammond", "type": "university", "division": null },
   { "id": 355, "name": "Freeman", "type": "university", "division": null },
-  { "id": 356, "name": "Pro5", "type": "university", "division": null },
+  {
+    "id": 356,
+    "name": "Pro5 Academy",
+    "type": "high school",
+    "division": null
+  },
   { "id": 357, "name": "West Valley", "type": "university", "division": null },
   { "id": 358, "name": "Needham", "type": "university", "division": null },
   { "id": 359, "name": "Hunt", "type": "university", "division": null },
@@ -1313,12 +1255,6 @@
     "type": "university",
     "division": null
   },
-  {
-    "id": 369,
-    "name": "McCallie (Tenn.)",
-    "type": "university",
-    "division": null
-  },
   { "id": 370, "name": "Denmark", "type": "university", "division": null },
   { "id": 371, "name": "East Surry", "type": "university", "division": null },
   { "id": 372, "name": "Louisburg", "type": "university", "division": null },
@@ -1336,18 +1272,17 @@
   { "id": 379, "name": "Orange", "type": "university", "division": null },
   { "id": 380, "name": "Dominion", "type": "university", "division": null },
   { "id": 381, "name": "Dorman", "type": "university", "division": null },
-  { "id": 382, "name": "Bishop Verot", "type": "university", "division": null },
+  {
+    "id": 382,
+    "name": "Bishop Verot HS",
+    "type": "high school",
+    "division": null
+  },
   { "id": 383, "name": "JH Rose", "type": "university", "division": null },
   { "id": 384, "name": "Moorestown", "type": "university", "division": null },
   { "id": 385, "name": "Craig HS", "type": "high school", "division": null },
   { "id": 386, "name": "Hopewell HS", "type": "high school", "division": null },
   { "id": 387, "name": "Newnull HS", "type": "high school", "division": null },
-  {
-    "id": 388,
-    "name": "American Heritage HS",
-    "type": "high school",
-    "division": null
-  },
   { "id": 389, "name": "Randolph HS", "type": "high school", "division": null },
   {
     "id": 390,
@@ -1363,13 +1298,7 @@
   },
   {
     "id": 392,
-    "name": "Bartram Trail (Jacksonville)",
-    "type": "university",
-    "division": null
-  },
-  {
-    "id": 393,
-    "name": "North Oconee (Stetson)",
+    "name": "Bartram Trail",
     "type": "university",
     "division": null
   },
@@ -1379,37 +1308,21 @@
     "type": "university",
     "division": null
   },
-  {
-    "id": 395,
-    "name": "Windermere (Miami)",
-    "type": "university",
-    "division": null
-  },
+  { "id": 395, "name": "Windermere", "type": "university", "division": null },
   {
     "id": 396,
-    "name": "Wiregrass Ranch (USF)",
+    "name": "Wiregrass Ranch",
     "type": "university",
     "division": null
   },
   { "id": 397, "name": "Milton", "type": "university", "division": null },
-  {
-    "id": 398,
-    "name": "Bloomingdale (Alabama)",
-    "type": "university",
-    "division": null
-  },
-  {
-    "id": 399,
-    "name": "Parkview (Texas Tech)",
-    "type": "university",
-    "division": null
-  },
+  { "id": 398, "name": "Bloomingdale", "type": "university", "division": null },
+  { "id": 399, "name": "Parkview", "type": "university", "division": null },
   { "id": 400, "name": "Sickles", "type": "university", "division": null },
   { "id": 401, "name": "Verona", "type": "university", "division": null },
-  { "id": 402, "name": "Brookwood", "type": "university", "division": null },
   {
     "id": 403,
-    "name": "North Myrtle Beach (Clemson)",
+    "name": "North Myrtle Beach",
     "type": "university",
     "division": null
   },
@@ -1427,44 +1340,16 @@
     "division": null
   },
   {
-    "id": 407,
-    "name": "Lakeland Christian (Virginia Tech)",
-    "type": "university",
-    "division": null
-  },
-  {
-    "id": 408,
-    "name": "TNXL Academy (Charleston Southern)",
-    "type": "university",
-    "division": null
-  },
-  {
-    "id": 409,
-    "name": "Doral Academy Charter",
-    "type": "university",
-    "division": null
-  },
-  {
     "id": 410,
     "name": "Strawberry Crest",
     "type": "university",
     "division": null
   },
-  {
-    "id": 411,
-    "name": "Lafayette (Santa Fe College)",
-    "type": "university",
-    "division": null
-  },
-  {
-    "id": 412,
-    "name": "Forest (Gulf Coast CC)",
-    "type": "university",
-    "division": null
-  },
+  { "id": 411, "name": "Lafayette", "type": "university", "division": null },
+  { "id": 412, "name": "Forest", "type": "university", "division": null },
   {
     "id": 413,
-    "name": "Villages Charter (College of Central Florida)",
+    "name": "Villages Charter",
     "type": "university",
     "division": null
   },
@@ -1520,12 +1405,6 @@
     "id": 427,
     "name": "Dr. Phillips HS",
     "type": "high school",
-    "division": null
-  },
-  {
-    "id": 428,
-    "name": "Weatherford College",
-    "type": "university",
     "division": null
   },
   {
@@ -1595,12 +1474,6 @@
   },
   { "id": 444, "name": "Jones JC", "type": "university", "division": null },
   { "id": 445, "name": "Purvis HS", "type": "high school", "division": null },
-  {
-    "id": 446,
-    "name": "Baylor School [TN]",
-    "type": "university",
-    "division": null
-  },
   { "id": 447, "name": "Mahwah HS", "type": "high school", "division": null },
   {
     "id": 448,
@@ -1737,480 +1610,1206 @@
     "type": "university",
     "division": 1
   },
-  { "id": 479, "name": "Marina HS", "type": "high school" },
-  { "id": 480, "name": "Long Beach State", "type": null },
-  { "id": 481, "name": "Fresno State", "type": null },
-  { "id": 482, "name": "Punahou School", "type": null },
-  { "id": 483, "name": "Benedictine Military School", "type": null },
-  { "id": 484, "name": "Florida SouthWestern State", "type": null },
-  { "id": 485, "name": "Saint Thomas Aquinas HS", "type": "high school" },
-  { "id": 486, "name": "Orange Lutheran HS", "type": "high school" },
-  { "id": 487, "name": "Millard South HS", "type": "high school" },
-  { "id": 488, "name": "Vanderbilt", "type": null },
-  { "id": 489, "name": "H.P. Baldwin HS", "type": "high school" },
-  { "id": 490, "name": "Sacramento State", "type": null },
-  { "id": 491, "name": "The Hill Sports HS", "type": "high school" },
-  { "id": 492, "name": "New Mexico JC", "type": null },
-  { "id": 493, "name": "Creighton Prep", "type": null },
-  { "id": 494, "name": "Southeast CC", "type": null },
-  { "id": 495, "name": "Lonoke HS", "type": "high school" },
-  { "id": 496, "name": "Batesville HS", "type": "high school" },
-  { "id": 497, "name": "Elk Grove HS", "type": "high school" },
-  { "id": 498, "name": "Oregon State", "type": null },
-  { "id": 499, "name": "Flower Mound HS", "type": "high school" },
-  { "id": 500, "name": "Kennett HS", "type": "high school" },
-  { "id": 501, "name": "Aptos HS", "type": "high school" },
-  { "id": 502, "name": "Pleasant Grove HS", "type": "high school" },
-  { "id": 503, "name": "TCU", "type": null },
-  { "id": 504, "name": "FGCU", "type": null },
-  { "id": 505, "name": "BYU", "type": null },
-  { "id": 506, "name": "Clayton Valley Charter HS", "type": "high school" },
-  { "id": 507, "name": "Lebanon HS", "type": "high school" },
-  { "id": 508, "name": "Lincoln Memorial", "type": null },
-  { "id": 509, "name": "Blue Springs HS", "type": "high school" },
-  { "id": 510, "name": "Bentonville West HS", "type": "high school" },
-  { "id": 511, "name": "Crowder College", "type": "university" },
-  { "id": 512, "name": "Calvary Christian HS", "type": "high school" },
-  { "id": 513, "name": "Fort Myers HS", "type": "high school" },
-  { "id": 514, "name": "East Carolina", "type": null },
-  { "id": 515, "name": "Canfield HS", "type": "high school" },
-  { "id": 516, "name": "Ohio State", "type": null },
-  { "id": 517, "name": "Edmond Memorial HS", "type": "high school" },
-  { "id": 518, "name": "Owasso HS", "type": "high school" },
-  { "id": 519, "name": "Noble HS", "type": "high school" },
-  { "id": 520, "name": "Bryant HS", "type": "high school" },
-  { "id": 521, "name": "Monsignor Bonner HS", "type": "high school" },
-  { "id": 522, "name": "Roland HS", "type": "high school" },
-  { "id": 523, "name": "Valley View HS", "type": "high school" },
-  { "id": 524, "name": "Chatfield Senior HS", "type": "high school" },
-  { "id": 525, "name": "Har-Ber HS", "type": "high school" },
-  { "id": 526, "name": "Maumelle HS", "type": "high school" },
-  { "id": 527, "name": "Mission Viejo HS", "type": "high school" },
-  { "id": 528, "name": "Pittston Area", "type": null },
-  { "id": 529, "name": "Frederick Community College", "type": "university" },
-  { "id": 530, "name": "Bishop McNamara", "type": null },
-  { "id": 531, "name": "Shikellamy", "type": null },
-  { "id": 532, "name": "Nanticoke Area", "type": null },
-  { "id": 533, "name": "Riverside", "type": null },
-  { "id": 534, "name": "Bishop Eustace Prep", "type": null },
-  { "id": 535, "name": "Neshaminy", "type": null },
-  { "id": 536, "name": "Hunterdon Central Regional", "type": null },
-  { "id": 537, "name": "La Salle College H.S.", "type": "university" },
-  { "id": 538, "name": "Upper Dublin", "type": null },
-  { "id": 539, "name": "Halifax", "type": null },
-  { "id": 540, "name": "Hempfield", "type": null },
-  { "id": 541, "name": "Central Bucks South", "type": null },
-  { "id": 542, "name": "Kittatinny Regional", "type": null },
-  { "id": 543, "name": "Lackawanna", "type": null },
-  { "id": 544, "name": "Benedictine", "type": null },
-  { "id": 545, "name": "Lock Haven", "type": null },
-  { "id": 546, "name": "Haddonfield Memorial", "type": null },
-  { "id": 547, "name": "Juniata", "type": null },
-  { "id": 548, "name": "Forest City", "type": null },
-  { "id": 549, "name": "La Salle College", "type": "university" },
-  { "id": 550, "name": "Lackawanna College", "type": "university" },
-  { "id": 551, "name": "Mercersburg Academy", "type": "high school" },
-  { "id": 552, "name": "Appoquinimink", "type": null },
-  { "id": 553, "name": "Georgia Southwestern", "type": null },
-  { "id": 554, "name": "Vidalia", "type": null },
-  { "id": 555, "name": "University of Delaware", "type": "university" },
-  { "id": 556, "name": "North Wales", "type": null },
-  { "id": 557, "name": "Harry S. Truman", "type": null },
-  { "id": 558, "name": "South Williamsport", "type": null },
-  { "id": 559, "name": "Central Columbia Area", "type": null },
-  { "id": 560, "name": "Honesdale", "type": null },
-  { "id": 561, "name": "Scranton Prep", "type": null },
-  { "id": 562, "name": "West Springfield", "type": null },
-  { "id": 563, "name": "Quakertown", "type": null },
-  { "id": 564, "name": "George C. Marshall", "type": null },
-  { "id": 565, "name": "Abington Heights", "type": null },
-  { "id": 566, "name": "Centennial", "type": null },
-  { "id": 567, "name": "Monmouth Regional", "type": null },
-  { "id": 568, "name": "Donegal", "type": null },
-  { "id": 569, "name": "Governor Mifflin", "type": null },
-  { "id": 570, "name": "Central York", "type": null },
-  { "id": 571, "name": "Hun School", "type": null },
-  { "id": 572, "name": "Canyon Crest Academy", "type": "high school" },
-  { "id": 573, "name": "Rancocas Valley", "type": null },
-  { "id": 574, "name": "Novi", "type": null },
-  { "id": 575, "name": "Centreville", "type": null },
-  { "id": 576, "name": "Lutheran South Academy", "type": "high school" },
-  { "id": 577, "name": "St. Luke's", "type": null },
-  { "id": 578, "name": "Avon Old Farms", "type": null },
-  { "id": 579, "name": "Episcopal Academy", "type": "high school" },
-  { "id": 580, "name": "St. Albans", "type": null },
-  { "id": 581, "name": "Manasquan", "type": null },
-  { "id": 582, "name": "Bishops School", "type": null },
-  { "id": 583, "name": "Baylor", "type": null },
-  { "id": 584, "name": "New Mexico State", "type": null },
-  { "id": 585, "name": "Greens Farms Academy", "type": "high school" },
-  { "id": 586, "name": "Delaware", "type": null },
-  { "id": 587, "name": "Ranney", "type": null },
-  { "id": 588, "name": "New Rochelle", "type": null },
-  { "id": 589, "name": "Holy Innocents Episcopal", "type": null },
-  { "id": 590, "name": "Devon Prep", "type": null },
-  { "id": 591, "name": "DeSales", "type": null },
-  { "id": 592, "name": "St. Pius X", "type": null },
-  { "id": 593, "name": "Milton Academy", "type": "high school" },
-  { "id": 594, "name": "Hamilton College", "type": "university" },
-  { "id": 595, "name": "Holy Cross", "type": null },
-  { "id": 596, "name": "Peddie School", "type": null },
-  { "id": 597, "name": "Rider", "type": null },
-  { "id": 598, "name": "Mercer County C.C.", "type": null },
-  { "id": 599, "name": "CB East", "type": null },
-  { "id": 600, "name": "Columbia", "type": null },
-  { "id": 601, "name": "King's Academy", "type": "high school" },
-  { "id": 602, "name": "La Salle", "type": null },
-  { "id": 603, "name": "Clarkstown North", "type": null },
-  { "id": 604, "name": "Pingry School", "type": null },
-  { "id": 605, "name": "Iona Prep", "type": null },
-  { "id": 606, "name": "Monroe College", "type": "university" },
-  { "id": 607, "name": "University School of Milwaukee", "type": "university" },
-  { "id": 608, "name": "Gil St. Bernards", "type": null },
-  { "id": 609, "name": "Lawrence", "type": null },
-  { "id": 610, "name": "Chagrin Falls", "type": null },
-  { "id": 611, "name": "Pine Crest Preparatory School", "type": null },
-  { "id": 612, "name": "Avon Grove", "type": null },
-  { "id": 613, "name": "UMBC", "type": null },
-  { "id": 614, "name": "King School", "type": null },
-  { "id": 615, "name": "Hotchkiss School", "type": null },
-  { "id": 616, "name": "Savannah Country Day", "type": null },
-  { "id": 617, "name": "Upper St. Clair", "type": null },
-  { "id": 618, "name": "Blue Mountain", "type": null },
-  { "id": 619, "name": "Belmont Hill", "type": null },
-  { "id": 620, "name": "Evanston Township", "type": null },
-  { "id": 621, "name": "Manhasset Secondary", "type": null },
-  { "id": 622, "name": "Mansfield Legacy", "type": null },
-  { "id": 623, "name": "Southern Arkansas", "type": null },
-  { "id": 624, "name": "Dana Hills", "type": null },
-  { "id": 625, "name": "Springside Chestnut Hill", "type": null },
-  { "id": 626, "name": "Siena", "type": null },
-  { "id": 627, "name": "Edison", "type": null },
-  { "id": 628, "name": "Radford", "type": null },
-  { "id": 629, "name": "Miller School", "type": null },
-  { "id": 630, "name": "Stephen Decatur", "type": null },
-  { "id": 631, "name": "Sherwood", "type": null },
-  { "id": 632, "name": "Charleston", "type": null },
-  { "id": 633, "name": "Clarksburg", "type": null },
-  { "id": 634, "name": "Gilman School", "type": null },
-  { "id": 635, "name": "Lafayette", "type": null },
-  { "id": 636, "name": "Morehead State", "type": null },
-  { "id": 637, "name": "Chesapeake", "type": null },
-  { "id": 638, "name": "Cherry Hill East", "type": null },
-  { "id": 639, "name": "Pro5 Academy", "type": "high school" },
-  { "id": 640, "name": "East Chapel Hill", "type": null },
-  { "id": 641, "name": "Dover Area", "type": null },
-  { "id": 642, "name": "Fuquay-Varina", "type": null },
-  { "id": 643, "name": "North East", "type": null },
-  { "id": 644, "name": "Chaminade", "type": null },
-  { "id": 645, "name": "Rising Sun", "type": null },
-  { "id": 646, "name": "High Point", "type": null },
-  { "id": 647, "name": "Walkersville", "type": null },
-  { "id": 648, "name": "Hightstown", "type": null },
-  { "id": 649, "name": "Archbishop Curley", "type": null },
-  { "id": 650, "name": "Paul D. Camp C.C.", "type": null },
-  { "id": 651, "name": "Maury", "type": null },
-  { "id": 652, "name": "Delaware State", "type": null },
-  { "id": 653, "name": "Cocalico", "type": null },
-  { "id": 654, "name": "RCSJ Gloucester", "type": null },
-  { "id": 655, "name": "Lenape", "type": null },
-  { "id": 656, "name": "Hood", "type": null },
-  { "id": 657, "name": "Loudon County", "type": null },
-  { "id": 658, "name": "St. John's College (H.S.)", "type": "university" },
-  { "id": 659, "name": "Lincoln Land C.C.", "type": null },
-  { "id": 660, "name": "Grant Community", "type": null },
-  { "id": 661, "name": "Walter Johnson", "type": null },
-  { "id": 662, "name": "Mount Olive", "type": null },
-  { "id": 663, "name": "St. Paul's School for Boys", "type": null },
-  { "id": 664, "name": "Anne Arundel C.C.", "type": null },
-  { "id": 665, "name": "North Hagerstown", "type": null },
-  { "id": 666, "name": "County College of Morris", "type": "university" },
-  { "id": 667, "name": "West Babylon Senior", "type": null },
-  { "id": 668, "name": "Cleveland State CC", "type": null },
-  { "id": 669, "name": "Powell", "type": null },
-  { "id": 670, "name": "Notre Dame HS", "type": "high school" },
-  { "id": 671, "name": "Ayala", "type": null },
-  { "id": 672, "name": "Greater Atlanta Christian", "type": null },
-  { "id": 673, "name": "Volunteer State CC", "type": null },
-  { "id": 674, "name": "Dunbar", "type": null },
-  { "id": 675, "name": "Surry CC", "type": null },
-  { "id": 676, "name": "Dacula", "type": null },
-  { "id": 677, "name": "Lenoir City", "type": null },
-  { "id": 678, "name": "McCallie School", "type": null },
-  { "id": 679, "name": "Notre Dame (Ohio)", "type": null },
-  { "id": 680, "name": "St. Paul VI", "type": null },
-  { "id": 681, "name": "Canterbury School", "type": null },
-  { "id": 682, "name": "Greenbrier", "type": null },
-  { "id": 683, "name": "Johns Creek", "type": null },
-  { "id": 684, "name": "Motlow State CC", "type": null },
-  { "id": 685, "name": "Riverdale", "type": null },
-  { "id": 686, "name": "Halls", "type": null },
-  { "id": 687, "name": "Rossview", "type": null },
-  { "id": 688, "name": "Eastern Connecticut State", "type": null },
-  { "id": 689, "name": "Immaculate", "type": null },
-  { "id": 690, "name": "St. Joseph Academy", "type": "high school" },
-  { "id": 691, "name": "Clements", "type": null },
-  { "id": 692, "name": "Red Bank", "type": null },
-  { "id": 693, "name": "Southwestern Illinois", "type": null },
-  { "id": 694, "name": "Triad", "type": null },
-  { "id": 695, "name": "Creekview", "type": null },
-  { "id": 696, "name": "Davidson Academy", "type": "high school" },
-  { "id": 697, "name": "Sunlake", "type": null },
-  { "id": 698, "name": "Pope", "type": null },
-  { "id": 699, "name": "Mount Pisgah Christian", "type": null },
-  { "id": 700, "name": "Luna Community College", "type": "university" },
-  { "id": 701, "name": "Carlsbad", "type": null },
-  { "id": 702, "name": "Roane State CC", "type": null },
-  { "id": 703, "name": "Saint Xavier", "type": null },
-  { "id": 704, "name": "Hardin Valley", "type": null },
-  { "id": 705, "name": "Manatee", "type": null },
-  { "id": 706, "name": "North Central (Minn.)", "type": null },
-  { "id": 707, "name": "Cienega", "type": null },
-  { "id": 708, "name": "Merrimack", "type": null },
-  { "id": 709, "name": "Xavier HS", "type": "high school" },
-  { "id": 710, "name": "New Richmond", "type": null },
-  { "id": 711, "name": "Lake-Sumter State College", "type": "university" },
-  { "id": 712, "name": "Georgia State University", "type": "university" },
-  { "id": 713, "name": "Lowndes HS", "type": "high school" },
-  { "id": 714, "name": "St. John's Prep School", "type": null },
-  { "id": 715, "name": "St. Johns River State College", "type": "university" },
-  { "id": 716, "name": "McGill-Toolen Catholic HS", "type": "high school" },
-  { "id": 717, "name": "Columbia HS", "type": "high school" },
-  { "id": 718, "name": "Frederick CC", "type": null },
-  { "id": 719, "name": "Bishop Verot HS", "type": "high school" },
-  { "id": 720, "name": "St. Mary's Ryken HS", "type": "high school" },
-  { "id": 721, "name": "Hagerty HS", "type": "high school" },
-  { "id": 722, "name": "Lake Nona HS", "type": "high school" },
-  { "id": 723, "name": "Indian River State College", "type": "university" },
-  { "id": 724, "name": "Alabama State University", "type": "university" },
-  { "id": 725, "name": "Jupiter Community HS", "type": "high school" },
-  { "id": 726, "name": "Lambert HS", "type": "high school" },
-  { "id": 727, "name": "Fleming Island HS", "type": "high school" },
-  { "id": 728, "name": "Daytona State College", "type": "university" },
-  { "id": 729, "name": "University of South Florida", "type": "university" },
-  { "id": 730, "name": "Lincoln Memorial University", "type": "university" },
-  { "id": 731, "name": "St. Johns Country Day School", "type": null },
-  { "id": 732, "name": "Ventura College", "type": "university" },
-  { "id": 733, "name": "North Forsyth HS", "type": "high school" },
-  { "id": 734, "name": "Clay HS", "type": "high school" },
-  { "id": 735, "name": "Forsyth Central HS", "type": "high school" },
-  { "id": 736, "name": "Tattnall Square Academy", "type": "high school" },
-  { "id": 737, "name": "Holy Cross HS", "type": "high school" },
-  { "id": 738, "name": "South Georgia State College", "type": "university" },
-  { "id": 739, "name": "Universiy of North Florida", "type": null },
-  { "id": 740, "name": "Coastal Alabama CC", "type": null },
-  { "id": 741, "name": "Lane College", "type": "university" },
-  { "id": 742, "name": "Shenendehowa HS", "type": "high school" },
-  { "id": 743, "name": "Dunwoody HS", "type": "high school" },
-  { "id": 744, "name": "Palm Harbor University HS", "type": "high school" },
-  { "id": 745, "name": "Creekside HS", "type": "high school" },
-  { "id": 746, "name": "Mount Dora Christian Academy", "type": "high school" },
-  { "id": 747, "name": "Allen Park HS", "type": "high school" },
-  { "id": 748, "name": "Wabash Valley CC", "type": null },
-  { "id": 749, "name": "Dallas Jesuit", "type": "high school" },
-  { "id": 750, "name": "New Jersey Inst. of Tech", "type": null },
-  { "id": 751, "name": "Lincoln County HS", "type": "high school" },
-  { "id": 752, "name": "McCallie High School", "type": "high school" },
-  { "id": 753, "name": "Houston County HS", "type": "high school" },
-  { "id": 754, "name": "Independence HS", "type": "high school" },
-  { "id": 755, "name": "Henry County High School", "type": "high school" },
+  { "id": 479, "name": "Marina HS", "type": "high school", "division": null },
+  { "id": 480, "name": "Long Beach State", "type": null, "division": null },
+  { "id": 481, "name": "Fresno State", "type": null, "division": null },
+  { "id": 482, "name": "Punahou School", "type": null, "division": null },
+  {
+    "id": 484,
+    "name": "Florida SouthWestern State",
+    "type": null,
+    "division": null
+  },
+  {
+    "id": 486,
+    "name": "Orange Lutheran HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 487,
+    "name": "Millard South HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 489,
+    "name": "H.P. Baldwin HS",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 490, "name": "Sacramento State", "type": null, "division": null },
+  {
+    "id": 491,
+    "name": "The Hill Sports HS",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 492, "name": "New Mexico JC", "type": null, "division": null },
+  { "id": 493, "name": "Creighton Prep", "type": null, "division": null },
+  { "id": 494, "name": "Southeast CC", "type": null, "division": null },
+  { "id": 495, "name": "Lonoke HS", "type": "high school", "division": null },
+  {
+    "id": 496,
+    "name": "Batesville HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 497,
+    "name": "Elk Grove HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 499,
+    "name": "Flower Mound HS",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 500, "name": "Kennett HS", "type": "high school", "division": null },
+  { "id": 501, "name": "Aptos HS", "type": "high school", "division": null },
+  {
+    "id": 502,
+    "name": "Pleasant Grove HS",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 503, "name": "TCU", "type": null, "division": null },
+  { "id": 504, "name": "FGCU", "type": null, "division": null },
+  { "id": 505, "name": "BYU", "type": null, "division": null },
+  { "id": 507, "name": "Lebanon HS", "type": "high school", "division": null },
+  { "id": 508, "name": "Lincoln Memorial", "type": null, "division": null },
+  {
+    "id": 509,
+    "name": "Blue Springs HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 510,
+    "name": "Bentonville West HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 511,
+    "name": "Crowder College",
+    "type": "university",
+    "division": null
+  },
+  {
+    "id": 512,
+    "name": "Calvary Christian HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 513,
+    "name": "Fort Myers HS",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 514, "name": "East Carolina", "type": null, "division": null },
+  { "id": 515, "name": "Canfield HS", "type": "high school", "division": null },
+  { "id": 516, "name": "Ohio State", "type": null, "division": null },
+  {
+    "id": 517,
+    "name": "Edmond Memorial HS",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 518, "name": "Owasso HS", "type": "high school", "division": null },
+  { "id": 519, "name": "Noble HS", "type": "high school", "division": null },
+  { "id": 520, "name": "Bryant HS", "type": "high school", "division": null },
+  {
+    "id": 521,
+    "name": "Monsignor Bonner HS",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 522, "name": "Roland HS", "type": "high school", "division": null },
+  {
+    "id": 523,
+    "name": "Valley View HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 524,
+    "name": "Chatfield Senior HS",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 525, "name": "Har-Ber HS", "type": "high school", "division": null },
+  { "id": 526, "name": "Maumelle HS", "type": "high school", "division": null },
+  {
+    "id": 527,
+    "name": "Mission Viejo HS",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 528, "name": "Pittston Area", "type": null, "division": null },
+  { "id": 530, "name": "Bishop McNamara", "type": null, "division": null },
+  { "id": 531, "name": "Shikellamy", "type": null, "division": null },
+  { "id": 532, "name": "Nanticoke Area", "type": null, "division": null },
+  { "id": 533, "name": "Riverside", "type": null, "division": null },
+  { "id": 534, "name": "Bishop Eustace Prep", "type": null, "division": null },
+  { "id": 535, "name": "Neshaminy", "type": null, "division": null },
+  {
+    "id": 536,
+    "name": "Hunterdon Central Regional",
+    "type": null,
+    "division": null
+  },
+  {
+    "id": 537,
+    "name": "La Salle College H.S.",
+    "type": "university",
+    "division": null
+  },
+  { "id": 538, "name": "Upper Dublin", "type": null, "division": null },
+  { "id": 539, "name": "Halifax", "type": null, "division": null },
+  { "id": 540, "name": "Hempfield", "type": null, "division": null },
+  { "id": 541, "name": "Central Bucks South", "type": null, "division": null },
+  { "id": 542, "name": "Kittatinny Regional", "type": null, "division": null },
+  { "id": 543, "name": "Lackawanna", "type": null, "division": null },
+  { "id": 544, "name": "Benedictine", "type": null, "division": null },
+  { "id": 545, "name": "Lock Haven", "type": null, "division": null },
+  { "id": 546, "name": "Haddonfield Memorial", "type": null, "division": null },
+  { "id": 547, "name": "Juniata", "type": null, "division": null },
+  { "id": 548, "name": "Forest City", "type": null, "division": null },
+  {
+    "id": 550,
+    "name": "Lackawanna College",
+    "type": "university",
+    "division": null
+  },
+  {
+    "id": 551,
+    "name": "Mercersburg Academy",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 552, "name": "Appoquinimink", "type": null, "division": null },
+  { "id": 553, "name": "Georgia Southwestern", "type": null, "division": null },
+  { "id": 554, "name": "Vidalia", "type": null, "division": null },
+  {
+    "id": 555,
+    "name": "University of Delaware",
+    "type": "university",
+    "division": null
+  },
+  { "id": 556, "name": "North Wales", "type": null, "division": null },
+  { "id": 557, "name": "Harry S. Truman", "type": null, "division": null },
+  { "id": 558, "name": "South Williamsport", "type": null, "division": null },
+  {
+    "id": 559,
+    "name": "Central Columbia Area",
+    "type": null,
+    "division": null
+  },
+  { "id": 560, "name": "Honesdale", "type": null, "division": null },
+  { "id": 561, "name": "Scranton Prep", "type": null, "division": null },
+  { "id": 562, "name": "West Springfield", "type": null, "division": null },
+  { "id": 563, "name": "Quakertown", "type": null, "division": null },
+  { "id": 564, "name": "George C. Marshall", "type": null, "division": null },
+  { "id": 565, "name": "Abington Heights", "type": null, "division": null },
+  { "id": 566, "name": "Centennial", "type": null, "division": null },
+  { "id": 567, "name": "Monmouth Regional", "type": null, "division": null },
+  { "id": 568, "name": "Donegal", "type": null, "division": null },
+  { "id": 569, "name": "Governor Mifflin", "type": null, "division": null },
+  { "id": 570, "name": "Central York", "type": null, "division": null },
+  { "id": 571, "name": "Hun School", "type": null, "division": null },
+  {
+    "id": 572,
+    "name": "Canyon Crest Academy",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 573, "name": "Rancocas Valley", "type": null, "division": null },
+  { "id": 574, "name": "Novi", "type": null, "division": null },
+  { "id": 575, "name": "Centreville", "type": null, "division": null },
+  {
+    "id": 576,
+    "name": "Lutheran South Academy",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 577, "name": "St. Luke's", "type": null, "division": null },
+  { "id": 578, "name": "Avon Old Farms", "type": null, "division": null },
+  {
+    "id": 579,
+    "name": "Episcopal Academy",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 580, "name": "St. Albans", "type": null, "division": null },
+  { "id": 581, "name": "Manasquan", "type": null, "division": null },
+  { "id": 582, "name": "Bishops School", "type": null, "division": null },
+  { "id": 584, "name": "New Mexico State", "type": null, "division": null },
+  {
+    "id": 585,
+    "name": "Greens Farms Academy",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 586, "name": "Delaware", "type": null, "division": null },
+  { "id": 587, "name": "Ranney", "type": null, "division": null },
+  { "id": 588, "name": "New Rochelle", "type": null, "division": null },
+  {
+    "id": 589,
+    "name": "Holy Innocents Episcopal",
+    "type": null,
+    "division": null
+  },
+  { "id": 590, "name": "Devon Prep", "type": null, "division": null },
+  { "id": 591, "name": "DeSales", "type": null, "division": null },
+  { "id": 592, "name": "St. Pius X", "type": null, "division": null },
+  {
+    "id": 593,
+    "name": "Milton Academy",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 594,
+    "name": "Hamilton College",
+    "type": "university",
+    "division": null
+  },
+  { "id": 596, "name": "Peddie School", "type": null, "division": null },
+  { "id": 597, "name": "Rider", "type": null, "division": null },
+  { "id": 598, "name": "Mercer County C.C.", "type": null, "division": null },
+  { "id": 599, "name": "CB East", "type": null, "division": null },
+  { "id": 600, "name": "Columbia", "type": null, "division": null },
+  {
+    "id": 601,
+    "name": "King's Academy",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 602, "name": "La Salle", "type": null, "division": null },
+  { "id": 603, "name": "Clarkstown North", "type": null, "division": null },
+  { "id": 604, "name": "Pingry School", "type": null, "division": null },
+  { "id": 605, "name": "Iona Prep", "type": null, "division": null },
+  {
+    "id": 606,
+    "name": "Monroe College",
+    "type": "university",
+    "division": null
+  },
+  {
+    "id": 607,
+    "name": "University School of Milwaukee",
+    "type": "university",
+    "division": null
+  },
+  { "id": 608, "name": "Gil St. Bernards", "type": null, "division": null },
+  { "id": 609, "name": "Lawrence", "type": null, "division": null },
+  { "id": 610, "name": "Chagrin Falls", "type": null, "division": null },
+  {
+    "id": 611,
+    "name": "Pine Crest Preparatory School",
+    "type": null,
+    "division": null
+  },
+  { "id": 612, "name": "Avon Grove", "type": null, "division": null },
+  { "id": 613, "name": "UMBC", "type": null, "division": null },
+  { "id": 614, "name": "King School", "type": null, "division": null },
+  { "id": 615, "name": "Hotchkiss School", "type": null, "division": null },
+  { "id": 616, "name": "Savannah Country Day", "type": null, "division": null },
+  { "id": 617, "name": "Upper St. Clair", "type": null, "division": null },
+  { "id": 618, "name": "Blue Mountain", "type": null, "division": null },
+  { "id": 619, "name": "Belmont Hill", "type": null, "division": null },
+  { "id": 621, "name": "Manhasset Secondary", "type": null, "division": null },
+  { "id": 622, "name": "Mansfield Legacy", "type": null, "division": null },
+  { "id": 623, "name": "Southern Arkansas", "type": null, "division": null },
+  { "id": 624, "name": "Dana Hills", "type": null, "division": null },
+  {
+    "id": 625,
+    "name": "Springside Chestnut Hill",
+    "type": null,
+    "division": null
+  },
+  { "id": 626, "name": "Siena", "type": null, "division": null },
+  { "id": 627, "name": "Edison", "type": null, "division": null },
+  { "id": 628, "name": "Radford", "type": null, "division": null },
+  { "id": 629, "name": "Miller School", "type": null, "division": null },
+  { "id": 630, "name": "Stephen Decatur", "type": null, "division": null },
+  { "id": 631, "name": "Sherwood", "type": null, "division": null },
+  { "id": 632, "name": "Charleston", "type": null, "division": null },
+  { "id": 633, "name": "Clarksburg", "type": null, "division": null },
+  { "id": 634, "name": "Gilman School", "type": null, "division": null },
+  { "id": 635, "name": "Lafayette", "type": null, "division": null },
+  { "id": 636, "name": "Morehead State", "type": null, "division": null },
+  { "id": 637, "name": "Chesapeake", "type": null, "division": null },
+  { "id": 638, "name": "Cherry Hill East", "type": null, "division": null },
+  { "id": 640, "name": "East Chapel Hill", "type": null, "division": null },
+  { "id": 641, "name": "Dover Area", "type": null, "division": null },
+  { "id": 642, "name": "Fuquay-Varina", "type": null, "division": null },
+  { "id": 643, "name": "North East", "type": null, "division": null },
+  { "id": 644, "name": "Chaminade", "type": null, "division": null },
+  { "id": 645, "name": "Rising Sun", "type": null, "division": null },
+  { "id": 646, "name": "High Point", "type": null, "division": null },
+  { "id": 647, "name": "Walkersville", "type": null, "division": null },
+  { "id": 648, "name": "Hightstown", "type": null, "division": null },
+  { "id": 649, "name": "Archbishop Curley", "type": null, "division": null },
+  { "id": 650, "name": "Paul D. Camp C.C.", "type": null, "division": null },
+  { "id": 651, "name": "Maury", "type": null, "division": null },
+  { "id": 652, "name": "Delaware State", "type": null, "division": null },
+  { "id": 653, "name": "Cocalico", "type": null, "division": null },
+  { "id": 654, "name": "RCSJ Gloucester", "type": null, "division": null },
+  { "id": 655, "name": "Lenape", "type": null, "division": null },
+  { "id": 656, "name": "Hood", "type": null, "division": null },
+  { "id": 657, "name": "Loudon County", "type": null, "division": null },
+  {
+    "id": 658,
+    "name": "St. John's College",
+    "type": "university",
+    "division": null
+  },
+  { "id": 659, "name": "Lincoln Land C.C.", "type": null, "division": null },
+  { "id": 660, "name": "Grant Community", "type": null, "division": null },
+  { "id": 661, "name": "Walter Johnson", "type": null, "division": null },
+  { "id": 662, "name": "Mount Olive", "type": null, "division": null },
+  {
+    "id": 663,
+    "name": "St. Paul's School for Boys",
+    "type": null,
+    "division": null
+  },
+  { "id": 664, "name": "Anne Arundel C.C.", "type": null, "division": null },
+  { "id": 665, "name": "North Hagerstown", "type": null, "division": null },
+  {
+    "id": 666,
+    "name": "County College of Morris",
+    "type": "university",
+    "division": null
+  },
+  { "id": 667, "name": "West Babylon Senior", "type": null, "division": null },
+  { "id": 668, "name": "Cleveland State CC", "type": null, "division": null },
+  { "id": 669, "name": "Powell", "type": null, "division": null },
+  {
+    "id": 670,
+    "name": "Notre Dame HS",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 671, "name": "Ayala", "type": null, "division": null },
+  {
+    "id": 672,
+    "name": "Greater Atlanta Christian",
+    "type": null,
+    "division": null
+  },
+  { "id": 673, "name": "Volunteer State CC", "type": null, "division": null },
+  { "id": 674, "name": "Dunbar", "type": null, "division": null },
+  { "id": 675, "name": "Surry CC", "type": null, "division": null },
+  { "id": 676, "name": "Dacula", "type": null, "division": null },
+  { "id": 677, "name": "Lenoir City", "type": null, "division": null },
+  { "id": 679, "name": "Notre Dame", "type": null, "division": null },
+  { "id": 680, "name": "St. Paul VI", "type": null, "division": null },
+  { "id": 681, "name": "Canterbury School", "type": null, "division": null },
+  { "id": 682, "name": "Greenbrier", "type": null, "division": null },
+  { "id": 683, "name": "Johns Creek", "type": null, "division": null },
+  { "id": 684, "name": "Motlow State CC", "type": null, "division": null },
+  { "id": 685, "name": "Riverdale", "type": null, "division": null },
+  { "id": 686, "name": "Halls", "type": null, "division": null },
+  { "id": 687, "name": "Rossview", "type": null, "division": null },
+  {
+    "id": 688,
+    "name": "Eastern Connecticut State",
+    "type": null,
+    "division": null
+  },
+  { "id": 689, "name": "Immaculate", "type": null, "division": null },
+  {
+    "id": 690,
+    "name": "St. Joseph Academy",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 691, "name": "Clements", "type": null, "division": null },
+  { "id": 692, "name": "Red Bank", "type": null, "division": null },
+  {
+    "id": 693,
+    "name": "Southwestern Illinois",
+    "type": null,
+    "division": null
+  },
+  { "id": 694, "name": "Triad", "type": null, "division": null },
+  { "id": 695, "name": "Creekview", "type": null, "division": null },
+  {
+    "id": 696,
+    "name": "Davidson Academy",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 697, "name": "Sunlake", "type": null, "division": null },
+  { "id": 698, "name": "Pope", "type": null, "division": null },
+  {
+    "id": 699,
+    "name": "Mount Pisgah Christian",
+    "type": null,
+    "division": null
+  },
+  {
+    "id": 700,
+    "name": "Luna Community College",
+    "type": "university",
+    "division": null
+  },
+  { "id": 701, "name": "Carlsbad", "type": null, "division": null },
+  { "id": 702, "name": "Roane State CC", "type": null, "division": null },
+  { "id": 703, "name": "Saint Xavier", "type": null, "division": null },
+  { "id": 704, "name": "Hardin Valley", "type": null, "division": null },
+  { "id": 705, "name": "Manatee", "type": null, "division": null },
+  { "id": 706, "name": "North Central", "type": null, "division": null },
+  { "id": 707, "name": "Cienega", "type": null, "division": null },
+  { "id": 708, "name": "Merrimack", "type": null, "division": null },
+  { "id": 709, "name": "Xavier HS", "type": "high school", "division": null },
+  { "id": 710, "name": "New Richmond", "type": null, "division": null },
+  {
+    "id": 711,
+    "name": "Lake-Sumter State College",
+    "type": "university",
+    "division": null
+  },
+  { "id": 713, "name": "Lowndes HS", "type": "high school", "division": null },
+  {
+    "id": 714,
+    "name": "St. John's Prep School",
+    "type": null,
+    "division": null
+  },
+  {
+    "id": 715,
+    "name": "St. Johns River State College",
+    "type": "university",
+    "division": null
+  },
+  {
+    "id": 716,
+    "name": "McGill-Toolen Catholic HS",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 717, "name": "Columbia HS", "type": "high school", "division": null },
+  { "id": 718, "name": "Frederick CC", "type": null, "division": null },
+  {
+    "id": 720,
+    "name": "St. Mary's Ryken HS",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 721, "name": "Hagerty HS", "type": "high school", "division": null },
+  {
+    "id": 722,
+    "name": "Lake Nona HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 723,
+    "name": "Indian River State College",
+    "type": "university",
+    "division": null
+  },
+  {
+    "id": 724,
+    "name": "Alabama State University",
+    "type": "university",
+    "division": null
+  },
+  {
+    "id": 725,
+    "name": "Jupiter Community HS",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 726, "name": "Lambert HS", "type": "high school", "division": null },
+  {
+    "id": 727,
+    "name": "Fleming Island HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 728,
+    "name": "Daytona State College",
+    "type": "university",
+    "division": null
+  },
+  {
+    "id": 729,
+    "name": "University of South Florida",
+    "type": "university",
+    "division": null
+  },
+  {
+    "id": 730,
+    "name": "Lincoln Memorial University",
+    "type": "university",
+    "division": null
+  },
+  {
+    "id": 731,
+    "name": "St. Johns Country Day School",
+    "type": null,
+    "division": null
+  },
+  {
+    "id": 732,
+    "name": "Ventura College",
+    "type": "university",
+    "division": null
+  },
+  {
+    "id": 733,
+    "name": "North Forsyth HS",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 734, "name": "Clay HS", "type": "high school", "division": null },
+  {
+    "id": 735,
+    "name": "Forsyth Central HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 736,
+    "name": "Tattnall Square Academy",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 737,
+    "name": "Holy Cross HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 738,
+    "name": "South Georgia State College",
+    "type": "university",
+    "division": null
+  },
+  {
+    "id": 739,
+    "name": "Universiy of North Florida",
+    "type": null,
+    "division": null
+  },
+  { "id": 740, "name": "Coastal Alabama CC", "type": null, "division": null },
+  { "id": 741, "name": "Lane College", "type": "university", "division": null },
+  {
+    "id": 742,
+    "name": "Shenendehowa HS",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 743, "name": "Dunwoody HS", "type": "high school", "division": null },
+  {
+    "id": 744,
+    "name": "Palm Harbor University HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 745,
+    "name": "Creekside HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 746,
+    "name": "Mount Dora Christian Academy",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 747,
+    "name": "Allen Park HS",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 748, "name": "Wabash Valley CC", "type": null, "division": null },
+  {
+    "id": 749,
+    "name": "Dallas Jesuit",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 750,
+    "name": "New Jersey Inst. of Tech",
+    "type": null,
+    "division": null
+  },
+  {
+    "id": 751,
+    "name": "Lincoln County HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 752,
+    "name": "McCallie High School",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 753,
+    "name": "Houston County HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 754,
+    "name": "Independence HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 755,
+    "name": "Henry County High School",
+    "type": "high school",
+    "division": null
+  },
   {
     "id": 756,
     "name": "Columbia State Community College",
-    "type": "university"
+    "type": "university",
+    "division": null
   },
-  { "id": 757, "name": "Maryville High School", "type": "high school" },
-  { "id": 758, "name": "Trinity Christian Academy", "type": "high school" },
-  { "id": 759, "name": "Battle Ground Academy", "type": "high school" },
-  { "id": 760, "name": "Ensworth HS", "type": "high school" },
-  { "id": 761, "name": "Central Magnet School", "type": "high school" },
-  { "id": 762, "name": "San Juan Hills High School", "type": "high school" },
-  { "id": 763, "name": "Daytona State", "type": null },
-  { "id": 764, "name": "White House High School", "type": "high school" },
   {
-    "id": 765,
-    "name": "Cleveland State Community College",
-    "type": "university"
+    "id": 757,
+    "name": "Maryville High School",
+    "type": "high school",
+    "division": null
   },
-  { "id": 766, "name": "Mountain View HS", "type": "high school" },
-  { "id": 767, "name": "Station Camp High School", "type": "high school" },
-  { "id": 768, "name": "Hendersonville HS", "type": "high school" },
-  { "id": 769, "name": "Evanston Township HS", "type": "high school" },
-  { "id": 770, "name": "Webster Groves HS", "type": "high school" },
-  { "id": 771, "name": "Nolan Catholic High School", "type": "high school" },
-  { "id": 772, "name": "Marion County HS", "type": "high school" },
-  { "id": 773, "name": "Mullen High School", "type": "high school" },
-  { "id": 774, "name": "St. Petersburg College", "type": "university" },
-  { "id": 775, "name": "Lambert High School", "type": "high school" },
-  { "id": 776, "name": "Southport HS", "type": "high school" },
-  { "id": 777, "name": "Dobyns Bennett HS", "type": "high school" },
+  {
+    "id": 758,
+    "name": "Trinity Christian Academy",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 759,
+    "name": "Battle Ground Academy",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 760, "name": "Ensworth HS", "type": "high school", "division": null },
+  {
+    "id": 761,
+    "name": "Central Magnet School",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 762,
+    "name": "San Juan Hills High School",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 764,
+    "name": "White House High School",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 766,
+    "name": "Mountain View HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 767,
+    "name": "Station Camp High School",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 768,
+    "name": "Hendersonville HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 769,
+    "name": "Evanston Township HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 770,
+    "name": "Webster Groves HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 771,
+    "name": "Nolan Catholic High School",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 772,
+    "name": "Marion County HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 773,
+    "name": "Mullen High School",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 774,
+    "name": "St. Petersburg College",
+    "type": "university",
+    "division": null
+  },
+  {
+    "id": 775,
+    "name": "Lambert High School",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 776,
+    "name": "Southport HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 777,
+    "name": "Dobyns Bennett HS",
+    "type": "high school",
+    "division": null
+  },
   {
     "id": 778,
     "name": "Christian Academy of Knoxville",
-    "type": "high school"
+    "type": "high school",
+    "division": null
   },
-  { "id": 779, "name": "Pearland High School", "type": "high school" },
-  { "id": 780, "name": "Lakota East High School", "type": "high school" },
-  { "id": 781, "name": "Akron", "type": null },
-  { "id": 782, "name": "Hendersonville High School", "type": "high school" },
-  { "id": 783, "name": "Lassiter High School", "type": "high school" },
-  { "id": 784, "name": "White House Heritage HS", "type": "high school" },
-  { "id": 785, "name": "Brentwood HS", "type": "high school" },
-  { "id": 786, "name": "Auburn", "type": null },
-  { "id": 787, "name": "Jesuit High School", "type": "high school" },
-  { "id": 788, "name": "Grassfield", "type": null },
-  { "id": 789, "name": "Western Branch", "type": null },
-  { "id": 790, "name": "Midlothian", "type": null },
-  { "id": 791, "name": "Woodbridge", "type": null },
-  { "id": 792, "name": "Jordan", "type": null },
-  { "id": 793, "name": "Covenant Day School", "type": null },
-  { "id": 794, "name": "Charles E. Jordan", "type": null },
-  { "id": 795, "name": "Highland School", "type": null },
-  { "id": 796, "name": "Wilson Memorial", "type": null },
-  { "id": 797, "name": "Lord Botetourt", "type": null },
-  { "id": 798, "name": "Robinson", "type": null },
-  { "id": 799, "name": "Patriot", "type": null },
-  { "id": 800, "name": "Forest Park", "type": null },
-  { "id": 801, "name": "Robinson Secondary School", "type": null },
-  { "id": 802, "name": "Mount St. Mary's", "type": null },
-  { "id": 803, "name": "Nansemond-Suffolk Academy", "type": "high school" },
-  { "id": 804, "name": "PDG Academy", "type": "high school" },
-  { "id": 805, "name": "Jefferson Forest", "type": null },
-  { "id": 806, "name": "Manchester", "type": null },
-  { "id": 807, "name": "James Wood", "type": null },
-  { "id": 808, "name": "Marvin Ridge", "type": null },
+  {
+    "id": 779,
+    "name": "Pearland High School",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 780,
+    "name": "Lakota East High School",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 781, "name": "Akron", "type": null, "division": null },
+  {
+    "id": 782,
+    "name": "Hendersonville High School",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 783,
+    "name": "Lassiter High School",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 784,
+    "name": "White House Heritage HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 785,
+    "name": "Brentwood HS",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 786, "name": "Auburn", "type": null, "division": null },
+  {
+    "id": 787,
+    "name": "Jesuit High School",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 788, "name": "Grassfield", "type": null, "division": null },
+  { "id": 789, "name": "Western Branch", "type": null, "division": null },
+  { "id": 790, "name": "Midlothian", "type": null, "division": null },
+  { "id": 791, "name": "Woodbridge", "type": null, "division": null },
+  { "id": 792, "name": "Jordan", "type": null, "division": null },
+  { "id": 793, "name": "Covenant Day School", "type": null, "division": null },
+  { "id": 794, "name": "Charles E. Jordan", "type": null, "division": null },
+  { "id": 795, "name": "Highland School", "type": null, "division": null },
+  { "id": 796, "name": "Wilson Memorial", "type": null, "division": null },
+  { "id": 797, "name": "Lord Botetourt", "type": null, "division": null },
+  { "id": 798, "name": "Robinson", "type": null, "division": null },
+  { "id": 799, "name": "Patriot", "type": null, "division": null },
+  { "id": 800, "name": "Forest Park", "type": null, "division": null },
+  {
+    "id": 801,
+    "name": "Robinson Secondary School",
+    "type": null,
+    "division": null
+  },
+  { "id": 802, "name": "Mount St. Mary's", "type": null, "division": null },
+  {
+    "id": 803,
+    "name": "Nansemond-Suffolk Academy",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 804, "name": "PDG Academy", "type": "high school", "division": null },
+  { "id": 805, "name": "Jefferson Forest", "type": null, "division": null },
+  { "id": 806, "name": "Manchester", "type": null, "division": null },
+  { "id": 807, "name": "James Wood", "type": null, "division": null },
+  { "id": 808, "name": "Marvin Ridge", "type": null, "division": null },
   {
     "id": 809,
     "name": "Benedictine College Preparatory",
-    "type": "university"
+    "type": "university",
+    "division": null
   },
-  { "id": 810, "name": "Atlantic Shores Christian", "type": null },
-  { "id": 811, "name": "Cave Spring", "type": null },
-  { "id": 812, "name": "Liberty Christian Academy", "type": "high school" },
-  { "id": 813, "name": "Mechanicsville", "type": null },
-  { "id": 814, "name": "Bassett", "type": null },
-  { "id": 815, "name": "Lower Dauphin", "type": null },
-  { "id": 816, "name": "Oakton", "type": null },
-  { "id": 817, "name": "Grafton", "type": null },
-  { "id": 818, "name": "Salem", "type": null },
-  { "id": 819, "name": "Gainesville", "type": null },
-  { "id": 820, "name": "Skyline", "type": null },
-  { "id": 821, "name": "Altoona Area", "type": null },
-  { "id": 822, "name": "Central Mountain", "type": null },
-  { "id": 823, "name": "Forest Hills", "type": null },
-  { "id": 824, "name": "Bellfonte", "type": null },
-  { "id": 825, "name": "Indiana Area", "type": null },
-  { "id": 826, "name": "Bedford (Seton Hill)", "type": null },
-  { "id": 827, "name": "Bellefonte Area", "type": null },
-  { "id": 828, "name": "Steel Valley", "type": null },
-  { "id": 829, "name": "Mount Union Area", "type": null },
-  { "id": 830, "name": "Tyrone Area (Penn State)", "type": null },
   {
-    "id": 831,
-    "name": "Providence Christian (Penn State-Beaver)",
-    "type": null
+    "id": 810,
+    "name": "Atlantic Shores Christian",
+    "type": null,
+    "division": null
   },
-  { "id": 832, "name": "Central Martinsburg", "type": null },
-  { "id": 833, "name": "Valley", "type": null },
-  { "id": 834, "name": "Richland", "type": null },
+  { "id": 811, "name": "Cave Spring", "type": null, "division": null },
   {
-    "id": 835,
-    "name": "Highlands (Eastern Michigan University)",
-    "type": "university"
+    "id": 812,
+    "name": "Liberty Christian Academy",
+    "type": "high school",
+    "division": null
   },
-  { "id": 836, "name": "DuBois Central Catholic (Kent State)", "type": null },
-  { "id": 837, "name": "Everett Area", "type": null },
-  { "id": 838, "name": "State College", "type": "university" },
-  { "id": 839, "name": "Chambersburg", "type": null },
-  { "id": 840, "name": "Southern Lehigh", "type": null },
-  { "id": 841, "name": "Tyrone Area", "type": null },
-  { "id": 842, "name": "Everett Area (Millersville Univ.)", "type": null },
-  { "id": 843, "name": "Franklin Regional (Seton Hill)", "type": null },
-  { "id": 844, "name": "Greater Johnstown", "type": null },
-  { "id": 845, "name": "Greater Latrobe", "type": null },
-  { "id": 846, "name": "Elizabeth Forward", "type": null },
-  { "id": 847, "name": "Seneca Valley", "type": null },
-  { "id": 848, "name": "United", "type": null },
-  { "id": 849, "name": "Brentwood", "type": null },
-  { "id": 850, "name": "Freeport Area (Slippery Rock)", "type": null },
-  { "id": 851, "name": "Collegio Rosa-Bel", "type": null },
-  { "id": 852, "name": "Charles J. Colgan", "type": null },
-  { "id": 853, "name": "South Allegheny", "type": null },
-  { "id": 854, "name": "Susan E. Wagner", "type": null },
-  { "id": 855, "name": "Ephrata", "type": null },
-  { "id": 856, "name": "West Chester Rustin", "type": null },
-  { "id": 857, "name": "Chantilly", "type": null },
-  { "id": 858, "name": "Boyertown", "type": null },
-  { "id": 859, "name": "Conrad Weiser", "type": null },
-  { "id": 860, "name": "Archbishop Wood", "type": null },
-  { "id": 861, "name": "Abington", "type": null },
-  { "id": 862, "name": "La Plata", "type": null },
-  { "id": 863, "name": "Kent County", "type": null },
-  { "id": 864, "name": "C. Milton Wright", "type": null },
-  { "id": 865, "name": "Odessa", "type": null },
-  { "id": 866, "name": "Islip", "type": null },
-  { "id": 867, "name": "Perkiomen Valley", "type": null },
-  { "id": 868, "name": "Waldwick", "type": null },
-  { "id": 869, "name": "Northampton", "type": null },
-  { "id": 870, "name": "Palmyra", "type": null },
-  { "id": 871, "name": "Woodstown", "type": null },
-  { "id": 872, "name": "Carlisle", "type": null },
-  { "id": 873, "name": "Glenelg", "type": null },
-  { "id": 874, "name": "Emmaus", "type": null },
-  { "id": 875, "name": "North County", "type": null },
-  { "id": 876, "name": "Blue Valley Northwest", "type": null },
-  { "id": 877, "name": "New Oxford", "type": null },
-  { "id": 878, "name": "Gaithersburg", "type": null },
-  { "id": 879, "name": "Waynesboro Area", "type": null },
-  { "id": 880, "name": "Council Rock South", "type": null },
-  { "id": 881, "name": "Northampton Area", "type": null },
-  { "id": 882, "name": "Danville", "type": null },
-  { "id": 883, "name": "Ramon Power y Giralt (P.R.)", "type": null },
-  { "id": 884, "name": "St. Mary's", "type": null },
-  { "id": 885, "name": "Northeastern", "type": null },
-  { "id": 886, "name": "Briar Woods", "type": null },
-  { "id": 887, "name": "Cherry Hill West", "type": null },
-  { "id": 888, "name": "Old Mill", "type": null },
-  { "id": 889, "name": "Brentsville", "type": null },
-  { "id": 890, "name": "Downingtown West", "type": null },
-  { "id": 891, "name": "West Chester Henderson", "type": null },
-  { "id": 892, "name": "North Pocono", "type": null },
-  { "id": 893, "name": "Cedar Crest", "type": null },
-  { "id": 894, "name": "Northampton Community College", "type": "university" },
-  { "id": 895, "name": "Morristown", "type": null },
-  { "id": 896, "name": "Homeschool", "type": null },
-  { "id": 897, "name": "Wall", "type": null },
-  { "id": 898, "name": "Notre Dame", "type": null },
-  { "id": 899, "name": "Wall Township", "type": null },
-  { "id": 900, "name": "AP Schalick", "type": null },
-  { "id": 901, "name": "Somers", "type": null },
-  { "id": 902, "name": "Neumann Goretti", "type": null },
-  { "id": 903, "name": "Rowan Coll. Of South Jersey-Gloucester", "type": null },
-  { "id": 904, "name": "East Hampton", "type": null },
-  { "id": 905, "name": "George Washington", "type": null },
-  { "id": 906, "name": "Plainville", "type": null },
-  { "id": 907, "name": "Hartford", "type": null },
-  { "id": 908, "name": "St. Josephs Regional", "type": null },
-  { "id": 909, "name": "Brookdale Community College", "type": "university" },
-  { "id": 910, "name": "Hatboro-Horsham", "type": null },
-  { "id": 911, "name": "Rumson-Fair Haven", "type": null },
-  { "id": 912, "name": "Kennedy Catholic", "type": null },
-  { "id": 913, "name": "Adelphi", "type": null },
-  { "id": 914, "name": "Pocono Mountain West", "type": null },
-  { "id": 915, "name": "Central Cabarrus", "type": null },
-  { "id": 916, "name": "Bishop Shanahan", "type": null },
-  { "id": 917, "name": "Hartford Community College", "type": "university" },
-  { "id": 918, "name": "St. Joseph By the Sea", "type": null },
-  { "id": 919, "name": "Pittsburgh", "type": null },
-  { "id": 920, "name": "Newburgh Free Academy", "type": "high school" },
-  { "id": 921, "name": "SUNY Oswego", "type": null },
-  { "id": 922, "name": "Friends Central", "type": null },
-  { "id": 923, "name": "Lake Lehman", "type": null },
-  { "id": 924, "name": "Roy C. Ketcham", "type": null },
-  { "id": 925, "name": "Marple Newtown", "type": null },
-  { "id": 926, "name": "Vero Beach", "type": null },
-  { "id": 927, "name": "Elon", "type": null },
-  { "id": 928, "name": "Fairfield Warde", "type": null },
-  { "id": 929, "name": "North Warren Regional", "type": null },
-  { "id": 930, "name": "Mountain Lakes", "type": null }
+  { "id": 813, "name": "Mechanicsville", "type": null, "division": null },
+  { "id": 814, "name": "Bassett", "type": null, "division": null },
+  { "id": 815, "name": "Lower Dauphin", "type": null, "division": null },
+  { "id": 816, "name": "Oakton", "type": null, "division": null },
+  { "id": 817, "name": "Grafton", "type": null, "division": null },
+  { "id": 818, "name": "Salem", "type": null, "division": null },
+  { "id": 819, "name": "Gainesville", "type": null, "division": null },
+  { "id": 820, "name": "Skyline", "type": null, "division": null },
+  { "id": 821, "name": "Altoona Area", "type": null, "division": null },
+  { "id": 822, "name": "Central Mountain", "type": null, "division": null },
+  { "id": 823, "name": "Forest Hills", "type": null, "division": null },
+  { "id": 824, "name": "Bellfonte", "type": null, "division": null },
+  { "id": 825, "name": "Indiana Area", "type": null, "division": null },
+  { "id": 827, "name": "Bellefonte Area", "type": null, "division": null },
+  { "id": 828, "name": "Steel Valley", "type": null, "division": null },
+  { "id": 829, "name": "Mount Union Area", "type": null, "division": null },
+  { "id": 830, "name": "Tyrone Area", "type": null, "division": null },
+  { "id": 831, "name": "Providence Christian", "type": null, "division": null },
+  { "id": 832, "name": "Central Martinsburg", "type": null, "division": null },
+  { "id": 833, "name": "Valley", "type": null, "division": null },
+  { "id": 834, "name": "Richland", "type": null, "division": null },
+  { "id": 835, "name": "Highlands", "type": "university", "division": null },
+  {
+    "id": 836,
+    "name": "DuBois Central Catholic",
+    "type": null,
+    "division": null
+  },
+  { "id": 837, "name": "Everett Area", "type": null, "division": null },
+  {
+    "id": 838,
+    "name": "State College",
+    "type": "university",
+    "division": null
+  },
+  { "id": 839, "name": "Chambersburg", "type": null, "division": null },
+  { "id": 840, "name": "Southern Lehigh", "type": null, "division": null },
+  { "id": 841, "name": "Tyrone Area", "type": null, "division": null },
+  { "id": 843, "name": "Franklin Regional", "type": null, "division": null },
+  { "id": 844, "name": "Greater Johnstown", "type": null, "division": null },
+  { "id": 845, "name": "Greater Latrobe", "type": null, "division": null },
+  { "id": 846, "name": "Elizabeth Forward", "type": null, "division": null },
+  { "id": 847, "name": "Seneca Valley", "type": null, "division": null },
+  { "id": 848, "name": "United", "type": null, "division": null },
+  { "id": 850, "name": "Freeport Area", "type": null, "division": null },
+  { "id": 851, "name": "Collegio Rosa-Bel", "type": null, "division": null },
+  { "id": 852, "name": "Charles J. Colgan", "type": null, "division": null },
+  { "id": 853, "name": "South Allegheny", "type": null, "division": null },
+  { "id": 854, "name": "Susan E. Wagner", "type": null, "division": null },
+  { "id": 855, "name": "Ephrata", "type": null, "division": null },
+  { "id": 856, "name": "West Chester Rustin", "type": null, "division": null },
+  { "id": 857, "name": "Chantilly", "type": null, "division": null },
+  { "id": 858, "name": "Boyertown", "type": null, "division": null },
+  { "id": 859, "name": "Conrad Weiser", "type": null, "division": null },
+  { "id": 860, "name": "Archbishop Wood", "type": null, "division": null },
+  { "id": 861, "name": "Abington", "type": null, "division": null },
+  { "id": 862, "name": "La Plata", "type": null, "division": null },
+  { "id": 863, "name": "Kent County", "type": null, "division": null },
+  { "id": 864, "name": "C. Milton Wright", "type": null, "division": null },
+  { "id": 865, "name": "Odessa", "type": null, "division": null },
+  { "id": 866, "name": "Islip", "type": null, "division": null },
+  { "id": 867, "name": "Perkiomen Valley", "type": null, "division": null },
+  { "id": 868, "name": "Waldwick", "type": null, "division": null },
+  { "id": 869, "name": "Northampton", "type": null, "division": null },
+  { "id": 870, "name": "Palmyra", "type": null, "division": null },
+  { "id": 871, "name": "Woodstown", "type": null, "division": null },
+  { "id": 872, "name": "Carlisle", "type": null, "division": null },
+  { "id": 873, "name": "Glenelg", "type": null, "division": null },
+  { "id": 874, "name": "Emmaus", "type": null, "division": null },
+  { "id": 875, "name": "North County", "type": null, "division": null },
+  {
+    "id": 876,
+    "name": "Blue Valley Northwest",
+    "type": null,
+    "division": null
+  },
+  { "id": 877, "name": "New Oxford", "type": null, "division": null },
+  { "id": 878, "name": "Gaithersburg", "type": null, "division": null },
+  { "id": 879, "name": "Waynesboro Area", "type": null, "division": null },
+  { "id": 880, "name": "Council Rock South", "type": null, "division": null },
+  { "id": 882, "name": "Danville", "type": null, "division": null },
+  { "id": 883, "name": "Ramon Power y Giralt", "type": null, "division": null },
+  { "id": 884, "name": "St. Mary's", "type": null, "division": null },
+  { "id": 885, "name": "Northeastern", "type": null, "division": null },
+  { "id": 886, "name": "Briar Woods", "type": null, "division": null },
+  { "id": 887, "name": "Cherry Hill West", "type": null, "division": null },
+  { "id": 888, "name": "Old Mill", "type": null, "division": null },
+  { "id": 889, "name": "Brentsville", "type": null, "division": null },
+  { "id": 890, "name": "Downingtown West", "type": null, "division": null },
+  {
+    "id": 891,
+    "name": "West Chester Henderson",
+    "type": null,
+    "division": null
+  },
+  { "id": 892, "name": "North Pocono", "type": null, "division": null },
+  { "id": 893, "name": "Cedar Crest", "type": null, "division": null },
+  {
+    "id": 894,
+    "name": "Northampton Community College",
+    "type": "university",
+    "division": null
+  },
+  { "id": 895, "name": "Morristown", "type": null, "division": null },
+  { "id": 896, "name": "Homeschool", "type": null, "division": null },
+  { "id": 900, "name": "AP Schalick", "type": null, "division": null },
+  { "id": 901, "name": "Somers", "type": null, "division": null },
+  { "id": 902, "name": "Neumann Goretti", "type": null, "division": null },
+  {
+    "id": 903,
+    "name": "Rowan Coll. Of South Jersey-Gloucester",
+    "type": null,
+    "division": null
+  },
+  { "id": 904, "name": "East Hampton", "type": null, "division": null },
+  { "id": 905, "name": "George Washington", "type": null, "division": null },
+  { "id": 906, "name": "Plainville", "type": null, "division": null },
+  { "id": 907, "name": "Hartford", "type": null, "division": null },
+  { "id": 908, "name": "St. Josephs Regional", "type": null, "division": null },
+  {
+    "id": 909,
+    "name": "Brookdale Community College",
+    "type": "university",
+    "division": null
+  },
+  { "id": 910, "name": "Hatboro-Horsham", "type": null, "division": null },
+  { "id": 911, "name": "Rumson-Fair Haven", "type": null, "division": null },
+  { "id": 912, "name": "Kennedy Catholic", "type": null, "division": null },
+  { "id": 913, "name": "Adelphi", "type": null, "division": null },
+  { "id": 914, "name": "Pocono Mountain West", "type": null, "division": null },
+  { "id": 915, "name": "Central Cabarrus", "type": null, "division": null },
+  { "id": 916, "name": "Bishop Shanahan", "type": null, "division": null },
+  {
+    "id": 917,
+    "name": "Hartford Community College",
+    "type": "university",
+    "division": null
+  },
+  {
+    "id": 918,
+    "name": "St. Joseph By the Sea",
+    "type": null,
+    "division": null
+  },
+  { "id": 919, "name": "Pittsburgh", "type": null, "division": null },
+  {
+    "id": 920,
+    "name": "Newburgh Free Academy",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 921, "name": "SUNY Oswego", "type": null, "division": null },
+  { "id": 922, "name": "Friends Central", "type": null, "division": null },
+  { "id": 923, "name": "Lake Lehman", "type": null, "division": null },
+  { "id": 924, "name": "Roy C. Ketcham", "type": null, "division": null },
+  { "id": 925, "name": "Marple Newtown", "type": null, "division": null },
+  { "id": 926, "name": "Vero Beach", "type": null, "division": null },
+  { "id": 927, "name": "Elon", "type": null, "division": null },
+  { "id": 928, "name": "Fairfield Warde", "type": null, "division": null },
+  {
+    "id": 929,
+    "name": "North Warren Regional",
+    "type": null,
+    "division": null
+  },
+  { "id": 930, "name": "Mountain Lakes", "type": null, "division": null },
+  {
+    "id": 931,
+    "name": "Wesleyan Christian Academy",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 932,
+    "name": "Metrolina Christian Academy",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 933, "name": "Lee County", "type": "high school", "division": null },
+  { "id": 934, "name": "East Wake", "type": "high school", "division": null },
+  { "id": 935, "name": "Newnan HS", "type": "high school", "division": null },
+  {
+    "id": 936,
+    "name": "Chilton County HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 937,
+    "name": "Cedartown HS",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 938, "name": "USC Upstate", "type": "high school", "division": null },
+  { "id": 939, "name": "Wakeland HS", "type": "high school", "division": null },
+  {
+    "id": 940,
+    "name": "Madison Central HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 941,
+    "name": "Starkville HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 942,
+    "name": "NW Florida State College",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 943, "name": "Miami", "type": "high school", "division": null },
+  {
+    "id": 944,
+    "name": "Resurrection Catholic School",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 945,
+    "name": "Greenfield-Central HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 946,
+    "name": "Middletown HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 949,
+    "name": "Boyd-Buchanan School",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 950,
+    "name": "Prestonwood Christian Academy",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 951,
+    "name": "Donelson Christian Academy",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 952,
+    "name": "Franklin Area",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 953, "name": "Hudsonville", "type": "high school", "division": null },
+  {
+    "id": 954,
+    "name": "Eastern Florida State",
+    "type": null,
+    "division": null
+  },
+  { "id": 955, "name": "Penn State", "type": null, "division": null },
+  {
+    "id": 956,
+    "name": "Gloucester Catholic",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 957,
+    "name": "Leadership Christian Academy",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 958, "name": "Florida", "type": null, "division": null },
+  {
+    "id": 959,
+    "name": "Arlington Catholic",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 960, "name": "Matawan Regional", "type": null, "division": null },
+  {
+    "id": 962,
+    "name": "Orchard Lake St. Mary's Prep",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 963,
+    "name": "Daniel Boone HS",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 964, "name": "Texas A&M", "type": null, "division": null },
+  { "id": 965, "name": "North Carolina", "type": null, "division": null },
+  {
+    "id": 966,
+    "name": "Temple Christian School",
+    "type": null,
+    "division": null
+  },
+  { "id": 967, "name": "Kennesaw State", "type": null, "division": null },
+  { "id": 968, "name": "William & Mary", "type": null, "division": null },
+  {
+    "id": 969,
+    "name": "Claiborne HS",
+    "type": "high school",
+    "division": null
+  },
+  {
+    "id": 970,
+    "name": "Douglas County HS",
+    "type": "high school",
+    "division": null
+  },
+  { "id": 971, "name": "San Diego State", "type": null, "division": null }
 ]
