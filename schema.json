@@ -38,21 +38,6 @@
                     "nullable": true
                 },
                 {
-                    "token": "homeruns",
-                    "type": "integer",
-                    "nullable": true
-                },
-                {
-                    "token": "batting_average",
-                    "type": "float",
-                    "nullable": true
-                },
-                {
-                    "token": "batting_hand",
-                    "type": "string",
-                    "nullable": true
-                },
-                {
                     "token": "major",
                     "type": "string",
                     "nullable": true
@@ -82,11 +67,6 @@
                     "token": "losses",
                     "type": "int",
                     "nullable": true
-                },
-                {
-                    "token": "ranking",
-                    "type": "integer",
-                    "nullable": true
                 }
             ]
         },
@@ -102,56 +82,6 @@
                 {
                     "token": "role",
                     "type": "string",
-                    "nullable": true
-                },
-                {
-                    "token": "experience",
-                    "type": "integer",
-                    "nullable": true
-                },
-                {
-                    "token": "championships",
-                    "type": "integer",
-                    "nullable": true
-                },
-                {
-                    "token": "awards",
-                    "type": "integer",
-                    "nullable": true
-                },
-                {
-                    "token": "age",
-                    "type": "integer",
-                    "nullable": true
-                },
-                {
-                    "token": "salary",
-                    "type": "float",
-                    "nullable": true
-                },
-                {
-                    "token": "contract_years",
-                    "type": "integer",
-                    "nullable": true
-                },
-                {
-                    "token": "wins",
-                    "type": "integer",
-                    "nullable": true
-                },
-                {
-                    "token": "losses",
-                    "type": "integer",
-                    "nullable": true
-                },
-                {
-                    "token": "ties",
-                    "type": "integer",
-                    "nullable": true
-                },
-                {
-                    "token": "win_percentage",
-                    "type": "float",
                     "nullable": true
                 }
             ]
