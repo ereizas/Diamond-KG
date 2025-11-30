@@ -6,6 +6,9 @@ import dedup
 from neo4j import GraphDatabase
 from config import neo4j_pass
 import file_handling
+# NOTE: Keep *_temp.json files for upload to Neo4J
+
+# TODO: rescrape attended and plays_for relationships
 # TODO: fix scraped schools
 # TODO: when updating try to exclude those with an ID that exists in the database
 SIDEARM_SCHOOL_TO_ROSTER_URLS = {
@@ -24,7 +27,7 @@ TABLE_SCHOOL_TO_ROSTER_URLS = {
     #"Oregon State University": ["https://osubeavers.com/sports/baseball/roster/"],
     #"University of Tennessee": ["https://utsports.com/sports/baseball/roster/"],
     "University of Arkansas": ["https://arkansasrazorbacks.com/sport/m-basebl/roster/?season=","https://arkansasrazorbacks.com/sport/m-basebl/roster/?season="],
-    "Bloomsburg University": ["https://bloomsburgathletics.com/sports/baseball/roster/"]
+    #"Bloomsburg University": ["https://bloomsburgathletics.com/sports/baseball/roster/"]
 }
 
 NON_DEFAULT_TABLE_SCHOOL_TO_ROSTER_URLS = {
@@ -101,12 +104,23 @@ def get_school_id(
             {
                 "id": curr_school_id,
                 "name": school,
-                "type": typ
+                "type": typ,
+                "division": None
             }
         )
         curr_school_id+=1
-    data["attended"].append((curr_player_id, school_to_id[school]))
+    data["attended"].append([curr_player_id, school_to_id[school]])
     return curr_school_id
+
+def get_id_mapping(filename):
+    to_id = {}
+    with open(filename) as file:
+        temp = json.load(file)
+        for row in temp:
+            to_id[row["name"]]=row["id"]
+    return to_id
+
+player_to_id = get_id_mapping("players.json")
 
 def scrape_sidearm_roster(
     url:str,
@@ -147,6 +161,7 @@ def scrape_sidearm_roster(
                 # add to attended relationship and add new school entity as needed
                 if last_schools_tag:
                     last_schools = last_schools_tag.text[len("Last School")+1:].strip().split("/")
+                    name = name.text.strip()
                     for schl in last_schools:
                         curr_school_id = get_school_id(school_to_id, schl.strip(), curr_school_id, data, curr_player_id)
                         
@@ -160,7 +175,7 @@ def scrape_sidearm_roster(
                 data["Player"].append(
                     {
                         "id": curr_player_id,
-                        "name": name.text.replace("  ",""),
+                        "name": name.text.replace("  "," "),
                         "position": position.text[position_start_ind:].strip() if position else None,
                         "height": convert_height_str(height.text[len("Height")+1:].strip()) if height else None,
                         "weight": int(weight) if space_ind==-1 else int(weight[:space_ind])
@@ -194,7 +209,7 @@ def scrape_sidearm_coach_page(url, data, school, year, curr_coach_id, team_to_id
             data["Coach"].append(
                 {
                     "id": curr_coach_id,
-                    "name" : columns[0].text.replace("  ", ""),
+                    "name" : columns[0].text.replace("  ", " "),
                     "role" : columns[1].text,
                     "coaches": [f"{school} {str(year)}"]
                 }
@@ -244,7 +259,7 @@ def scrape_table(
                         space_ind = value.find(" ")
                         if space_ind!=-1:
                             value = value[:space_ind]
-                    player[attr] = value if attr!="weight" else value
+                    player[attr] = value
                 elif type(attr_to_col[attr]) is list:
                     for ind in attr_to_col[attr]:
                         sub_col_names = col_names[ind].text.split("/")
@@ -267,7 +282,7 @@ def scrape_table(
             data["Coach"].append(
                 {
                     "id": curr_coach_id,
-                    "name": cols[0+offset].text.replace("\\n","").strip().replace("  ", ""),
+                    "name": cols[0+offset].text.replace("\\n","").strip().replace("  ", " "),
                     "role": cols[1+offset].text.replace("\\n","").strip()
                 }
             )
@@ -293,7 +308,7 @@ def scrape_coach_table(
     if not attr_to_col:
         attr_to_col = SCHOOL_ATTR_TO_COL.get(f"{school} {year}")
     offset = int(attr_to_col.get("pic_offset")) if "pic_offset" in attr_to_col else 0
-    coach_rows = tables[0].find_all("tr")
+    coach_rows = tables[0].find_all("td",string=re.compile("Coach"))
     for i in range(1, len(coach_rows)):
         cols = coach_rows[i].find_all(re.compile("td|th"))
         role = cols[1+offset].text.replace("\\n","").strip()
@@ -301,7 +316,7 @@ def scrape_coach_table(
             data["Coach"].append(
                 {
                     "id": curr_coach_id,
-                    "name": cols[0+offset].text.replace("\\n","").strip().replace("  ", ""),
+                    "name": cols[0+offset].text.replace("\\n","").strip().replace("  ", " "),
                     "role": role
                 }
             )
@@ -327,6 +342,7 @@ def scrape_tables(urls, data, curr_player_id, curr_coach_id, curr_school_id, sch
                         team_to_id
                     )
                 else:
+                    print(url + str(year) + url_addition if "season" not in url else f"{url}{year-1}-{str(year)[2:]}"+"#coaches")
                     curr_coach_id = scrape_coach_table(
                         url + str(year) + url_addition if "season" not in url else f"{url}{year-1}-{str(year)[2:]}"+"#coaches",
                         data,
@@ -336,14 +352,6 @@ def scrape_tables(urls, data, curr_player_id, curr_coach_id, curr_school_id, sch
                         team_to_id
                     )
     return curr_player_id, curr_coach_id, curr_school_id
-
-def get_id_mapping(filename):
-    to_id = {}
-    with open(filename) as file:
-        temp = json.load(file)
-        for row in temp:
-            to_id[row["name"]]=row["id"]
-    return to_id
 
 def get_next_id(json_file):
     data = None
@@ -381,8 +389,9 @@ def upload_to_neo4j(data, node_names, relationships, rel_to_ents):
                 )
 
 if __name__=="__main__":
+    # and then previous schools
     # Pre-run TODO: Fill out team data before running for team_to_id mapping
-    years = [2025]
+    years = [2025, 2026]
     # data not loaded from files, so that deduping is easier
     data = {
         "Player": [],
@@ -414,7 +423,7 @@ if __name__=="__main__":
     #file_handling.concat_to_main_file("coaches_team.json", "coaches_team_temp.json", data, "coaches_team")
     #file_handling.concat_to_main_file("plays_for.json", "plays_for_temp.json", data, "plays_for")
     #file_handling.concat_to_main_file("schools.json", "schools_temp.json", data, "School")
-    file_handling.concat_to_main_file("attended.json", "attended_temp.json", data, "attended")
+    #file_handling.concat_to_main_file("attended.json", "attended_temp.json", data, "attended")
     """with open("players_temp.json", "w") as file:
         json.dump(data["Player"], file)
     with open("coaches_temp.json", "w") as file:
@@ -428,29 +437,8 @@ if __name__=="__main__":
     with open("plays_for_temp.json", "w") as plays_for_file:
         json.dump(data["plays_for"], plays_for_file)"""
     
-
-    """# load files for upload to neo4j
-    with open("players_temp.json") as file:
-        data["Player"]=json.load(file)
-    with open("schools_temp.json") as school_file:
-        data["School"]=json.load(school_file)
-    with open("conferences_temp.json") as conf_file:
-        data["Conference"]=json.load(conf_file)
-    with open("attended_temp.json") as attended_file:
-        data["attended"]=json.load(attended_file)
-    with open("coaches_temp.json") as file:
-        data["Coach"]=json.load(file)
-    with open("teams_temp.json") as team_file:
-        data["Team"]=json.load(team_file)
-    with open("coaches_team_temp.json") as coaches_team_file:
-        data["coaches_team"]=json.load(coaches_team_file)
-    with open("plays_for_temp.json") as plays_for_file:
-        data["plays_for"]=json.load(plays_for_file)
-    with open("member_of_temp.json") as mem_of_file:
-        data["member_of"]=json.load(mem_of_file)"""
-    """
     # script to check for teams that have players who went to the same highschool
-    team_to_players = {}
+    """team_to_players = {}
     for pid, tid in data["plays_for"]:
         ttp_get = team_to_players.get(tid, [])
         ttp_get.append(pid)
@@ -468,7 +456,27 @@ if __name__=="__main__":
                         print(sid)
                     schools.add(sid)"""
 
-    """upload_to_neo4j(
+    # load files for upload to neo4j
+    """with open("players_temp.json") as file:
+        data["Player"]=json.load(file)
+    with open("schools_temp.json") as school_file:
+        data["School"]=json.load(school_file)
+    with open("conferences_temp.json") as conf_file:
+        data["Conference"]=json.load(conf_file)
+    with open("attended_temp.json") as attended_file:
+        data["attended"]=json.load(attended_file)"""
+    with open("coaches_temp.json") as file:
+        data["Coach"]=json.load(file)
+    """with open("teams_temp.json") as team_file:
+        data["Team"]=json.load(team_file)"""
+    with open("coaches_team_temp.json") as coaches_team_file:
+        data["coaches_team"]=json.load(coaches_team_file)
+    """with open("plays_for_temp.json") as plays_for_file:
+        data["plays_for"]=json.load(plays_for_file)
+    with open("member_of_temp.json") as mem_of_file:
+        data["member_of"]=json.load(mem_of_file)"""
+
+    upload_to_neo4j(
         data,
         ["Player", "Coach", "School", "Conference", "Team"],
         ["attended", "coaches_team", "plays_for", "member_of"],
@@ -478,4 +486,4 @@ if __name__=="__main__":
             "plays_for": ("Player", "Team"),
             "member_of": ("Team", "Conference")
         }
-    )"""
+    )
