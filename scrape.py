@@ -117,7 +117,7 @@ def get_id_mapping(filename):
     with open(filename) as file:
         temp = json.load(file)
         for row in temp:
-            to_id[row["name"]]=row["id"]
+            to_id[row["name"] if not row.get("year") else f"{row["name"]} {row["year"]}"]=row["id"]
     return to_id
 
 player_to_id = get_id_mapping("players.json")
@@ -404,9 +404,9 @@ if __name__=="__main__":
         "plays_for": [],
         "member_of": []
     }
-    school_to_id = get_id_mapping("schools.json")
-    team_to_id = get_id_mapping("teams.json")
-    curr_player_id, curr_coach_id, curr_school_id = get_next_id("players.json"), get_next_id("coaches.json"), get_next_id("schools.json")
+    #school_to_id = get_id_mapping("schools.json")
+    #team_to_id = get_id_mapping("teams.json")
+    #curr_player_id, curr_coach_id, curr_school_id = get_next_id("players.json"), get_next_id("coaches.json"), get_next_id("schools.json")
     """for school in SIDEARM_SCHOOL_TO_ROSTER_URLS:
         for i in range(len(SIDEARM_SCHOOL_TO_ROSTER_URLS[school])):
             for year in years:
@@ -464,18 +464,18 @@ if __name__=="__main__":
     with open("conferences_temp.json") as conf_file:
         data["Conference"]=json.load(conf_file)
     with open("attended_temp.json") as attended_file:
-        data["attended"]=json.load(attended_file)"""
+        data["attended"]=json.load(attended_file)
     with open("coaches_temp.json") as file:
-        data["Coach"]=json.load(file)
-    """with open("teams_temp.json") as team_file:
-        data["Team"]=json.load(team_file)"""
-    with open("coaches_team_temp.json") as coaches_team_file:
+        data["Coach"]=json.load(file)"""
+    with open("teams.json") as team_file:
+        data["Team"]=json.load(team_file)
+    with open("coaches_team.json") as coaches_team_file:
         data["coaches_team"]=json.load(coaches_team_file)
-    """with open("plays_for_temp.json") as plays_for_file:
+    with open("plays_for.json") as plays_for_file:
         data["plays_for"]=json.load(plays_for_file)
-    with open("member_of_temp.json") as mem_of_file:
-        data["member_of"]=json.load(mem_of_file)"""
-
+    with open("member_of.json") as mem_of_file:
+        data["member_of"]=json.load(mem_of_file)
+    
     upload_to_neo4j(
         data,
         ["Player", "Coach", "School", "Conference", "Team"],

@@ -1,69 +1,191 @@
 [
   {
     "id": 0,
-    "name": "University of North Carolina 2025",
+    "name": "University of North Carolina",
     "wins": 46,
-    "losses": 15
+    "losses": 15,
+    "year": "2025"
   },
   {
     "id": 1,
-    "name": "University of North Carolina 2026",
+    "name": "University of North Carolina",
     "wins": 0,
-    "losses": 0
+    "losses": 0,
+    "year": "2026"
   },
   {
     "id": 2,
-    "name": "Mississippi State University 2025",
+    "name": "Mississippi State University",
     "wins": 36,
-    "losses": 23
+    "losses": 23,
+    "year": "2025"
   },
   {
     "id": 3,
-    "name": "Mississippi State University 2026",
+    "name": "Mississippi State University",
     "wins": 0,
-    "losses": 0
+    "losses": 0,
+    "year": "2026"
   },
-  { "id": 4, "name": "University of Florida 2025", "wins": 39, "losses": 22 },
+  {
+    "id": 4,
+    "name": "University of Florida",
+    "wins": 39,
+    "losses": 22,
+    "year": "2025"
+  },
   {
     "id": 5,
-    "name": "Pennsylvania State University 2025",
+    "name": "Pennsylvania State University",
     "wins": 33,
-    "losses": 23
+    "losses": 23,
+    "year": "2025"
   },
   {
     "id": 6,
-    "name": "Pennsylvania State University 2026",
+    "name": "Pennsylvania State University",
     "wins": 0,
-    "losses": 0
+    "losses": 0,
+    "year": "2026"
   },
-  { "id": 7, "name": "Vanderbilt University 2025", "wins": 43, "losses": 18 },
-  { "id": 8, "name": "Vanderbilt University 2026", "wins": 0, "losses": 0 },
-  { "id": 9, "name": "University of Miami 2025", "wins": 35, "losses": 27 },
-  { "id": 10, "name": "University of Miami 2026", "wins": 0, "losses": 0 },
+  {
+    "id": 7,
+    "name": "Vanderbilt University",
+    "wins": 43,
+    "losses": 18,
+    "year": "2025"
+  },
+  {
+    "id": 8,
+    "name": "Vanderbilt University",
+    "wins": 0,
+    "losses": 0,
+    "year": "2026"
+  },
+  {
+    "id": 9,
+    "name": "University of Miami",
+    "wins": 35,
+    "losses": 27,
+    "year": "2025"
+  },
+  {
+    "id": 10,
+    "name": "University of Miami",
+    "wins": 0,
+    "losses": 0,
+    "year": "2026"
+  },
   {
     "id": 11,
-    "name": "Oregon State University 2025",
+    "name": "Oregon State University",
     "wins": 48,
-    "losses": 16
+    "losses": 16,
+    "year": "2025"
   },
-  { "id": 12, "name": "Oregon State University 2026", "wins": 0, "losses": 0 },
+  {
+    "id": 12,
+    "name": "Oregon State University",
+    "wins": 0,
+    "losses": 0,
+    "year": "2026"
+  },
   {
     "id": 13,
-    "name": "University of Tennessee 2025",
+    "name": "University of Tennessee",
     "wins": 46,
-    "losses": 19
+    "losses": 19,
+    "year": "2025"
   },
-  { "id": 14, "name": "University of Tennessee 2026", "wins": 0, "losses": 0 },
-  { "id": 15, "name": "University of Arkansas 2025", "wins": 50, "losses": 15 },
-  { "id": 16, "name": "Bloomsburg University 2025", "wins": 21, "losses": 28 },
-  { "id": 17, "name": "Lafeyette University 2025", "wins": 14, "losses": 35 },
-  { "id": 18, "name": "Towson University 2025", "wins": 21, "losses": 35 },
-  { "id": 19, "name": "Maryville College 2025", "wins": 33, "losses": 14 },
-  { "id": 21, "name": "Flagler College 2025", "wins": 30, "losses": 20 },
-  { "id": 23, "name": "Belmont University 2025", "wins": 26, "losses": 34 },
-  { "id": 25, "name": "Lynchburg University 2025", "wins": 41, "losses": 9 },
-  { "id": 26, "name": "University of Pittsburgh at Johnstown 2025", "wins": 15, "losses": 33 },
-  { "id": 27, "name": "York College of Pennsylvania 2025", "wins": 25, "losses": 19 },
-  { "id": 28, "name": "Oberlin College 2025", "wins": 12, "losses": 23 },
-  { "id": 30, "name": "Monmouth University 2025", "wins": 24, "losses": 30 }
+  {
+    "id": 14,
+    "name": "University of Tennessee",
+    "wins": 0,
+    "losses": 0,
+    "year": "2026"
+  },
+  {
+    "id": 15,
+    "name": "University of Arkansas",
+    "wins": 50,
+    "losses": 15,
+    "year": "2025"
+  },
+  {
+    "id": 16,
+    "name": "Bloomsburg University",
+    "wins": 21,
+    "losses": 28,
+    "year": "2025"
+  },
+  {
+    "id": 17,
+    "name": "Lafeyette University",
+    "wins": 14,
+    "losses": 35,
+    "year": "2025"
+  },
+  {
+    "id": 18,
+    "name": "Towson University",
+    "wins": 21,
+    "losses": 35,
+    "year": "2025"
+  },
+  {
+    "id": 19,
+    "name": "Maryville College",
+    "wins": 33,
+    "losses": 14,
+    "year": "2025"
+  },
+  {
+    "id": 21,
+    "name": "Flagler College",
+    "wins": 30,
+    "losses": 20,
+    "year": "2025"
+  },
+  {
+    "id": 23,
+    "name": "Belmont University",
+    "wins": 26,
+    "losses": 34,
+    "year": "2025"
+  },
+  {
+    "id": 25,
+    "name": "Lynchburg University",
+    "wins": 41,
+    "losses": 9,
+    "year": "2025"
+  },
+  {
+    "id": 26,
+    "name": "University of Pittsburgh at Johnstown",
+    "wins": 15,
+    "losses": 33,
+    "year": "2025"
+  },
+  {
+    "id": 27,
+    "name": "York College of Pennsylvania",
+    "wins": 25,
+    "losses": 19,
+    "year": "2025"
+  },
+  {
+    "id": 28,
+    "name": "Oberlin College",
+    "wins": 12,
+    "losses": 23,
+    "year": "2025"
+  },
+  {
+    "id": 30,
+    "name": "Monmouth University",
+    "wins": 24,
+    "losses": 30,
+    "year": "2025"
+  }
 ]
