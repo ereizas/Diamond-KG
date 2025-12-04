@@ -8,6 +8,10 @@ from config import neo4j_pass
 import file_handling
 # NOTE: Keep *_temp.json files for upload to Neo4J
 
+#!!!TODO: normalize positions and get major
+#!!!TODO: write query for top majors and show count
+#!!!TODO: plan retrieval of different positions played for transfers
+
 # TODO: rescrape attended and plays_for relationships
 # TODO: fix scraped schools
 # TODO: when updating try to exclude those with an ID that exists in the database
@@ -81,6 +85,22 @@ def convert_height_str(height):
         inches = int(height[inch_start:inch_end_ind])
     return feet*12 + inches
 
+def normalize_delimiters(s):
+    if s is None:
+        return None
+
+    # Lowercase for easier matching
+    s = s.lower().strip()
+    # Replace slashes, pipes, semicolons with commas
+    s = re.sub(r"[\/|;]", ",", s)
+    # Replace multiple commas or comma + whitespace with a single comma
+    s = re.sub(r"\s*,\s*", ",", s)
+    # Replace multiple spaces with a single space
+    s = re.sub(r"\s+", " ", s)
+    # Remove stray spaces around commas again
+    s = re.sub(r"\s*,\s*", ",", s)
+    return s
+
 def get_school_id(
     school_to_id:dict,
     school:str,
@@ -121,6 +141,58 @@ def get_id_mapping(filename):
     return to_id
 
 player_to_id = get_id_mapping("players.json")
+
+POSITION_TOKEN_MAP = {
+    # Catcher
+    "c": "C",
+    "catcher": "C",
+
+    # Infield
+    "if": "INF",
+    "inf": "INF",
+    "infield": "INF",
+    "cif": "INF",
+    "m-inf": "INF",
+
+    # Middle infield
+    "mif": "MIF",
+    "mif": "MIF",
+
+    # Bases
+    "1b": "1B",
+    "2b": "2B",
+    "3b": "3B",
+    
+    # Shortstop
+    "ss": "SS",
+
+    # Outfield
+    "of": "OF",
+    "outfield": "OF",
+
+    # Pitcher (generic)
+    "p": "P",
+    "rp": "P",     # relief pitcher → still "P"
+
+    # Right-handed pitcher
+    "rhp": "RHP",
+    "right-handed pitcher": "RHP",
+    "right-handed": "RHP",   # appears in combined tokens
+
+    # Left-handed pitcher
+    "lhp": "LHP",
+    "left-handed pitcher": "LHP",
+    "left-handed": "LHP",
+
+    "ut": "UTL",
+    "utl": "UTL",
+    "utility": "UTL",
+    "dh": "DH",
+
+    # Extra variants seen in data
+    "c/": "C",     # in case tokenization leaves trailing slash
+    "b": "",     # ambiguous unless part of 1B/2B/3B
+}
 
 def scrape_sidearm_roster(
     url:str,
@@ -172,11 +244,14 @@ def scrape_sidearm_roster(
                     position_start_ind+=len("position")
                     while not position.text[position_start_ind].isalpha():
                         position_start_ind+=1
+                if position:
+                    position = normalize_delimiters(position.text[position_start_ind:].strip())
+                position = ",".join([POSITION_TOKEN_MAP[pos] for pos in position.split(",")])
                 data["Player"].append(
                     {
                         "id": curr_player_id,
                         "name": name.text.replace("  "," "),
-                        "position": position.text[position_start_ind:].strip() if position else None,
+                        "position": position if position else None, # None if blank str
                         "height": convert_height_str(height.text[len("Height")+1:].strip()) if height else None,
                         "weight": int(weight) if space_ind==-1 else int(weight[:space_ind])
                     }
@@ -260,6 +335,10 @@ def scrape_table(
                         if space_ind!=-1:
                             value = value[:space_ind]
                     player[attr] = value
+                elif attr=="position":
+                    position = normalize_delimiters(cols[attr_to_col[attr]])
+                    position = ",".join([POSITION_TOKEN_MAP[pos] for pos in position.split(",")])
+                    player[attr] = position if position else None
                 elif type(attr_to_col[attr]) is list:
                     for ind in attr_to_col[attr]:
                         sub_col_names = col_names[ind].text.split("/")
@@ -455,7 +534,7 @@ if __name__=="__main__":
                     if sid in schools:
                         print(sid)
                     schools.add(sid)"""
-
+    # TODO: merge in normalized player positions and document strategy
     # load files for upload to neo4j
     """with open("players_temp.json") as file:
         data["Player"]=json.load(file)
@@ -466,7 +545,7 @@ if __name__=="__main__":
     with open("attended_temp.json") as attended_file:
         data["attended"]=json.load(attended_file)
     with open("coaches_temp.json") as file:
-        data["Coach"]=json.load(file)"""
+        data["Coach"]=json.load(file)
     with open("teams.json") as team_file:
         data["Team"]=json.load(team_file)
     with open("coaches_team.json") as coaches_team_file:
@@ -486,4 +565,4 @@ if __name__=="__main__":
             "plays_for": ("Player", "Team"),
             "member_of": ("Team", "Conference")
         }
-    )
+    )"""
