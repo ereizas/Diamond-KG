@@ -4,6572 +4,7511 @@
     "name": "Cameron Padgett",
     "position": "RHP",
     "height": 75,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 1,
     "name": "Camron Seagraves",
     "position": "RHP",
     "height": 75,
-    "weight": 179
+    "weight": 179,
+    "major": null
   },
   {
     "id": 2,
     "name": "Ryan Lynch",
     "position": "RHP",
     "height": 75,
-    "weight": 235
+    "weight": 235,
+    "major": null
   },
   {
     "id": 3,
     "name": "Ryan Hench",
     "position": "RHP",
     "height": 74,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 4,
     "name": "Ace Reese",
     "position": "INF",
     "height": 75,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 5,
     "name": "Reed Stallman",
     "position": "OF",
     "height": 75,
-    "weight": 220
+    "weight": 220,
+    "major": null
   },
   {
     "id": 6,
     "name": "Charlie Foster",
     "position": "LHP",
     "height": 75,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 7,
     "name": "Duke Stone",
     "position": "RHP",
     "height": 77,
-    "weight": 235
+    "weight": 235,
+    "major": null
   },
   {
     "id": 8,
     "name": "Braden Booth",
     "position": "RHP",
     "height": 74,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 9,
     "name": "Noah Sullivan",
     "position": "UTL,RHP",
     "height": 73,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 10,
     "name": "Alex Madera",
     "position": "INF",
     "height": 70,
-    "weight": 179
+    "weight": 179,
+    "major": null
   },
   {
     "id": 11,
     "name": "Reece Holbrook",
     "position": "OF",
     "height": 71,
-    "weight": 181
+    "weight": 181,
+    "major": null
   },
   {
     "id": 12,
     "name": "Lee Sowers",
     "position": "INF",
     "height": 70,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 13,
     "name": "Sawyer Black",
     "position": "OF",
     "height": 73,
-    "weight": 194
+    "weight": 194,
+    "major": null
   },
   {
     "id": 14,
     "name": "Gavin Gallaher",
     "position": "INF",
     "height": 73,
-    "weight": 191
+    "weight": 191,
+    "major": null
   },
   {
     "id": 15,
     "name": "Jackson Van De Brake",
     "position": "INF",
     "height": 73,
-    "weight": 202
+    "weight": 202,
+    "major": null
   },
   {
     "id": 16,
     "name": "Perry Hargett",
     "position": "OF",
     "height": 72,
-    "weight": 187
+    "weight": 187,
+    "major": null
   },
   {
     "id": 17,
     "name": "Boaz Harper",
     "position": "INF",
     "height": 71,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 18,
     "name": "Tom Chmielewski",
     "position": "LHP",
     "height": 74,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 19,
     "name": "Tyson Bass",
     "position": "OF",
     "height": 75,
-    "weight": 211
+    "weight": 211,
+    "major": null
   },
   {
     "id": 20,
     "name": "Macaddin Dye",
     "position": "C",
     "height": 73,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 21,
     "name": "Parker McCoy",
     "position": "INF",
     "height": 73,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 22,
     "name": "Boston Flannery",
     "position": "RHP",
     "height": 76,
-    "weight": 230
+    "weight": 230,
+    "major": null
   },
   {
     "id": 23,
     "name": "Carter French",
     "position": "OF",
     "height": 74,
-    "weight": 196
+    "weight": 196,
+    "major": null
   },
   {
     "id": 24,
     "name": "Alex Ferrell",
     "position": "INF",
     "height": 74,
-    "weight": 209
+    "weight": 209,
+    "major": null
   },
   {
     "id": 25,
     "name": "Sam Angelo",
     "position": "INF",
     "height": 72,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 26,
     "name": "Matthew Matthijs",
     "position": "RHP",
     "height": 74,
-    "weight": 230
+    "weight": 230,
+    "major": null
   },
   {
     "id": 27,
     "name": "Rom Kellis V",
     "position": "OF,C",
     "height": 73,
-    "weight": 203
+    "weight": 203,
+    "major": null
   },
   {
     "id": 28,
     "name": "Kyle Percival",
     "position": "LHP",
     "height": 77,
-    "weight": 220
+    "weight": 220,
+    "major": null
   },
   {
     "id": 29,
     "name": "Kane Kepley",
     "position": "OF",
     "height": 68,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 30,
     "name": "Riley Leatherman",
     "position": "RHP",
     "height": 74,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 31,
     "name": "Jason DeCaro",
     "position": "RHP",
     "height": 77,
-    "weight": 230
+    "weight": 230,
+    "major": null
   },
   {
     "id": 32,
     "name": "Olin Johnson",
     "position": "RHP",
     "height": 78,
-    "weight": 230
+    "weight": 230,
+    "major": null
   },
   {
     "id": 33,
     "name": "Francesco Capocci",
     "position": "RHP",
     "height": 76,
-    "weight": 221
+    "weight": 221,
+    "major": null
   },
   {
     "id": 34,
     "name": "Folger Boaz",
     "position": "LHP",
     "height": 74,
-    "weight": 212
+    "weight": 212,
+    "major": null
   },
   {
     "id": 35,
     "name": "Cale Bolton",
     "position": "RHP",
     "height": 77,
-    "weight": 240
+    "weight": 240,
+    "major": null
   },
   {
     "id": 36,
     "name": "Harrison Lewis",
     "position": "RHP",
     "height": 78,
-    "weight": 236
+    "weight": 236,
+    "major": null
   },
   {
     "id": 37,
     "name": "Walker McDuffie",
     "position": "RHP",
     "height": 72,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 38,
     "name": "Jacob Kirby",
     "position": "RHP",
     "height": 77,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 39,
     "name": "Jake Knapp",
     "position": "RHP",
     "height": 77,
-    "weight": 270
+    "weight": 270,
+    "major": null
   },
   {
     "id": 40,
     "name": "Tyler Parks",
     "position": "INF",
     "height": 69,
-    "weight": 177
+    "weight": 177,
+    "major": null
   },
   {
     "id": 41,
     "name": "Luke Stevenson",
     "position": "C",
     "height": 73,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 42,
     "name": "Hunter Stokely",
     "position": "INF",
     "height": 75,
-    "weight": 241
+    "weight": 241,
+    "major": null
   },
   {
     "id": 43,
     "name": "Will Simmons",
     "position": "RHP",
     "height": 74,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 44,
     "name": "Aidan Haugh",
     "position": "RHP",
     "height": 78,
-    "weight": 229
+    "weight": 229,
+    "major": null
   },
   {
     "id": 45,
     "name": "Dylan Weber",
     "position": "LHP",
     "height": 72,
-    "weight": 197
+    "weight": 197,
+    "major": null
   },
   {
     "id": 46,
     "name": "Mitch Wilson",
     "position": "C",
     "height": 75,
-    "weight": 212
+    "weight": 212,
+    "major": null
   },
   {
     "id": 47,
     "name": "Tim Lawson",
     "position": "LHP",
     "height": 77,
-    "weight": 230
+    "weight": 230,
+    "major": null
   },
   {
     "id": 48,
     "name": "Andrew Wallen",
     "position": "RHP",
     "height": 79,
-    "weight": 245
+    "weight": 245,
+    "major": null
   },
   {
     "id": 49,
     "name": "Mason Yokum",
     "position": "LHP",
     "height": 75,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 50,
     "name": "John Hughes",
     "position": "LHP",
     "height": 72,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 51,
     "name": "Cooper Nicholson",
     "position": "INF",
     "height": 71,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 52,
     "name": "Jake Schaffner",
     "position": "INF",
     "height": 74,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 53,
     "name": "Macon Winslow",
     "position": "C",
     "height": 72,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 54,
     "name": "Owen Hull",
     "position": "OF",
     "height": 76,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 55,
     "name": "Matt McKnight",
     "position": "INF",
     "height": 75,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 56,
     "name": "Tyler Howe",
     "position": "OF,1B",
     "height": 71,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 57,
     "name": "Michael Maginnis",
     "position": "OF",
     "height": 73,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 58,
     "name": "Talan Holiday",
     "position": "RHP",
     "height": 74,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 59,
     "name": "AJ Terry",
     "position": "INF",
     "height": 72,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 60,
     "name": "Colin Hynek",
     "position": "C",
     "height": 73,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 61,
     "name": "Caden Glauber",
     "position": "RHP",
     "height": 76,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 62,
     "name": "Jadyn Nunez",
     "position": "OF",
     "height": 73,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 63,
     "name": "Jackson Rose",
     "position": "LHP",
     "height": 75,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 64,
     "name": "Jake Cackovic",
     "position": "RHP",
     "height": 79,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 65,
     "name": "Justin Mabe",
     "position": "RHP",
     "height": 75,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 66,
     "name": "Erik Paulsen",
     "position": "INF",
     "height": 75,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 67,
     "name": "Justin Nadeau",
     "position": "INF,OF",
     "height": 72,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 68,
     "name": "Ty Evans",
     "position": "OF",
     "height": 74,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 69,
     "name": "Kyle Jones",
     "position": "OF",
     "height": 75,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 70,
     "name": "Cade Kurland",
     "position": "INF",
     "height": 71,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 71,
     "name": "Blake Cyr",
     "position": "OF,INF",
     "height": 71,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 72,
     "name": "Bobby Boser",
     "position": "INF,OF",
     "height": 73,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 73,
     "name": "Christian Rodriguez",
     "position": "RHP",
     "height": 72,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 74,
     "name": "Luke McNeillie",
     "position": "RHP",
     "height": 75,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 75,
     "name": "Colby Shelton",
     "position": "INF",
     "height": 72,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 76,
     "name": "Brendan Lawson",
     "position": "INF",
     "height": 75,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 77,
     "name": "Liam Peterson",
     "position": "RHP",
     "height": 77,
-    "weight": 220
+    "weight": 220,
+    "major": null
   },
   {
     "id": 78,
     "name": "Landon Stripling",
     "position": "INF",
     "height": 72,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 79,
     "name": "Joshua Whritenour",
     "position": "RHP",
     "height": 74,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 80,
     "name": "Hayden Yost",
     "position": "OF",
     "height": 73,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 81,
     "name": "Jacob Gomberg",
     "position": "LHP",
     "height": 70,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 82,
     "name": "Pierce Coppola",
     "position": "LHP",
     "height": 80,
-    "weight": 245
+    "weight": 245,
+    "major": null
   },
   {
     "id": 83,
     "name": "Jake Clemente",
     "position": "RHP",
     "height": 75,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 84,
     "name": "Caden McDonald",
     "position": "RHP,1B",
     "height": 75,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 85,
     "name": "Jackson Barberi",
     "position": "RHP",
     "height": 76,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 86,
     "name": "Billy Barlow",
     "position": "RHP",
     "height": 74,
-    "weight": 220
+    "weight": 220,
+    "major": null
   },
   {
     "id": 87,
     "name": "Blake Brookins",
     "position": "OF",
     "height": 77,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 88,
     "name": "Kolt Myers",
     "position": "INF",
     "height": 74,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 89,
     "name": "Niko Janssens",
     "position": "LHP",
     "height": 76,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 90,
     "name": "Blaine Rowland",
     "position": "RHP",
     "height": 75,
-    "weight": 220
+    "weight": 220,
+    "major": null
   },
   {
     "id": 91,
     "name": "Luke Heyman",
     "position": "C",
     "height": 76,
-    "weight": 220
+    "weight": 220,
+    "major": null
   },
   {
     "id": 92,
     "name": "Brody Donay",
     "position": "C",
     "height": 77,
-    "weight": 235
+    "weight": 235,
+    "major": null
   },
   {
     "id": 93,
     "name": "Ashton Wilson",
     "position": "OF,INF",
     "height": 72,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 94,
     "name": "McCall Biemiller",
     "position": "LHP",
     "height": 74,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 95,
     "name": "Alex Philpott",
     "position": "RHP",
     "height": 78,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 96,
     "name": "Brock Clayton",
     "position": "C,OF",
     "height": 75,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 97,
     "name": "Matthew Jenkins",
     "position": "RHP",
     "height": 78,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 98,
     "name": "Mason Laurito",
     "position": "LHP",
     "height": 72,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 99,
     "name": "Cole Bullen",
     "position": "C",
     "height": 69,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 100,
     "name": "Felix Ong",
     "position": "RHP",
     "height": 76,
-    "weight": 220
+    "weight": 220,
+    "major": null
   },
   {
     "id": 101,
     "name": "Schuyler Sandford",
     "position": "RHP",
     "height": 78,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 102,
     "name": "Aidan King",
     "position": "RHP",
     "height": 74,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 103,
     "name": "Carson Montsdeoca",
     "position": "RHP",
     "height": 75,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 104,
     "name": "Sawyer Reeves",
     "position": "INF",
     "height": 75,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 105,
     "name": "Aaron Downs",
     "position": "INF,OF",
     "height": 72,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 106,
     "name": "Landis Davila",
     "position": "OF",
     "height": 75,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 107,
     "name": "Pico Kohn",
     "position": "LHP",
     "height": 76,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 108,
     "name": "Dylan Cupp",
     "position": "INF",
     "height": 73,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 109,
     "name": "Evan Siary",
     "position": "RHP",
     "height": 73,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 110,
     "name": "Nate Chester",
     "position": "INF",
     "height": 74,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 111,
     "name": "Cade O'Leary",
     "position": "RHP",
     "height": 76,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 112,
     "name": "Luke Dotson",
     "position": "LHP",
     "height": 76,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 113,
     "name": "Stone Simmons",
     "position": "RHP",
     "height": 76,
-    "weight": 235
+    "weight": 235,
+    "major": null
   },
   {
     "id": 114,
     "name": "Robert Fortenberry",
     "position": "LHP",
     "height": 72,
-    "weight": 220
+    "weight": 220,
+    "major": null
   },
   {
     "id": 115,
     "name": "Ross Highfill",
     "position": "C",
     "height": 72,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 116,
     "name": "Jackson Owen",
     "position": "C",
     "height": 70,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 117,
     "name": "Bradley Loftin",
     "position": "LHP",
     "height": 75,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 118,
     "name": "Chase Hungate",
     "position": "RHP",
     "height": 73,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 119,
     "name": "Gavin Black",
     "position": "RHP",
     "height": 72,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 120,
     "name": "Ryan McPherson",
     "position": "RHP",
     "height": 75,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 121,
     "name": "Nate Williams",
     "position": "RHP",
     "height": 76,
-    "weight": 250
+    "weight": 250,
+    "major": null
   },
   {
     "id": 122,
     "name": "Jacob Pruitt",
     "position": "RHP",
     "height": 73,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 123,
     "name": "Karson Ligon",
     "position": "RHP",
     "height": 74,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 124,
     "name": "Michael O'Brien",
     "position": "OF",
     "height": 72,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 125,
     "name": "Nolan Stevens",
     "position": "INF,OF,LHP",
     "height": 76,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 126,
     "name": "Bryce Chance",
     "position": "OF",
     "height": 70,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 127,
     "name": "Steven Spalitta",
     "position": "INF,C",
     "height": 72,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 128,
     "name": "Hunter Hines",
     "position": "INF,OF",
     "height": 75,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 129,
     "name": "Kevin Mannell",
     "position": "RHP",
     "height": 76,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 130,
     "name": "Lukas Buckner",
     "position": "INF",
     "height": 69,
-    "weight": 170
+    "weight": 170,
+    "major": null
   },
   {
     "id": 131,
     "name": "Joe Powell",
     "position": "C",
     "height": 70,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 132,
     "name": "Jacob Parker",
     "position": "OF",
     "height": 75,
-    "weight": 220
+    "weight": 220,
+    "major": null
   },
   {
     "id": 133,
     "name": "Tomas Valincius",
     "position": "LHP",
     "height": 74,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 134,
     "name": "Aidan Teel",
     "position": "OF",
     "height": 72,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 135,
     "name": "James Nunnallee",
     "position": "OF",
     "height": 73,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 136,
     "name": "Ryder Woodson",
     "position": "INF",
     "height": 75,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 137,
     "name": "Drew Wyers",
     "position": "INF",
     "height": 74,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 138,
     "name": "Chone James",
     "position": "INF,UTL",
     "height": 72,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 139,
     "name": "William Kirk",
     "position": "LHP",
     "height": 74,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 140,
     "name": "Vytas Valincius",
     "position": "OF",
     "height": 76,
-    "weight": 230
+    "weight": 230,
+    "major": null
   },
   {
     "id": 141,
     "name": "Tanner Beliveau",
     "position": "RHP,UTL",
     "height": 75,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 142,
     "name": "Parker Rhodes",
     "position": "RHP",
     "height": 73,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 143,
     "name": "Andrew Raymond",
     "position": "C",
     "height": 73,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 144,
     "name": "Maddox Miller",
     "position": "LHP",
     "height": 76,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 145,
     "name": "Kevin Milewski",
     "position": "C",
     "height": 77,
-    "weight": 235
+    "weight": 235,
+    "major": null
   },
   {
     "id": 146,
     "name": "Nick Frontino",
     "position": "INF",
     "height": 75,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 147,
     "name": "Jack Bauer",
     "position": "LHP",
     "height": 76,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 148,
     "name": "Chris Billingsley Jr.",
     "position": "RHP",
     "height": 76,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 149,
     "name": "Peter Mershon",
     "position": "UTL",
     "height": 74,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 150,
     "name": "Maddox Webb",
     "position": "RHP",
     "height": 74,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 151,
     "name": "Jackson Logar",
     "position": "RHP",
     "height": 72,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 152,
     "name": "Charlie Wortham",
     "position": "UTL",
     "height": 73,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 153,
     "name": "Peyton Fowler",
     "position": "RHP",
     "height": 75,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 154,
     "name": "Blake Bevis",
     "position": "OF",
     "height": 76,
-    "weight": 230
+    "weight": 230,
+    "major": null
   },
   {
     "id": 155,
     "name": "Gehrig Frei",
     "position": "INF,OF",
     "height": 73,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 156,
     "name": "Ben Davis",
     "position": "RHP",
     "height": 76,
-    "weight": 230
+    "weight": 230,
+    "major": null
   },
   {
     "id": 157,
     "name": "Tyler Pitzer",
     "position": "RHP",
     "height": 75,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 158,
     "name": "Brendan Sweeney",
     "position": "RHP",
     "height": 79,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 159,
     "name": "Patrick Spencer Jr.",
     "position": "RHP",
     "height": 75,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 160,
     "name": "Jack Gleason",
     "position": "RHP",
     "height": 73,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 161,
     "name": "Dane Burns",
     "position": "LHP",
     "height": 77,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 162,
     "name": "JT Schnoor",
     "position": "RHP",
     "height": 76,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 163,
     "name": "Gatlin Sanders",
     "position": "INF",
     "height": 71,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 164,
     "name": "Joey DeMucci",
     "position": "C",
     "height": 74,
-    "weight": 170
+    "weight": 170,
+    "major": null
   },
   {
     "id": 165,
     "name": "Joe Jaconski",
     "position": "INF",
     "height": 72,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 166,
     "name": "Ryan Weingartner",
     "position": "INF",
     "height": 71,
-    "weight": 184
+    "weight": 184,
+    "major": null
   },
   {
     "id": 167,
     "name": "Tyler Rowling",
     "position": "INF",
     "height": 73,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 168,
     "name": "Cohl Mercado",
     "position": "OF",
     "height": 68,
-    "weight": 155
+    "weight": 155,
+    "major": null
   },
   {
     "id": 169,
     "name": "Nate Voss",
     "position": "C",
     "height": 72,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 170,
     "name": "Mike Lucarelli",
     "position": "INF",
     "height": 72,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 171,
     "name": "Connor Throneberry",
     "position": "RHP",
     "height": 78,
-    "weight": 235
+    "weight": 235,
+    "major": null
   },
   {
     "id": 172,
     "name": "Ben DeMell",
     "position": "RHP",
     "height": 77,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 173,
     "name": "Mason Butash",
     "position": "RHP",
     "height": 74,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 174,
     "name": "Skip Shenosky",
     "position": "RHP",
     "height": 77,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 175,
     "name": "Will Andrews",
     "position": "RHP",
     "height": 71,
-    "weight": 170
+    "weight": 170,
+    "major": null
   },
   {
     "id": 176,
     "name": "Cole Wagner",
     "position": "OF,1B",
     "height": 72,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 177,
     "name": "Dimond Loosli",
     "position": "RHP",
     "height": 73,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 178,
     "name": "Logan Olson",
     "position": "LHP",
     "height": 77,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 179,
     "name": "Matt Maloney",
     "position": "C",
     "height": 71,
-    "weight": 170
+    "weight": 170,
+    "major": null
   },
   {
     "id": 180,
     "name": "Derek Cease",
     "position": "INF",
     "height": 68,
-    "weight": 150
+    "weight": 150,
+    "major": null
   },
   {
     "id": 181,
     "name": "Frankie Sanchez",
     "position": "RHP",
     "height": 72,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 182,
     "name": "Brandon Wingenroth",
     "position": "RHP",
     "height": 73,
-    "weight": 170
+    "weight": 170,
+    "major": null
   },
   {
     "id": 183,
     "name": "Bryce Molinaro",
     "position": "INF",
     "height": 72,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 184,
     "name": "Jesse Jaconski",
     "position": "INF,OF",
     "height": 71,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 185,
     "name": "Chase Renner",
     "position": "RHP",
     "height": 76,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 186,
     "name": "Matt Morash",
     "position": "LHP",
     "height": 72,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 187,
     "name": "Mason Horwat",
     "position": "RHP",
     "height": 73,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 188,
     "name": "Paxton Kling",
     "position": "OF",
     "height": 74,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 189,
     "name": "Carson Renner",
     "position": "RHP",
     "height": 74,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 190,
     "name": "Anthony Steele",
     "position": "LHP",
     "height": 76,
-    "weight": 230
+    "weight": 230,
+    "major": null
   },
   {
     "id": 191,
     "name": "Ryan DeSanto",
     "position": "LHP",
     "height": 76,
-    "weight": 218
+    "weight": 218,
+    "major": null
   },
   {
     "id": 192,
     "name": "Charles Mau",
     "position": "LHP",
     "height": 75,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 193,
     "name": "Sean Williams",
     "position": "RHP",
     "height": 74,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 194,
     "name": "Alec Warden",
     "position": "INF",
     "height": 72,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 195,
     "name": "Jake Haarde",
     "position": "INF",
     "height": 73,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 196,
     "name": "Riley Weatherwax",
     "position": "RHP",
     "height": 74,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 197,
     "name": "Patrick Graham",
     "position": "INF",
     "height": 71,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 198,
     "name": "Zach Mizrahi",
     "position": "LHP",
     "height": 73,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 199,
     "name": "Brendan Gardner",
     "position": "INF",
     "height": 73,
-    "weight": 170
+    "weight": 170,
+    "major": null
   },
   {
     "id": 200,
     "name": "Jack Messina",
     "position": "1B",
     "height": 72,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 201,
     "name": "Jack Porter",
     "position": "INF,OF",
     "height": 73,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 202,
     "name": "Harrison Lollin",
     "position": "RHP",
     "height": 72,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 203,
     "name": "Matthew VanOstenbridge",
     "position": "LHP",
     "height": 70,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 204,
     "name": "Spencer Barnett",
     "position": "INF",
     "height": 74,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 205,
     "name": "Preston Yaucher",
     "position": "INF",
     "height": 71,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 206,
     "name": "Michael Anderson",
     "position": "INF",
     "height": 75,
-    "weight": 230
+    "weight": 230,
+    "major": null
   },
   {
     "id": 207,
     "name": "Kevin Karstetter",
     "position": "INF",
     "height": 75,
-    "weight": 220
+    "weight": 220,
+    "major": null
   },
   {
     "id": 208,
     "name": "Jimmy Gray",
     "position": "C",
     "height": 72,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 209,
     "name": "Ben Hudson",
     "position": "RHP",
     "height": 74,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 210,
     "name": "Avery Smith",
     "position": "C",
     "height": 74,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 211,
     "name": "Chase Roberts",
     "position": "INF",
     "height": 74,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 212,
     "name": "Ethan Bauerschmidt",
     "position": "RHP",
     "height": 75,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 213,
     "name": "Ren Devereux",
     "position": "RHP",
     "height": 74,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 214,
     "name": "Robert Brown III",
     "position": "RHP",
     "height": 73,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 215,
     "name": "Leo Boucher",
     "position": "RHP",
     "height": 72,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 216,
     "name": "Braden Leed",
     "position": "RHP",
     "height": 75,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 217,
     "name": "Peter Thompson",
     "position": "RHP",
     "height": 76,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 218,
     "name": "Colin Fitzgerald",
     "position": "RHP",
     "height": 73,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 219,
     "name": "Dylan Firmstone",
     "position": "RHP",
     "height": 75,
-    "weight": 178
+    "weight": 178,
+    "major": null
   },
   {
     "id": 220,
     "name": "Isaiah Shayter",
     "position": "RHP",
     "height": 74,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 221,
     "name": "Maddox McDonald",
     "position": "OF",
     "height": 73,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 222,
     "name": "Justin Turcovski",
     "position": "OF",
     "height": 70,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 223,
     "name": "Kyle Emmons",
     "position": "RHP",
     "height": 76,
-    "weight": 220
+    "weight": 220,
+    "major": null
   },
   {
     "id": 224,
     "name": "RJ Hamilton",
     "position": "UTL",
     "height": 70,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 225,
     "name": "Jayden Davis",
     "position": "INF",
     "height": 70,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 226,
     "name": "Mike Mancini",
     "position": "INF",
     "height": 71,
-    "weight": 173
+    "weight": 173,
+    "major": null
   },
   {
     "id": 227,
     "name": "Chris Maldonado",
     "position": "INF",
     "height": 73,
-    "weight": 196
+    "weight": 196,
+    "major": null
   },
   {
     "id": 228,
     "name": "Brodie Johnston",
     "position": "INF",
     "height": 74,
-    "weight": 203
+    "weight": 203,
+    "major": null
   },
   {
     "id": 229,
     "name": "Jacob Humphrey",
     "position": "UTL",
     "height": 70,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 230,
     "name": "Jonathan Vastine",
     "position": "INF",
     "height": 71,
-    "weight": 174
+    "weight": 174,
+    "major": null
   },
   {
     "id": 231,
     "name": "Mac Rose",
     "position": "C",
     "height": 72,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 232,
     "name": "Ryan Ginther",
     "position": "LHP",
     "height": 71,
-    "weight": 198
+    "weight": 198,
+    "major": null
   },
   {
     "id": 233,
     "name": "JD Rogers",
     "position": "OF",
     "height": 70,
-    "weight": 207
+    "weight": 207,
+    "major": null
   },
   {
     "id": 234,
     "name": "Rustan Rigdon",
     "position": "INF",
     "height": 72,
-    "weight": 177
+    "weight": 177,
+    "major": null
   },
   {
     "id": 235,
     "name": "David Mendez",
     "position": "UTL",
     "height": 71,
-    "weight": 184
+    "weight": 184,
+    "major": null
   },
   {
     "id": 236,
     "name": "Hudson Barton",
     "position": "RHP",
     "height": 75,
-    "weight": 199
+    "weight": 199,
+    "major": null
   },
   {
     "id": 237,
     "name": "JD Thompson",
     "position": "LHP",
     "height": 72,
-    "weight": 199
+    "weight": 199,
+    "major": null
   },
   {
     "id": 238,
     "name": "AJ DePaolo",
     "position": "C",
     "height": 71,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 239,
     "name": "Braden Holcomb",
     "position": "INF",
     "height": 77,
-    "weight": 240
+    "weight": 240,
+    "major": null
   },
   {
     "id": 240,
     "name": "Will Hampton",
     "position": "INF,OF",
     "height": 71,
-    "weight": 197
+    "weight": 197,
+    "major": null
   },
   {
     "id": 241,
     "name": "Ethan Robinson",
     "position": "RHP",
     "height": 77,
-    "weight": 223
+    "weight": 223,
+    "major": null
   },
   {
     "id": 242,
     "name": "Riley Nelson",
     "position": "INF",
     "height": 75,
-    "weight": 222
+    "weight": 222,
+    "major": null
   },
   {
     "id": 243,
     "name": "Luke Guth",
     "position": "RHP",
     "height": 73,
-    "weight": 182
+    "weight": 182,
+    "major": null
   },
   {
     "id": 244,
     "name": "Brennan Seiber",
     "position": "RHP",
     "height": 78,
-    "weight": 240
+    "weight": 240,
+    "major": null
   },
   {
     "id": 245,
     "name": "Levi Huesman",
     "position": "LHP",
     "height": 72,
-    "weight": 186
+    "weight": 186,
+    "major": null
   },
   {
     "id": 246,
     "name": "Jakob Schulz",
     "position": "LHP",
     "height": 74,
-    "weight": 206
+    "weight": 206,
+    "major": null
   },
   {
     "id": 247,
     "name": "Connor Fennell",
     "position": "RHP",
     "height": 73,
-    "weight": 168
+    "weight": 168,
+    "major": null
   },
   {
     "id": 248,
     "name": "Austin Nye",
     "position": "RHP",
     "height": 74,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 249,
     "name": "RJ Austin",
     "position": "UTL",
     "height": 71,
-    "weight": 199
+    "weight": 199,
+    "major": null
   },
   {
     "id": 250,
     "name": "Matthew Shorey",
     "position": "LHP",
     "height": 74,
-    "weight": 176
+    "weight": 176,
+    "major": null
   },
   {
     "id": 251,
     "name": "Colin Barczi",
     "position": "C",
     "height": 75,
-    "weight": 213
+    "weight": 213,
+    "major": null
   },
   {
     "id": 252,
     "name": "Aiden O'Connell",
     "position": "LHP",
     "height": 74,
-    "weight": 191
+    "weight": 191,
+    "major": null
   },
   {
     "id": 253,
     "name": "Roman Petricca",
     "position": "LHP",
     "height": 74,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 254,
     "name": "Tommy Goodin",
     "position": "OF",
     "height": 73,
-    "weight": 192
+    "weight": 192,
+    "major": null
   },
   {
     "id": 255,
     "name": "Aukai Kea",
     "position": "C",
     "height": 73,
-    "weight": 202
+    "weight": 202,
+    "major": null
   },
   {
     "id": 256,
     "name": "Ryker Waite",
     "position": "INF",
     "height": 70,
-    "weight": 176
+    "weight": 176,
+    "major": null
   },
   {
     "id": 257,
     "name": "Cody Bowker",
     "position": "RHP",
     "height": 73,
-    "weight": 212
+    "weight": 212,
+    "major": null
   },
   {
     "id": 258,
     "name": "Deegan Cordova",
     "position": "RHP",
     "height": 74,
-    "weight": 188
+    "weight": 188,
+    "major": null
   },
   {
     "id": 259,
     "name": "Tristan Bristow",
     "position": "RHP",
     "height": 75,
-    "weight": 189
+    "weight": 189,
+    "major": null
   },
   {
     "id": 260,
     "name": "Tommy O'Rourke",
     "position": "RHP",
     "height": 74,
-    "weight": 211
+    "weight": 211,
+    "major": null
   },
   {
     "id": 261,
     "name": "Alex Kranzler",
     "position": "RHP",
     "height": 75,
-    "weight": 222
+    "weight": 222,
+    "major": null
   },
   {
     "id": 262,
     "name": "Sawyer Hawks",
     "position": "RHP",
     "height": 76,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 263,
     "name": "Ethan McElvain",
     "position": "LHP",
     "height": 76,
-    "weight": 238
+    "weight": 238,
+    "major": null
   },
   {
     "id": 264,
     "name": "Miller Green",
     "position": "LHP",
     "height": 77,
-    "weight": 230
+    "weight": 230,
+    "major": null
   },
   {
     "id": 265,
     "name": "Nate Teague",
     "position": "RHP",
     "height": 79,
-    "weight": 232
+    "weight": 232,
+    "major": null
   },
   {
     "id": 266,
     "name": "England Bryan",
     "position": "RHP",
     "height": 73,
-    "weight": 231
+    "weight": 231,
+    "major": null
   },
   {
     "id": 267,
     "name": "Dorian Gonzalez Jr.",
     "position": "INF",
     "height": 69,
-    "weight": 192
+    "weight": 192,
+    "major": null
   },
   {
     "id": 268,
     "name": "Derek Williams",
     "position": "OF",
     "height": 72,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 269,
     "name": "Jake Ogden",
     "position": "INF",
     "height": 72,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 270,
     "name": "Brandon DeGoti",
     "position": "INF",
     "height": 71,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 271,
     "name": "Max Galvin",
     "position": "OF",
     "height": 74,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 272,
     "name": "Carson Fischer",
     "position": "RHP",
     "height": 77,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 273,
     "name": "Rob Evans",
     "position": "LHP",
     "height": 73,
-    "weight": 230
+    "weight": 230,
+    "major": null
   },
   {
     "id": 274,
     "name": "Brian  Walters",
     "position": "RHP",
     "height": 75,
-    "weight": 194
+    "weight": 194,
+    "major": null
   },
   {
     "id": 275,
     "name": "Griffin Hugus",
     "position": "RHP",
     "height": 73,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 276,
     "name": "Daniel Cuvet",
     "position": "INF",
     "height": 76,
-    "weight": 235
+    "weight": 235,
+    "major": null
   },
   {
     "id": 277,
     "name": "Bobby Marsh",
     "position": "OF",
     "height": 74,
-    "weight": 208
+    "weight": 208,
+    "major": null
   },
   {
     "id": 278,
     "name": "Todd Hudson",
     "position": "OF,INF",
     "height": 78,
-    "weight": 230
+    "weight": 230,
+    "major": null
   },
   {
     "id": 279,
     "name": "Nolan Johnson",
     "position": "C",
     "height": 78,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 280,
     "name": "Reese Lumpkin",
     "position": "RHP",
     "height": 78,
-    "weight": 207
+    "weight": 207,
+    "major": null
   },
   {
     "id": 281,
     "name": "Jake Kulikowski",
     "position": "OF",
     "height": 71,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 282,
     "name": "Tate DeRias",
     "position": "RHP",
     "height": 76,
-    "weight": 188
+    "weight": 188,
+    "major": null
   },
   {
     "id": 283,
     "name": "Tanner Smith",
     "position": "C",
     "height": 72,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 284,
     "name": "Will Smith",
     "position": "RHP",
     "height": 72,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 285,
     "name": "Michael Torres",
     "position": "OF",
     "height": 71,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 286,
     "name": "Alex Stanyek",
     "position": "RHP",
     "height": 71,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 287,
     "name": "Nick Robert",
     "position": "RHP",
     "height": 77,
-    "weight": 230
+    "weight": 230,
+    "major": null
   },
   {
     "id": 288,
     "name": "Fabio Peralta",
     "position": "OF",
     "height": 74,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 289,
     "name": "Amaury De Jesus",
     "position": "INF",
     "height": 70,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 290,
     "name": "Michael Fernandez",
     "position": "LHP",
     "height": 70,
-    "weight": 170
+    "weight": 170,
+    "major": null
   },
   {
     "id": 291,
     "name": "Evan Taveras",
     "position": "C",
     "height": 74,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 292,
     "name": "Alex Giroux",
     "position": "RHP",
     "height": 72,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 293,
     "name": "Ryan Ashford",
     "position": "LHP",
     "height": 74,
-    "weight": 212
+    "weight": 212,
+    "major": null
   },
   {
     "id": 294,
     "name": "Jake Dorn",
     "position": "LHP",
     "height": 76,
-    "weight": 235
+    "weight": 235,
+    "major": null
   },
   {
     "id": 295,
     "name": "Brixton Lofgren",
     "position": "RHP",
     "height": 72,
-    "weight": 183
+    "weight": 183,
+    "major": null
   },
   {
     "id": 296,
     "name": "Ethan Puig",
     "position": "C,INF",
     "height": 71,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 297,
     "name": "Jackson Cleveland",
     "position": "RHP",
     "height": 72,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 298,
     "name": "Renzo Gonzalez",
     "position": "INF,OF",
     "height": 70,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 299,
     "name": "Adrian Areizaga",
     "position": "INF",
     "height": 73,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 300,
     "name": "Gaby Gutierrez",
     "position": "OF",
     "height": 70,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 301,
     "name": "Lazaro Collera",
     "position": "RHP",
     "height": 77,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 302,
     "name": "Vance Sheahan",
     "position": "INF",
     "height": 72,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 303,
     "name": "Lyndon Glidewell",
     "position": "RHP",
     "height": 74,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 304,
     "name": "Alex Sosa",
     "position": "C",
     "height": 73,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 305,
     "name": "Cian Copeland",
     "position": "INF,OF",
     "height": 75,
-    "weight": 211
+    "weight": 211,
+    "major": null
   },
   {
     "id": 306,
     "name": "Frank Menendez",
     "position": "LHP",
     "height": 73,
-    "weight": 220
+    "weight": 220,
+    "major": null
   },
   {
     "id": 307,
     "name": "TJ Coats",
     "position": "RHP",
     "height": 74,
-    "weight": 213
+    "weight": 213,
+    "major": null
   },
   {
     "id": 308,
     "name": "Michael Taylor",
     "position": "RHP",
     "height": 76,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 309,
     "name": "Patrick Bradley-Cooney",
     "position": "RHP",
     "height": 74,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 310,
     "name": "Jackson Hugus",
     "position": "C",
     "height": 70,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 311,
     "name": "Brylan West",
     "position": "INF",
     "height": 75,
-    "weight": 240
+    "weight": 240,
+    "major": null
   },
   {
     "id": 312,
     "name": "Ryan Bilka",
     "position": "RHP",
     "height": 73,
-    "weight": 202
+    "weight": 202,
+    "major": null
   },
   {
     "id": 313,
     "name": "Erick Peralta",
     "position": "RHP",
     "height": 77,
-    "weight": 240
+    "weight": 240,
+    "major": null
   },
   {
     "id": 314,
     "name": "Alonzo Alvarez",
     "position": "C",
     "height": 75,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 315,
     "name": "Jake Lodgek",
     "position": "RHP",
     "height": 73,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 316,
     "name": "Eddie Zaun",
     "position": "INF",
     "height": 72,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 317,
     "name": "Jailen Watkins",
     "position": "INF",
     "height": 67,
-    "weight": 160
+    "weight": 160,
+    "major": null
   },
   {
     "id": 318,
     "name": "Mario Magana",
     "position": "OF",
     "height": 75,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 319,
     "name": "Donavan Jeffery",
     "position": "INF",
     "height": 73,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 320,
     "name": "Dylan Dubovik",
     "position": "OF,RHP",
     "height": 76,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 321,
     "name": "Bennett Gary",
     "position": "OF",
     "height": 69,
-    "weight": 160
+    "weight": 160,
+    "major": null
   },
   {
     "id": 322,
     "name": "Mason Greenhouse",
     "position": "OF",
     "height": 75,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 323,
     "name": "Jack Durso",
     "position": "LHP",
     "height": 75,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 324,
     "name": "AJ Ciscar",
     "position": "RHP",
     "height": 76,
-    "weight": 209
+    "weight": 209,
+    "major": null
   },
   {
     "id": 325,
     "name": "Lonzo Drummond",
     "position": "LHP",
     "height": 74,
-    "weight": 165
+    "weight": 165,
+    "major": null
   },
   {
     "id": 326,
     "name": "Sebastian Santos-Olson",
     "position": "LHP",
     "height": 75,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 327,
     "name": "Gabriel Milano",
     "position": "INF",
     "height": 72,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 328,
     "name": "Gavin Turley",
     "position": "OF",
     "height": 73,
-    "weight": 196
+    "weight": 196,
+    "major": null
   },
   {
     "id": 329,
     "name": "Dallas Macias",
     "position": "OF",
     "height": 72,
-    "weight": 203
+    "weight": 203,
+    "major": null
   },
   {
     "id": 330,
     "name": "Carson McEntire",
     "position": "OF",
     "height": 73,
-    "weight": 192
+    "weight": 192,
+    "major": null
   },
   {
     "id": 331,
     "name": "Chase Reynolds",
     "position": "RHP",
     "height": 73,
-    "weight": 211
+    "weight": 211,
+    "major": null
   },
   {
     "id": 332,
     "name": "Aiva Arquette",
     "position": "INF",
     "height": 77,
-    "weight": 220
+    "weight": 220,
+    "major": null
   },
   {
     "id": 333,
     "name": "Wilson Weber",
     "position": "C",
     "height": 73,
-    "weight": 222
+    "weight": 222,
+    "major": null
   },
   {
     "id": 334,
     "name": "Kellan Oakes",
     "position": "RHP",
     "height": 74,
-    "weight": 201
+    "weight": 201,
+    "major": null
   },
   {
     "id": 335,
     "name": "James DeCremer",
     "position": "RHP",
     "height": 74,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 336,
     "name": "Canon Reeder",
     "position": "OF",
     "height": 72,
-    "weight": 188
+    "weight": 188,
+    "major": null
   },
   {
     "id": 337,
     "name": "Joey Mundt",
     "position": "RHP",
     "height": 76,
-    "weight": 224
+    "weight": 224,
+    "major": null
   },
   {
     "id": 338,
     "name": "Noah Ferguson",
     "position": "RHP",
     "height": 70,
-    "weight": 188
+    "weight": 188,
+    "major": null
   },
   {
     "id": 339,
     "name": "Dawson Santana",
     "position": "INF",
     "height": 66,
-    "weight": 151
+    "weight": 151,
+    "major": null
   },
   {
     "id": 340,
     "name": "Bryce Johnson",
     "position": "RHP",
     "height": 75,
-    "weight": 212
+    "weight": 212,
+    "major": null
   },
   {
     "id": 341,
     "name": "Laif Palmer",
     "position": "RHP",
     "height": 78,
-    "weight": 207
+    "weight": 207,
+    "major": null
   },
   {
     "id": 342,
     "name": "Nelson Keljo",
     "position": "LHP",
     "height": 76,
-    "weight": 228
+    "weight": 228,
+    "major": null
   },
   {
     "id": 343,
     "name": "Trent Caraway",
     "position": "INF",
     "height": 74,
-    "weight": 203
+    "weight": 203,
+    "major": null
   },
   {
     "id": 344,
     "name": "Tyce Peterson",
     "position": "INF",
     "height": 70,
-    "weight": 197
+    "weight": 197,
+    "major": null
   },
   {
     "id": 345,
     "name": "Isaac Yeager",
     "position": "RHP",
     "height": 78,
-    "weight": 254
+    "weight": 254,
+    "major": null
   },
   {
     "id": 346,
     "name": "Cooper Vance",
     "position": "INF",
     "height": 72,
-    "weight": 196
+    "weight": 196,
+    "major": null
   },
   {
     "id": 347,
     "name": "Nyan Hayes",
     "position": "INF,OF",
     "height": 69,
-    "weight": 165
+    "weight": 165,
+    "major": null
   },
   {
     "id": 348,
     "name": "Mason Pike",
     "position": "RHP,INF",
     "height": 71,
-    "weight": 208
+    "weight": 208,
+    "major": null
   },
   {
     "id": 349,
     "name": "Adam Haight",
     "position": "RHP,OF",
     "height": 74,
-    "weight": 193
+    "weight": 193,
+    "major": null
   },
   {
     "id": 350,
     "name": "Easton Talt",
     "position": "OF",
     "height": 70,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 351,
     "name": "AJ Singer",
     "position": "INF",
     "height": 70,
-    "weight": 171
+    "weight": 171,
+    "major": null
   },
   {
     "id": 352,
     "name": "Dax Whitney",
     "position": "RHP",
     "height": 77,
-    "weight": 201
+    "weight": 201,
+    "major": null
   },
   {
     "id": 353,
     "name": "Jace Miller",
     "position": "OF",
     "height": 72,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 354,
     "name": "Bryce Hubbard",
     "position": "C",
     "height": 72,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 355,
     "name": "Tanner Douglas",
     "position": "LHP",
     "height": 74,
-    "weight": 199
+    "weight": 199,
+    "major": null
   },
   {
     "id": 356,
     "name": "Jacob Galloway",
     "position": "C",
     "height": 69,
-    "weight": 163
+    "weight": 163,
+    "major": null
   },
   {
     "id": 357,
     "name": "Tyler Inge",
     "position": "INF",
     "height": 72,
-    "weight": 176
+    "weight": 176,
+    "major": null
   },
   {
     "id": 358,
     "name": "Ryan VandenBrink",
     "position": "C,INF",
     "height": 73,
-    "weight": 231
+    "weight": 231,
+    "major": null
   },
   {
     "id": 359,
     "name": "Eric Segura",
     "position": "RHP",
     "height": 74,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 360,
     "name": "Ethan Porter",
     "position": "INF,OF",
     "height": 73,
-    "weight": 208
+    "weight": 208,
+    "major": null
   },
   {
     "id": 361,
     "name": "Wyatt Queen",
     "position": "RHP",
     "height": 74,
-    "weight": 203
+    "weight": 203,
+    "major": null
   },
   {
     "id": 362,
     "name": "Bryson Glassco",
     "position": "INF",
     "height": 74,
-    "weight": 187
+    "weight": 187,
+    "major": null
   },
   {
     "id": 363,
     "name": "Josh Proctor",
     "position": "INF",
     "height": 74,
-    "weight": 222
+    "weight": 222,
+    "major": null
   },
   {
     "id": 364,
     "name": "Jacob Krieg",
     "position": "INF",
     "height": 77,
-    "weight": 260
+    "weight": 260,
+    "major": null
   },
   {
     "id": 365,
     "name": "Ethan Kleinschmit",
     "position": "LHP",
     "height": 75,
-    "weight": 201
+    "weight": 201,
+    "major": null
   },
   {
     "id": 366,
     "name": "Eli Gries-Smith",
     "position": "OF",
     "height": 74,
-    "weight": 192
+    "weight": 192,
+    "major": null
   },
   {
     "id": 367,
     "name": "Paul Vazquez",
     "position": "INF",
     "height": 75,
-    "weight": 206
+    "weight": 206,
+    "major": null
   },
   {
     "id": 368,
     "name": "Calvin Gregory",
     "position": "LHP",
     "height": 70,
-    "weight": 183
+    "weight": 183,
+    "major": null
   },
   {
     "id": 369,
     "name": "Albert Roblez",
     "position": "RHP",
     "height": 71,
-    "weight": 221
+    "weight": 221,
+    "major": null
   },
   {
     "id": 370,
     "name": "Trey Morris",
     "position": "LHP",
     "height": 74,
-    "weight": 258
+    "weight": 258,
+    "major": null
   },
   {
     "id": 371,
     "name": "Trevor Kaiser",
     "position": "RHP",
     "height": 77,
-    "weight": 218
+    "weight": 218,
+    "major": null
   },
   {
     "id": 372,
     "name": "AJ Hutcheson",
     "position": "RHP",
     "height": 71,
-    "weight": 186
+    "weight": 186,
+    "major": null
   },
   {
     "id": 373,
     "name": "Noah Scott",
     "position": "RHP",
     "height": 76,
-    "weight": 230
+    "weight": 230,
+    "major": null
   },
   {
     "id": 374,
     "name": "Max Fraser",
     "position": "LHP",
     "height": 73,
-    "weight": 199
+    "weight": 199,
+    "major": null
   },
   {
     "id": 375,
     "name": "Zach Kmatz",
     "position": "RHP",
     "height": 75,
-    "weight": 228
+    "weight": 228,
+    "major": null
   },
   {
     "id": 376,
     "name": "Jack Giordano",
     "position": "RHP",
     "height": 73,
-    "weight": 199
+    "weight": 199,
+    "major": null
   },
   {
     "id": 377,
     "name": "Kameron Beck",
     "position": "INF",
     "height": 74,
-    "weight": 216
+    "weight": 216,
+    "major": null
   },
   {
     "id": 378,
     "name": "Martin Serrano",
     "position": "C",
     "height": 75,
-    "weight": 203
+    "weight": 203,
+    "major": null
   },
   {
     "id": 379,
     "name": "Tyler Bellerose",
     "position": "RHP",
     "height": 72,
-    "weight": 187
+    "weight": 187,
+    "major": null
   },
   {
     "id": 380,
     "name": "Zach Edwards",
     "position": "RHP",
     "height": 74,
-    "weight": 224
+    "weight": 224,
+    "major": null
   },
   {
     "id": 381,
     "name": "Connor Mendez",
     "position": "RHP",
     "height": 72,
-    "weight": 203
+    "weight": 203,
+    "major": null
   },
   {
     "id": 382,
     "name": "Dean Curley",
     "position": "INF",
     "height": 75,
-    "weight": 218
+    "weight": 218,
+    "major": null
   },
   {
     "id": 383,
     "name": "Ariel Antigua",
     "position": "INF",
     "height": 68,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 384,
     "name": "Manny Marin",
     "position": "INF",
     "height": 73,
-    "weight": 181
+    "weight": 181,
+    "major": null
   },
   {
     "id": 385,
     "name": "Cannon Peebles",
     "position": "C",
     "height": 71,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 386,
     "name": "Gavin Kilen",
     "position": "INF",
     "height": 71,
-    "weight": 187
+    "weight": 187,
+    "major": null
   },
   {
     "id": 387,
     "name": "Nate Snead",
     "position": "RHP",
     "height": 74,
-    "weight": 212
+    "weight": 212,
+    "major": null
   },
   {
     "id": 388,
     "name": "Jay Abernathy",
     "position": "OF,INF",
     "height": 70,
-    "weight": 177
+    "weight": 177,
+    "major": null
   },
   {
     "id": 389,
     "name": "Hunter Ensley",
     "position": "OF",
     "height": 73,
-    "weight": 197
+    "weight": 197,
+    "major": null
   },
   {
     "id": 390,
     "name": "Chris Newstrom",
     "position": "INF,OF",
     "height": 74,
-    "weight": 204
+    "weight": 204,
+    "major": null
   },
   {
     "id": 391,
     "name": "Andrew Fischer",
     "position": "INF",
     "height": 73,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 392,
     "name": "Liam Doyle",
     "position": "LHP",
     "height": 74,
-    "weight": 220
+    "weight": 220,
+    "major": null
   },
   {
     "id": 393,
     "name": "Reese Chapman",
     "position": "OF",
     "height": 73,
-    "weight": 224
+    "weight": 224,
+    "major": null
   },
   {
     "id": 394,
     "name": "Blake Grimmer",
     "position": "UTL",
     "height": 75,
-    "weight": 208
+    "weight": 208,
+    "major": null
   },
   {
     "id": 395,
     "name": "Hunter High",
     "position": "OF,INF",
     "height": 72,
-    "weight": 199
+    "weight": 199,
+    "major": null
   },
   {
     "id": 396,
     "name": "Dalton Bargo",
     "position": "UTL",
     "height": 73,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 397,
     "name": "Thomas Crabtree",
     "position": "RHP",
     "height": 76,
-    "weight": 202
+    "weight": 202,
+    "major": null
   },
   {
     "id": 398,
     "name": "Austin Breedlove",
     "position": "RHP",
     "height": 74,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 399,
     "name": "Andrew Behnke",
     "position": "LHP",
     "height": 70,
-    "weight": 183
+    "weight": 183,
+    "major": null
   },
   {
     "id": 400,
     "name": "Colby Backus",
     "position": "OF",
     "height": 76,
-    "weight": 230
+    "weight": 230,
+    "major": null
   },
   {
     "id": 401,
     "name": "Tegan Kuhns",
     "position": "RHP",
     "height": 75,
-    "weight": 189
+    "weight": 189,
+    "major": null
   },
   {
     "id": 402,
     "name": "Marcus Phillips",
     "position": "RHP",
     "height": 76,
-    "weight": 246
+    "weight": 246,
+    "major": null
   },
   {
     "id": 403,
     "name": "Brandon Arvidson",
     "position": "LHP",
     "height": 77,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 404,
     "name": "Stone Lawless",
     "position": "C,1B",
     "height": 74,
-    "weight": 219
+    "weight": 219,
+    "major": null
   },
   {
     "id": 405,
     "name": "Ryan Combs",
     "position": "RHP",
     "height": 75,
-    "weight": 184
+    "weight": 184,
+    "major": null
   },
   {
     "id": 406,
     "name": "Aidan Hayse",
     "position": "RHP",
     "height": 75,
-    "weight": 191
+    "weight": 191,
+    "major": null
   },
   {
     "id": 407,
     "name": "Levi Clark",
     "position": "UTL",
     "height": 73,
-    "weight": 211
+    "weight": 211,
+    "major": null
   },
   {
     "id": 408,
     "name": "Austin Hunley",
     "position": "RHP",
     "height": 75,
-    "weight": 199
+    "weight": 199,
+    "major": null
   },
   {
     "id": 409,
     "name": "Tate Strickland",
     "position": "RHP",
     "height": 75,
-    "weight": 192
+    "weight": 192,
+    "major": null
   },
   {
     "id": 410,
     "name": "AJ Russell",
     "position": "RHP",
     "height": 78,
-    "weight": 223
+    "weight": 223,
+    "major": null
   },
   {
     "id": 411,
     "name": "Brayden Krenzel",
     "position": "RHP",
     "height": 75,
-    "weight": 214
+    "weight": 214,
+    "major": null
   },
   {
     "id": 412,
     "name": "Michael Sharman",
     "position": "LHP",
     "height": 73,
-    "weight": 198
+    "weight": 198,
+    "major": null
   },
   {
     "id": 413,
     "name": "Brayden May",
     "position": "LHP",
     "height": 71,
-    "weight": 186
+    "weight": 186,
+    "major": null
   },
   {
     "id": 414,
     "name": "Dylan Loy",
     "position": "LHP",
     "height": 72,
-    "weight": 208
+    "weight": 208,
+    "major": null
   },
   {
     "id": 415,
     "name": "Brooks Wright",
     "position": "C",
     "height": 70,
-    "weight": 206
+    "weight": 206,
+    "major": null
   },
   {
     "id": 416,
     "name": "Dane Bjorn",
     "position": "LHP",
     "height": 74,
-    "weight": 197
+    "weight": 197,
+    "major": null
   },
   {
     "id": 417,
     "name": "Anson Seibert",
     "position": "RHP",
     "height": 80,
-    "weight": 235
+    "weight": 235,
+    "major": null
   },
   {
     "id": 418,
     "name": "Jaxon Walker",
     "position": "OF",
     "height": 71,
-    "weight": 192
+    "weight": 192,
+    "major": null
   },
   {
     "id": 419,
     "name": "Bryson Thacker",
     "position": "LHP",
     "height": 74,
-    "weight": 189
+    "weight": 189,
+    "major": null
   },
   {
     "id": 420,
     "name": "Luke Payne",
     "position": "LHP",
     "height": 76,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 421,
     "name": "Nic Abraham",
     "position": "RHP",
     "height": 77,
-    "weight": 209
+    "weight": 209,
+    "major": null
   },
   {
     "id": 422,
     "name": "Alberto Osuna",
     "position": "1B,DH",
     "height": 73,
-    "weight": 244
+    "weight": 244,
+    "major": null
   },
   {
     "id": 423,
     "name": "Brayden Sharp",
     "position": "OF,LHP",
     "height": 74,
-    "weight": 171
+    "weight": 171,
+    "major": null
   },
   {
     "id": 424,
     "name": "Robinson Martin",
     "position": "INF",
     "height": 68,
-    "weight": 172
+    "weight": 172,
+    "major": null
   },
   {
     "id": 425,
     "name": "Tanner Wiggins",
     "position": "RHP",
     "height": 74,
-    "weight": 189
+    "weight": 189,
+    "major": null
   },
   {
     "id": 426,
     "name": "Ben Martin",
     "position": "RHP",
     "height": 76,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 427,
     "name": "Tanner Franklin",
     "position": "RHP",
     "height": 77,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 428,
     "name": "Jack Jones",
     "position": "INF",
     "height": 75,
-    "weight": 227
+    "weight": 227,
+    "major": null
   },
   {
     "id": 429,
     "name": "Brennon Seigler",
     "position": "OF",
     "height": 73,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 430,
     "name": "Dane Morrow",
     "position": "INF",
     "height": 72,
-    "weight": 178
+    "weight": 178,
+    "major": null
   },
   {
     "id": 431,
     "name": "Beau Revord",
     "position": "RHP,OF",
     "height": 74,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 432,
     "name": "Stratton Scott",
     "position": "RHP",
     "height": 74,
-    "weight": 196
+    "weight": 196,
+    "major": null
   },
   {
     "id": 433,
     "name": "Ryler Smart",
     "position": "LHP",
     "height": 76,
-    "weight": 236
+    "weight": 236,
+    "major": null
   },
   {
     "id": 434,
     "name": "Andrew DuMont",
     "position": "RHP",
     "height": 73,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 435,
     "name": "Finley Bates",
     "position": "INF",
     "height": 70,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 436,
     "name": "Evan Blanco",
     "position": "LHP",
     "height": 72,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 437,
     "name": "Blaine Brown",
     "position": "OF,LHP",
     "height": 75,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 438,
     "name": "Henry Ford",
     "position": "OF,INF",
     "height": 77,
-    "weight": 220
+    "weight": 220,
+    "major": null
   },
   {
     "id": 439,
     "name": "Brady Frederick",
     "position": "RHP",
     "height": 71,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 440,
     "name": "Mark Hindy",
     "position": "LHP",
     "height": 76,
-    "weight": 220
+    "weight": 220,
+    "major": null
   },
   {
     "id": 441,
     "name": "Landon Mack",
     "position": "RHP",
     "height": 73,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 442,
     "name": "Tyler Myatt",
     "position": "INF,OF",
     "height": 72,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 443,
     "name": "Bo Rhudy",
     "position": "RHP",
     "height": 76,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 444,
     "name": "Garrett Wright",
     "position": "C,OF",
     "height": 71,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 445,
     "name": "Rocco Peppi",
     "position": "INF,OF",
     "height": 70,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 446,
     "name": "Nolan Souza",
     "position": "INF",
     "height": 75,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 447,
     "name": "Justin Thomas Jr.",
     "position": "OF",
     "height": 71,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 448,
     "name": "Kendall Diggs",
     "position": "OF",
     "height": 72,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 449,
     "name": "Gabe Fraser",
     "position": "INF",
     "height": 74,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 450,
     "name": "Camden Kozeal",
     "position": "INF",
     "height": 70,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 451,
     "name": "Wehiwa Aloy",
     "position": "INF",
     "height": 74,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 452,
     "name": "Brent Iredale",
     "position": "INF",
     "height": 75,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 453,
     "name": "Elliott Peterson",
     "position": "C",
     "height": 72,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 454,
     "name": "Steele Eaves",
     "position": "RHP",
     "height": 72,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 455,
     "name": "Gage Wood",
     "position": "RHP",
     "height": 72,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 456,
     "name": "Aiden Jimenez",
     "position": "RHP",
     "height": 75,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 457,
     "name": "Zane Becker",
     "position": "C",
     "height": 71,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 458,
     "name": "Reese Robinett",
     "position": "INF",
     "height": 75,
-    "weight": 220
+    "weight": 220,
+    "major": null
   },
   {
     "id": 459,
     "name": "Carson Willis",
     "position": "C",
     "height": 71,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 460,
     "name": "Gabe Gaeckle",
     "position": "RHP",
     "height": 72,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 461,
     "name": "Brenton Clark",
     "position": "OF",
     "height": 71,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 462,
     "name": "Logan Maxwell",
     "position": "OF",
     "height": 70,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 463,
     "name": "Charles Davalan",
     "position": "OF",
     "height": 69,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 464,
     "name": "Kuhio Aloy",
     "position": "INF,OF",
     "height": 73,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 465,
     "name": "Tate McGuire",
     "position": "RHP",
     "height": 75,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 466,
     "name": "Ryder Helfrick",
     "position": "C",
     "height": 73,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 467,
     "name": "Carson Boles",
     "position": "OF",
     "height": 71,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 468,
     "name": "Cole Gibler",
     "position": "LHP",
     "height": 74,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 469,
     "name": "Dylan Carter",
     "position": "RHP",
     "height": 74,
-    "weight": 220
+    "weight": 220,
+    "major": null
   },
   {
     "id": 470,
     "name": "Hunter Dietz",
     "position": "LHP",
     "height": 78,
-    "weight": 235
+    "weight": 235,
+    "major": null
   },
   {
     "id": 471,
     "name": "Zach Root",
     "position": "LHP",
     "height": 74,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 472,
     "name": "Landon Beidelschies",
     "position": "LHP",
     "height": 75,
-    "weight": 230
+    "weight": 230,
+    "major": null
   },
   {
     "id": 473,
     "name": "Parker Coil",
     "position": "LHP",
     "height": 75,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 474,
     "name": "Luke Williams",
     "position": "LHP",
     "height": 71,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 475,
     "name": "Colin Fisher",
     "position": "LHP",
     "height": 75,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 476,
     "name": "Ben Bybee",
     "position": "RHP",
     "height": 78,
-    "weight": 230
+    "weight": 230,
+    "major": null
   },
   {
     "id": 477,
     "name": "Will McEntire",
     "position": "RHP",
     "height": 76,
-    "weight": 235
+    "weight": 235,
+    "major": null
   },
   {
     "id": 479,
     "name": "Carson Wiggins",
     "position": "RHP",
     "height": 77,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 480,
     "name": "Lance Davis",
     "position": "RHP",
     "height": 76,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 481,
     "name": "Christian Foutch",
     "position": "RHP",
     "height": 75,
-    "weight": 240
+    "weight": 240,
+    "major": null
   },
   {
     "id": 482,
     "name": "Cooper Dossett",
     "position": "RHP",
     "height": 72,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 483,
     "name": "Jackson Farrell",
     "position": "LHP",
     "height": 73,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 484,
     "name": "Tag Andrews",
     "position": "RHP",
     "height": 72,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 485,
     "name": "Tyler Holland",
     "position": "INF,RHP",
     "height": 73,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 486,
     "name": "Ross Felder",
     "position": "RHP",
     "height": 74,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 487,
     "name": "Jeremy Cawley",
     "position": "INF,OF",
     "height": 69,
-    "weight": 165
+    "weight": 165,
+    "major": "Finance"
   },
   {
     "id": 488,
     "name": "Josh Wilson",
     "position": "INF",
     "height": 70,
-    "weight": 160
+    "weight": 160,
+    "major": "Business Management"
   },
   {
     "id": 489,
     "name": "Drew Balestrini",
     "position": "OF",
     "height": 70,
-    "weight": 170
+    "weight": 170,
+    "major": "Business Management"
   },
   {
     "id": 490,
     "name": "Brandon Wozniak",
     "position": "P",
     "height": 73,
-    "weight": 170
+    "weight": 170,
+    "major": "Criminal Justice"
   },
   {
     "id": 491,
     "name": "Casey O'Brien",
     "position": "INF",
     "height": 69,
-    "weight": 180
+    "weight": 180,
+    "major": "Business Administration"
   },
   {
     "id": 492,
     "name": "Christian Mascuilli",
     "position": "OF",
     "height": 70,
-    "weight": 175
+    "weight": 175,
+    "major": "Pre-Law"
   },
   {
     "id": 493,
     "name": "Anthony Trommer",
     "position": "OF",
     "height": 70,
-    "weight": 190
+    "weight": 190,
+    "major": "Finance"
   },
   {
     "id": 494,
     "name": "Brady Ebbert",
     "position": "INF",
     "height": 73,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 495,
     "name": "James Scott",
     "position": "P",
     "height": 71,
-    "weight": 190
+    "weight": 190,
+    "major": "Finance"
   },
   {
     "id": 496,
     "name": "Nathan Kress",
     "position": "INF",
     "height": 75,
-    "weight": 230
+    "weight": 230,
+    "major": "Finance"
   },
   {
     "id": 497,
     "name": "Joe Levis",
     "position": "C",
     "height": 69,
-    "weight": 170
+    "weight": 170,
+    "major": "Applied Mathematics"
   },
   {
     "id": 498,
     "name": "Judah Miller",
     "position": "INF",
     "height": 72,
-    "weight": 195
+    "weight": 195,
+    "major": "Exercise Science"
   },
   {
     "id": 499,
     "name": "Christian LaBarbera",
     "position": "INF",
     "height": 72,
-    "weight": 185
+    "weight": 185,
+    "major": "Biology"
   },
   {
     "id": 500,
     "name": "Jack Carver",
     "position": "P",
     "height": 71,
-    "weight": 200
+    "weight": 200,
+    "major": "Supply Chain Management"
   },
   {
     "id": 501,
     "name": "Nico Ingalls",
     "position": "OF",
     "height": 73,
-    "weight": 195
+    "weight": 195,
+    "major": "Digital Forensics"
   },
   {
     "id": 502,
     "name": "Dansby Keenan",
     "position": "INF",
     "height": 74,
-    "weight": 210
+    "weight": 210,
+    "major": "Accounting"
   },
   {
     "id": 503,
     "name": "Greg Cristino",
     "position": "INF",
     "height": 74,
-    "weight": 200
+    "weight": 200,
+    "major": "Business Finance"
   },
   {
     "id": 504,
     "name": "Corey Daniels",
     "position": "OF",
     "height": 74,
-    "weight": 185
+    "weight": 185,
+    "major": "MBA"
   },
   {
     "id": 505,
     "name": "Emmett McLaughlin",
     "position": "P",
     "height": 72,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 506,
     "name": "Eli Riley",
     "position": "OF",
     "height": 76,
-    "weight": 205
+    "weight": 205,
+    "major": "Supply Chain Management"
   },
   {
     "id": 507,
     "name": "Travis Peden",
     "position": "P",
     "height": 75,
-    "weight": 210
+    "weight": 210,
+    "major": "Supply Chain Management"
   },
   {
     "id": 508,
     "name": "Riley Powers",
     "position": "P",
     "height": 72,
-    "weight": 190
+    "weight": 190,
+    "major": "Criminal Justice"
   },
   {
     "id": 509,
     "name": "Ryan Flury",
     "position": "C",
     "height": 73,
-    "weight": 195
+    "weight": 195,
+    "major": "Business Management"
   },
   {
     "id": 510,
     "name": "Kaden Peifer",
     "position": "P",
     "height": 72,
-    "weight": 235
+    "weight": 235,
+    "major": "Supply Chain Management"
   },
   {
     "id": 511,
     "name": "Nolan Walker",
     "position": "P",
     "height": 76,
-    "weight": 190
+    "weight": 190,
+    "major": "Finance"
   },
   {
     "id": 512,
     "name": "Andrew Armstrong",
     "position": "P",
     "height": 75,
-    "weight": 224
+    "weight": 224,
+    "major": "Secondary Education"
   },
   {
     "id": 513,
     "name": "Landon Lorson",
     "position": "P",
     "height": 72,
-    "weight": 200
+    "weight": 200,
+    "major": "Professional Sales & Marketing"
   },
   {
     "id": 514,
     "name": "Jacob Reifer",
     "position": "OF",
     "height": 70,
-    "weight": 185
+    "weight": 185,
+    "major": "Special Education / Early Childhood Education"
   },
   {
     "id": 515,
     "name": "Pete Modrovsky",
     "position": "P",
     "height": 74,
-    "weight": 195
+    "weight": 195,
+    "major": "Secondary Education"
   },
   {
     "id": 516,
     "name": "Brian Walsh",
     "position": "P",
     "height": 71,
-    "weight": 190
+    "weight": 190,
+    "major": "Business Management"
   },
   {
     "id": 517,
     "name": "Jeremy Stine",
     "position": "OF",
     "height": 70,
-    "weight": 175
+    "weight": 175,
+    "major": "Business Management"
   },
   {
     "id": 518,
     "name": "Matthew Marsten",
     "position": "P",
     "height": 69,
-    "weight": 185
+    "weight": 185,
+    "major": "Mathematics"
   },
   {
     "id": 519,
     "name": "Ben Jones",
     "position": "C",
     "height": 74,
-    "weight": 200
+    "weight": 200,
+    "major": "Secondary Education"
   },
   {
     "id": 520,
     "name": "Daniel Koppisch",
     "position": "P",
     "height": 75,
-    "weight": 225
+    "weight": 225,
+    "major": "Business Management"
   },
   {
     "id": 521,
     "name": "Scott Gilbert",
     "position": "P",
     "height": 73,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 522,
     "name": "Zach Steen",
     "position": "P",
     "height": 74,
-    "weight": 190
+    "weight": 190,
+    "major": "Biology"
   },
   {
     "id": 523,
     "name": "Mike Miller",
     "position": "C,INF",
     "height": 72,
-    "weight": 235
+    "weight": 235,
+    "major": "Business"
   },
   {
     "id": 524,
     "name": "Christian Zito",
     "position": "P",
     "height": 72,
-    "weight": 190
+    "weight": 190,
+    "major": "Business Marketing"
   },
   {
     "id": 525,
     "name": "Brock Hammaker",
     "position": "P",
     "height": 72,
-    "weight": 180
+    "weight": 180,
+    "major": "Electronics Engineering Technology"
   },
   {
     "id": 526,
     "name": "Xander Velez",
     "position": "P",
     "height": 72,
-    "weight": 170
+    "weight": 170,
+    "major": "Marketing"
   },
   {
     "id": 527,
     "name": "Josh Marquard",
     "position": "P",
     "height": 71,
-    "weight": 180
+    "weight": 180,
+    "major": "Business Education"
   },
   {
     "id": 528,
     "name": "Ben Petrone",
     "position": "INF",
     "height": 72,
-    "weight": 185
+    "weight": 185,
+    "major": "Economics"
   },
   {
     "id": 529,
     "name": "Ethan Swidler",
     "position": "C",
     "height": 73,
-    "weight": 200
+    "weight": 200,
+    "major": "Economics"
   },
   {
     "id": 530,
     "name": "Kaleb Willis",
     "position": "OF",
     "height": 68,
-    "weight": 183
+    "weight": 183,
+    "major": "Math and Economics"
   },
   {
     "id": 531,
     "name": "Boden Fernsler",
     "position": "INF",
     "height": 74,
-    "weight": 195
+    "weight": 195,
+    "major": "The Liberal Arts"
   },
   {
     "id": 532,
     "name": "Matt Colella",
     "position": "INF",
     "height": 70,
-    "weight": 175
+    "weight": 175,
+    "major": "Economics"
   },
   {
     "id": 533,
     "name": "Luke Caucci",
     "position": "UTL",
     "height": 69,
-    "weight": 175
+    "weight": 175,
+    "major": "Psychology"
   },
   {
     "id": 534,
     "name": "Easton Brenner",
     "position": "OF",
     "height": 70,
-    "weight": 185
+    "weight": 185,
+    "major": "Economics and Policy Studies"
   },
   {
     "id": 535,
     "name": "Teddy Cashman",
     "position": "OF",
     "height": 71,
-    "weight": 170
+    "weight": 170,
+    "major": "Psychology"
   },
   {
     "id": 536,
     "name": "Alex Barrist",
     "position": "INF",
     "height": 68,
-    "weight": 150
+    "weight": 150,
+    "major": "Economics"
   },
   {
     "id": 537,
     "name": "Owen Basso",
     "position": "RHP",
     "height": 72,
-    "weight": 180
+    "weight": 180,
+    "major": "Economics"
   },
   {
     "id": 538,
     "name": "Jack Dawson",
     "position": "RHP",
     "height": 74,
-    "weight": 195
+    "weight": 195,
+    "major": "Economics"
   },
   {
     "id": 539,
     "name": "Bode Grieve",
     "position": "OF",
     "height": 75,
-    "weight": 210
+    "weight": 210,
+    "major": "Economics"
   },
   {
     "id": 540,
     "name": "Trace Florio",
     "position": "LHP",
     "height": 72,
-    "weight": 190
+    "weight": 190,
+    "major": "Economics"
   },
   {
     "id": 541,
     "name": "Charlie Chropuvka",
     "position": "OF",
     "height": 69,
-    "weight": 180
+    "weight": 180,
+    "major": "Economics and Government & Law"
   },
   {
     "id": 542,
     "name": "Jeremiah Holder",
     "position": "RHP",
     "height": 71,
-    "weight": 175
+    "weight": 175,
+    "major": "Government and Law"
   },
   {
     "id": 543,
     "name": "Michael Zarrillo",
     "position": "INF",
     "height": 73,
-    "weight": 220
+    "weight": 220,
+    "major": "Economics"
   },
   {
     "id": 544,
     "name": "Mike  Romano",
     "position": "RHP",
     "height": 70,
-    "weight": 185
+    "weight": 185,
+    "major": "Economics"
   },
   {
     "id": 545,
     "name": "Liam Ebbs",
     "position": "1B",
     "height": 74,
-    "weight": 205
+    "weight": 205,
+    "major": "Economics"
   },
   {
     "id": 546,
     "name": "Ben Waterman",
     "position": "RHP",
     "height": 74,
-    "weight": 190
+    "weight": 190,
+    "major": "Economics"
   },
   {
     "id": 547,
     "name": "Ryan Ulisse",
     "position": "UTL",
     "height": 72,
-    "weight": 210
+    "weight": 210,
+    "major": "Economics"
   },
   {
     "id": 548,
     "name": "Jack Mislan",
     "position": "OF",
     "height": 72,
-    "weight": 225
+    "weight": 225,
+    "major": "Anthropology"
   },
   {
     "id": 549,
     "name": "Brandon Doubek",
     "position": "C",
     "height": 72,
-    "weight": 205
+    "weight": 205,
+    "major": "Integrative Engineering"
   },
   {
     "id": 550,
     "name": "Nolan Feyereisen",
     "position": "INF",
     "height": 74,
-    "weight": 185
+    "weight": 185,
+    "major": "Economics"
   },
   {
     "id": 551,
     "name": "Tristan Helmick",
     "position": "RHP",
     "height": 78,
-    "weight": 190
+    "weight": 190,
+    "major": "Economics"
   },
   {
     "id": 552,
     "name": "Corey Savedoff",
     "position": "RHP",
     "height": 73,
-    "weight": 205
+    "weight": 205,
+    "major": "Economics"
   },
   {
     "id": 553,
     "name": "Alex Payne",
     "position": "RHP",
     "height": 73,
-    "weight": 200
+    "weight": 200,
+    "major": "Government & Law"
   },
   {
     "id": 554,
     "name": "Trevor Dutra",
     "position": "1B",
     "height": 73,
-    "weight": 210
+    "weight": 210,
+    "major": "Government and Law"
   },
   {
     "id": 555,
     "name": "Patrick Walega",
     "position": "RHP",
     "height": 73,
-    "weight": 190
+    "weight": 190,
+    "major": "Economics and Policy Studies"
   },
   {
     "id": 556,
     "name": "James Reese",
     "position": "RHP",
     "height": 72,
-    "weight": 200
+    "weight": 200,
+    "major": "Economics and Policy Studies"
   },
   {
     "id": 557,
     "name": "Joe Skapinetz",
     "position": "RHP",
     "height": 77,
-    "weight": 235
+    "weight": 235,
+    "major": "Computer Science"
   },
   {
     "id": 558,
     "name": "Kellen Moore",
     "position": "RHP",
     "height": 77,
-    "weight": 210
+    "weight": 210,
+    "major": "Math and Economics"
   },
   {
     "id": 559,
     "name": "Jack McMullen",
     "position": "RHP",
     "height": 75,
-    "weight": 225
+    "weight": 225,
+    "major": "Economics"
   },
   {
     "id": 560,
     "name": "Antonio Correa",
     "position": "LHP",
     "height": 73,
-    "weight": 195
+    "weight": 195,
+    "major": "Economics and Policy Studies"
   },
   {
     "id": 561,
     "name": "Rob Dorn",
     "position": "RHP",
     "height": 74,
-    "weight": 220
+    "weight": 220,
+    "major": "Economics"
   },
   {
     "id": 562,
     "name": "Jonathan Decker",
     "position": "C",
     "height": 75,
-    "weight": 215
+    "weight": 215,
+    "major": "Economics"
   },
   {
     "id": 563,
     "name": "Dalton Brown",
     "position": "LHP",
     "height": 80,
-    "weight": 220
+    "weight": 220,
+    "major": "Economics"
   },
   {
     "id": 564,
     "name": "Aidan Crochier",
     "position": "OF",
     "height": 76,
-    "weight": 215
+    "weight": 215,
+    "major": "Economics"
   },
   {
     "id": 565,
     "name": "Ryan Grace",
     "position": "INF",
     "height": 73,
-    "weight": 200
+    "weight": 200,
+    "major": "Government and Law"
   },
   {
     "id": 566,
     "name": "John Milewski",
     "position": "RHP",
     "height": 78,
-    "weight": 230
+    "weight": 230,
+    "major": "Government & Law and French"
   },
   {
     "id": 567,
     "name": "Henry Rouch",
     "position": "RHP",
     "height": 77,
-    "weight": 190
+    "weight": 190,
+    "major": "Computer Science"
   },
   {
     "id": 568,
     "name": "Trey Zaffiro",
     "position": "RHP",
     "height": 75,
-    "weight": 195
+    "weight": 195,
+    "major": "Economics"
   },
   {
     "id": 569,
     "name": "Cole  Moore",
     "position": "RHP",
     "height": 72,
-    "weight": 175
+    "weight": 175,
+    "major": "Economics"
   },
   {
     "id": 570,
     "name": "Chase Rodgers",
     "position": "RHP",
     "height": 73,
-    "weight": 190
+    "weight": 190,
+    "major": "Economics"
   },
   {
     "id": 571,
     "name": "Ali Hood",
     "position": "RHP",
     "height": 74,
-    "weight": 175
+    "weight": 175,
+    "major": "The Liberal Arts"
   },
   {
     "id": 572,
     "name": "Tyler Kidwell",
     "position": "RHP",
     "height": 73,
-    "weight": 200
+    "weight": 200,
+    "major": "Economics"
   },
   {
     "id": 573,
     "name": "Cole Stefano",
     "position": "OF",
     "height": 74,
-    "weight": 175
+    "weight": 175,
+    "major": "Business Administration"
   },
   {
     "id": 574,
     "name": "Ethan Brand",
     "position": "INF",
     "height": 70,
-    "weight": 170
+    "weight": 170,
+    "major": null
   },
   {
     "id": 575,
     "name": "Jordan Peyton",
     "position": "INF",
     "height": 69,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 576,
     "name": "AJ Kolb",
     "position": "INF",
     "height": 70,
-    "weight": 165
+    "weight": 165,
+    "major": "Sport Management"
   },
   {
     "id": 577,
     "name": "Brett Seils",
     "position": "RHP",
     "height": 72,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 578,
     "name": "Taye Robinson",
     "position": "INF",
     "height": 74,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 579,
     "name": "Casey Bishop",
     "position": "INF",
     "height": 72,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 580,
     "name": "Michael Mallas",
     "position": "C",
     "height": 71,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 581,
     "name": "Nick Karls",
     "position": "RHP",
     "height": 74,
-    "weight": 175
+    "weight": 175,
+    "major": "Information Technology"
   },
   {
     "id": 582,
     "name": "Josh Janove",
     "position": "1B",
     "height": 70,
-    "weight": 195
+    "weight": 195,
+    "major": "Sports Management"
   },
   {
     "id": 583,
     "name": "Ryder Jeske",
     "position": "RHP",
     "height": 71,
-    "weight": 170
+    "weight": 170,
+    "major": "Sport Management"
   },
   {
     "id": 584,
     "name": "Joey Zito",
     "position": "LHP",
     "height": 75,
-    "weight": 215
+    "weight": 215,
+    "major": "Physical Education"
   },
   {
     "id": 585,
     "name": "Brady Nathison",
     "position": "OF",
     "height": 72,
-    "weight": 205
+    "weight": 205,
+    "major": "Computational Physics"
   },
   {
     "id": 586,
     "name": "Jacob Whiteman",
     "position": "RHP",
     "height": 75,
-    "weight": 190
+    "weight": 190,
+    "major": "Accounting"
   },
   {
     "id": 587,
     "name": "Brian Heckelman",
     "position": "C",
     "height": 72,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 588,
     "name": "Matt Lynch",
     "position": "LHP",
     "height": 73,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 589,
     "name": "Brett Ahalt",
     "position": "OF",
     "height": 73,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 590,
     "name": "Andrew Luczak",
     "position": "RHP",
     "height": 75,
-    "weight": 220
+    "weight": 220,
+    "major": "Sport Management"
   },
   {
     "id": 591,
     "name": "Jace Cunnane",
     "position": "RHP",
     "height": 74,
-    "weight": 185
+    "weight": 185,
+    "major": "Criminal Justice"
   },
   {
     "id": 592,
     "name": "Jake Michel",
     "position": "RHP",
     "height": 77,
-    "weight": 218
+    "weight": 218,
+    "major": "Sport Management"
   },
   {
     "id": 593,
     "name": "Nate Nabholz",
     "position": "RHP",
     "height": 77,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 594,
     "name": "MJ Phillips",
     "position": "1B,LHP",
     "height": 74,
-    "weight": 215
+    "weight": 215,
+    "major": "Exercise Science"
   },
   {
     "id": 595,
     "name": "Joey Current",
     "position": "C",
     "height": 70,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 596,
     "name": "Max D'Alessandro",
     "position": "OF",
     "height": 74,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 597,
     "name": "Dutch DeProspero",
     "position": "RHP",
     "height": 74,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 598,
     "name": "Nich Francuzenko",
     "position": "1B,C",
     "height": 71,
-    "weight": 205
+    "weight": 205,
+    "major": "Economics"
   },
   {
     "id": 599,
     "name": "Vincent Salvo",
     "position": "LHP",
     "height": 70,
-    "weight": 200
+    "weight": 200,
+    "major": "Business Administration"
   },
   {
     "id": 600,
     "name": "Cal Royer",
     "position": "OF,1B",
     "height": 76,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 601,
     "name": "Max Simpson",
     "position": "RHP",
     "height": 77,
-    "weight": 225
+    "weight": 225,
+    "major": "Sports Management"
   },
   {
     "id": 602,
     "name": "Leo Simpson",
     "position": "RHP",
     "height": 71,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 603,
     "name": "Ben Nugent",
     "position": "OF,LHP",
     "height": 69,
-    "weight": 175
+    "weight": 175,
+    "major": "Environmental Science"
   },
   {
     "id": 604,
     "name": "Alex Cromwell",
     "position": "RHP",
     "height": 74,
-    "weight": 190
+    "weight": 190,
+    "major": "Exercise Science"
   },
   {
     "id": 606,
     "name": "Zach Ford",
     "position": "RHP",
     "height": 74,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 607,
     "name": "Matt Leikus",
     "position": "RHP",
     "height": 74,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 608,
     "name": "Henry Ortiz",
     "position": "RHP",
     "height": 72,
-    "weight": 185
+    "weight": 185,
+    "major": "Exercise Science"
   },
   {
     "id": 609,
     "name": "Jonathan Rosario",
     "position": "LHP",
     "height": 73,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 610,
     "name": "Brayden Evans",
     "position": "INF",
     "height": 70,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 611,
     "name": "Mitchell Grannan",
     "position": "P",
     "height": 73,
-    "weight": 165
+    "weight": 165,
+    "major": "Marketing"
   },
   {
     "id": 612,
     "name": "Jacob Johnston",
     "position": "INF",
     "height": 71,
-    "weight": 150
+    "weight": 150,
+    "major": "Exercise Science"
   },
   {
     "id": 613,
     "name": "Colin Dunworth",
     "position": "OF",
     "height": 71,
-    "weight": 185
+    "weight": 185,
+    "major": "Psychology-Counseling"
   },
   {
     "id": 614,
     "name": "Luke Winter",
     "position": "C,1B",
     "height": 70,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 615,
     "name": "Matt Hall",
     "position": "INF",
     "height": 68,
-    "weight": 165
+    "weight": 165,
+    "major": "Management"
   },
   {
     "id": 616,
     "name": "Zach Devries",
     "position": "OF",
     "height": 71,
-    "weight": 175
+    "weight": 175,
+    "major": "Management"
   },
   {
     "id": 617,
     "name": "Drew Henry",
     "position": "UTL",
     "height": 73,
-    "weight": 160
+    "weight": 160,
+    "major": null
   },
   {
     "id": 618,
     "name": "Reece Jordan",
     "position": "INF",
     "height": 72,
-    "weight": 160
+    "weight": 160,
+    "major": "Biology"
   },
   {
     "id": 619,
     "name": "Michael Vertino",
     "position": "C",
     "height": 70,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 620,
     "name": "AJ Finco",
     "position": "C",
     "height": 70,
-    "weight": 180
+    "weight": 180,
+    "major": "Management"
   },
   {
     "id": 621,
     "name": "Hunter Thaxton",
     "position": "INF",
     "height": 68,
-    "weight": 185
+    "weight": 185,
+    "major": "Exercise Science"
   },
   {
     "id": 622,
     "name": "Pete Pappas",
     "position": "P",
     "height": 72,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 623,
     "name": "Jay Pichardo",
     "position": "OF",
     "height": 69,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 624,
     "name": "Logan Krause",
     "position": "INF",
     "height": 70,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 625,
     "name": "Nick Curry",
     "position": "OF",
     "height": 72,
-    "weight": 175
+    "weight": 175,
+    "major": "Engineering"
   },
   {
     "id": 626,
     "name": "Lantz Shirk",
     "position": "P",
     "height": 73,
-    "weight": 200
+    "weight": 200,
+    "major": "Business Analytics"
   },
   {
     "id": 627,
     "name": "Cody Meier",
     "position": "OF",
     "height": 72,
-    "weight": 195
+    "weight": 195,
+    "major": "Management"
   },
   {
     "id": 628,
     "name": "Gavin Mohrman",
     "position": "P",
     "height": 74,
-    "weight": 200
+    "weight": 200,
+    "major": "Finance/Accounting"
   },
   {
     "id": 629,
     "name": "Griffin Culver",
     "position": "INF",
     "height": 72,
-    "weight": 230
+    "weight": 230,
+    "major": "Management"
   },
   {
     "id": 630,
     "name": "Logan Denton",
     "position": "P",
     "height": 72,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 631,
     "name": "Frank Derner",
     "position": "INF",
     "height": 72,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 632,
     "name": "Micah Bailey",
     "position": "P",
     "height": 75,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 633,
     "name": "Kaden Wimsatt",
     "position": "P",
     "height": 68,
-    "weight": 160
+    "weight": 160,
+    "major": null
   },
   {
     "id": 634,
     "name": "Carson Satin",
     "position": "P",
     "height": 72,
-    "weight": 165
+    "weight": 165,
+    "major": null
   },
   {
     "id": 635,
     "name": "Regan Cochran",
     "position": "OF",
     "height": 67,
-    "weight": 145
+    "weight": 145,
+    "major": null
   },
   {
     "id": 636,
     "name": "Ben Jacobs",
     "position": "P",
     "height": 69,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 637,
     "name": "Ashton Whiteaker",
     "position": "C",
     "height": 72,
-    "weight": 200
+    "weight": 200,
+    "major": "Management"
   },
   {
     "id": 638,
     "name": "Det Dettwiller",
     "position": "1B",
     "height": 74,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 639,
     "name": "Luke Wright",
     "position": "INF",
     "height": 68,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 640,
     "name": "Caleb Jinks",
     "position": "P",
     "height": 72,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 641,
     "name": "Theo DeCicco",
     "position": "P",
     "height": 73,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 642,
     "name": "Daniel Monta\u00f1a",
     "position": "INF",
     "height": 73,
-    "weight": 230
+    "weight": 230,
+    "major": "Psychology"
   },
   {
     "id": 643,
     "name": "Xavier Resto",
     "position": "P",
     "height": 71,
-    "weight": 195
+    "weight": 195,
+    "major": "Management"
   },
   {
     "id": 644,
     "name": "Johnny Ruggiero Jr.",
     "position": "P",
     "height": 75,
-    "weight": 230
+    "weight": 230,
+    "major": null
   },
   {
     "id": 645,
     "name": "Kyle Timko",
     "position": "P",
     "height": 70,
-    "weight": 135
+    "weight": 135,
+    "major": "Management"
   },
   {
     "id": 646,
     "name": "Nic Mirabella",
     "position": "P",
     "height": 72,
-    "weight": 210
+    "weight": 210,
+    "major": "Management"
   },
   {
     "id": 647,
     "name": "Austin Suttle",
     "position": "P",
     "height": 73,
-    "weight": 200
+    "weight": 200,
+    "major": "Exercise Science"
   },
   {
     "id": 648,
     "name": "Clark Langley",
     "position": "UTL",
     "height": 71,
-    "weight": 225
+    "weight": 225,
+    "major": "Psychology & Criminal Justice"
   },
   {
     "id": 649,
     "name": "Caden Kresak",
     "position": "OF",
     "height": 67,
-    "weight": 140
+    "weight": 140,
+    "major": null
   },
   {
     "id": 650,
     "name": "Taylor Shultz",
     "position": "INF",
     "height": 68,
-    "weight": 160
+    "weight": 160,
+    "major": null
   },
   {
     "id": 651,
     "name": "Carson Page",
     "position": "INF",
     "height": 66,
-    "weight": 165
+    "weight": 165,
+    "major": null
   },
   {
     "id": 652,
     "name": "Payton Palladino",
     "position": "INF",
     "height": 70,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 653,
     "name": "Tripp Davis",
     "position": "1B,C",
     "height": 72,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 654,
     "name": "Will Taylor",
     "position": "OF",
     "height": 68,
-    "weight": 160
+    "weight": 160,
+    "major": null
   },
   {
     "id": 655,
     "name": "Mason Gray",
     "position": "INF,OF",
     "height": 70,
-    "weight": 160
+    "weight": 160,
+    "major": null
   },
   {
     "id": 656,
     "name": "JJ Taylor",
     "position": "INF",
     "height": 71,
-    "weight": 165
+    "weight": 165,
+    "major": null
   },
   {
     "id": 657,
     "name": "Kevin RisCassi",
     "position": "C,OF",
     "height": 70,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 658,
     "name": "Blake Pesante",
     "position": "P",
     "height": 69,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 659,
     "name": "Bryce Fitzgerald",
     "position": "OF",
     "height": 75,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 660,
     "name": "Bryceton Berry",
     "position": "OF,P",
     "height": 73,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 661,
     "name": "Drew Rosenberg",
     "position": "P",
     "height": 76,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 662,
     "name": "AJ Hunerberg",
     "position": "OF",
     "height": 73,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 663,
     "name": "Tyler McClanahan",
     "position": "OF",
     "height": 76,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 664,
     "name": "Broc Bronson",
     "position": "P",
     "height": 71,
-    "weight": 150
+    "weight": 150,
+    "major": null
   },
   {
     "id": 665,
     "name": "Daniel Fischer",
     "position": "P",
     "height": 71,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 666,
     "name": "Keegan Leckband",
     "position": "P",
     "height": 75,
-    "weight": 172
+    "weight": 172,
+    "major": null
   },
   {
     "id": 667,
     "name": "Clay Callan",
     "position": "P",
     "height": 73,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 668,
     "name": "Jaden Ross",
     "position": "OF",
     "height": 73,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 669,
     "name": "Ethan Bobo",
     "position": "P",
     "height": 73,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 670,
     "name": "George Gilson",
     "position": "1B,C",
     "height": 75,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 671,
     "name": "Cooper Smith",
     "position": "P",
     "height": 74,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 672,
     "name": "Parker Adams",
     "position": "P",
     "height": 77,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 673,
     "name": "Steven Reiss",
     "position": "P",
     "height": 68,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 674,
     "name": "Jake Hill",
     "position": "P",
     "height": 76,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 675,
     "name": "Ben Stubbs",
     "position": "P",
     "height": 71,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 676,
     "name": "Luke Daddona",
     "position": "OF",
     "height": 71,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 677,
     "name": "Isaiah Wellman",
     "position": "P",
     "height": 74,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 678,
     "name": "Justin Haskins",
     "position": "P,1B",
     "height": 73,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 679,
     "name": "Eli Maddox",
     "position": "C",
     "height": 75,
-    "weight": 220
+    "weight": 220,
+    "major": null
   },
   {
     "id": 680,
     "name": "Jacob Reeves",
     "position": "INF",
     "height": 72,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 681,
     "name": "Eli Roberts",
     "position": "P",
     "height": 75,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 682,
     "name": "Jesse Sullivan",
     "position": "C",
     "height": 71,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 683,
     "name": "Tyris Benniefield",
     "position": "OF",
     "height": 73,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 684,
     "name": "Kody Daneault",
     "position": "OF,P",
     "height": 69,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 685,
     "name": "RJ Ensel",
     "position": "P",
     "height": 71,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 686,
     "name": "Will Fairris",
     "position": "P",
     "height": 79,
-    "weight": 230
+    "weight": 230,
+    "major": null
   },
   {
     "id": 687,
     "name": "Cole Huddleston",
     "position": "INF",
     "height": 69,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 688,
     "name": "Ty Martineau",
     "position": "INF",
     "height": 69,
-    "weight": 155
+    "weight": 155,
+    "major": null
   },
   {
     "id": 689,
     "name": "Carson McFarlin",
     "position": "C,1B",
     "height": 72,
-    "weight": 220
+    "weight": 220,
+    "major": null
   },
   {
     "id": 690,
     "name": "Cael Reish",
     "position": "OF,P",
     "height": 73,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 691,
     "name": "Michael Lareau",
     "position": "OF",
     "height": 75,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 692,
     "name": "Gardner Lawrence",
     "position": "C",
     "height": 72,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 693,
     "name": "Zach Hernandez",
     "position": "RHP",
     "height": 74,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 694,
     "name": "Nolan Sergeant",
     "position": "OF",
     "height": 70,
-    "weight": 170
+    "weight": 170,
+    "major": null
   },
   {
     "id": 695,
     "name": "Kaden Galason",
     "position": "INF",
     "height": 72,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 696,
     "name": "Ty Allen",
     "position": "OF",
     "height": 70,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 697,
     "name": "Charlie Davis",
     "position": "INF",
     "height": 70,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 698,
     "name": "Cade Batchelor",
     "position": "INF",
     "height": 73,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 699,
     "name": "Blake Barton",
     "position": "OF,C",
     "height": 72,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 700,
     "name": "Andrew Perry",
     "position": "LHP",
     "height": 72,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 701,
     "name": "Ethan Harden",
     "position": "LHP",
     "height": 72,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 702,
     "name": "Pete  Daniel",
     "position": "INF",
     "height": 75,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 703,
     "name": "Jake Maddox",
     "position": "UTL",
     "height": 77,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 704,
     "name": "Jack Morrissey",
     "position": "LHP",
     "height": 72,
-    "weight": 150
+    "weight": 150,
+    "major": null
   },
   {
     "id": 705,
     "name": "Preston Heben",
     "position": "C,INF",
     "height": 72,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 706,
     "name": "Zane Brown",
     "position": "RHP",
     "height": 76,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 707,
     "name": "Wyatt Fooks",
     "position": "OF",
     "height": 72,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 708,
     "name": "Noah Rice",
     "position": "OF",
     "height": 71,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 709,
     "name": "Jordan Zuger",
     "position": "RHP",
     "height": 75,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 710,
     "name": "Hank Liss",
     "position": "RHP",
     "height": 72,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 711,
     "name": "Joe Ruzicka",
     "position": "RHP",
     "height": 75,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 712,
     "name": "Nick Chiappetta",
     "position": "INF",
     "height": 73,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 713,
     "name": "Will Pryor",
     "position": "RHP",
     "height": 74,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 714,
     "name": "Owen Marsh",
     "position": "RHP",
     "height": 76,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 715,
     "name": "Krish Gandhi",
     "position": "LHP",
     "height": 72,
-    "weight": 170
+    "weight": 170,
+    "major": null
   },
   {
     "id": 716,
     "name": "Landon  Godsey",
     "position": "C,INF",
     "height": 72,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 717,
     "name": "Jake Timbes",
     "position": "RHP",
     "height": 74,
-    "weight": 165
+    "weight": 165,
+    "major": null
   },
   {
     "id": 718,
     "name": "Jonathon Van Ness",
     "position": "RHP",
     "height": 75,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 719,
     "name": "Trey Maeker",
     "position": "LHP",
     "height": 74,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 720,
     "name": "Mike Sprockett",
     "position": "C",
     "height": 70,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 721,
     "name": "Tucker Smith",
     "position": "INF",
     "height": 71,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 722,
     "name": "Lake Morris",
     "position": "LHP",
     "height": 71,
-    "weight": 160
+    "weight": 160,
+    "major": null
   },
   {
     "id": 723,
     "name": "Logan Brock",
     "position": "RHP",
     "height": 73,
-    "weight": 165
+    "weight": 165,
+    "major": null
   },
   {
     "id": 724,
     "name": "Caleb Guisewite",
     "position": "RHP",
     "height": 74,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 725,
     "name": "Cade Granzow",
     "position": "RHP",
     "height": 75,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 726,
     "name": "Dean Spoto",
     "position": "INF",
     "height": 69,
-    "weight": 160
+    "weight": 160,
+    "major": null
   },
   {
     "id": 727,
     "name": "Levi Taylor",
     "position": null,
     "height": null,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 728,
     "name": "Maddox Tsutsui",
     "position": "MIF",
     "height": 69,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 729,
     "name": "Jacob Wright",
     "position": "OF",
     "height": 67,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 730,
     "name": "Ethan Smith",
     "position": "INF",
     "height": 70,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 731,
     "name": "Parker Cato",
     "position": "OF",
     "height": 70,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 732,
     "name": "Eric Hiett",
     "position": "C,INF",
     "height": 72,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 733,
     "name": "Logan Webster",
     "position": "OF",
     "height": 75,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 734,
     "name": "Brandon Garcia",
     "position": "SS,2B",
     "height": 69,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 735,
     "name": "Timothy Cotton",
     "position": "OF",
     "height": 72,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 736,
     "name": "Joe Munitz",
     "position": "MIF",
     "height": 67,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 737,
     "name": "Joe Gordon",
     "position": "1B,3B",
     "height": 72,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 738,
     "name": "Thomas Mooring",
     "position": "LHP",
     "height": 74,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 739,
     "name": "Tyler Kaltreider",
     "position": "RHP",
     "height": 75,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 740,
     "name": "Mason McDowell",
     "position": "MIF,RHP",
     "height": 70,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 741,
     "name": "Carson Peggins",
     "position": "RHP,INF",
     "height": 77,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 742,
     "name": "Gavin Collins",
     "position": "INF",
     "height": 69,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 743,
     "name": "Quinn Madden",
     "position": "OF",
     "height": 71,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 744,
     "name": "Bryce Demory",
     "position": "OF,LHP",
     "height": 76,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 745,
     "name": "Sean Pokorak",
     "position": "C",
     "height": 73,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 746,
     "name": "Kellen Clark",
     "position": "3B",
     "height": 72,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 747,
     "name": "Will Barone",
     "position": "OF",
     "height": 74,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 748,
     "name": "Benton Jones",
     "position": "2B,SS",
     "height": 70,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 749,
     "name": "Tyler Howlett",
     "position": "1B,C",
     "height": 73,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 750,
     "name": "Landon Griffin",
     "position": "INF",
     "height": 74,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 751,
     "name": "Logan Tapman",
     "position": "RHP",
     "height": 76,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 752,
     "name": "Michael Rowlands",
     "position": "RHP,3B",
     "height": 70,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 753,
     "name": "Ryder Warren",
     "position": "OF",
     "height": 68,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 754,
     "name": "Jackson Wise",
     "position": "INF",
     "height": 72,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 755,
     "name": "Colin McGuire",
     "position": "MIF,RHP",
     "height": 72,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 756,
     "name": "Jacob Orloski",
     "position": "RHP",
     "height": 71,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 757,
     "name": "Jacob Henry",
     "position": "1B",
     "height": 77,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 758,
     "name": "Austin Riney",
     "position": "LHP,OF",
     "height": 70,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 759,
     "name": "Spencer Baird",
     "position": "RHP",
     "height": 73,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 760,
     "name": "Nick Mattfield",
     "position": "RHP",
     "height": 72,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 761,
     "name": "Cameron Main",
     "position": "LHP",
     "height": 73,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 762,
     "name": "Brock Duff",
     "position": "RHP",
     "height": 74,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 763,
     "name": "Trevor Loving",
     "position": "1B,3B",
     "height": 70,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 764,
     "name": "Trever Barnes",
     "position": "LHP",
     "height": 72,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 765,
     "name": "Joey Duffer",
     "position": "C",
     "height": 71,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 766,
     "name": "Matt Cassidy",
     "position": "C,RHP",
     "height": 75,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 767,
     "name": "Ryan Allard",
     "position": "RHP",
     "height": 74,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 768,
     "name": "Tyce Fischl",
     "position": "RHP",
     "height": 73,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 769,
     "name": "Domenic Rowlands",
     "position": "RHP",
     "height": 74,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 770,
     "name": "Alexander Crudder",
     "position": "LHP",
     "height": 74,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 771,
     "name": "Conner Moore",
     "position": "C,RHP",
     "height": 71,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 772,
     "name": "Frankie Engel",
     "position": "P",
     "height": 75,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 773,
     "name": "Trent Judd",
     "position": "RHP",
     "height": 76,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 774,
     "name": "Lucas Marrero",
     "position": "LHP",
     "height": 71,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 775,
     "name": "Davis Watson",
     "position": "RHP",
     "height": 73,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 776,
     "name": "Matthew Sabale",
     "position": "LHP",
     "height": 68,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 777,
     "name": "Ryan Curl",
     "position": "RHP",
     "height": 72,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 779,
     "name": "Aidan Steinbugl",
     "position": "INF",
     "height": 70,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 780,
     "name": "Nathan Helms",
     "position": "C",
     "height": 69,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 781,
     "name": "Erik Rhodes",
     "position": "OF,LHP",
     "height": 73,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 782,
     "name": "Brody Roberts",
     "position": "RHP,INF,OF",
     "height": 71,
-    "weight": 160
+    "weight": 160,
+    "major": null
   },
   {
     "id": 783,
     "name": "Seth Shuey",
     "position": "RHP",
     "height": 71,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 784,
     "name": "Antonio Caporossi",
     "position": "RHP",
     "height": 72,
-    "weight": 170
+    "weight": 170,
+    "major": null
   },
   {
     "id": 785,
     "name": "Jared Dowey",
     "position": "RHP,OF",
     "height": 71,
-    "weight": 160
+    "weight": 160,
+    "major": null
   },
   {
     "id": 786,
     "name": "Alex Ebeling",
     "position": "OF",
     "height": 70,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 787,
     "name": "Noah Donis",
     "position": "OF",
     "height": 68,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 788,
     "name": "Zach Myers",
     "position": "RHP",
     "height": 71,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 789,
     "name": "Cam Donaldson",
     "position": "INF",
     "height": 69,
-    "weight": 160
+    "weight": 160,
+    "major": null
   },
   {
     "id": 790,
     "name": "Stephen Rodgers",
     "position": "INF",
     "height": 68,
-    "weight": 170
+    "weight": 170,
+    "major": null
   },
   {
     "id": 791,
     "name": "Roman Donis",
     "position": "RHP",
     "height": 70,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 792,
     "name": "Aiden Coleman",
     "position": "LHP",
     "height": 71,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 793,
     "name": "Logan Ferguson",
     "position": "C",
     "height": 67,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 794,
     "name": "Devon Boyles",
     "position": "INF,RHP",
     "height": 77,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 795,
     "name": "Tyler Danko",
     "position": "OF,LHP",
     "height": 73,
-    "weight": 170
+    "weight": 170,
+    "major": null
   },
   {
     "id": 796,
     "name": "Seth Coleman",
     "position": "RHP",
     "height": 74,
-    "weight": 165
+    "weight": 165,
+    "major": null
   },
   {
     "id": 797,
     "name": "Jimmy Kunst",
     "position": "P",
     "height": 74,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 798,
     "name": "Cole Sansom",
     "position": "LHP",
     "height": 74,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 799,
     "name": "Karson Reffner",
     "position": "C,INF",
     "height": 72,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 800,
     "name": "Garret Holzapfel",
     "position": "LHP",
     "height": 74,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 801,
     "name": "Joey Maun",
     "position": "OF",
     "height": 71,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 802,
     "name": "Alex Neidig",
     "position": "INF",
     "height": 70,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 803,
     "name": "Luke Lea",
     "position": "RHP",
     "height": 71,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 804,
     "name": "Zac LeGars",
     "position": "OF",
     "height": 72,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 805,
     "name": "Calvin Iseminger",
     "position": "OF",
     "height": 70,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 806,
     "name": "Brian Pirone",
     "position": "RHP",
     "height": 77,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 807,
     "name": "Zach Slis",
     "position": "RHP",
     "height": 71,
-    "weight": 230
+    "weight": 230,
+    "major": null
   },
   {
     "id": 808,
     "name": "Jacob Cramer",
     "position": "OF",
     "height": 70,
-    "weight": null
+    "weight": null,
+    "major": null
   },
   {
     "id": 809,
     "name": "Kaden Faychak",
     "position": "INF",
     "height": 72,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 810,
     "name": "Zyler Freedman",
     "position": "RHP",
     "height": 72,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 811,
     "name": "Ben Tomb",
     "position": "LHP",
     "height": 76,
-    "weight": 235
+    "weight": 235,
+    "major": null
   },
   {
     "id": 812,
     "name": "Crusen Stover",
     "position": "INF",
     "height": 69,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 813,
     "name": "Talan Kammermeier",
     "position": "OF",
     "height": 74,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 814,
     "name": "McClain Flinn",
     "position": "RHP",
     "height": 73,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 815,
     "name": "Jackson Smetak",
     "position": "1B",
     "height": 74,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 816,
     "name": "Sebastian Ramos Rivera",
     "position": "C",
     "height": 69,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 817,
     "name": "Thomas Carroll",
     "position": "LHP",
     "height": 70,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 818,
     "name": "Kaden Christ",
     "position": "RHP",
     "height": 72,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 819,
     "name": "Baron Dionis",
     "position": "RHP",
     "height": 72,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 820,
     "name": "Parker Donsen",
     "position": "LHP",
     "height": 72,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 821,
     "name": "Ethan Kaminsky",
     "position": "RHP",
     "height": 73,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 822,
     "name": "Lucas Muffie",
     "position": "RHP,OF",
     "height": 73,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 823,
     "name": "Vinnie Natale",
     "position": "INF",
     "height": 67,
-    "weight": 170
+    "weight": 170,
+    "major": null
   },
   {
     "id": 824,
     "name": "Trenton Popovich",
     "position": "1B",
     "height": 76,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 825,
     "name": "Chris Nesensohn",
     "position": "OF",
     "height": 66,
-    "weight": 160
+    "weight": 160,
+    "major": null
   },
   {
     "id": 826,
     "name": "Dawson Shelley",
     "position": "OF",
     "height": 70,
-    "weight": 155
+    "weight": 155,
+    "major": null
   },
   {
     "id": 827,
     "name": "Gehrig Fleming",
     "position": "C",
     "height": 72,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 828,
     "name": "Jackson Ford",
     "position": "OF",
     "height": 71,
-    "weight": 170
+    "weight": 170,
+    "major": null
   },
   {
     "id": 829,
     "name": "Luke Moser",
     "position": "SS",
     "height": 72,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 830,
     "name": "Gabe Trevena",
     "position": "2B",
     "height": 69,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 831,
     "name": "Alex Neeld",
     "position": "1B,C",
     "height": 72,
-    "weight": 220
+    "weight": 220,
+    "major": null
   },
   {
     "id": 832,
     "name": "Chase Goodson",
     "position": "3B",
     "height": 73,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 833,
     "name": "Brett Michael",
     "position": "OF",
     "height": 76,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 834,
     "name": "Matthew Wade",
     "position": "C",
     "height": 75,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 835,
     "name": "Ryan Niedzialkowski",
     "position": "1B",
     "height": 74,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 836,
     "name": "Jason Cassidy",
     "position": "3B,P",
     "height": 72,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 837,
     "name": "Mac Keating",
     "position": "OF",
     "height": 69,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 838,
     "name": "Joe Urban",
     "position": "3B",
     "height": 74,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 839,
     "name": "Aaron  Hershberger",
     "position": "2B",
     "height": 70,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 840,
     "name": "Michael Tinneny",
     "position": "SS",
     "height": 72,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 841,
     "name": "Kenny Bamrick",
     "position": "C",
     "height": 70,
-    "weight": 170
+    "weight": 170,
+    "major": null
   },
   {
     "id": 842,
     "name": "Chris Betler",
     "position": "OF",
     "height": 74,
-    "weight": 220
+    "weight": 220,
+    "major": null
   },
   {
     "id": 843,
     "name": "Eli Angstadt",
     "position": "C",
     "height": 72,
-    "weight": 230
+    "weight": 230,
+    "major": null
   },
   {
     "id": 844,
     "name": "Jacob Deimling",
     "position": "OF",
     "height": 70,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 845,
     "name": "Ayden Hughes",
     "position": "LHP",
     "height": 70,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 846,
     "name": "Lucas Prendergast",
     "position": "2B",
     "height": 68,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 847,
     "name": "Richard Kline",
     "position": "C",
     "height": 72,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 848,
     "name": "Jackson Kelley",
     "position": "RHP",
     "height": 80,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 849,
     "name": "Cohen Schadler",
     "position": "2B,SS",
     "height": 65,
-    "weight": 145
+    "weight": 145,
+    "major": null
   },
   {
     "id": 850,
     "name": "Ethan Kennedy",
     "position": "RHP",
     "height": 71,
-    "weight": 160
+    "weight": 160,
+    "major": null
   },
   {
     "id": 851,
     "name": "Owen Brockner",
     "position": "LHP",
     "height": 75,
-    "weight": 170
+    "weight": 170,
+    "major": null
   },
   {
     "id": 852,
     "name": "Jesse Bitzer",
     "position": "RHP",
     "height": 75,
-    "weight": 220
+    "weight": 220,
+    "major": null
   },
   {
     "id": 853,
     "name": "Brian McDermott",
     "position": "LHP",
     "height": 72,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 854,
     "name": "Bryce Shaffer",
     "position": "RHP,1B",
     "height": 75,
-    "weight": 230
+    "weight": 230,
+    "major": null
   },
   {
     "id": 855,
     "name": "Brandon Purdy",
     "position": "RHP",
     "height": 74,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 856,
     "name": "Evan Hughes",
     "position": "RHP",
     "height": 70,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 857,
     "name": "Lane Berkey",
     "position": "LHP",
     "height": 73,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 858,
     "name": "Yandel Tolentino",
     "position": "RHP",
     "height": 70,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 859,
     "name": "Eric Chaney",
     "position": "RHP",
     "height": 72,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 860,
     "name": "Konner Reeser",
     "position": "RHP,OF",
     "height": 72,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 861,
     "name": "Jake Ludwig",
     "position": "RHP",
     "height": 77,
-    "weight": 235
+    "weight": 235,
+    "major": null
   },
   {
     "id": 862,
     "name": "Dillon Michaloski",
     "position": "RHP",
     "height": 75,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 863,
     "name": "Jayden Kerr",
     "position": "RHP",
     "height": 69,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 864,
     "name": "Josh Edwards",
     "position": "RHP",
     "height": 71,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 865,
     "name": "Zach Courtney",
     "position": "2B",
     "height": 70,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 866,
     "name": "Jason Deroba",
     "position": "RHP",
     "height": 67,
-    "weight": 160
+    "weight": 160,
+    "major": null
   },
   {
     "id": 867,
     "name": "Dylan Norman",
     "position": "OF",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 868,
     "name": "Jeffery Chen",
     "position": "RHP,INF",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 869,
     "name": "Grayson Black",
     "position": "RHP,INF",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 870,
     "name": "Brady Groves",
     "position": "OF",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 871,
     "name": "Alex Gaetano",
     "position": "INF",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 872,
     "name": "Jacob Epps",
     "position": "C",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 873,
     "name": "Anton Shelton",
     "position": "C",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 874,
     "name": "Jack Braddell",
     "position": "OF,INF",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 875,
     "name": "Micah Rodriguez",
     "position": "RHP,OF",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 876,
     "name": "Joshua Patterson",
     "position": "OF",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 877,
     "name": "AJ Senaga",
     "position": "INF",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 878,
     "name": "Owen Potter",
     "position": "LHP",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 879,
     "name": "Jacob Drimmer",
     "position": "INF",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 880,
     "name": "Nik Mezzanotte",
     "position": "C",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 881,
     "name": "Zach Masnikoff",
     "position": "OF",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 882,
     "name": "Zachary Ritts",
     "position": "RHP",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 883,
     "name": "Ryan Robinson",
     "position": "INF",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 884,
     "name": "Lachlan Nichol",
     "position": "RHP",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 885,
     "name": "Davis Hayes",
     "position": "RHP",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 886,
     "name": "JT Schoessel",
     "position": "OF",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 887,
     "name": "Daniel Devapalan",
     "position": "INF",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 888,
     "name": "Calvin Burkholder",
     "position": "RHP",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 889,
     "name": "Samuel Labrecque",
     "position": "RHP,INF",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 890,
     "name": "Caden Rosenbaugh",
     "position": "C",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 891,
     "name": "Max Wassarman",
     "position": "RHP",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 892,
     "name": "Daniel Krabill",
     "position": "C",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 893,
     "name": "Ami Epstein",
     "position": "RHP",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 894,
     "name": "Warner Gearhart",
     "position": "LHP",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 895,
     "name": "Kaes Carter",
     "position": "RHP",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 896,
     "name": "Noah Parker",
     "position": "RHP",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 897,
     "name": "Max Bernstein",
     "position": "INF",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 898,
     "name": "Kyle Baxt",
     "position": "INF",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 899,
     "name": "Matthew Ruttkay",
     "position": "RHP,INF",
     "weight": null,
-    "height": null
+    "height": null,
+    "major": null
   },
   {
     "id": 900,
     "name": "Casey Caufield",
     "position": "INF",
     "height": 72,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 901,
     "name": "Chris  Walsh",
     "position": "OF",
     "height": 74,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 902,
     "name": "Wyatt Hunt",
     "position": "INF",
     "height": 71,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 903,
     "name": "Austin Beard",
     "position": "RHP",
     "height": 75,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 904,
     "name": "Aidan Watson",
     "position": "OF",
     "height": 73,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 905,
     "name": "Tony Dichiara",
     "position": "C",
     "height": 74,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 906,
     "name": "Chris Andrews",
     "position": "OF",
     "height": 71,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 907,
     "name": "Jake Howlett",
     "position": "C",
     "height": 73,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 908,
     "name": "Aidan Bretschneider",
     "position": "OF",
     "height": 75,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 909,
     "name": "Brendan Buecker",
     "position": "C",
     "height": 70,
-    "weight": 176
+    "weight": 176,
+    "major": null
   },
   {
     "id": 910,
     "name": "Jay Bant",
     "position": "INF",
     "height": 71,
-    "weight": 220
+    "weight": 220,
+    "major": null
   },
   {
     "id": 911,
     "name": "Harry Padden",
     "position": "OF",
     "height": 68,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 912,
     "name": "Stefan Swee",
     "position": "RHP",
     "height": 74,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 913,
     "name": "Kevin Opanel",
     "position": "RHP",
     "height": 75,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 914,
     "name": "Colin Ruddy",
     "position": "RHP",
     "height": 76,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 915,
     "name": "Alec Couture",
     "position": "RHP",
     "height": 76,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 916,
     "name": "Derek Benzinger",
     "position": "RHP",
     "height": 73,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 917,
     "name": "Kenny Noe",
     "position": "INF",
     "height": 70,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 918,
     "name": "Nick Lovarco",
     "position": "OF",
     "height": 71,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 919,
     "name": "Trey Porter",
     "position": "OF",
     "height": 72,
-    "weight": 172
+    "weight": 172,
+    "major": null
   },
   {
     "id": 920,
     "name": "Andrew Schmid",
     "position": "INF",
     "height": 72,
-    "weight": 170
+    "weight": 170,
+    "major": null
   },
   {
     "id": 921,
     "name": "Brendan Kenneally",
     "position": "RHP",
     "height": 71,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 922,
     "name": "JD Greeley",
     "position": "RHP",
     "height": 73,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 923,
     "name": "Aiden Kwon",
     "position": "OF",
     "height": 72,
-    "weight": 165
+    "weight": 165,
+    "major": null
   },
   {
     "id": 924,
     "name": "Shane Dux",
     "position": "C",
     "height": 71,
-    "weight": 175
+    "weight": 175,
+    "major": null
   },
   {
     "id": 925,
     "name": "Jacob Ciccone",
     "position": "LHP",
     "height": 71,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 926,
     "name": "Simmi Whitehill",
     "position": "INF",
     "height": 70,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 927,
     "name": "Tommy Kent",
     "position": "LHP",
     "height": 74,
-    "weight": 210
+    "weight": 210,
+    "major": null
   },
   {
     "id": 928,
     "name": "Robert Kelly",
     "position": "INF",
     "height": 74,
-    "weight": 186
+    "weight": 186,
+    "major": null
   },
   {
     "id": 929,
     "name": "Dan Maglio",
     "position": "C",
     "height": 72,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 930,
     "name": "Joey Ciancimino",
     "position": "RHP",
     "height": 70,
-    "weight": 180
+    "weight": 180,
+    "major": null
   },
   {
     "id": 931,
     "name": "Jake Danyluk",
     "position": "LHP",
     "height": 77,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 932,
     "name": "Caden Carlin",
     "position": "LHP",
     "height": 74,
-    "weight": 195
+    "weight": 195,
+    "major": null
   },
   {
     "id": 933,
     "name": "Graedon Finarelli",
     "position": "INF",
     "height": 75,
-    "weight": 215
+    "weight": 215,
+    "major": null
   },
   {
     "id": 934,
     "name": "Ryan Mealy",
     "position": "RHP",
     "height": 72,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 935,
     "name": "Nick Tamburro",
     "position": "RHP",
     "height": 74,
-    "weight": 205
+    "weight": 205,
+    "major": null
   },
   {
     "id": 936,
     "name": "Colin Scherer",
     "position": "RHP",
     "height": 75,
-    "weight": 200
+    "weight": 200,
+    "major": null
   },
   {
     "id": 937,
     "name": "Jimmy Wigo",
     "position": "LHP",
     "height": 79,
-    "weight": 225
+    "weight": 225,
+    "major": null
   },
   {
     "id": 938,
     "name": "Jake Nolan",
     "position": "RHP",
     "height": 74,
-    "weight": 185
+    "weight": 185,
+    "major": null
   },
   {
     "id": 939,
     "name": "Nick Hios",
     "position": "LHP",
     "height": 75,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 940,
     "name": "Cody Sherrer",
     "position": "RHP",
     "height": 73,
-    "weight": 190
+    "weight": 190,
+    "major": null
   },
   {
     "id": 941,
     "name": "David Horvath",
     "position": "RHP",
     "height": 75,
-    "weight": 210
+    "weight": 210,
+    "major": null
   }
 ]

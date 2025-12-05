@@ -30,41 +30,41 @@ TABLE_SCHOOL_TO_ROSTER_URLS = {
     #"University of Miami": ["https://miamihurricanes.com/sports/baseball/roster/season/"],
     #"Oregon State University": ["https://osubeavers.com/sports/baseball/roster/"],
     #"University of Tennessee": ["https://utsports.com/sports/baseball/roster/"],
-    "University of Arkansas": ["https://arkansasrazorbacks.com/sport/m-basebl/roster/?season=","https://arkansasrazorbacks.com/sport/m-basebl/roster/?season="],
-    #"Bloomsburg University": ["https://bloomsburgathletics.com/sports/baseball/roster/"]
+    #"University of Arkansas": ["https://arkansasrazorbacks.com/sport/m-basebl/roster/?season=","https://arkansasrazorbacks.com/sport/m-basebl/roster/?season="],
+    "Bloomsburg University": ["https://bloomsburgathletics.com/sports/baseball/roster/"]
 }
 
 NON_DEFAULT_TABLE_SCHOOL_TO_ROSTER_URLS = {
     "Lafeyette University": ["https://goleopards.com/sports/baseball/roster/"],
     "Towson University": ["https://towsontigers.com/sports/baseball/roster/"],
     "Maryville College": ["https://mcscots.com/sports/baseball/roster/"],
-    "Flagler College": ["https://flaglerathletics.com/sports/baseball/roster/"],
-    "Belmont University": ["https://belmontbruins.com/sports/baseball/roster/"],
-    "Lynchburg University": ["https://lynchburgsports.com/sports/baseball/roster/"],
-    "University of Pittsburgh at Johnstown": ["https://pittjohnstownathletics.com/sports/baseball/roster/"],
-    "York College of Pennsylvania": ["https://ycpspartans.com/sports/baseball/roster/"],
-    "Oberlin College": ["https://goyeo.com/sports/baseball/roster/"],
-    "Monmouth University": ["https://monmouthhawks.com/sports/baseball/roster/"]
+    #"Flagler College": ["https://flaglerathletics.com/sports/baseball/roster/"],
+    #"Belmont University": ["https://belmontbruins.com/sports/baseball/roster/"],
+    #"Lynchburg University": ["https://lynchburgsports.com/sports/baseball/roster/"],
+    #"University of Pittsburgh at Johnstown": ["https://pittjohnstownathletics.com/sports/baseball/roster/"],
+    #"York College of Pennsylvania": ["https://ycpspartans.com/sports/baseball/roster/"],
+    #"Oberlin College": ["https://goyeo.com/sports/baseball/roster/"],
+    #"Monmouth University": ["https://monmouthhawks.com/sports/baseball/roster/"]
 }
 
 SCHOOL_ATTR_TO_COL = {
-    "Pennsylvania State University": {"name": 1, "position": 3, "height": 5, "weight": 6, "attended": [8,9]},
-    "Vanderbilt University": {"name": 1, "position": 2, "height": 4, "weight": 5, "attended": [8]},
-    "University of Miami": {"name": 1, "position": 2, "height": 3, "weight": 4, "attended": [8,7]},
-    "Oregon State University": {"name": 2, "position": 3, "height": 5, "weight": 6, "attended": [8], "parse_hs": True, "pic_offset":True},
-    "University of Tennessee": {"name": 1, "position": 3, "height": 5, "weight": 6, "attended": [7,8], "parse_hs": True, "pic_offset":True},
-    "University of Arkansas": {"name": 1, "position": 2, "height": 4, "weight": 5, "attended": [8]},
-    "Bloomsburg University": {"name": 1, "position": 2, "height": 3, "weight": 4, "attended": [8,7], "parse_hs": True, "pic_offset": True},
-    "Lafeyette University": {"name": 1, "position": 2, "height": 4, "weight": 5, "attended": [7], "parse_hs": True, "pic_offset": True},
-    "Towson University": {"name": 1, "position": 2, "height": 3, "weight": 4, "attended": [8,7], "parse_hs": True, "pic_offset": True},
-    "Maryville College": {"name": 1, "position": 3, "height": 5, "weight": 6, "attended": [8,7], "parse_hs": True, "pic_offset":True},
-    "Flagler College": {"name": 2, "position": 3, "height": 5, "weight": 6, "attended": [8], "parse_hs": True, "pic_offset":True},
-    "Belmont University": {"name": 1, "position": 2, "height": 5, "weight": 6, "attended": [8,9], "pic_offset": True},
-    "Lynchburg University": {"name": 1, "position": 2, "height": 3, "attended": [5], "parse_hs": True, "pic_offset": True},
-    "University of Pittsburgh at Johnstown": {"name": 1, "position": 2, "height": 3, "weight": 4, "attended": [7], "parse_hs": True, "pic_offset": True},
-    "York College of Pennsylvania": {"name": 1, "position": 2, "height": 4, "weight": 5, "attended": [7], "parse_hs": True, "pic_offset": True},
-    "Oberlin College": {"name": 2, "position": 4, "attended": [5], "parse_hs": True, "pic_offset": True},
-    "Monmouth University 2025": {"name": 1, "position": 2, "height": 5, "weight": 6, "attended": [7,8], "parse_hs": True, "pic_offset": True},
+    #"Pennsylvania State University": {"name": 1, "position": 3, "height": 5, "weight": 6, "attended": [8,9]},
+    #"Vanderbilt University": {"name": 1, "position": 2, "height": 4, "weight": 5, "attended": [8]},
+    #"University of Miami": {"name": 1, "position": 2, "height": 3, "weight": 4, "attended": [8,7]},
+    #"Oregon State University": {"name": 2, "position": 3, "height": 5, "weight": 6, "attended": [8], "parse_hs": True, "pic_offset":True},
+    #"University of Tennessee": {"name": 1, "position": 3, "height": 5, "weight": 6, "attended": [7,8], "parse_hs": True, "pic_offset":True},
+    #"University of Arkansas": {"name": 1, "position": 2, "height": 4, "weight": 5, "attended": [8]},
+    "Bloomsburg University": {"name": 1, "position": 2, "height": 3, "weight": 4, "attended": [8,7], "major": 9, "parse_hs": True, "pic_offset": True},
+    "Lafeyette University": {"name": 1, "position": 2, "height": 4, "weight": 5, "attended": [7], "major": 8, "parse_hs": True, "pic_offset": True},
+    "Towson University": {"name": 1, "position": 2, "height": 3, "weight": 4, "attended": [8,7], "major": 9, "parse_hs": True, "pic_offset": True},
+    "Maryville College": {"name": 1, "position": 3, "height": 5, "weight": 6, "attended": [8,7], "major": 9, "parse_hs": True, "pic_offset":True},
+    #"Flagler College": {"name": 2, "position": 3, "height": 5, "weight": 6, "attended": [8], "parse_hs": True, "pic_offset":True},
+    #"Belmont University": {"name": 1, "position": 2, "height": 5, "weight": 6, "attended": [8,9], "pic_offset": True},
+    #"Lynchburg University": {"name": 1, "position": 2, "height": 3, "attended": [5], "parse_hs": True, "pic_offset": True},
+    #"University of Pittsburgh at Johnstown": {"name": 1, "position": 2, "height": 3, "weight": 4, "attended": [7], "parse_hs": True, "pic_offset": True},
+    #"York College of Pennsylvania": {"name": 1, "position": 2, "height": 4, "weight": 5, "attended": [7], "parse_hs": True, "pic_offset": True},
+    #"Oberlin College": {"name": 2, "position": 4, "attended": [5], "parse_hs": True, "pic_offset": True},
+    #"Monmouth University 2025": {"name": 1, "position": 2, "height": 5, "weight": 6, "attended": [7,8], "parse_hs": True, "pic_offset": True},
 }
 
 def convert_height_str(height):
@@ -253,7 +253,8 @@ def scrape_sidearm_roster(
                         "name": name.text.replace("  "," "),
                         "position": position if position else None, # None if blank str
                         "height": convert_height_str(height.text[len("Height")+1:].strip()) if height else None,
-                        "weight": int(weight) if space_ind==-1 else int(weight[:space_ind])
+                        "weight": int(weight) if space_ind==-1 else int(weight[:space_ind]),
+                        "major": None
                     }
                 )
                 data["plays_for"].append((curr_player_id, team_to_id[f"{school} {year}"]))
@@ -420,7 +421,7 @@ def scrape_tables(urls, data, curr_player_id, curr_coach_id, curr_school_id, sch
                         school_to_id,
                         team_to_id
                     )
-                else:
+                """else:
                     print(url + str(year) + url_addition if "season" not in url else f"{url}{year-1}-{str(year)[2:]}"+"#coaches")
                     curr_coach_id = scrape_coach_table(
                         url + str(year) + url_addition if "season" not in url else f"{url}{year-1}-{str(year)[2:]}"+"#coaches",
@@ -429,7 +430,7 @@ def scrape_tables(urls, data, curr_player_id, curr_coach_id, curr_school_id, sch
                         year,
                         curr_coach_id,
                         team_to_id
-                    )
+                    )"""
     return curr_player_id, curr_coach_id, curr_school_id
 
 def get_next_id(json_file):
@@ -470,7 +471,7 @@ def upload_to_neo4j(data, node_names, relationships, rel_to_ents):
 if __name__=="__main__":
     # and then previous schools
     # Pre-run TODO: Fill out team data before running for team_to_id mapping
-    years = [2025, 2026]
+    years = [2025]
     # data not loaded from files, so that deduping is easier
     data = {
         "Player": [],
@@ -536,24 +537,25 @@ if __name__=="__main__":
                     schools.add(sid)"""
     # TODO: merge in normalized player positions and document strategy
     # load files for upload to neo4j
-    """with open("players_temp.json") as file:
+    with open("players.json") as file:
         data["Player"]=json.load(file)
-    with open("schools_temp.json") as school_file:
+    with open("attended.json") as attended_file:
+        data["attended"]=json.load(attended_file)
+    with open("plays_for.json") as plays_for_file:
+        data["plays_for"]=json.load(plays_for_file)
+    """with open("schools_temp.json") as school_file:
         data["School"]=json.load(school_file)
     with open("conferences_temp.json") as conf_file:
         data["Conference"]=json.load(conf_file)
-    with open("attended_temp.json") as attended_file:
-        data["attended"]=json.load(attended_file)
+    
     with open("coaches_temp.json") as file:
         data["Coach"]=json.load(file)
     with open("teams.json") as team_file:
         data["Team"]=json.load(team_file)
     with open("coaches_team.json") as coaches_team_file:
         data["coaches_team"]=json.load(coaches_team_file)
-    with open("plays_for.json") as plays_for_file:
-        data["plays_for"]=json.load(plays_for_file)
     with open("member_of.json") as mem_of_file:
-        data["member_of"]=json.load(mem_of_file)
+        data["member_of"]=json.load(mem_of_file)"""
     
     upload_to_neo4j(
         data,
@@ -565,4 +567,4 @@ if __name__=="__main__":
             "plays_for": ("Player", "Team"),
             "member_of": ("Team", "Conference")
         }
-    )"""
+    )
